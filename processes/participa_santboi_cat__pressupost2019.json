@@ -1,0 +1,435 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "9",
+            "slug": "pressupost2019",
+            "hashtag": "particiPASSI\u00d3",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2018-05-30T16:09:14+02:00",
+            "updatedAt": "2020-10-23T16:36:58+02:00",
+            "startDate": "2018-05-31",
+            "endDate": "2019-12-31",
+            "heroImage": "/uploads/decidim/participatory_process/hero_image/9/imatge_tres_fases_ok.jpg",
+            "bannerImage": "/uploads/decidim/participatory_process/banner_image/9/franja_color.png",
+            "reference": "SB-PART-2018-05-9",
+            "promoted": true,
+            "showMetrics": true,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupost Participatiu 2019"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "#JoParticipoSantBoiGuanya"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>Amb l'objectiu de qu\u00e8 la poblaci\u00f3 gaudeixi d\u2019espais de participaci\u00f3, apoderament i d\u2019incid\u00e8ncia real en tot all\u00f2 que afecta les seves vides, la ciutadania de Sant Boi prodr\u00e0 proposar i decidir sobre 500.000\u20ac en projectes de millores de l'espai p\u00fablic i equipaments  i 50.000\u20ac en projectes socials. </p><p>Entenem per projectes socials aquells que tenen com a objectiu general millorar les condicions de vida de les persones. Es poden adre\u00e7ar a col\u00b7lectius espec\u00edfics (inf\u00e0ncia, joventut, dones...) o a tota la poblaci\u00f3 i poden ser d\u2019\u00e0mbits diferents com la cultura, l\u2019educaci\u00f3, l\u2019esport...</p><p>A trav\u00e9s d'un proc\u00e9s participatiu obert, la ciutadania proposar\u00e0 i escollir\u00e0 quins seran els projectes que es realitzaran durant l\u2019any 2019 a c\u00e0rrec d\u2019aquest pressupost. </p><p>La iniciativa de Pressupost Participatiu s'emmarca en l'estrat\u00e8gia \"particiPASSI\u00d3\" que es va iniciar l'any 2016, per definir un nou model de participaci\u00f3 obert a tothom, m\u00e9s f\u00e0cil, m\u00e9s \u00fatil i amb impacte.</p><h3><strong><u>QUI </u></strong><u>pot participar?</u></h3><p>Totes les<strong> </strong>persones majors de 14 anys empadronades a Sant Boi de Llobregat aix\u00ed com les entitats, empreses i comer\u00e7os vinculats a la ciutat.</p><p><img src=\"http://www.santboi.cat/fotos/decidim/fases.png\" id=\"\" alt=\"\" title=\"\"></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"http://www.santboi.cat/fotos/decidim/fases.png\"></iframe><p><br></p><ul><li><strong>Fase 0: </strong>Disseny i preparaci\u00f3 (1 abril - 30 maig)</li><li><strong>Fase 1:</strong> Recollida de propostes i suports (31 maig - 24 juny de 2018)</li><li><strong>Fase 2:</strong> Validaci\u00f3 t\u00e8cnica de les propostes que han obtingut un m\u00ednim de 5 suports (25 juny - 31 juliol de 2018)</li><li><strong>Fase 3:</strong> Votaci\u00f3 (24 setembre - 21 d'octubre de 2018)</li><li><strong>Fase 4:</strong> Adjudicaci\u00f3 i execuci\u00f3 dels projectes (2019)</li></ul><p><br></p><h3><u><span class=\"ql-cursor\">\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff</span>Quins </u><strong><u>requisits</u></strong><u> han de reunir les propostes?</u></h3><p>Tant les propostes d\u2019inversi\u00f3 per a la millora de l\u2019espai p\u00fablic i els equipaments municipals com les propostes de caire social han de complir, com a m\u00ednim els seg\u00fcents requisits:</p><ul><li>Respondre al b\u00e9 com\u00fa</li><li>Ser compet\u00e8ncia de l\u2019Ajuntament</li><li>Respectar el marc jur\u00eddic i legal existent</li><li>Ser t\u00e8cnicament viables</li><li>No superar el pressupost m\u00e0xim per actuaci\u00f3 (48.000 \u20ac en el cas d\u2019inversions i</li><li>15.000\u20ac en el cas de projectes socials)</li><li>Ser coherents amb els valors i els plans municipals aprovats</li><li>Rebre un m\u00ednim de 5 suports</li></ul><p>Les propostes de caire social tenen, a m\u00e9s a m\u00e9s, uns requisits complementaris que s\u00f3n:</p><ul><li>Les propostes han de comen\u00e7ar i acabar durant l\u2019any 2019. No han de ser propostes amb car\u00e0cter de servei permanent ja que nom\u00e9s es garanteix el seu finan\u00e7ament per a l\u2019any 2019.</li><li>No poden ser propostes restringides als membres d\u2019una entitat o col\u00b7lectiu espec\u00edfic.</li></ul><h6><br></h6><p><br></p><p>Per resoldre qualsevol dubte, pots enviar un correu a<strong> participacio@santboi.cat </strong></p><p>Trucar al<strong> tel\u00e8fon 93 635 12 47 </strong>o enviar un<strong> WhastApp </strong>al<strong> 660 86 95 34</strong></p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>La ciutadania de Sant Boi decidir\u00e0 directament el dest\u00ed d'una part del pressupost municipal 2019.</p><p><br></p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ajuntament de Sant Boi"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "La ciutadania podr\u00e0 decidir el dest\u00ed d'una part del pressupost 2019."
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [
+                {
+                    "id": "13",
+                    "name": "included_participatory_processes"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "34",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Ciutat"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "29",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Marianao"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "30",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Ciutat Cooperativa-Mol\u00ed Nou"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "31",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Centre/Vinyets-Mol\u00ed Vell"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "32",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Camps Blancs/Casablanca"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "33",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Barris de Muntanya"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "28",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Espai P\u00fablic i Equipaments"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Espacio P\u00fablico y Equipamientos"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "27",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Projecte Social"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Proyecto Social"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": {
+                "id": "2",
+                "name": {
+                    "translations": [
+                        {
+                            "locale": "ca",
+                            "text": "Ciutat"
+                        },
+                        {
+                            "locale": "es",
+                            "text": "Ciudad"
+                        }
+                    ]
+                },
+                "children": []
+            },
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Participaci\u00f3 Ciutadana"
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 1
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 0
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 219
+                },
+                {
+                    "name": "projects_count",
+                    "value": 59
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 28
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Totes les persones majors de 14 anys empadronades a Sant Boi de Llobregat aix\u00ed com les empreses i comer\u00e7os vinculats a la ciutat. "
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "/uploads/decidim/attachment/file/210/Fitxa_projectes_socials.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/209/Criteris_execucio_projectes_socials.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/177/Resultats_pressupost_participatiu_2019_-_projectes_socials__2_.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/176/Resultats_pressupost_participatiu_2019_-_projectes_inversions__2_.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/9/Criteris_pressupost_participatiu_Sant_Boi_2019.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "106",
+                    "__typename": "Accountability",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Seguiment Projectes Guanyadors"
+                            },
+                            {
+                                "text": "Seguimiento Proyectos Ganadores"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "65",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "PROJECTES GUANYADORS"
+                            },
+                            {
+                                "text": "PROYECTOS GANADORES"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "17",
+                    "__typename": "Budgets",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "VOTS Projectes Socials"
+                            },
+                            {
+                                "text": "VOTOS Proyectos Sociales"
+                            }
+                        ]
+                    },
+                    "weight": 1
+                },
+                {
+                    "id": "18",
+                    "__typename": "Budgets",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "VOTS Inversions en Espai P\u00fablic i Equipaments"
+                            },
+                            {
+                                "text": "VOTOS inversiones en Espacio P\u00fablico y Equipamientos"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                },
+                {
+                    "id": "19",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes socials"
+                            },
+                            {
+                                "text": "Propuestas sociales"
+                            }
+                        ]
+                    },
+                    "weight": 3
+                },
+                {
+                    "id": "16",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes Espai P\u00fablic i equipaments"
+                            },
+                            {
+                                "text": "Propuestas espacio p\u00fablico y equipamientos"
+                            }
+                        ]
+                    },
+                    "weight": 4
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.21.0",
+            "applicationName": "Multitenant Decideix"
+        }
+    }
+}

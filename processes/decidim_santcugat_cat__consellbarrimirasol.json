@@ -1,0 +1,208 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "16",
+            "slug": "consellbarrimirasol",
+            "hashtag": "decidimmirasol",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2018-02-19T10:03:47+01:00",
+            "updatedAt": "2019-09-20T14:45:05+02:00",
+            "startDate": "2018-02-19",
+            "endDate": "2018-03-25",
+            "heroImage": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/participatory_process/hero_image/16/FACEBOOK.jpg",
+            "bannerImage": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/participatory_process/banner_image/16/Banner_Mirasol.jpg",
+            "reference": "SCG-PART-2018-02-16",
+            "promoted": false,
+            "showMetrics": true,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Decidim el pressupost del Consell de Barri de Mira-sol 2018"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Proc\u00e9s finalitzat. Projectes en execuci\u00f3."
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<h4>Qu\u00e8 \u00e9s el Consell de Barri?</h4><p>\u00c9s l'espai de participaci\u00f3 m\u00e9s proper als ciutadans i ciutadanes. L'objectiu \u00e9s implicar el ve\u00efnat, col\u00b7lectius, associacions i entitats en la millora del funcionament del barri i la seva gesti\u00f3.</p><h4>Qu\u00e8 \u00e9s la partida de lliure disposici\u00f3?</h4><p>El Consell de Barri destina 75.000 euros a projectes presentats per entitats i el ve\u00efnat del barri. D'aquests, 67.000 \u20ac es dediquen a inversions (obres i adquisicions de b\u00e9ns amb una vida \u00fatil superior a 5 anys) i  8.000 \u20ac a despeses ordin\u00e0ries (adquisici\u00f3 de b\u00e9ns fungibles i serveis). </p><h4>Qu\u00e8 podem votar?</h4><p>Es porten a votaci\u00f3 les propostes presentades pel ve\u00efnat i entitats de La Floresta i que han estat validades t\u00e8cnicament. Es poden votar un m\u00e0xim de 5 propostes.</p><h4>Qui pot votar?</h4><p>Poden votar totes les persones majors de 14 anys empadronades a Mira-sol. </p><h4>Quin \u00e9s el calendari?</h4><ul><li>El 19 de febrer comen\u00e7a la fase de difussi\u00f3 dels projectes que es porten a votaci\u00f3</li><li>La setmana del 26 de febrer al 4 de mar\u00e7 es realitza la votaci\u00f3 final.</li></ul><p><br></p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>El Consell de Barri del Mira-sol compta per a l'any 2018 amb una partida de 75.000 Euros per a projectes proposats per  entitats i el ve\u00efnat del barri</p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Consell de Barri de Mira-sol"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>Aquesta p\u00e0gina \u00e9s del proc\u00e9s de votaci\u00f3 del 2018. <a href=\"https://decidim.santcugat.cat/processes/consellbarrimirasol2019\" target=\"_blank\">Consulta i vota els projectes del 2019</a>.</p>"
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupost de lliure disposici\u00f3 del Consell de Barri de Mira-sol"
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [],
+            "scope": {
+                "id": "7",
+                "name": {
+                    "translations": [
+                        {
+                            "locale": "ca",
+                            "text": "Mira-sol"
+                        }
+                    ]
+                },
+                "children": []
+            },
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Oficina de Participaci\u00f3 Ciutadana de l'Ajuntament de Sant Cugat del Vall\u00e8s"
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 1
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 0
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 14
+                },
+                {
+                    "name": "projects_count",
+                    "value": 0
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Tots els ve\u00efns i ve\u00efnes de Mira-sol majors de 14 anys"
+                    }
+                ]
+            },
+            "attachments": [],
+            "components": [
+                {
+                    "id": "70",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Projectes presentats"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "75",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Resultats finals"
+                            }
+                        ]
+                    },
+                    "weight": 100
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.22.0",
+            "applicationName": "Decidim Sant Cugat"
+        }
+    }
+}

@@ -1,0 +1,726 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "4",
+            "slug": "pressupostos2020",
+            "hashtag": "pressupostosSencelles2020",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2019-12-26T15:03:56+00:00",
+            "updatedAt": "2020-02-03T10:19:38+00:00",
+            "startDate": "2019-12-18",
+            "endDate": "2020-03-02",
+            "heroImage": "/uploads/decidim/participatory_process/hero_image/4/presupostos_2020.png",
+            "bannerImage": "/uploads/decidim/participatory_process/banner_image/4/presupostos_2020.png",
+            "reference": "decidim.sencelles.cat-PART-2019-12-4",
+            "promoted": true,
+            "showMetrics": true,
+            "scopesEnabled": false,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupostos Nadalencs / Participatius 2020"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Pressupostos Nadalencs / Participatius 2020"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupostos participatius 2020 - Proc\u00e9s per a decidir part dels pressupostos p\u00fablics de l\u2019any 2020"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Pressupostos participatius 2020 - Proc\u00e9s per a decidir part dels pressupostos p\u00fablics de l\u2019any 2020"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>\u00c9s un proc\u00e9s dins de la tipologia de Pressupostos participatius, titulat com Pressupostos participatius \u00e0gils. Es tracta d'un proc\u00e9s de Pressupostos participatius, del tipus principalment agregatiu (selecci\u00f3 de les propostes m\u00e9s votades), de base digital, mitjan\u00e7ant el sistema Decidim complementada amb l'opci\u00f3 anal\u00f2gica i que t\u00e9 el seg\u00fcent esquema:</p><p><img src=\"https://i.imgur.com/PgGX4wP.png\" class=\"post-image-placeholder\" style=\"font-size: 13px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; white-space: normal; min-height: 242px;\"></p><p>Amb un pressupost total de 101.187 \u20ac per programes i actuaci\u00f3, aquest any incorporem als m\u00e9s petits a la fase de propostes mitjan\u00e7ant l'anomenada \"Carta als Reis d'Orient\" perqu\u00e8 expressin els seus desitjos per Sencelles, per al m\u00f3n i tamb\u00e9 per a ells i la seva fam\u00edlia.</p><p><img src=\"https://i.imgur.com/vWBEgde.png\" style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; white-space: normal; min-height: 421px;\"><img src=\"https://i.imgur.com/JsXQgNg.png\" style=\"font-size: 13px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; white-space: normal; min-height: 424px;\"></p><p>La fase de votaci\u00f3 tindr\u00e0 com a participants els majors de 12 anys empadronats en el Municipi.</p><p>Juntament amb la fase de propostes, que comen\u00e7a el dia 28 de desembre de 2019, estrenarem la plataforma decidim.sencelles.cat, una plataforma visual, m\u00e9s amigable i amb moltes possibilitats per a processos i \u00f2rgans de participaci\u00f3 que es volen impulsar durant tota la legislatura.</p><h5><strong>Participants</strong></h5><h6><strong>Fase de propostes</strong></h6><p>Pot participar qualsevol persona f\u00edsica de 0 a 99 anys que ho desitgi. No cal estar empadronat/da a Sencelles. Si b\u00e9 \u00e9s cert que recomanem tenir una vinculaci\u00f3 suficient amb el municipi per poder saber quines necessitats pot haver-hi, no cal presentar un document per a la fase de propostes. Es pot fer propostes de forma virtual i anal\u00f2gica, en els termes, dates i llocs indicats en l'apartat 3. \"Calendari i metodologia de participaci\u00f3\".</p><h6><strong>Fase de Votaci\u00f3</strong></h6><p>Pot votar qualsevol persona f\u00edsica que: estigui empadronat/da a Sencelles abans del 23/12/2019 i sigui igual o major de 12 anys en aquesta data, per tant nascut abans del 23/12/2007 presentant de forma presencial o introduint de forma virtual el DNI, NIE o Passaport en les dates i llocs indicats a l'apartat 3. \u201cCalendari i metodologia de participaci\u00f3\".</p><h5>Dotaci\u00f3 financera</h5><p><img src=\"https://i.imgur.com/EtCAvVS.png\" style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; white-space: normal; min-height: 560px;\"></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p>\u00c9s un proc\u00e9s dins de la tipologia de Pressupostos participatius, titulat com Pressupostos participatius \u00e0gils. Es tracta d'un proc\u00e9s de Pressupostos participatius, del tipus principalment agregatiu (selecci\u00f3 de les propostes m\u00e9s votades), de base digital, mitjan\u00e7ant el sistema Decidim complementada amb l'opci\u00f3 anal\u00f2gica i que t\u00e9 el seg\u00fcent esquema:</p><p><img src=\"https://i.imgur.com/PgGX4wP.png\" class=\"post-image-placeholder\" style=\"font-size: 13px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; white-space: normal; min-height: 242px;\"></p><p>Amb un pressupost total de 101.187 \u20ac per programes i actuaci\u00f3, aquest any incorporem als m\u00e9s petits a la fase de propostes mitjan\u00e7ant l'anomenada \"Carta als Reis d'Orient\" perqu\u00e8 expressin els seus desitjos per Sencelles, per al m\u00f3n i tamb\u00e9 per a ells i la seva fam\u00edlia.</p><p><img src=\"https://i.imgur.com/vWBEgde.png\" style=\"font-size: 13px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; white-space: normal; min-height: 421px;\">on<img src=\"https://i.imgur.com/JsXQgNg.png\" style=\"font-size: 13px; caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; white-space: normal; min-height: 424px;\"></p><p>La fase de votaci\u00f3 tindr\u00e0 com a participants els majors de 12 anys empadronats en el Municipi.</p><p>Juntament amb la fase de propostes, que comen\u00e7a el dia 28 de desembre de 2019, estrenarem la plataforma decidim.sencelles.cat, una plataforma visual, m\u00e9s amigable i amb moltes possibilitats per a processos i \u00f2rgans de participaci\u00f3 que es volen impulsar durant tota la legislatura.</p><h5>Participants</h5><h6>Fase de propostes</h6><p>Pot participar qualsevol persona f\u00edsica de 0 a 99 anys que ho desitgi. No cal estar empadronat/da a Sencelles. Si b\u00e9 \u00e9s cert que recomanem tenir una vinculaci\u00f3 suficient amb el municipi per poder saber quines necessitats pot haver-hi, no cal presentar un document per a la fase de propostes. Es pot fer propostes de forma virtual i anal\u00f2gica, en els termes, dates i llocs indicats en l'apartat 3. \"Calendari i metodologia de participaci\u00f3\" de les bases..</p><h6>Fase de Votaci\u00f3</h6><p>Pot votar qualsevol persona f\u00edsica que: estigui empadronat/da a Sencelles abans del 23/12/2019 i sigui igual o major de 12 anys en aquesta data, per tant nascut abans del 23/12/2007 presentant de forma presencial o introduint de forma virtual el DNI, NIE o Passaport en les dates i llocs indicats a l'apartat 3. \u201cCalendari i metodologia de participaci\u00f3\".</p><p>Dotaci\u00f3 financera</p><p><img src=\"https://i.imgur.com/EtCAvVS.png\" style=\"caret-color: rgb(0, 0, 0); color: rgb(0, 0, 0); font-family: -webkit-standard; white-space: normal; min-height: 560px;\"></p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><a href=\"https://decidim.sencelles.cat/processes/pressupostos2020/f/28/\" target=\"_blank\"><strong>Vota aqu\u00ed: </strong></a><strong>  En la fase de votaci\u00f3 pot votar qualsevol persona f\u00edsica que: estigui empadronat/da a Sencelles abans del 23/12/2019 i sigui igual o major de 12 anys en aquesta data, per tant nascut abans del 23/12/2007 presentant de forma presencial o </strong><a href=\"https://decidim.sencelles.cat/authorizations\" target=\"_blank\"><strong>introduint de forma virtual </strong></a><strong>el DNI, NIE o Passaport.</strong></p><p>Aquest any hem volgut generar un format una mica diferent del dels dos anys anteriors: hem preparat un proc\u00e9s amb dues fases principals de participaci\u00f3: propostes i votaci\u00f3 que combina el calendari nadalenc amb algunes de les accions. D'aquesta manera, podem comen\u00e7ar abans amb les votacions dels pressupostos participatius pel 2020, per integrar-los com m\u00e9s aviat millor en els pressupostos municipals.</p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p><a href=\"https://decidim.sencelles.cat/processes/pressupostos2020/f/28/\" target=\"_blank\"><strong>Vota aqu\u00ed: </strong></a><strong>  En la fase de votaci\u00f3 pot votar qualsevol persona f\u00edsica que: estigui empadronat/da a Sencelles abans del 23/12/2019 i sigui igual o major de 12 anys en aquesta data, per tant nascut abans del 23/12/2007 presentant de forma presencial o </strong><a href=\"https://decidim.sencelles.cat/authorizations\" target=\"_blank\"><strong>introduint de forma virtual </strong></a><strong>el DNI, NIE o Passaport.</strong></p><p>Aquest any hem volgut generar un format una mica diferent del dels dos anys anteriors: hem preparat un proc\u00e9s amb dues fases principals de participaci\u00f3: propostes i votaci\u00f3 que combina el calendari nadalenc amb algunes de les accions. D'aquesta manera, podem comen\u00e7ar abans amb les votacions dels pressupostos participatius pel 2020, per integrar-los com m\u00e9s aviat millor en els pressupostos municipals.</p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "El pressupost total destinat \u00e9s de 101.187,00 \u20ac per programes i actuacions dins de l'any 2020, en les quanties detallades en les bases."
+                    },
+                    {
+                        "locale": "es",
+                        "text": "El pressupost total destinat \u00e9s de 101.187,00 \u20ac per programes i actuacions dins de l'any 2020, en les quanties detallades en les bases."
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "36",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Seguretat ciutadana"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "37",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Educaci\u00f3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "38",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Serveis municipals"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "45",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Urbanisme"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "42",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Promoci\u00f3 econ\u00f2mica"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "41",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Salut"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "40",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Cooperaci\u00f3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "43",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Comunicaci\u00f3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "44",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Transpar\u00e8ncia"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "39",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Serveis socials"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "35",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Medi ambient i benestar animal"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "13",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Ruberts - Cultura"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "11",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Sencelles poble i Jornets - Cultura"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "12",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Biniali - Cultura"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "17",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Ruberts - Fires i festes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "16",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Biniali - Fires i festes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "15",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Sencelles poble i Jornets - Fires i festes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "19",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Biniali Mercat"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "20",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Sencelles poble i Jornets Mercat"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "1",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Altres (Sense partida pressupost\u00e0ria en aquesta convocat\u00f2ria) No passaran a la fase de votaci\u00f3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Altres (Sense partida pressupost\u00e0ria en aquesta convocat\u00f2ria) No passaran a la fase de votaci\u00f3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "3",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "3- Joventut (Tot el municipi )"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "3- Joventut (Tot el municipi )"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "2",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "2- Esports (Tot el municipi )"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "2- Esports (Tot el municipi )"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "18",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "5- Mercat"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "5- Mercat"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "10",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "1-Cultura"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "1-Cultura"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "14",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "4- Fires i festes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "4- Fires i festes"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Participaci\u00f3n Ciudadana y Transparencia"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Participaci\u00f3n Ciudadana y Transparencia"
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 1
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 2
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 69
+                },
+                {
+                    "name": "projects_count",
+                    "value": 0
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Propostas: Qualsevol persona f\u00edsica de 0 a 99 anys que ho desitgi. Votacions: Majors de 12 anys empadronats en el Municipi."
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Propostas: Qualsevol persona f\u00edsica de 0 a 99 anys que ho desitgi. Votacions: Majors de 12 anys empadronats en el Municipi."
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "/uploads/decidim/attachment/file/4/CartaReyes_imprenta-total.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "28",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Vota"
+                            },
+                            {
+                                "text": "Vota"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "14",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes"
+                            },
+                            {
+                                "text": "Propuestas"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                },
+                {
+                    "id": "13",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Trobades"
+                            },
+                            {
+                                "text": "Encuentros"
+                            }
+                        ]
+                    },
+                    "weight": 4
+                },
+                {
+                    "id": "15",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Bases"
+                            },
+                            {
+                                "text": "Bases"
+                            }
+                        ]
+                    },
+                    "weight": 4
+                },
+                {
+                    "id": "22",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Cartes als Reis"
+                            },
+                            {
+                                "text": "Cartes als Reis"
+                            }
+                        ]
+                    },
+                    "weight": 7
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.21.0",
+            "applicationName": "Participa.cloud"
+        }
+    }
+}

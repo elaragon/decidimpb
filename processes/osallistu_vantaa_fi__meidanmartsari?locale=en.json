@@ -1,0 +1,9 @@
+{
+    "data": {
+        "participatoryProcess": null,
+        "decidim": {
+            "version": "0.22.0",
+            "applicationName": "Vantaa Decidim"
+        }
+    }
+}

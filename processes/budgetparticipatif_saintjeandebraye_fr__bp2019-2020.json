@@ -1,0 +1,88 @@
+{
+    "errors": [
+        {
+            "message": "Field 'participatoryProcess' is missing required arguments: id",
+            "locations": [
+                {
+                    "line": 1,
+                    "column": 3
+                }
+            ],
+            "fields": [
+                "query",
+                "participatoryProcess"
+            ]
+        },
+        {
+            "message": "Field 'participatoryProcess' doesn't accept argument 'slug'",
+            "locations": [
+                {
+                    "line": 1,
+                    "column": 24
+                }
+            ],
+            "fields": [
+                "query",
+                "participatoryProcess",
+                "slug"
+            ]
+        },
+        {
+            "message": "Field 'showMetrics' doesn't exist on type 'ParticipatoryProcess'",
+            "locations": [
+                {
+                    "line": 1,
+                    "column": 146
+                }
+            ],
+            "fields": [
+                "query",
+                "participatoryProcess",
+                "showMetrics"
+            ]
+        },
+        {
+            "message": "Field 'linkedParticipatorySpaces' doesn't exist on type 'ParticipatoryProcess'",
+            "locations": [
+                {
+                    "line": 1,
+                    "column": 550
+                }
+            ],
+            "fields": [
+                "query",
+                "participatoryProcess",
+                "linkedParticipatorySpaces"
+            ]
+        },
+        {
+            "message": "Field 'categories' doesn't exist on type 'ParticipatoryProcess'",
+            "locations": [
+                {
+                    "line": 1,
+                    "column": 588
+                }
+            ],
+            "fields": [
+                "query",
+                "participatoryProcess",
+                "categories"
+            ]
+        },
+        {
+            "message": "Field 'callToActionText' doesn't exist on type 'ParticipatoryProcessStep'",
+            "locations": [
+                {
+                    "line": 1,
+                    "column": 974
+                }
+            ],
+            "fields": [
+                "query",
+                "participatoryProcess",
+                "steps",
+                "callToActionText"
+            ]
+        }
+    ]
+}

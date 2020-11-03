@@ -1,0 +1,1171 @@
+
+<!DOCTYPE html>
+<html lang="fi" class="no-js">
+  <head>
+    <title>OmaStadi</title>
+    <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="BhO6+TMR9s0d/p5bnOI/60pU/xZ5YGNRsyJkOYrgkGb3wo1JFZVzg3sYdvAViRR719Evhj5dIYy+FgW3iAzrUQ==" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="alternate" href="/?locale=fi" hreflang="fi">
+  <link rel="alternate" href="/?locale=en" hreflang="en">
+  <link rel="alternate" href="/?locale=sv" hreflang="sv">
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@helviestinta">
+<meta name="twitter:title" content="OmaStadi">
+<meta name="twitter:description" content="OmaStadi on Helsingin tapa toteuttaa osallistuvaa budjetointia. Helsinki käyttää 8,8 miljoonaa euroa kaupunkilaisten ideoiden toteuttamiseen. Ideoista kehitetään yhdessä ehdotuksia, joista kaupunkilaiset äänestävät ja kaupunki toteuttaa eniten ääniä saaneet ehdotukset.">
+<meta name="twitter:image" content="https://omastadi.hel.fi/assets/helsinki-social/omastadi-wide-4affa5cf60c1f9d06da2c0c0818a72f6d9cfc987b69b696ac08ccb75087c6dbc.jpg">
+
+<meta property="og:url" content="https://omastadi.hel.fi/">
+<meta property="og:type" content="article">
+<meta property="og:title" content="OmaStadi">
+<meta property="og:description" content="OmaStadi on Helsingin tapa toteuttaa osallistuvaa budjetointia. Helsinki käyttää 8,8 miljoonaa euroa kaupunkilaisten ideoiden toteuttamiseen. Ideoista kehitetään yhdessä ehdotuksia, joista kaupunkilaiset äänestävät ja kaupunki toteuttaa eniten ääniä saaneet ehdotukset.">
+<meta property="og:image" content="https://omastadi.hel.fi/assets/helsinki-social/omastadi-wide-4affa5cf60c1f9d06da2c0c0818a72f6d9cfc987b69b696ac08ccb75087c6dbc.jpg">
+
+
+<link rel="stylesheet" media="all" href="https://omastadi.hel.fi/assets/application-13895fbdc39d150589555d5f16bcce2b4e54a6a08d665ede309bd8901da182ff.css" />
+
+<style media="all">
+:root{
+  --alert: #fd4f00;--alert-rgb: 253,79,0;--primary: #0072c6;--primary-rgb: 0,114,198;--success: #009246;--success-rgb: 0,146,70;--warning: #ffc61e;--warning-rgb: 255,198,30;--highlight: #be6400;--highlight-rgb: 190,100,0;--secondary: #9fc9eb;--secondary-rgb: 159,201,235;--highlight-alternative: #ff5731;--highlight-alternative-rgb: 255,87,49;
+}</style>
+
+<script src="https://omastadi.hel.fi/assets/decidim/confirm-cbbfe7bcec12274b569d5cd7760712fddec96774b87852e60f16fd88527be55b.js"></script>
+<script src="https://omastadi.hel.fi/assets/application-64db2ba992822b939c6957958813b8be52d1d7c64b81e0cb6f52858fe328af8b.js"></script>
+<script src="https://omastadi.hel.fi/assets/datepicker-locales/foundation-datepicker.fi-cb44fcf96400ad4a87d478b738a1e57244684e54dc5fc45333f9b0deb130c1eb.js"></script>
+
+
+
+
+
+
+  </head>
+
+  <body>
+    <div class="wrapper-default">
+      
+        <div class="cookie-warning">
+    Tämä sivusto käyttää evästeitä. Jatkamalla tämän sivuston käyttöä hyväksyt selaimeesi asettamamme evästeet. <a title="Lue lisää evästeistä" target="_blank" href="/pages/terms-and-conditions">Lue lisää evästeistä</a>.
+    <div class="cookie-warning__action">
+      <form class="button_to" method="get" action="/cookies/accept" data-remote="true"><button class="button tiny cookie-bar__button" type="submit">Hyväksyn</button></form>
+    </div>
+  </div>
+
+      
+    </div>
+
+    
+<div class="off-canvas-wrapper wrapper-default">
+  <div class="off-canvas-wrapper-inner" data-off-canvas-wrapper>
+    <div class="off-canvas position-right hide-for-large" data-position="right"
+         data-transition="overlap"
+         id="offCanvas" data-off-canvas>
+
+      <!-- Close button -->
+      <button class="close-button"
+              aria-label="Sulje valikko" type="button"
+              data-close>
+        <span aria-hidden="true">&times;</span>
+      </button>
+
+      <!-- Menu -->
+      <div class="hide-for-large" data-set="nav-holder">
+
+      </div>
+      <div class="hide-for-large usermenu-off-canvas-holder"
+           data-set="nav-login-holder"></div>
+
+      <div class="hide-for-large"
+           data-set="nav-user-holder"></div>
+
+      <div class="main-nav__link hide-for-large"
+           data-set="nav-extra-holder">
+      </div>
+    </div>
+    <div class="off-canvas position-right hide-for-large" data-position="right"
+         data-transition="overlap"
+         id="offCanvasLanguage" data-off-canvas
+         aria-hidden="true">
+
+         <!-- Close button -->
+         <button class="close-button"
+                 aria-label="Sulje valikko" type="button"
+                 data-close>
+           <span aria-hidden="true">&times;</span>
+         </button>
+
+         <div class="topbar__language-menu hide-for-large">
+           <ul class="menu">
+    <li class="language-nav-link language-nav-link-current" lang="fi">
+      <span class="language-nav-separator" aria-hidden="true"></span>
+      <a rel="nofollow" data-method="post" href="/locale?locale=fi">Suomi</a>
+    </li>
+    <li class="language-nav-link" lang="en">
+      <span class="language-nav-separator" aria-hidden="true"></span>
+      <a rel="nofollow" data-method="post" href="/locale?locale=en">English</a>
+    </li>
+    <li class="language-nav-link" lang="sv">
+      <span class="language-nav-separator" aria-hidden="true"></span>
+      <a rel="nofollow" data-method="post" href="/locale?locale=sv">Svenska</a>
+    </li>
+</ul>
+
+         </div>
+    </div>
+
+    <div class="off-canvas-content" data-off-canvas-content>
+      <div class="footer-separator">
+        <!--separates the footer from the rest of the page,
+             creates a sticky footer-->
+        <!-- Topbar -->
+        <div class="header">
+          <div class="top-bar">
+            <a class="skip" href="/#content">Siirry sisältöön</a>
+            <div class="row column">
+              <div class="top-bar-left">
+                <div class="site-bar">
+                  <div class="logo-wrapper">
+                    <a href="/">
+                      <div class="hki-city-logo">
+    <img alt="Helsinki" class="logo-default" src="https://omastadi.hel.fi/assets/helsinki/helsinki-logo-bus-01fcaa9d4d772412c672216412f4e940fec731288ffcf3f62c505f084a61c786.svg" />
+</div>
+
+</a>                  </div>
+                  <div class="site-title">
+                    <a href="/">
+                      <div class="site-title-main">OmaStadi</div>
+                      <div class="site-title-sub">2020-2021</div>
+</a>                  </div>
+                  <div class="topbar__language-menu show-for-large">
+                      <div class="language-choose">
+    <ul class="menu">
+    <li class="language-nav-link language-nav-link-current" lang="fi">
+      <span class="language-nav-separator" aria-hidden="true"></span>
+      <a rel="nofollow" data-method="post" href="/locale?locale=fi">Suomi</a>
+    </li>
+    <li class="language-nav-link" lang="en">
+      <span class="language-nav-separator" aria-hidden="true"></span>
+      <a rel="nofollow" data-method="post" href="/locale?locale=en">English</a>
+    </li>
+    <li class="language-nav-link" lang="sv">
+      <span class="language-nav-separator" aria-hidden="true"></span>
+      <a rel="nofollow" data-method="post" href="/locale?locale=sv">Svenska</a>
+    </li>
+</ul>
+
+  </div>
+
+                  </div>
+                </div>
+              </div>
+              <div class="top-bar-right">
+                <div class="hide-for-large topbar__menu">
+                  <ul class="menu">
+                    <li>
+                      <button type="button" class="button-language" data-toggle="offCanvasLanguage">
+                        <span class="text-small">
+                          fi
+                        </span>
+                        <svg aria-label="Menu" role="img" class="icon--globe icon"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-globe"></use></svg>
+                      </button>
+                    </li>
+                      <li>
+                        <button type="button" class="button-menu" data-toggle="offCanvas">
+                          <span class="button-text">Menu</span>
+                          <svg aria-hidden="true" class="icon--menu icon"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-menu"></use></svg>
+                        </button>
+                      </li>
+                  </ul>
+                </div>
+                <div class="show-for-large" data-set="nav-holder">
+                  <div class="top-bar-links js-append">
+                      <div class="top-bar-links__item">
+                        <a href="/pages">Ohjeet</a>
+                      </div>
+                      <div class="top-bar-links__item">
+                        <a class="sign-in-link" href="/users/sign_in">Kirjaudu</a>
+                      </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="flash callout alert" data-closable="" role="alert">Avoimet datatiedostot eivät ole vielä käytettävissä, yritä uudelleen muutaman minuutin kuluttua.<button name="button" type="button" class="close-button" data-close="" aria-label="Piilota ilmoitus"><span aria-hidden="true">&times;</span></button></div>
+
+          
+        </div>
+
+        <main id="content">
+          
+      
+  
+  <div class="extended hero" style="background-image:url(https://omastadi.hel.fi/uploads/decidim/hero_homepage_content_block/background_image/1/big_omastadi-header-03-web.jpg);">
+  
+    <div class="hero__container hero__empty"></div>
+  
+  <div class="koro koro-pulse"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40"><defs><pattern id="koro_pulse-28thho9h" x="0" y="0" width="106" height="44" patternUnits="userSpaceOnUse"><path d="M0,40h106v-40c-27.03 0-27.03 34.217-53 34.217s-27.03-34.217-53-34.217z" /></pattern></defs><rect fill="url(#koro_pulse-28thho9h)" width="100%" height="40" /></svg></div>
+</div>
+
+  
+  <div class="extended page-section">
+    <div class="row columns">
+      <div class="phases-navigation sub-navigation">
+        <button class="sub-navigation-opener hide-for-mediumlarge" data-toggle="phases_navigation">
+          Navigoi vaiheita
+        </button>
+        <ol id="phases_navigation" class="sub-navigation-content phases-list" data-toggler=".active">
+          
+          
+            
+            <li class="phases-list-item phases-list-item-past">
+              <div class="phases-list-item-phase">
+                <span class="phases-list-item-number">1</span>
+              </div>
+              <div class="phases-list-item-info">
+                <a href="/processes/osbu-2020/f/183/">
+                  <p class="phases-list-item-title">
+                    Ideointi
+                  </p>
+                </a>
+                <div class="phases-list-item-date">5.10.2020 - 25.10.2020</div>
+              </div>
+            </li>
+          
+            
+            <li class="phases-list-item phases-list-item-current">
+              <div class="phases-list-item-phase">
+                <span class="phases-list-item-number">2</span>
+              </div>
+              <div class="phases-list-item-info">
+                <a href="/processes/osbu-2020/f/180">
+                  <p class="phases-list-item-title">
+                    Yhteiskehittäminen
+                  </p>
+                </a>
+                <div class="phases-list-item-date">Tammikuu-huhtikuu 2021</div>
+              </div>
+            </li>
+          
+            
+            <li class="phases-list-item">
+              <div class="phases-list-item-phase">
+                <span class="phases-list-item-number">3</span>
+              </div>
+              <div class="phases-list-item-info">
+                <a href="/processes/osbu-2020/f/181">
+                  <p class="phases-list-item-title">
+                    Äänestys
+                  </p>
+                </a>
+                <div class="phases-list-item-date">Syksyllä 2021</div>
+              </div>
+            </li>
+          
+            
+            <li class="phases-list-item">
+              <div class="phases-list-item-phase">
+                <span class="phases-list-item-number">4</span>
+              </div>
+              <div class="phases-list-item-info">
+                <a href="/processes/osbu-2020/f/182">
+                  <p class="phases-list-item-title">
+                    Toteutus
+                  </p>
+                </a>
+                <div class="phases-list-item-date">2022</div>
+              </div>
+            </li>
+          
+        </ol>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="extended home-section">
+  <div class="hero__container">
+    <div class="row">
+      <div class="columns large-8 large-centered">
+        <div class="text-center">
+          <h1 class="heading1">
+            Unelmien Helsinki tehdään yhdessä. OmaStadi.
+          </h1>
+          <div class="lead">
+            <p>OmaStadi on Helsingin tapa toteuttaa osallistuvaa budjetointia. Helsinki käyttää 8,8 miljoonaa euroa kaupunkilaisten ideoiden toteuttamiseen. Ideoista kehitetään yhdessä ehdotuksia, joista kaupunkilaiset äänestävät ja kaupunki toteuttaa eniten ääniä saaneet ehdotukset.</p>
+            <p><a href="/pages">Lue lisää OmaStadista &raquo;</a></p>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="extended hero bg-primary">
+  <div class="hero__container">
+    <div class="row">
+      <div class="columns small-centered large-10">
+        <h2 class="heading2 hero-heading">Ideointivaihe on nyt päättynyt</h2>
+        <div class="lead">
+          <p>Tutustu ideoihin ja seuraaviin vaiheisiin.</p>
+        </div>
+      </div>
+    </div>
+    <div class="row columns">
+      <a class="button large secondary" href="/processes/osbu-2020/f/183/ideas">Tutustu ideoihin</a>
+
+      <a class="button large secondary hollow" href="pages/mika-on-omastadi">Tutustu ohjeisiin</a>
+
+    </div>
+  </div>
+  <div class="koro koro-pulse"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40"><defs><pattern id="koro_pulse-pomaa9dz" x="0" y="0" width="106" height="44" patternUnits="userSpaceOnUse"><path d="M0,40h106v-40c-27.03 0-27.03 34.217-53 34.217s-27.03-34.217-53-34.217z" /></pattern></defs><rect fill="url(#koro_pulse-pomaa9dz)" width="100%" height="40" /></svg></div>
+</div>
+
+  <div class="extended hero">
+  <div class="hero__container">
+    <div class="row">
+      <div class="columns small-centered large-10">
+        
+          <div class="hero-section-image">
+            <img alt="Ideoista kehitetään ehdotuksia keväällä 2021" src="https://omastadi.hel.fi/uploads/decidim/image_section_homepage_content_block/image/27/big_omastadi-banneri-1.jpg" />
+          </div>
+        
+        <h2 class="heading2 hero-heading">
+          Ideoista kehitetään ehdotuksia keväällä 2021
+        </h2>
+
+        <div class="row">
+          <div class="columns small-centered large-10">
+            <div class="lead">
+              <p>Kaupunki esitarkastaa ideat OmaStadi-kriteerien mukaan. Tarkastuksen jälkeen tulee yhteiskehittämisvaihe, jossa hyväksytyistä ideoista tehdään ehdotuksia. Ehdotukset tehdään työpajoissa kaupungin eri alueilla ja omastadi.hel.fi-sivustolla.</p>
+              <p><a href="pages/yhteiskehittaminen">Lue lisää yhteiskehittämisestä &raquo;</a></p>
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="extended home-section bg-secondary">
+  <div class="hero__container">
+    <div class="row columns">
+      <h2 class="heading2 hero-heading">Poimintoja ideoista</h2>
+
+      <div class="card-slider center">
+        
+          <div class="card-slide-content">
+            
+  <div class="card card--idea ">
+  
+  <a href="/processes/osbu-2020/f/183/ideas/439">
+  
+    <img class="card__image" alt="Kontulan Lampipuistoon alppiruusupuisto" src="https://omastadi.hel.fi/uploads/decidim/category/category_image/176/card_www_teemat_omastadi_puistot_luonto.jpg" />
+  
+</a>
+
+  <div class="card__category card__category--213" style="background-color:#c2a251;">
+  <span class="card__category__icon" aria-hidden="true"><img alt="Puistot ja luonto - Istutukset ja kasvillisuus" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/176/icon-puistot-luonto.svg" /></span>
+  <span class="card__category__name">Istutukset ja kasvillisuus</span>
+</div>
+
+  <div class="card__content">
+    <div class="card__header">
+  
+    <a class="card__link" href="/processes/osbu-2020/f/183/ideas/439">
+      <div class="card__title">
+        Kontulan Lampipuistoon alppiruusupuisto
+      </div>
+    </a>
+  
+
+  
+</div>
+
+
+    <div class="card__text">
+      <div class="card__text--paragraph">
+        
+        Kontulan Lampipuistossa on Haagan alppiruusupuistoon verrattavat Rhodorendronpensaat, joiden...
+      </div>
+    </div>
+  </div>
+
+  <div class="card__info">
+  
+    <div class="card__info__item">
+      Itäinen
+    </div>
+  
+
+  <div class="card__info__item text-right">
+    #439
+  </div>
+</div>
+
+  <div class="card__status">
+  <ul class="card-data">
+    
+      <li class="card-data__item creation_date_status">
+        16.10.2020
+      </li>
+    
+      <li class="card-data__item favoriting_count_status">
+        <div id="favoriting_count_idea_439" class="favorites-icon-wrapper">
+  <span title="2 ihmistä on lisännyt tämän suosikkeihinsa" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
+    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
+    <span aria-hidden="true">2</span>
+    <span class="show-for-sr">2 ihmistä on lisännyt tämän suosikkeihinsa</span>
+  </span>
+</div>
+
+      </li>
+    
+      <li class="card-data__item comments_count_status">
+        <a aria-label="Kommenttien määrä: 0" title="Kommenttien määrä" href="/processes/osbu-2020/f/183/ideas/439"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
+ 
+0
+</span></a>
+      </li>
+    
+  </ul>
+</div>
+
+  
+  <div class="card__footer">
+    <div class="card__support">
+      <div class="card__support__data">
+        
+      </div>
+      
+        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/183/ideas/439">Näytä idea</a>
+      
+    </div>
+  </div>
+
+
+</div>
+
+
+
+          </div>
+        
+          <div class="card-slide-content">
+            
+  <div class="card card--idea ">
+  
+  <a href="/processes/osbu-2020/f/183/ideas/1816">
+  
+    <img class="card__image" alt="Kunnallisten suihkutilojen rajattu vapaa käyttö" src="https://omastadi.hel.fi/uploads/decidim/category/category_image/173/card_www_teemat_omastadi_terveys_hyvinvointi.jpg" />
+  
+</a>
+
+  <div class="card__category card__category--195" style="background-color:#fd4f00;">
+  <span class="card__category__icon" aria-hidden="true"><img alt="Terveys ja hyvinvointi - Yhdenvertaisuus ja tasa-arvo" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/173/icon-terveys-hyvinvointi.svg" /></span>
+  <span class="card__category__name">Yhdenvertaisuus ja tasa-arvo</span>
+</div>
+
+  <div class="card__content">
+    <div class="card__header">
+  
+    <a class="card__link" href="/processes/osbu-2020/f/183/ideas/1816">
+      <div class="card__title">
+        Kunnallisten suihkutilojen rajattu vapaa käyttö
+      </div>
+    </a>
+  
+
+  
+</div>
+
+
+    <div class="card__text">
+      <div class="card__text--paragraph">
+        
+        Esimerkiksi uimahallien ja maauimaloiden allasalueiden sulkeuduttua, suihkualueelle tulisi päästä...
+      </div>
+    </div>
+  </div>
+
+  <div class="card__info">
+  
+    <div class="card__info__item">
+      Helsingin yhteinen
+    </div>
+  
+
+  <div class="card__info__item text-right">
+    #1816
+  </div>
+</div>
+
+  <div class="card__status">
+  <ul class="card-data">
+    
+      <li class="card-data__item creation_date_status">
+        25.10.2020
+      </li>
+    
+      <li class="card-data__item favoriting_count_status">
+        <div id="favoriting_count_idea_1816" class="favorites-icon-wrapper">
+  <span title="Kukaan ei ole vielä lisännyt tätä suosikkeihinsa" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
+    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
+    <span aria-hidden="true">0</span>
+    <span class="show-for-sr">Kukaan ei ole vielä lisännyt tätä suosikkeihinsa</span>
+  </span>
+</div>
+
+      </li>
+    
+      <li class="card-data__item comments_count_status">
+        <a aria-label="Kommenttien määrä: 0" title="Kommenttien määrä" href="/processes/osbu-2020/f/183/ideas/1816"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
+ 
+0
+</span></a>
+      </li>
+    
+  </ul>
+</div>
+
+  
+  <div class="card__footer">
+    <div class="card__support">
+      <div class="card__support__data">
+        
+      </div>
+      
+        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/183/ideas/1816">Näytä idea</a>
+      
+    </div>
+  </div>
+
+
+</div>
+
+
+
+          </div>
+        
+          <div class="card-slide-content">
+            
+  <div class="card card--idea ">
+  
+  <a href="/processes/osbu-2020/f/183/ideas/960">
+  
+    <img class="card__image" alt="Koirapuisto Munkkivuoreen" src="https://omastadi.hel.fi/uploads/decidim/ideas/attachment/file/2657/thumbnail_osallistava-2.png" />
+  
+</a>
+
+  <div class="card__category card__category--198" style="background-color:#cccccc;">
+  <span class="card__category__icon" aria-hidden="true"><img alt="Liikunta ja ulkoilu - Liikuntapaikat" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/174/icon-liikunta-ulkoilu.svg" /></span>
+  <span class="card__category__name">Liikuntapaikat</span>
+</div>
+
+  <div class="card__content">
+    <div class="card__header">
+  
+    <a class="card__link" href="/processes/osbu-2020/f/183/ideas/960">
+      <div class="card__title">
+        Koirapuisto Munkkivuoreen
+      </div>
+    </a>
+  
+
+  
+</div>
+
+
+    <div class="card__text">
+      <div class="card__text--paragraph">
+        
+        Munkkivuoressa on upea kaupunkiluonto ja hienot ulkoilumahdollisuudet. Kaupunginosa onkin...
+      </div>
+    </div>
+  </div>
+
+  <div class="card__info">
+  
+    <div class="card__info__item">
+      Läntinen
+    </div>
+  
+
+  <div class="card__info__item text-right">
+    #960
+  </div>
+</div>
+
+  <div class="card__status">
+  <ul class="card-data">
+    
+      <li class="card-data__item creation_date_status">
+        22.10.2020
+      </li>
+    
+      <li class="card-data__item favoriting_count_status">
+        <div id="favoriting_count_idea_960" class="favorites-icon-wrapper">
+  <span title="Yksi ihminen on lisännyt tämän suosikikseen" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
+    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
+    <span aria-hidden="true">1</span>
+    <span class="show-for-sr">Yksi ihminen on lisännyt tämän suosikikseen</span>
+  </span>
+</div>
+
+      </li>
+    
+      <li class="card-data__item comments_count_status">
+        <a aria-label="Kommenttien määrä: 1" title="Kommenttien määrä" href="/processes/osbu-2020/f/183/ideas/960"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
+ 
+1
+</span></a>
+      </li>
+    
+  </ul>
+</div>
+
+  
+  <div class="card__footer">
+    <div class="card__support">
+      <div class="card__support__data">
+        
+      </div>
+      
+        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/183/ideas/960">Näytä idea</a>
+      
+    </div>
+  </div>
+
+
+</div>
+
+
+
+          </div>
+        
+          <div class="card-slide-content">
+            
+  <div class="card card--idea ">
+  
+  <a href="/processes/osbu-2020/f/183/ideas/211">
+  
+    <img class="card__image" alt="Aikuisten Liikunta ja pelipiste Malminkartanoon ym." src="https://omastadi.hel.fi/uploads/decidim/category/category_image/174/card_www_teemat_omastadi_liikunta_ulkoilu.jpg" />
+  
+</a>
+
+  <div class="card__category card__category--198" style="background-color:#cccccc;">
+  <span class="card__category__icon" aria-hidden="true"><img alt="Liikunta ja ulkoilu - Liikuntapaikat" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/174/icon-liikunta-ulkoilu.svg" /></span>
+  <span class="card__category__name">Liikuntapaikat</span>
+</div>
+
+  <div class="card__content">
+    <div class="card__header">
+  
+    <a class="card__link" href="/processes/osbu-2020/f/183/ideas/211">
+      <div class="card__title">
+        Aikuisten Liikunta ja pelipiste Malminkartanoon ym.
+      </div>
+    </a>
+  
+
+  
+</div>
+
+
+    <div class="card__text">
+      <div class="card__text--paragraph">
+        
+        Pingispöytä ja muita liikuntamahdollisuuksia Esim. Nostelutukit, Leuanvetotanko,...
+      </div>
+    </div>
+  </div>
+
+  <div class="card__info">
+  
+    <div class="card__info__item">
+      Läntinen
+    </div>
+  
+
+  <div class="card__info__item text-right">
+    #211
+  </div>
+</div>
+
+  <div class="card__status">
+  <ul class="card-data">
+    
+      <li class="card-data__item creation_date_status">
+        20.10.2020
+      </li>
+    
+      <li class="card-data__item favoriting_count_status">
+        <div id="favoriting_count_idea_211" class="favorites-icon-wrapper">
+  <span title="2 ihmistä on lisännyt tämän suosikkeihinsa" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
+    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
+    <span aria-hidden="true">2</span>
+    <span class="show-for-sr">2 ihmistä on lisännyt tämän suosikkeihinsa</span>
+  </span>
+</div>
+
+      </li>
+    
+      <li class="card-data__item comments_count_status">
+        <a aria-label="Kommenttien määrä: 1" title="Kommenttien määrä" href="/processes/osbu-2020/f/183/ideas/211"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
+ 
+1
+</span></a>
+      </li>
+    
+  </ul>
+</div>
+
+  
+  <div class="card__footer">
+    <div class="card__support">
+      <div class="card__support__data">
+        
+      </div>
+      
+        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/183/ideas/211">Näytä idea</a>
+      
+    </div>
+  </div>
+
+
+</div>
+
+
+
+          </div>
+        
+          <div class="card-slide-content">
+            
+  <div class="card card--idea ">
+  
+  <a href="/processes/osbu-2020/f/183/ideas/378">
+  
+    <img class="card__image" alt="Ulkokuntosali Mansikkamäen kentälle" src="https://omastadi.hel.fi/uploads/decidim/category/category_image/174/card_www_teemat_omastadi_liikunta_ulkoilu.jpg" />
+  
+</a>
+
+  <div class="card__category card__category--198" style="background-color:#cccccc;">
+  <span class="card__category__icon" aria-hidden="true"><img alt="Liikunta ja ulkoilu - Liikuntapaikat" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/174/icon-liikunta-ulkoilu.svg" /></span>
+  <span class="card__category__name">Liikuntapaikat</span>
+</div>
+
+  <div class="card__content">
+    <div class="card__header">
+  
+    <a class="card__link" href="/processes/osbu-2020/f/183/ideas/378">
+      <div class="card__title">
+        Ulkokuntosali Mansikkamäen kentälle
+      </div>
+    </a>
+  
+
+  
+</div>
+
+
+    <div class="card__text">
+      <div class="card__text--paragraph">
+        
+        Keski-Pasilan rakentuessa Pasila kasvaa valtavasti. Kaikista tärkein ulkoilupaikka on...
+      </div>
+    </div>
+  </div>
+
+  <div class="card__info">
+  
+    <div class="card__info__item">
+      Keskinen
+    </div>
+  
+
+  <div class="card__info__item text-right">
+    #378
+  </div>
+</div>
+
+  <div class="card__status">
+  <ul class="card-data">
+    
+      <li class="card-data__item creation_date_status">
+        14.10.2020
+      </li>
+    
+      <li class="card-data__item favoriting_count_status">
+        <div id="favoriting_count_idea_378" class="favorites-icon-wrapper">
+  <span title="Yksi ihminen on lisännyt tämän suosikikseen" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
+    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
+    <span aria-hidden="true">1</span>
+    <span class="show-for-sr">Yksi ihminen on lisännyt tämän suosikikseen</span>
+  </span>
+</div>
+
+      </li>
+    
+      <li class="card-data__item comments_count_status">
+        <a aria-label="Kommenttien määrä: 1" title="Kommenttien määrä" href="/processes/osbu-2020/f/183/ideas/378"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
+ 
+1
+</span></a>
+      </li>
+    
+  </ul>
+</div>
+
+  
+  <div class="card__footer">
+    <div class="card__support">
+      <div class="card__support__data">
+        
+      </div>
+      
+        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/183/ideas/378">Näytä idea</a>
+      
+    </div>
+  </div>
+
+
+</div>
+
+
+
+          </div>
+        
+          <div class="card-slide-content">
+            
+  <div class="card card--idea ">
+  
+  <a href="/processes/osbu-2020/f/183/ideas/60">
+  
+    <img class="card__image" alt="Vieraslajin torjuntaa Vantaanjoen alueella. " src="https://omastadi.hel.fi/uploads/decidim/category/category_image/176/card_www_teemat_omastadi_puistot_luonto.jpg" />
+  
+</a>
+
+  <div class="card__category card__category--214" style="background-color:#c2a251;">
+  <span class="card__category__icon" aria-hidden="true"><img alt="Puistot ja luonto - Siisteys" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/176/icon-puistot-luonto.svg" /></span>
+  <span class="card__category__name">Siisteys</span>
+</div>
+
+  <div class="card__content">
+    <div class="card__header">
+  
+    <a class="card__link" href="/processes/osbu-2020/f/183/ideas/60">
+      <div class="card__title">
+        Vieraslajin torjuntaa Vantaanjoen alueella. 
+      </div>
+    </a>
+  
+
+  
+</div>
+
+
+    <div class="card__text">
+      <div class="card__text--paragraph">
+        
+        Vantaanjoen varrelle on tehty mittavia uusia ja peruskorjattavia puistohankkeita mm. Pukinmäen...
+      </div>
+    </div>
+  </div>
+
+  <div class="card__info">
+  
+    <div class="card__info__item">
+      Koillinen
+    </div>
+  
+
+  <div class="card__info__item text-right">
+    #60
+  </div>
+</div>
+
+  <div class="card__status">
+  <ul class="card-data">
+    
+      <li class="card-data__item creation_date_status">
+        06.10.2020
+      </li>
+    
+      <li class="card-data__item favoriting_count_status">
+        <div id="favoriting_count_idea_60" class="favorites-icon-wrapper">
+  <span title="2 ihmistä on lisännyt tämän suosikkeihinsa" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
+    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
+    <span aria-hidden="true">2</span>
+    <span class="show-for-sr">2 ihmistä on lisännyt tämän suosikkeihinsa</span>
+  </span>
+</div>
+
+      </li>
+    
+      <li class="card-data__item comments_count_status">
+        <a aria-label="Kommenttien määrä: 0" title="Kommenttien määrä" href="/processes/osbu-2020/f/183/ideas/60"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
+ 
+0
+</span></a>
+      </li>
+    
+  </ul>
+</div>
+
+  
+  <div class="card__footer">
+    <div class="card__support">
+      <div class="card__support__data">
+        
+      </div>
+      
+        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/183/ideas/60">Näytä idea</a>
+      
+    </div>
+  </div>
+
+
+</div>
+
+
+
+          </div>
+        
+      </div>
+
+      <p><a class="button large primary" href="/processes/osbu-2020/f/183/ideas">Näytä kaikki ideat</a></p>
+
+    </div>
+  </div>
+</div>
+
+  <div class="extended hero">
+  <div class="hero__container">
+    <div class="row">
+      <div class="columns small-centered large-10">
+        <h2 class="heading2 hero-heading">Tarvitsetko apua?</h2>
+        <div class="lead">
+          
+        </div>
+      </div>
+    </div>
+    <div class="row columns">
+      <a class="button large primary" href="/pages">Tutustu ohjeisiin</a>
+
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+        </main>
+
+      </div><!-- /.footer-separator -->
+
+      
+<div class="footer-wrapper">
+    <div class="koro koro-basic"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="20"><defs><pattern id="koro_basic-6e4yhae5" x="0" y="0" width="106" height="24" patternUnits="userSpaceOnUse"><path d="M0,20h106v-20c-25.97 0-26.5 13.78-52.47 13.78s-27.03-13.78-53.53-13.78z" /></pattern></defs><rect fill="url(#koro_basic-6e4yhae5)" width="100%" height="20" /></svg></div>
+  <div class="main-footer">
+    <div class="row">
+      <div class="medium-4 large-2 column">
+        <a class="main-footer__badge" href="https://www.hel.fi">
+            <img alt="Helsinki" class="logo-default" src="https://omastadi.hel.fi/assets/helsinki/helsinki-logo-bus-01fcaa9d4d772412c672216412f4e940fec731288ffcf3f62c505f084a61c786.svg" />
+</a>      </div>
+      <div class="medium-4 large-3 column">
+        <div class="main__footer__contact">
+          <h4>Yhteystiedot</h4>
+          <p><a href="mailto:omastadi@hel.fi?subject=Yhteydenotto:%20OmaStadi">omastadi@hel.fi</a></p>
+        </div>
+      </div>
+
+        <div class="medium-4 large-3 column">
+            <div class="main__footer__nav">
+              <ul class="footer-nav">
+
+                  <li>
+                    <a href="/pages/yhteystiedot">
+                      Yhteystiedot&nbsp;&raquo;
+</a>                  </li>
+                  <li>
+                    <a href="/pages/accessibility">
+                      Saavutettavuus&nbsp;&raquo;
+</a>                  </li>
+                  <li>
+                    <a href="/pages/terms-and-conditions">
+                      Käyttöehdot&nbsp;&raquo;
+</a>                  </li>
+              </ul>
+            </div>
+        </div>
+
+      <div class="medium-12 large-4 column">
+          <div class="main__footer__processes">
+              <p>
+                Tutustu OmaStadi 2018-2019 kierrokseen
+                <br>
+                <a href="/processes">
+                  Näytä kaikki prosessit&nbsp;&raquo;
+</a>              </p>
+          </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="mini-footer">
+    <div class="row">
+      <div class="medium-6 column">
+        <a rel="license" class="cc-badge"
+           href="http://creativecommons.org/licenses/by-sa/4.0/"
+           target="_blank">
+          <img alt="Creative Commons License" src="https://omastadi.hel.fi/assets/decidim/cc-badge-7df25c24ce76b70a8e6a8918d35bd19a4e7c5676256370997d22a9c7039dab0c.png" /></a>
+        Verkkosivusto luotu <a target="_blank" href="https://github.com/decidim/decidim">vapaan ohjelmiston</a> avulla.
+      </div>
+    </div>
+  </div>
+</div>
+
+    </div><!--/.off-canvas-content-->
+  </div><!--/.off-canvas-wrapper-inner-->
+</div><!--/.off-canvas-wrapper-->
+
+    <div class="small reveal confirm-reveal" id="confirm-modal" aria-hidden="true" role="dialog" aria-labelledby="confirm-modal-title" data-reveal data-multiple-opened="true">
+  <div class="reveal__header">
+    <h2 class="reveal__title" id="confirm-modal-title">Vahvista</h2>
+    <button class="close-button" data-close aria-label="Sulje ikkuna"
+      type="button">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+  <div class="confirm-content">
+    <div class="confirm-modal-content"></div>
+  </div>
+  <div class="confirm-modal-footer reveal__footer">
+    <div class="buttons button--double">
+      <a class="button" role="button" href="#" data-confirm-ok aria-label="OK">OK</a>
+      <a class="button clear" role="button" href="#" data-confirm-cancel aria-label="Peruuta">Peruuta</a>
+    </div>
+  </div>
+</div>
+
+    <div class="reveal" id="loginModal" data-reveal>
+  <div class="reveal__header">
+    <h3 class="reveal__title">Kirjaudu sisään</h3>
+    <button class="close-button" data-close aria-label="Close modal"
+      type="button">
+      <span aria-hidden="true">&times;</span>
+    </button>
+  </div>
+
+    <div class="row">
+  <div class="columns medium-8 medium-centered">
+    <div class="text-center">
+      <p>
+        Kirjaudu sisään sähköpostisoittella ja itse valitsemallasi salasanalla.
+      </p>
+    </div>
+
+    <div class="register-form-wrapper" id="session_modal" data-toggler=".is-hidden">
+      <form class="register-form new_user" id="new_user" novalidate="novalidate" data-abide="true" data-live-validate="true" data-validate-on-blur="true" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="wkR4DPaidz0BIhzpwq6W0ujnnRgKlRr7KalVACEBdkn8nyrJk6+ITPYo9VCOQOkzJQm4Xwc9lETesh+7yx97UQ==" />
+        <div>
+          <div class="field">
+            <label for="user_email">Sähköposti<input autofocus="autofocus" type="email" value="" name="user[email]" id="user_email" /></label>
+          </div>
+          <div class="field">
+            <label for="user_password">Salasana<input autocomplete="off" type="password" name="user[password]" id="user_password" /></label>
+          </div>
+        </div>
+        <div class="actions">
+          <button type="submit" name="commit" class="button expanded">Kirjaudu sisään</button>
+        </div>
+</form>        <p class="text-center">
+          <a class="sign-up-link" href="/users/sign_up">Rekisteröidy</a>
+        </p>
+      <p class="text-center">
+        <a href="/users/password/new">Unohditko salasanasi?</a>
+      </p>
+    </div>
+  </div>
+</div>
+
+      <div class="row">
+        <div class="columns">
+          <span class="register__separator">
+            <span class="register__separator__text">Tai</span>
+          </span>
+        </div>
+      </div>
+      <div class="row">
+    <div class="columns">
+          <div class="social-register text-center">
+    <h3 class="h5 margin-bottom-1">
+      Kirjaudu  ilman tunnistautumista
+    </h3>
+    <p>
+      Voit kirjautua sisään myös sosiaalisen median tileillä (mm. Facebook, Yle, Google) Tunnistamo-palvelussa tai aiemmin luomillasi Omastadi –tunnuksilla.
+    </p>
+    <a class="button hollow large primary button--tunnistamo" rel="nofollow" data-method="post" href="/users/auth/tunnistamo">
+      Kirjaudu Tunnistamo-palvelun avulla
+</a>  </div>
+
+          <span class="register__separator">
+            <span class="register__separator__text">Tai</span>
+          </span>
+          <div class="social-register text-center">
+      <h3 class="h5 margin-bottom-1">
+        Kirjaudu ja tunnistaudu sähköisellä tunnistautumisella
+      </h3>
+      <p>
+        Kirjautuminen omastadi.hel.fi -palveluun pankkitunnuksella tai mobiilivarmenteella. Peruskoulun oppilaat voivat kirjautua myös Wilma-tunnuksilla.
+      </p>
+
+        <a class="button hollow large primary button--suomifi" rel="nofollow" data-method="post" href="/users/auth/suomifi">
+          Pankkitunnukset tai mobiilivarmenne
+</a>          <br>
+        <a class="button hollow large primary button--mpassid" rel="nofollow" data-method="post" href="/users/auth/mpassid">
+          Oppilaiden Wilma-tunnukset
+</a>  </div>
+
+    </div>
+  </div>
+
+</div>
+
+    <div class="reveal" id="authorizationModal" data-reveal></div>
+
+    
+<script>
+  Decidim.config.set({"icons_path":"https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg","messages":{"selfxssWarning":{"title":"Seis!","description":"Tämä selainominaisuus on tarkoitettu kehittäjille ja sinun ei tule liittää tähän mitään tekstiä, jos sinulta on pyydetty sellaista. Tekstin liittäminen tähän ikkunaan voi vaarantaa yksityisyytesi ja antaa hakkereille pääsyn tilillesi."}}});
+  Decidim.InputCharacterCounter.configureMessages({"charactersAtLeast":{"one":"vähintään %count% kirjain","other":"vähintään %count% kirjainta"},"charactersLeft":{"one":"%count% merkki jäljellä","other":"%count% merkkiä jäljellä"}});
+  Decidim.ExternalLink.configureMessages({"externalLink":"Ulkoinen linkki"});
+  Decidim.FormValidator.configureMessages({"correctErrors":"Lomakkeella on virheitä, korjaa ne jatkaaksesi."});
+</script>
+
+    <script type="text/javascript">
+var _saq = _saq || [];
+
+(function() {
+
+ var account = 'omastadi_hel_fi';
+ var page_name = '';
+ var section = '';
+
+var snbscript = document.createElement('script');
+ snbscript.type = 'text/javascript';
+ snbscript.async = true;
+ snbscript.src = ('https:' == document.location.protocol ? 'https://' : 'http://')
+ + 'eu1.snoobi.com/snoop.php?tili=' + account
+ + '&page_name=' + page_name
+ + '&section=' + section;
+
+var s = document.getElementsByTagName('script')[0];
+ s.parentNode.insertBefore(snbscript, s);
+ })();
+</script>
+
+
+  </body>
+</html>

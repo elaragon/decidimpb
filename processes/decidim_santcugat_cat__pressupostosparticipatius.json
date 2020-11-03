@@ -1,0 +1,345 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "106",
+            "slug": "pressupostosparticipatius",
+            "hashtag": "pressupostparticipatiu",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2020-01-30T12:29:01+01:00",
+            "updatedAt": "2020-07-14T13:25:26+02:00",
+            "startDate": "2020-02-03",
+            "endDate": "2021-03-31",
+            "heroImage": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/participatory_process/hero_image/106/imatge_sala_premsa.jpg",
+            "bannerImage": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/participatory_process/banner_image/106/banner_super_definitiu.jpg",
+            "reference": "SCG-PART-2020-01-106",
+            "promoted": true,
+            "showMetrics": true,
+            "scopesEnabled": false,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupostos Participatius 2020"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Des de casa, millorem el nostre entorn!"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<h4>\r\n<img data-original-height=\"965\" data-original-width=\"1600\" src=\"https://1.bp.blogspot.com/-W7BNDxURIOA/Xr13APHlY5I/AAAAAAAADyY/r5NU3Qhoq_g5YaV0qUCaSbJGmpg-VnwKwCLcBGAsYHQ/s640/imatge%2Bsala%2Bpremsa.jpg\" width=\"640\" height=\"386\" border=\"0\">\r\n\r\n</h4><p>Amb els Pressupostos Participatius de Barri, el ve\u00efnat de Sant Cugat podem decidir el futur de 2,5 M\u20ac corresponents als pressupostos municipals del 2020 i el 2021. L'objectiu \u00e9s que, entre tots i totes, puguem valorar qu\u00e8 necessita el nostre barri, quins s\u00f3n els temes estrat\u00e8gics que volem prioritzar els propers anys i quins s\u00f3n els projectes que poden donar resposta a aquestes prioritats. </p><h4><strong>Com puc participar?</strong></h4><p>Els Pressupostos Participatius de Barri permeten al ve\u00efnat dir la seva de diferents maneres i en diferents moments: participant en la diagnosi del barri, validant les l\u00ednies estrat\u00e8giques, fent propostes o, ja al final del proc\u00e9s, votant aquells projectes que ens semblin m\u00e9s interessants i necessaris per al nostres barris. </p><h4><strong>Qui pot participar?</strong></h4><p>Tots els ve\u00efns, ve\u00efnes majors de 14 anys i totes les entitats.</p><h4><strong>Quants diners decidim?</strong></h4><p>En total, podem decidir el futur de 2.550.000\u20ac, corresponents als pressupostos municipals del 2020 i el 2021. D'aquests diners, cada barri decidir\u00e0 el futur de m\u00e9s de 400.000 \u20ac. </p><h4><strong>En quin barri participo?</strong></h4><p>Sant Cugat s'estructura en 6 consells de barri. Aqu\u00ed tens la llista de barris de cadascun perqu\u00e8 s\u00e0pigues quin \u00e9s el teu:</p><ul><li>Nucli Antic (Nucli i Eixample) </li><li>Centre Oest (Can Trabal, Golf,&nbsp;Costa del Golf, Can Maj\u00f3, Pla de la Pagesa,&nbsp;El Colomer, Parc Central, Sant Dom\u00e8nec est i oest, Volpelleres,&nbsp;La Guinardera,&nbsp;Arxiu, Can Gatxet, Can Sant Joan, Galliners, Can Barata)</li><li>Centre Est (Monestir \u2013 Sant Francesc,&nbsp;Coll Fav\u00e0,&nbsp;Can Mag\u00ed, Roquetes, Torreblanca, Can Bell)</li><li>Mira-sol (Mira-sol,&nbsp;Can Rabella, Can Cabassa, Mas Gener, Ca n\u2019Ametller, Can Mates Oest, Can Mates Est, Bell Indret, Col\u00f2nia Oller)</li><li>La Floresta (La Floresta, Mas Fortuny,&nbsp;&nbsp;Sol i Aire, &nbsp;Sant Medir)</li><li>Les Planes (Les Planes, Can Borrull, Can Cort\u00e9s)</li></ul><h4><br></h4><h3 style=\"color: rgb(32, 39, 52);\"><img src=\"https://1.bp.blogspot.com/-U049xrI4ECI/XjGQ75kYlnI/AAAAAAAADI8/lZ_OKFoP6yAp1PaoUOf9FYjJByark0RzQCLcBGAsYHQ/s640/mapa%2Bbarris%2Bdecidim%2B2.bmp\" width=\"540\" height=\"640\"></h3><h3><br></h3><p>I si no tens clar quin \u00e9s el teu barri, <a href=\"https://www.santcugat.cat/web/consulta-de-serveis-per-adreca\" target=\"_blank\">utilitza el buscador </a>o envia'ns un correu a <a href=\"mailto:participacio@santcugat.cat\" target=\"_blank\">participacio@santcugat.cat</a></p><h4><strong>Com seguir\u00e0 el proc\u00e9s?</strong></h4><p>Totes les propostes presentades <strong>es validaran</strong> a nivell t\u00e8cnic i amb el suport del Consell de Barri. I totes les que siguin v\u00e0lides, es debatran i treballaran en tallers participatius despr\u00e9s de l'estiu. </p><p>L'objectiu \u00e9s poder fer la votaci\u00f3 de propostes a principis de l'any que ve, tot i que aquest calendari s'adaptar\u00e0 en tot moment a la situaci\u00f3 d'emerg\u00e8ncia sanit\u00e0ria provocada pel coronavirus.</p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>Aquest any hem engegat una nova edici\u00f3 dels <strong>Pressupostos Participatius de Barri</strong> per decidir amb tu com volem que sigui el nostre barri i com invertim una part del pressupost municipal. </p><p>Ja hem fet la diagnosi de cada un dels barris, hem decidit quins temes volem prioritzar al nostre barri els propers anys i hem presentat fins a <strong>815 propostes</strong>! Ara cal validar-les per veure si s\u00f3n viables a nivell t\u00e8cnic i econ\u00f2mic i si encaixen amb alguna de les l\u00ednies estrat\u00e8giques que hem acordat a cada barri.</p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ajuntament de Sant Cugat"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "El dest\u00ed d'una part del pressupost municipal."
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "A trav\u00e9s d'un proc\u00e9s de diagnosi, propostes i votaci\u00f3 ciutadana"
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [
+                {
+                    "id": "289",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "293",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "296",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "488",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "489",
+                    "name": "included_participatory_processes"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "376",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Persones"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "377",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Ciutat"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "378",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Planeta"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Oficina de Participaci\u00f3 Ciutadana"
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 2
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 7
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 0
+                },
+                {
+                    "name": "projects_count",
+                    "value": 0
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Tots els ve\u00efns i ve\u00efnes de Sant Cugat"
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/759/CENTRE_-_PROPOSTES_V%C3%80LIDES_SESSI%C3%93_DELIBERACI%C3%93.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/700/Informe_participaci%C3%B3_primera_fase_Pressupostos_Participatius_Barri_2020.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/521/NORMES_FUNCIONAMENT_PRESSUPOSTOS_BARRISS_20-21_revisi%C3%B3_COVID_19.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/536/6._Programa_Nucli_Antic_s%C3%ADntesi%2Bannex.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/534/3._Programa_Centre_Est_s%C3%ADntesi%2Bannex.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/535/4._Programa_Centre_Oest_s%C3%ADntesi%2Bannex.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/531/1._Programa_MiraSol_s%C3%ADntesi%2Bannex.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/532/5._Programa_La_Floresta_s%C3%ADntesi%2Bannex.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/533/2._Programa_Les_Planes_s%C3%ADntesi%2Bannex.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "325",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Diagnosi i Programa de Barri"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "279",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Properes sessions"
+                            }
+                        ]
+                    },
+                    "weight": 1000
+                },
+                {
+                    "id": "387",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Participa al teu barri!"
+                            }
+                        ]
+                    },
+                    "weight": 1000
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.22.0",
+            "applicationName": "Decidim Sant Cugat"
+        }
+    }
+}

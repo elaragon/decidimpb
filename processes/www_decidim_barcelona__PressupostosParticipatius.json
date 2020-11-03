@@ -1,0 +1,1886 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "79",
+            "slug": "PressupostosParticipatius",
+            "hashtag": "DecidimPressupostos",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2020-01-31T10:25:08+01:00",
+            "updatedAt": "2020-10-13T18:31:53+02:00",
+            "startDate": "2020-02-02",
+            "endDate": "2023-05-31",
+            "heroImage": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/participatory_process/hero_image/79/banner_pressupuestos.jpg",
+            "bannerImage": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/participatory_process/banner_image/79/big_Imatge_1841x495_1.jpg",
+            "reference": "BCN-PART-2020-01-79",
+            "promoted": false,
+            "showMetrics": false,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupostos participatius de Barcelona"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Presupuestos participativos de Barcelona"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Proc\u00e9s participatiu Pla d'Inversions Municipals de Districte"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Proceso participativo Plan de Inversiones Municipales de Distrito"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<iframe class=\"ql-video\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/3EcUrFct7dg?showinfo=0\" frameborder=\"0\"></iframe><p>Aquests 75 milions es reparteixen entre els districtes de la ciutat seguint <a href=\"https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5734/Normativa_Pressupost_participatiu.pdf\" target=\"_blank\"><strong>criteris redistributius</strong></a>.</p><p>Aix\u00ed doncs, la dotaci\u00f3 econ\u00f2mica del pressupost per a cada districte queda de la seg\u00fcent manera:</p><p><img src=\"https://i.imgur.com/z2qU5Ol.png\" alt=\"\"></p><p>Gr\u00e0cies als pressupostos participatius, els ve\u00efns i les ve\u00efnes podeu presentar, escollir i decidir quins projectes d\u2019inversi\u00f3 voleu per al vostre barri o districte.</p><h2>Qu\u00e8 \u00e9s un projecte d\u2019inversi\u00f3?</h2><p>Una inversi\u00f3 \u00e9s all\u00f2 que l\u2019Ajuntament pot construir o adquirir i que \u00e9s perdurable en el temps. Es poden presentar als Pressupostos participatius projectes que abordin necessitats concretes d\u2019un barri o districte, i que es trobin en una de les seg\u00fcents categories:</p><p><a href=\"https://i.imgur.com/rwbQ9Xj.jpg\" target=\"_blank\"><img alt=\"Pressupostos participatius\" src=\"https://i.imgur.com/rwbQ9Xj.jpg\" class=\"post-image-placeholder\" style=\"min-height: 413.164px; opacity: 1;\" original-title=\"\"></a></p><ul><li>Rehabilitaci\u00f3, reforma, millora o dotaci\u00f3 tecnol\u00f2gica o de mobiliari d'equipaments p\u00fablics o infraestructures p\u00fabliques existents (per exemple: adequaci\u00f3 d\u2019un espai a un casal de gent gran o millora d\u2019espais d\u2019una escola).</li><li>Construcci\u00f3 d'equipaments de dimensions redu\u00efdes (per exemple: pista de b\u00e0squet, pista de petanca, zona de cal\u00b7list\u00e8nia o creaci\u00f3 de punts verds).</li><li>Reurbanitzaci\u00f3 i millora d'espais p\u00fablics (per exemple: accions de reurbanitzaci\u00f3 i millora de carrers, places, parcs i zones verdes o creaci\u00f3 d'horts urbans i d'\u00e0rees d'esbarjo de gossos)</li><li>Infraestructures i mobiliari urb\u00e0 (per exemple: instal\u00b7laci\u00f3 de bancs, fonts o papereres, millora o instal\u00b7laci\u00f3 de l'enllumenat, creaci\u00f3 o millora de carrils bici o instal\u00b7laci\u00f3 d'escales mec\u00e0niques).</li><li>Aplicacions o infraestructures tecnol\u00f2giques (per exemple: desenvolupar aplicacions, programari i webs d'\u00e0mbit de districte o adquisici\u00f3 d'una impressora 3D).</li></ul><p>Els projectes han de tenir un import d\u2019entre 50.000 \u20ac i el 30% del pressupost assignat al districte \u2013 fins a un m\u00e0xim de 2 M \u20ac.</p><p>A m\u00e9s, els projectes han de complir una s\u00e8rie de requisits: han de ser de compet\u00e8ncia municipal, han de respectar la normativa vigent, etc. Pots consultar aquests requisits a l'apartat de<strong> </strong><a href=\"https://www.decidim.barcelona/pages/faqscriteriospim\" target=\"_blank\"><strong>preguntes freq\u00fcents</strong></a><strong>. </strong></p><p>Si no tens clar si la teva idea pot convertir-se en un projecte d\u2019inversi\u00f3, consulta <a href=\"https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5733/Ajuda_pressupostos_participatius_i_PAM_2020-2023.pdf\" target=\"_blank\"><strong>aquest document</strong></a><strong>.</strong></p><h2>Com pots participar-hi?</h2><p><strong>*\tEl plantejament i el nou calendari de les fases del proc\u00e9s es concretaran quan es recuperi l'activitat habitual a la ciutat</strong></p><p><strong><u>Proposa i Debat</u></strong></p><p>Entre el 3 de febrer i el 22 de maig -termini ampliat-, qualsevol entitat o persona, independentment de la seva edat, domicili, proced\u00e8ncia o situaci\u00f3 administrativa pot:</p><ul><li><strong>Presentar un projecte</strong> d'inversi\u00f3 pels districtes de la ciutat, b\u00e9 sigui a les trobades presencials, als punts m\u00f2bils de participaci\u00f3 o mitjan\u00e7ant <a href=\"https://www.decidim.barcelona/processes/PressupostosParticipatius/f/3768/\" target=\"_blank\"><strong>aquest enlla\u00e7</strong></a>*.</li><li>Participar en les diferents trobades. Consulta el <a href=\"https://www.decidim.barcelona/processes/PressupostosParticipatius/f/3769\" target=\"_blank\"><strong>calendari de trobades</strong></a><strong>.</strong></li></ul><p><strong>* Cada persona o entitat podr\u00e0 presentar un m\u00e0xim de tres projectes d\u2019inversi\u00f3.</strong></p><p>Els projectes presentats s'aniran incorporant a l'apartat de projectes perqu\u00e8 qualsevol persona els pugui consultar. Si disposes d'un perfil de participant a decidim.barcelona tamb\u00e9 podr\u00e0s:</p><ul><li>Comentar un&nbsp;projecte o, simplement, expressar l'acord o el desacord amb la proposta o els comentaris fets per altres persones.</li></ul><p>Si encara no disposes d'un perfil de participant, t'expliquem com te'l pots crear <a href=\"https://www.decidim.barcelona/pages/crear-compte\" target=\"_blank\"><strong>en aquesta p\u00e0gina</strong></a>.</p><p><strong><u>Prioritza</u></strong></p><p>Un cop tancada la recollida de propostes de projectes d'inversi\u00f3, qualsevol persona major de 14 anys i empadronada a Barcelona, podr\u00e0:</p><ul><li>Donar suport als projectes presentats que consideri. Els projectes amb m\u00e9s suports recollits a la plataforma decidim.barcelona es consideraran com a prioritaris i passaran a la fase final de votaci\u00f3.</li></ul><p><strong><u>Vota</u></strong></p><p>Durant la fase de votaci\u00f3, qualsevol persona major de 14 anys i empadronada a Barcelona, podr\u00e0:</p><ul><li>Votar els projectes prioritzats de com a m\u00e0xim 2 districtes de la ciutat: on est\u00e0 empadronat i un altre a escollir.</li></ul><h2>Les fases del proc\u00e9s dels Pressupostos Participatius</h2><p><strong>*\tEl plantejament i el nou calendari de les fases del proc\u00e9s es concretaran quan es recuperi l'activitat habitual a la ciutat</strong></p><p>A l'igual que qualsevol altre proc\u00e9s participatiu que es desenvolupa a la ciutat, els Pressupostos Participatius tenen una s\u00e8rie de fases que pots consultar m\u00e9s a fons <a href=\"https://www.decidim.barcelona/processes/PressupostosParticipatius/steps\" target=\"_blank\"><strong>aqu\u00ed</strong></a><strong>.</strong></p><p>Donada l'especificitat d'aquest proc\u00e9s participatiu, els pressupostos participatius disposen d'una <a href=\"https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5734/Normativa_Pressupost_participatiu.pdf\" target=\"_blank\"><strong>normativa reguladora</strong></a><strong> </strong>pr\u00f2pia.</p><p>Els pressupostos de ciutat formen part d\u2019un proc\u00e9s m\u00e9s ampli per definir les prioritats, els objectius i les actuacions dels propers quatre anys. El PAM, el <a href=\"https://www.decidim.barcelona/processes/PAM2020\" target=\"_blank\"><strong>Pla d'Actuaci\u00f3 Municipal</strong></a> per al conjunt de la ciutat, i els deu plans espec\u00edfics per als districtes (PAD), s\u00f3n documents que s\u2019elaboren amb la participaci\u00f3 de la ciutadania i que es porten a participaci\u00f3 en les mateixes dates i espais que els pressupostos.</p><h2>Tens m\u00e9s dubtes?</h2><p>Consulta les <a href=\"https://www.decidim.barcelona/pages/faqspim\" target=\"_blank\"><strong>preguntes m\u00e9s freq\u00fcents</strong></a>.</p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<iframe class=\"ql-video\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/3EcUrFct7dg?showinfo=0\" frameborder=\"0\"></iframe><p>Estos 75 millones se reparten entre los distritos de la ciudad siguiendo <a href=\"https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5734/Normativa_Pressupost_participatiu.pdf\" target=\"_blank\"><strong>criterios redistributivos</strong></a>.</p><p><strong>Seg\u00fan estos criterios, la dotaci\u00f3n econ\u00f3mica del presupuesto para cada distrito queda de la siguiente manera:</strong></p><p><a class=\"zoom\" title=\"\" href=\"https://i.imgur.com/z2qU5Ol.png\"><img alt=\"\" src=\"https://i.imgur.com/z2qU5Ol.png\" class=\"post-image-placeholder\" style=\"max-width: 100%; min-height: 275px;\"></a></p><p>Gracias a los Presupuestos Participativos, los vecinos y vecinas pod\u00e9is presentar, escoger y decidir que proyectos de inversi\u00f3n quer\u00e9is para vuestro barrio o distrito.</p><h2>\u00bfQu\u00e9 es un proyecte de inversi\u00f3n?</h2><p>Una inversi\u00f3n es aquello que el Ayuntamiento puede construir o adquirir y que es perdurable en el tiempo. Se pueden presentar a los Presupuestos Participativos proyectos que aborden necesidades concretas de un barrio o distrito, y que se encuentren entre una de las siguientes categor\u00edas:</p><p><a href=\"https://i.imgur.com/5uaGpYv.png\" target=\"_blank\"><img src=\"https://i.imgur.com/5uaGpYv.png\" alt=\"\"></a></p><ul><li>Rehabilitaci\u00f3n, reforma, mejora o dotaci\u00f3n tecnol\u00f3gica o de mobiliario de equipamientos p\u00fablicos o infraestructuras p\u00fablicas existentes (por ejemplo, adecuaci\u00f3n de un espacio en un casal de personas mayores o mejora de espacios de una escuela).</li><li>Construcci\u00f3n de equipamientos de dimensiones reducidas (por ejemplo: pista de baloncesto, pista de petanca, zona de calistenia o creaci\u00f3n de puntos verdes).</li><li>Reurbanizaci\u00f3n y mejora de espacios p\u00fablicos (por ejemplo: acciones de reurbanizaci\u00f3n y mejora de calles, plazas, parques y zonas verdes o creaci\u00f3n de huertos urbanos y de \u00e1reas de recreo para perros.</li><li>Infraestructuras y mobiliario urbano (por ejemplo: instalaci\u00f3n de bancos, fuentes o papeleras, mejora o instalaci\u00f3n o de alumbrado, creaci\u00f3n o mejora de carriles bici o instalaci\u00f3n de escaleras mec\u00e1nicas).</li><li>Aplicaciones o infraestructuras tecnol\u00f3gicas (por ejemplo: desarrollar aplicaciones, </li><li><em>software</em> y webs de \u00e1mbito de distrito o de adquisici\u00f3n de una impresora 3D).</li></ul><p>El coste de los proyectos presentados debe ser de entre 50.000 \u20ac y el 30% del presupuesto asignado al distrito -hasta un m\u00e1ximo de 2M\u20ac.</p><p>Adem\u00e1s los proyectos deben cumplir una serie de requisitos: deben ser competencia municipal, deben respetar la normativa vigente, etc. Puedes consultar estos requisitos en el apartado de <a href=\"https://www.decidim.barcelona/pages/faqscriteriospim\" target=\"_blank\"><strong>preguntas frecuentes</strong></a>.</p><p>Si no tienes claro si tu idea se puede convertir en un proyecto de inversi\u00f3n, consulta <a href=\"https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5733/Ajuda_pressupostos_participatius_i_PAM_2020-2023.pdf\" target=\"_blank\"><strong>este documento</strong></a>.</p><h2>\u00bfC\u00f3mo puedes participar?</h2><p><strong>*\tEl planteamiento y el nuevo calendario de las fases del proceso se concretaran cuando se recupere la actividad habitual de la ciudad </strong></p><p><strong><u>Prop\u00f3n y Debate</u></strong></p><p>Entre el 3 de febrero y el 22 de mayo - plazo ampliado-, cualquier entidad o persona, independientemente de su edad, domicilio, procedencia o situaci\u00f3n administrativa puede:</p><ul><li><strong>Presentar un proyecto</strong> de inversi\u00f3n para los distritos de la ciudad, bien sea en los encuentros presenciales, en los puntos m\u00f3viles de participaci\u00f3n o siguiendo <a href=\"https://www.decidim.barcelona/processes/PressupostosParticipatius/f/3768/\" target=\"_blank\"><strong>este enlace</strong></a>*.</li><li>Participar en los diferentes encuentros. Consulta el <a href=\"https://www.decidim.barcelona/processes/PressupostosParticipatius/f/3769\" target=\"_blank\"><strong>calendario de encuentros</strong></a>.</li></ul><p><strong>* Cada persona o entidad puede presentar un m\u00e1ximo de tres proyectos de inversi\u00f3n</strong>.</p><p>Los proyectos presentados se ir\u00e1n incorporando en el apartado de proyectos para que cualquier persona los pueda consultar. Si dispones de un perfil de participante en decidim.barcelona, adem\u00e1s podr\u00e1s:</p><ul><li>Comentar un proyecto o, simplemente, expresar el acuerdo o desacuerdo con la propuesta o los comentarios hechos por otras personas.</li></ul><p>Si a\u00fan no dispones de un perfil de participante, te explicamos como lo puedes crear <a href=\"https://www.decidim.barcelona/pages/crear-compte\" target=\"_blank\"><strong>en esta p\u00e1gina</strong></a>.</p><p><strong><u>Prioriza</u></strong></p><p>Una vez finalizada la recogida de propuestas de proyectos de inversi\u00f3n, cualquier persona mayor de 14 a\u00f1os y empadronada en Barcelona, podr\u00e1:</p><ul><li>Dar apoyo a los proyectos presentados que considere. Los proyectos con m\u00e1s apoyos recogidos en la plataforma decidim.barcelona se consideraran como prioritarios y pasaran a la fase final de votaci\u00f3n.</li></ul><p><u>Vota</u></p><p>Durante la fase de votaci\u00f3n, cualquier persona mayor de 14 a\u00f1os y empadronada en Barcelona, podr\u00e1:</p><ul><li>Votar los proyectos priorizados de como m\u00e1ximo 2 distritos de la ciudad: en el que se est\u00e1 empadronado y otro a escoger.</li></ul><h2>Las fases del proceso de los Presupuestos Participativos</h2><p><strong>*\tEl planteamiento y el nuevo calendario de las fases del proceso se concretaran cuando se recupere la actividad habitual de la ciudad.</strong></p><p>Al igual que cualquier otro proceso participativo que se desarrolla en la ciudad, los Presupuestos Participativos tiene una serie de fases que puedes consultar en profundidad <a href=\"https://www.decidim.barcelona/processes/PressupostosParticipatius/steps\" target=\"_blank\"><strong>aqu\u00ed</strong></a>.</p><p>Dada la especificidad de este proceso participativo, los procesos participativos cuentan con una <a href=\"https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5734/Normativa_Pressupost_participatiu.pdf\" target=\"_blank\"><strong>normativa reguladora</strong></a> propia.</p><p>Los presupuestos de ciudad forman parte de un proceso m\u00e1s amplio para definir las prioridades, los objetivos y las actuaciones de los pr\u00f3ximos cuatro a\u00f1os. El PAM, el <a href=\"https://www.decidim.barcelona/processes/PAM2020\" target=\"_blank\"><strong>Plan de Actuaci\u00f3n Municipal</strong></a> para el conjunto de la ciudad, y sus diez planes espec\u00edficos para los distritos (PAD), son documentos que se elaboran con la participaci\u00f30n de la ciudadan\u00eda y que se llevan a participaci\u00f3n en las mismas fechas y espacios que los presupuestos.</p><h2>\u00bfTienes m\u00e1s dudas?</h2><p>Consulta las <a href=\"https://www.decidim.barcelona/pages/faqspim\" target=\"_blank\"><strong>preguntas m\u00e1s frecuentes</strong></a>.</p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>Aquest \u00e9s el proc\u00e9s participatiu per <strong>decidir una part de les inversions municipals als districtes</strong>. Per primera vegada a Barcelona, es promouen uns pressupostos participatius pel conjunt de la ciutat. S\u2019han reservat <strong>75 milions d\u2019euros</strong> del pressupost municipal perqu\u00e8 els ve\u00efns i les ve\u00efnes decideixin com volen invertir-los.</p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p>Este es el proceso participativo para <strong>decidir una parte de las inversiones municipales en los distritos</strong>. Por primera vez en Barcelona, \u200b\u200bse promueven unos presupuestos participativos para el conjunto de la ciudad. Se han reservado <strong>75 millones de euros</strong> del presupuesto municipal para que vecinos y  vecinas decidan como quieren invertirlos.</p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Regidoria de Drets de Ciutadania i Participaci\u00f3 "
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Concejal\u00eda de Derechos de Ciudadan\u00eda y Participaci\u00f3n"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><strong>*El plantejament i el nou calendari de les fases del proc\u00e9s es concretaran quan es recuperi l'activitat habitual a la ciutat.*</strong></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p><strong>*El planteamiento y el nuevo calendario de las fases del proceso se concretaran cuando se recupere la actividad habitual de la ciudad.*</strong></p>"
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Projectes d\u2019inversi\u00f3 per a cadascun dels 10 districtes de la ciutat. "
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Proyectos de inversi\u00f3n para cada uno de los 10 distritos de la ciudad. "
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "722",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Emerg\u00e8ncia Clim\u00e0tica"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Emergencia Clim\u00e1tica"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "721",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Progr\u00e9s Econ\u00f2mic"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Progr\u00e9s Econ\u00f2mic"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "723",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Dret a la Ciutat"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Derecho a la ciudad"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "724",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Aprenentatges, creativitat i vincles"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Aprendizajes, creatividad y v\u00ednculos"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "725",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Governan\u00e7a"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Gobernanza"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "720",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Drets socials"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Derechos Sociales"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": {
+                "id": "11",
+                "name": {
+                    "translations": [
+                        {
+                            "locale": "ca",
+                            "text": "Ciutat"
+                        },
+                        {
+                            "locale": "es",
+                            "text": "Ciutat"
+                        }
+                    ]
+                },
+                "children": [
+                    {
+                        "id": "1",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Ciutat Vella"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Ciutat Vella"
+                                }
+                            ]
+                        },
+                        "children": [
+                            {
+                                "id": "93",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Barceloneta"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Barceloneta"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "91",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Raval"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Raval"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "94",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Sant Pere, Santa Caterina i la Ribera"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Sant Pere, Santa Caterina i la Ribera"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "92",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Barri G\u00f2tic"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Barri G\u00f2tic"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "2",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Eixample"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Eixample"
+                                }
+                            ]
+                        },
+                        "children": [
+                            {
+                                "id": "95",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Fort Pienc"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Fort Pienc"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "96",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Sagrada Familia"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Sagrada Familia"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "98",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "l'Antiga Esquerra de l'Eixample"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "l'Antiga Esquerra de l'Eixample"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "99",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Nova Esquerra de l'Eixample"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Nova Esquerra de l'Eixample"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "100",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Sant Antoni"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Sant Antoni"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "97",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Dreta de l'Eixample"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Dreta de l'Eixample"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "3",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Sants - Montju\u00efc"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Sants - Montju\u00efc"
+                                }
+                            ]
+                        },
+                        "children": [
+                            {
+                                "id": "101",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Poble-sec"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Poble-sec"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "106",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Sants - Badal"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Sants - Badal"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "107",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Sants"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Sants"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "103",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Marina de Port"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Marina de Port"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "102",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Marina del Prat Vermell"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Marina del Prat Vermell"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "104",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Font de la Guatlla"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Font de la Guatlla"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "105",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Hostafrancs"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Hostafrancs"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "163",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Bordeta"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Bordeta"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "7",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Horta - Guinard\u00f3"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Horta - Guinard\u00f3"
+                                }
+                            ]
+                        },
+                        "children": [
+                            {
+                                "id": "122",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Baix Guinard\u00f3"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Baix Guinard\u00f3"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "123",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Can Bar\u00f3"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Can Bar\u00f3"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "124",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Guinard\u00f3"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Guinard\u00f3"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "125",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Font d'en Fargues"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Font d'en Fargues"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "126",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Carmel"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Carmel"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "127",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Teixonera"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Teixonera"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "128",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Sant Gen\u00eds dels Agudells"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Sant Gen\u00eds dels Agudells"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "130",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Vall d'Hebron"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Vall d'Hebron"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "131",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Clota"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Clota"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "132",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Horta"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Horta"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "129",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Montbau"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Montbau"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "6",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Gr\u00e0cia"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Gr\u00e0cia"
+                                }
+                            ]
+                        },
+                        "children": [
+                            {
+                                "id": "117",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Vallcarca i els Penitents"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Vallcarca i els Penitents"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "118",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Coll"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Coll"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "119",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Salut"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Salut"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "120",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Vila de Gr\u00e0cia"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Vila de Gr\u00e0cia"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "121",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Camp d'en Grassot i Gr\u00e0cia Nova"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Camp d'en Grassot i Gr\u00e0cia Nova"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "5",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Sarri\u00e0 - Sant Gervasi"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Sarri\u00e0 - Sant Gervasi"
+                                }
+                            ]
+                        },
+                        "children": [
+                            {
+                                "id": "114",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Sant Gervasi - la Bonanova"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Sant Gervasi - la Bonanova"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "115",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Sant Gervasi - Galvany"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Sant Gervasi - Galvany"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "116",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Putxet i el Farr\u00f3"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Putxet i el Farr\u00f3"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "112",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Sarri\u00e0"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Sarri\u00e0"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "113",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "les Tres Torres"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "les Tres Torres"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "111",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Vallvidrera, el Tibidabo i les Planes"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Vallvidrera, el Tibidabo i les Planes"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "4",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Les Corts"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Les Corts"
+                                }
+                            ]
+                        },
+                        "children": [
+                            {
+                                "id": "109",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Maternitat i Sant Ramon"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Maternitat i Sant Ramon"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "108",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "les Corts"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "les Corts"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "110",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Pedralbes"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Pedralbes"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "8",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Nou Barris"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Nou Barris"
+                                }
+                            ]
+                        },
+                        "children": [
+                            {
+                                "id": "133",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Vilapicina i la Torre Llobeta"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Vilapicina i la Torre Llobeta"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "134",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Porta"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Porta"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "135",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Tur\u00f3 de la Peira"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Tur\u00f3 de la Peira"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "136",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Can Peguera"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Can Peguera"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "137",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Guineueta"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Guineueta"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "140",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Verdun"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Verdun"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "142",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Trinitat Nova"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Trinitat Nova"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "138",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Canyelles"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Canyelles"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "139",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "les Roquetes"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "les Roquetes"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "141",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Prosperitat"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Prosperitat"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "143",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Torre Bar\u00f3"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Torre Bar\u00f3"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "144",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Ciutat Meridiana"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Ciutat Meridiana"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "145",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Vallbona"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Vallbona"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "10",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Sant Mart\u00ed"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Sant Mart\u00ed"
+                                }
+                            ]
+                        },
+                        "children": [
+                            {
+                                "id": "160",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Proven\u00e7als del Poblenou"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Proven\u00e7als del Poblenou"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "157",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Poblenou"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Poblenou"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "159",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Bes\u00f2s i el Maresme"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Bes\u00f2s i el Maresme"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "161",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Sant Mart\u00ed de Proven\u00e7als"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Sant Mart\u00ed de Proven\u00e7als"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "162",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Verneda i la Pau"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Verneda i la Pau"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "154",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Clot"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Clot"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "155",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Parc i la Llacuna del Poblenou"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Parc i la Llacuna del Poblenou"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "156",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Vila Ol\u00edmpica del Poblenou"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Vila Ol\u00edmpica del Poblenou"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "158",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Diagonal Mar i el Front Mar\u00edtim del Poblenou"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Diagonal Mar i el Front Mar\u00edtim del Poblenou"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "153",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Camp de l'Arpa del Clot"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Camp de l'Arpa del Clot"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": "9",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Sant Andreu"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Sant Andreu"
+                                }
+                            ]
+                        },
+                        "children": [
+                            {
+                                "id": "149",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Sant Andreu de Palomar"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Sant Andreu de Palomar"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "147",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Bar\u00f3 de Viver"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Bar\u00f3 de Viver"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "146",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Trinitat Vella"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Trinitat Vella"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "148",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Bon Pastor"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Bon Pastor"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "150",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "la Sagrera"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "la Sagrera"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "151",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "el Congr\u00e9s i els Indians"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "el Congr\u00e9s i els Indians"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            },
+                            {
+                                "id": "152",
+                                "name": {
+                                    "translations": [
+                                        {
+                                            "locale": "ca",
+                                            "text": "Navas"
+                                        },
+                                        {
+                                            "locale": "es",
+                                            "text": "Navas"
+                                        }
+                                    ]
+                                },
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ciutat de Barcelona (\u00e0mbit de districte)"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Ciudad de Barcelona (\u00e1mbito de distrito)"
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Direcci\u00f3 de Democr\u00e0cia Activa i Direcci\u00f3 d\u2019Innovaci\u00f3 Democr\u00e0tica"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Direcci\u00f3n de Democr\u00e0cia Activa y Direcci\u00f3n de Innovaci\u00f3n Democr\u00e1tica"
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 1
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 301
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 1982
+                },
+                {
+                    "name": "projects_count",
+                    "value": 0
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Crea el teu projecte"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Crea tu proyecto"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "El conjunt de la ciutadania"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5741/Decret_proc%C3%A9s_participatiu_PAM_i_Pressupost_Participatiu_ALCALDESSA_cens-1.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5793/Fullet%C3%B3_pressupost_participatiu_cat.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5735/Marc_general_i_especificacions_del_proce%CC%81s_participatiu_del_Programa_d_Actuacio%CC%81_Municipal_2020-2023_i_del_Pressupost_Participatiu.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5733/Ajuda_pressupostos_participatius_i_PAM_2020-2023.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5785/Infografia_budget_Pressupostos.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5794/Fullet%C3%B3_pressupost_participatiu_cast.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5734/Normativa_Pressupost_participatiu.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5745/Costorientatiuprojectes.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5781/Fulleto%CC%81_pressupost_participatiu_mandari%CC%81.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5732/Fitxa_projecte_inversi%C3%B3.docx",
+                    "type": "docx",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5782/Fulleto%CC%81_pressupost_participatiu_tagal.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5951/Tutorial_decidim.barcelona_Grups_v.1.0.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5803/Fulleto%CC%81_pressupost_participatiu_a%CC%80rab.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5804/Fulleto%CC%81_pressupost_participatiu_angle%CC%80s.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5805/Fulleto%CC%81_pressupost_participatiu_urdu%CC%81.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim-barcelona-production.s3.amazonaws.com/decidim-barcelona/uploads/decidim/attachment/file/5806/Fulleto%CC%81_pressupost_participatiu_france%CC%80s.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "3768",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Projectes"
+                            },
+                            {
+                                "text": "Proyectos"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "3769",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Trobades"
+                            },
+                            {
+                                "text": "Encuentros"
+                            }
+                        ]
+                    },
+                    "weight": 1
+                },
+                {
+                    "id": "3770",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Punts M\u00f2bils"
+                            },
+                            {
+                                "text": "Puntos M\u00f3viles"
+                            }
+                        ]
+                    },
+                    "weight": 3
+                },
+                {
+                    "id": "3772",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Ajuda per a crear un projecte"
+                            },
+                            {
+                                "text": "Ayuda para crear un proyecto"
+                            }
+                        ]
+                    },
+                    "weight": 4
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.21.0",
+            "applicationName": "Decidim Barcelona"
+        }
+    }
+}

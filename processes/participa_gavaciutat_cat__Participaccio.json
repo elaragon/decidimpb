@@ -1,0 +1,351 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "23",
+            "slug": "Participaccio",
+            "hashtag": "",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2019-01-22T12:55:08+01:00",
+            "updatedAt": "2019-09-30T15:19:03+02:00",
+            "startDate": "2019-02-04",
+            "endDate": "2019-07-31",
+            "heroImage": "/uploads/decidim/participatory_process/hero_image/23/participaccio-banner2.jpg",
+            "bannerImage": "/uploads/decidim/participatory_process/banner_image/23/participaccio-banner2.jpg",
+            "reference": "G-PART-2019-01-23",
+            "promoted": false,
+            "showMetrics": true,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "ParticipAcci\u00f3"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupost participatiu jove'19"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>Arran de la trobada amb joves a la Casa Gran \u2013dins del marc del programa Alcaldessa als barris- es va fer palesa la necessitat dels col\u00b7lectius juvenils de la ciutat de desenvolupar algunes idees i iniciatives pr\u00f2pies i la mancan\u00e7a actual d\u2019espais o mecanismes per realitzar-les. Aquest projecte sorgeix per donar resposta a aquest neguit i de l\u2019oportunitat detectada de generar un entorn per donar-li resposta i crear noves din\u00e0miques de participaci\u00f3 \u2013dotades de recursos- entre la joventut del municipi. </p><p>ParticipAcci\u00f3, \u00e9s essencialment, un proc\u00e9s de participaci\u00f3 digital, on les i els joves poden presentar propostes d'activitats, accions o projectes que voldrien desenvolupar al municipi i prioritzar quines es duran a terme. </p><p>Per poder realitzar un correcte seguiment i dinamitzaci\u00f3 de les propostes, s'executaran un <strong>m\u00e0xim de tres propostes</strong> que correspondran a les que rebin m\u00e9s suport (n\u00famero de vots).</p><p><br></p><p><strong>Tens entre 16 i 29 anys, est\u00e0s empadronat a Gav\u00e0 i vols participar? T'expliquem com!</strong></p><p>Proposa projectes, accions o activitats. Les propostes presentades tindran que complir una s\u00e8rie de requisits per poder ser sotmeses a votaci\u00f3 en la fase de prioritzaci\u00f3. Aquestes hauran de ser:</p><p><strong>1.&nbsp;P\u00fabliques: </strong>Participaci\u00f3 oberta a tota la poblaci\u00f3 jove, sense ser exclusiu d\u2019un col\u00b7lectiu espec\u00edfic.</p><p><strong>2.&nbsp;Incloents: </strong>Respectar a les persones i col\u00b7lectius sense promoure conductes de segregaci\u00f3, marginalitzaci\u00f3 o viol\u00e8ncia.</p><p><strong>3.&nbsp;Realistes: </strong> Per garantir-ne el finan\u00e7ament, la seva execuci\u00f3 tindr\u00e0 com inici i durada m\u00e0xima l'any 2019.</p><p><strong>4.&nbsp;Sense \u00e0nim de lucre: </strong>S\u2019incorporar\u00e0 com a despesa municipal i no podr\u00e0 aportar benefici econ\u00f2mic o empresarial als gestors.</p><p><strong>5. Gavanenques:</strong> S'hauran d'executar al municipi de Gav\u00e0.</p><p><strong>6.&nbsp;Pressupost m\u00e0xim: </strong>7000\u20ac</p><p><strong>7.&nbsp;Participades: </strong>Liderades pels&nbsp;joves amb el suport de les \u00e0rees de joventut i participaci\u00f3 ciutadana.</p><p>Pots fer-ho presencialment el dimecres 6 de febrer a les 18\u202fh a l'Espai Jove La Casa Gran, inscriu-te a joventut@gava.cat o al 618762772, o en l\u00ednia del 4 al 24 de febrer a trav\u00e9s de la plataforma de participaci\u00f3.</p><p>Podr\u00e0s votar les propostes que m\u00e9s t'agradin del 4 al 24 de mar\u00e7 i coneixerem les propostes guanyadores el 25 de mar\u00e7.</p><p>Si tens algun dubte o vols m\u00e9s informaci\u00f3, envia un correu electr\u00f2nic a participa@gava.cat<strong>&nbsp;</strong></p><p><strong>14.000\u20ac per imaginar i decidir, fem-ho!</strong></p><p><br></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>ParticipAcci\u00f3 \u00e9s el pressupost participatiu jove de Gav\u00e0. Un projecte de participaci\u00f3 directa vinculant per la definici\u00f3, selecci\u00f3 i execuci\u00f3 de projectes, accions i activitats destinades a la gent jove del municipi.</p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><strong>Atenci\u00f3! </strong></p><p>Ja tenim les dates de les accions guanyadores:</p><p>08/06/2019: Projecte Freeamily Gav\u00e0</p><p>06/07/2019: Potenciar Street Fest Gav\u00e0</p><p>20/07/2019: Gav\u00e0 Beach Festival</p><p><strong><em>14.000\u20ac per imaginar i decidir, fem-ho!</em></strong></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "7",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Projecte Freeamily Gav\u00e0"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Projecte Freeamily Gav\u00e0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "8",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Gav\u00e0 Beach Festival"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Gav\u00e0 Beach Festival"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "9",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Potenciar Street Fest Gav\u00e0"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Potenciar Street Fest Gav\u00e0"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Participaci\u00f3 ciutadana i joventut"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 0
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 4
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 15
+                },
+                {
+                    "name": "projects_count",
+                    "value": 12
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 1
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Joves entre 16 i 29 anys empadronades a Gav\u00e0"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "attachments": [],
+            "components": [
+                {
+                    "id": "77",
+                    "__typename": "Budgets",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Pressupostos"
+                            },
+                            {
+                                "text": "Presupuestos"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "74",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Trobada Oberta"
+                            },
+                            {
+                                "text": "Lista de encuentros"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "82",
+                    "__typename": "Surveys",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Enquesta de valoraci\u00f3 del proc\u00e9s de participaci\u00f3"
+                            },
+                            {
+                                "text": "Encuesta de valoraci\u00f3n del proceso de participaci\u00f3n"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "73",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes"
+                            },
+                            {
+                                "text": "Propuestas"
+                            }
+                        ]
+                    },
+                    "weight": 1
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.21.0",
+            "applicationName": "Decidim Gav\u00e0"
+        }
+    }
+}

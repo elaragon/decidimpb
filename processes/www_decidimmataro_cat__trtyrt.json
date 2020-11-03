@@ -1,0 +1,794 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "4",
+            "slug": "trtyrt",
+            "hashtag": "DecidimPressupostMataro",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2017-04-25T12:08:28+00:00",
+            "updatedAt": "2018-05-15T13:58:16+00:00",
+            "startDate": "2017-04-25",
+            "endDate": "2018-02-27",
+            "heroImage": "/uploads/decidim/participatory_process/hero_image/4/Portada_proc%C3%A9s_Pressupostos.jpg",
+            "bannerImage": "",
+            "reference": "D-PART-2017-04-4",
+            "promoted": false,
+            "showMetrics": true,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupostos participatius"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Presupuestos participativos "
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Prova pilot Pressupostos participatius per Matar\u00f3"
+                    },
+                    {
+                        "locale": "es",
+                        "text": " Prueba piloto Presupuestos participativos para Matar\u00f3"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<h5>A partir de les propostes realitzades per la ciutadania i els Consells Municipals de participaci\u00f3, s\u2019escolliran un total de 12 propostes que la ciutadania, i mitjan\u00e7ant el vot directe, decidir\u00e0 quines s\u2019incorporen com a accions a realitzar en el proper pressupost municipal.</h5><h6><br></h6><h5>Les fases en qu\u00e8 la ciutadania podr\u00e0 participar de forma activa s\u00f3n la de proposta, la de suports i la de votaci\u00f3.&nbsp;</h5><h6><br></h6><h5><em><u>PROPOSTA (del 22 de maig al 27 de juny)</u></em></h5><h5>Presentant una o dues propostes per millorar la ciutat. Cal tenir en compte els criteris establerts, i sobretot que siguin una inversi\u00f3 i no superin els 250.000\u20ac.</h5><h6><br></h6><h5><em><u>SUPORTS (del 30 de juny al 14 de juliol)</u></em></h5><h5>De les propostes dels ciutadans i ciutadanes podem donar suport a aquelles que creiem que s\u2019haurien de portar a terme. Cada ciutad\u00e0/na disposa de 5 suports. Les 10 propostes que hagin obtingut m\u00e9s suports, i un m\u00ednim de 125 suports, passaran a la seg\u00fcent fase de valoraci\u00f3.</h5><h6><br></h6><h5><em><u>VOTACI\u00d3 (del 2 al 22 de febrer)</u></em></h5><h5>Valorades i prioritzades les propostes, els ciutadans i ciutadanes de Matar\u00f3 podran decidir, sobre un total de 12 propostes, quines s\u00f3n les que consideren que s\u2019han d\u2019incorporar al Pressupost municipal de l\u2019any 2018. Es podran escollir tantes propostes com es vulgui, sempre i quan la suma dels seus imports no superi els 500.000 euros.</h5><h6><br></h6><h5>La participaci\u00f3 es far\u00e0 a trav\u00e9s de la plataforma&nbsp;<a href=\"http://www.decidimmataro.cat/\" target=\"_blank\">www.decidimmataro.cat</a>&nbsp;que permetr\u00e0 proposar, consultar, votar i disposar en tot moment d\u2019informaci\u00f3 actualitzada sobre el proc\u00e9s.</h5>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<h5>A partir de las propuestas realizadas por la ciudadan\u00eda y los Consejos Municipales de participaci\u00f3n se escoger\u00e1n un total de 12 propuestas que la ciudadan\u00eda y mediante el voto directo, decidir\u00e1 qu\u00e9 propuestas se incorporan como acciones a realizar en el pr\u00f3ximo presupuesto municipal.</h5><h5><br></h5><h5>Las fases donde la ciudadan\u00eda podr\u00e1 participar de forma activa son la de propuesta, la de los apoyos y la de votaci\u00f3n.</h5><h5>&nbsp;</h5><h5><em><u>PROPUESTA (del 22 de mayo al 27 de junio)</u></em></h5><h5>Presentando una o dos propuestas para mejorar la ciudad. Cabe tener en cuenta los criterios establecidos, y sobre todo que sean una inversi\u00f3n y que no superen los &nbsp;250.000\u20ac.</h5><h5><br></h5><h5><em><u>APOYOS &nbsp;(del 30 de junio al 14 de julio)</u></em></h5><h5>De las propuestas de los ciudadanos y ciudadanas podemos apoyar aquellas que creamos que se deber\u00edan llevar a cabo. Cada ciudadano/na dispone de &nbsp;5 apoyos. Las 10 propuestas que hayan obtenido m\u00e1s apoyos y un m\u00ednimo de 125 apoyos, &nbsp;pasar\u00e1n a la siguiente fase de valoraci\u00f3n.</h5><h5><br></h5><h5><em><u>VOTACI\u00d3N (del 27 de noviembre al 14 de diciembre)</u></em></h5><h5>Valoradas y priorizadas las propuestas, los ciudanos y ciudadanas de Matar\u00f3 podr\u00e1n decicidir sobre un total de 12 propuestas, cu\u00e1les son las que consideran que se tienen que incorporar al Presupuesto municipal del a\u00f1o 2018. Se podr\u00e1n elegir tantas &nbsp;propuestas como se quiera, siempre y cuando la suma de sus importes no supere los &nbsp;500.000 euros.</h5><h5><br></h5><h5>La participaci\u00f3n se har\u00e1 a trav\u00e9s de la plataforma <a href=\"http://www.decidimmataro.cat/\" target=\"_blank\">www.decidimmataro.cat</a>&nbsp;que permitir\u00e1 proponer, consultar, votar y disponer en todo momento de informaci\u00f3n actualizada sobre el proceso.</h5><p><br></p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>El Pressupost Participatiu \u00e9s una eina de democr\u00e0cia directa que permet a la ciutadania decidir sobre els pressupostos p\u00fablics. Enguany, i per primera vegada, els ve\u00efns i ve\u00efnes de Matar\u00f3 podran proposar, donar suport i decidir el dest\u00ed de 500.000 euros de la partida d\u2019inversions del Pressupost municipal de 2018.</p><p>El proc\u00e9s ha estat impulsat pel Govern de la ciutat i validat per tots els grups municipals del Consistori en el marc de la Comissi\u00f3 Especial d\u2019Organitzaci\u00f3.</p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p>El Presupuesto Participativo es una herrramienta de democracia directa que permite a la ciudadan\u00eda decidir sobre los presupuestos p\u00fablicos. Este a\u00f1o y por primera vez, los vecinos y vecinas de Matar\u00f3 podr\u00e1n proponer, apoyar y decidir el destino de&nbsp;500.000 euros de la partida &nbsp;de inversiones del Presupuesto &nbsp;municipal de 2018.</p><p>El proceso ha sido impulsado por el Gobierno de la ciudad y validado por todos los grupos municipales del Consistorio en el marco de la Comisi\u00f3n &nbsp;Especial de Organizaci\u00f3n.</p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ajuntament de Matar\u00f3"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Ayuntamiento de Matar\u00f3"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "L'Ajuntament, mitjan\u00e7ant una comissi\u00f3 t\u00e8cnica valorar\u00e0 les propostes, i el Consell de Ciutat les prioritzar\u00e0. Les propostes m\u00e9s votades s\u2019incorporaran en el pressupost d\u2019inversions 2018."
+                    },
+                    {
+                        "locale": "es",
+                        "text": "El Ayuntamiento, mediante una comisi\u00f3n t\u00e9cnica valorar\u00e1 las propuestas, y el Consell de Ciutat las priorizar\u00e1. Las propuestas mas votadas se incorporaran en el presupuesto de inversiones 2018"
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Proc\u00e9s participatiu"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Proceso participativo"
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [
+                {
+                    "id": "1",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "640",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "83",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "85",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "87",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "510",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "666",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "670",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "672",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "674",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "676",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "678",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "55",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "680",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "684",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "690",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "622",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "624",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "694",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "628",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "632",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "599",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "617",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "619",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "688",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "692",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "696",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "634",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "348",
+                    "name": "included_participatory_processes"
+                },
+                {
+                    "id": "352",
+                    "name": "included_participatory_processes"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "10",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Cultura"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Cultura"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "7",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Atenci\u00f3 ciutadana"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Atenci\u00f3n ciudadana"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "8",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Comunicaci\u00f3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Comunicaci\u00f3n"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "11",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Educaci\u00f3 i formaci\u00f3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Educaci\u00f3n y formaci\u00f3n"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "9",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Conviv\u00e8ncia"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Convivencia"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "12",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Empresa i ocupaci\u00f3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Empresa y ocupaci\u00f3n"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "13",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Espai p\u00fablic"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Espacio p\u00fablico"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "15",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Gent gran"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Personas mayores"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "16",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Igualtat"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Igualdad"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "17",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Joventut"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Juventud"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "18",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Medi ambient"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Medio ambiente"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "19",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Mobilitat i transport"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Movilidad y transporte"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "20",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Participaci\u00f3 Ciutadana"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Participaci\u00f3n Ciudadana"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "21",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Promoci\u00f3 de ciutat"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Promoci\u00f3n de ciudad"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "22",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Comer\u00e7 i turisme"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Comercio y turismo"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "23",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Salut i consum"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Salud y consumo"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "24",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Seguretat ciutadana"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Seguridad ciudadana"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "25",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Serveis socials"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Servicios sociales"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "26",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Urbanisme i habitatge"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Urbanismo y vivienda"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "14",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Esports"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Deportes"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Tota la ciutat"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Toda la ciudad"
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 2
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 28
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 151
+                },
+                {
+                    "name": "projects_count",
+                    "value": 12
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                },
+                {
+                    "name": "jitsi_meetings_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "A tots els ciutadans/es majors de 16 anys"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "A todos los ciudadanos/as mayores de 16 a\u00f1os"
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "/uploads/decidim/attachment/file/421/Mem%C3%B2ria_participativa_Pressupostos_Participatius_2018.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/48/Gui%C3%B3_proc%C3%A9s_Pressupostos_Participatius_2018_def.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/49/Fitxa_de_proposta._Pressupostos_participatiu_2018_def.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/50/FulletoPSSParticipacio.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/45/Funcionament_Pressupostos_Participatius_2018.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/46/Qu%C3%A8_%C3%A9s_una_inversi%C3%B3.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/47/Power_point_PRESSUPOSTOS_PARTICIPATIUS_MATAR%C3%93_def.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/55/180109_Acta_Consell_Ciutat_PendAprov.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/53/Propostes_superada_fase_de_VALIDACI%C3%93_T%C3%88CNICA.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/57/Informe_de_resultats_sessi%C3%B3_Consell_de_Ciutat.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/70/Fitxes.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/71/Orig_fullet%C3%B3_Votar_pressup.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "23",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "RESULTATS DEL PROC\u00c9S"
+                            },
+                            {
+                                "text": "RETORNO RESULTADOS"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "185",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "ESTAT D'EXECUCI\u00d3 DE LES PROPOSTES"
+                            },
+                            {
+                                "text": "P\u00e1gina"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "21",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "PROPOSTES I SUPORTS"
+                            },
+                            {
+                                "text": "PROPUESTAS Y APOYOS"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "20",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "TROBADES PRESENCIALS"
+                            },
+                            {
+                                "text": "ENCUENTROS PRESENCIALES"
+                            }
+                        ]
+                    },
+                    "weight": 3
+                },
+                {
+                    "id": "22",
+                    "__typename": "Budgets",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "VOTACI\u00d3 FINAL"
+                            },
+                            {
+                                "text": "VOTACI\u00d3N FINAL"
+                            }
+                        ]
+                    },
+                    "weight": 4
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.21.0",
+            "applicationName": "Decidim Matar\u00f3"
+        }
+    }
+}

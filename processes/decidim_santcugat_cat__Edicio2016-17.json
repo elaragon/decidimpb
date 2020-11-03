@@ -1,0 +1,415 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "4",
+            "slug": "Edicio2016-17",
+            "hashtag": "",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2017-08-22T10:39:33+02:00",
+            "updatedAt": "2019-09-20T14:48:00+02:00",
+            "startDate": "2017-08-22",
+            "endDate": "2017-12-31",
+            "heroImage": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/participatory_process/hero_image/4/portada_resultats.jpg",
+            "bannerImage": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/participatory_process/banner_image/4/prova_bandera.png",
+            "reference": "SCG-PART-2017-08-4",
+            "promoted": false,
+            "showMetrics": true,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupost Participatiu 2016-17"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Estat d'execuci\u00f3 dels projectes guanyadors en l'anterior edici\u00f3 dels pressupostos participatius."
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<h3><img border=\"0\" data-original-height=\"1600\" data-original-width=\"1133\" src=\"https://3.bp.blogspot.com/-vQSSId1eq8k/WaUuZ-hyzTI/AAAAAAAAAJE/AQTSbDNphQQNPcoIftgADYOEJc83yQqxwCLcBGAs/s1600/Resultats%2Bde%2Bles%2Bvotacions%2B%2528Infografia%2529.jpg\"></h3><h3><br></h3><h2>Com va ser la primera edici\u00f3 del Pressupost participatiu?</h2><h3>Objectius</h3><p>L\u2019objectiu&nbsp;principal&nbsp;\u00e9s&nbsp;implicar&nbsp;la&nbsp;ciutadania&nbsp;en la&nbsp;presa&nbsp;de&nbsp;decisions&nbsp;responsables&nbsp;sobre&nbsp;la destinaci\u00f3 d\u2019una&nbsp;part dels&nbsp;recursos&nbsp;p\u00fablics,&nbsp;a trav\u00e9s d\u2019un sistema reglat de participaci\u00f3.</p><ul><li><strong>Fomentar&nbsp;la&nbsp;participaci\u00f3&nbsp;</strong>a&nbsp;trav\u00e9s&nbsp;d\u2019un&nbsp;proc\u00e9s&nbsp;inclusiu&nbsp;que&nbsp;arribi&nbsp;a tota&nbsp;la&nbsp;ciutadania, associada&nbsp;o&nbsp;no, &nbsp;i potenciar els \u00f2rgans de participaci\u00f3 actius al municipi</li><li><strong>Con\u00e8ixer&nbsp;les&nbsp;necessitats</strong>&nbsp;de&nbsp;la&nbsp;poblaci\u00f3&nbsp;i&nbsp;afavorir&nbsp;el&nbsp;debat&nbsp;col\u00b7lectiu&nbsp;per&nbsp;prioritzar-les</li><li><strong>Planificar&nbsp;la&nbsp;despesa&nbsp;municipal</strong>&nbsp;el&nbsp;m\u00e0xim&nbsp;d\u2019ajustada&nbsp;a&nbsp;les&nbsp;prioritats ciutadanes.</li></ul><h3>Calendari</h3><p>El&nbsp;proc\u00e9s&nbsp;des&nbsp;Pressupostos&nbsp;participatius&nbsp;2016-17&nbsp;va&nbsp;comptar&nbsp;amb&nbsp;tres&nbsp;accions&nbsp;principals:</p><ol><li><strong>Presentaci\u00f3&nbsp;de&nbsp;propostes</strong>&nbsp;per&nbsp;part&nbsp;ciutadania&nbsp;a&nbsp;t\u00edtol&nbsp;individual&nbsp;o&nbsp;col\u00b7lectiu.&nbsp;<strong>22&nbsp;d\u2019abril&nbsp;al&nbsp;15&nbsp;de&nbsp;maig&nbsp;2016.</strong></li><li><strong>Debat&nbsp;col\u00b7lectiu</strong>&nbsp;de&nbsp;propostes.Tallers&nbsp;4,&nbsp;11&nbsp;i&nbsp;18&nbsp;de&nbsp;juny&nbsp;2016&nbsp;(sessions&nbsp;adre\u00e7ades&nbsp;a&nbsp;les&nbsp;persones&nbsp;i entitats pr\u00e8viament convocades per correu&nbsp;electr\u00f2nic)</li><li><strong>Votaci\u00f3</strong>&nbsp;ciutadana.&nbsp;Persones&nbsp;empadronades&nbsp;a&nbsp;Sant&nbsp;Cugat&nbsp;majors&nbsp;de&nbsp;16&nbsp;anys.&nbsp;<strong>Del&nbsp;17&nbsp;d'octubre&nbsp;al&nbsp;6 de novembre 2016.</strong></li></ol><h3>Proc\u00e9s d'elaboraci\u00f3 del Reglament</h3><p>El Reglament de Pressupostos Participatius va ser&nbsp;aprovat pel&nbsp;<a href=\"http://santcugat.cat/web/consell-de-ciutat\" target=\"_blank\">Consell de Ciutat</a>, m\u00e0xim \u00f2rgan de participaci\u00f3 municipal, despr\u00e9s d'un proc\u00e9s de presentaci\u00f3 de&nbsp;debat i presentaci\u00f3 d'esmenes.</p><ul><li>Constituci\u00f3 Consell de Ciutat i presentaci\u00f3 bases del&nbsp;proc\u00e9s de Pressupostos Participatius<strong>&nbsp;(1 de mar\u00e7 2016)</strong></li><li>Proposta t\u00e8cnica&nbsp;inicial de reglament dels Pressupostos participatius&nbsp;<strong>(15 mar\u00e7 2016)</strong></li><li>Presentaci\u00f3 de&nbsp;propostes i al\u00b7legacions dels membres del Consell de Ciutat&nbsp;<strong>(15&nbsp;al 21 de mar\u00e7 2016)</strong></li><li>Sessi\u00f3 del Consell de Ciutat, Debat de les esmenes presentades&nbsp;<strong>(31 de mar\u00e7)</strong></li><li>Validaci\u00f3 i aprovaci\u00f3 del reglament dels Pressupostos Participatius<strong>&nbsp;(1 al 15 abril 2016)</strong></li></ul><p><br></p><p><strong>\u200bCom a resultat de la votaci\u00f3 ciutadana, s'han seleccionat els 12 projectes m\u00e9s votats que actualment es troben ja en fase d'execuci\u00f3. </strong></p><p><strong><span class=\"ql-cursor\">\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff</span></strong></p><p><br></p><p><br></p><p><br></p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>L\u2019Ajuntament de Sant Cugat va impulsar la primera edici\u00f3 del Pressupost Participatiu amb 2 milions d'euros d'inversions per als anys 2016-2017. Fru\u00eft d'aquest proc\u00e9s es van seleccionar 12 projectes, que actualment es troben en fase d'execuci\u00f3.</p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ajuntament de Sant Cugat"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "2 milions d'euros del pressupost d'inversions"
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "208",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Itinerari per a bicicletes Rius i Taulet / Av. Graells"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "207",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Itinerari per a bicicletes entre el Centre i Can Magi"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "35",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Amfiteatre als Jardins del Vall\u00e8s"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "36",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Locals per a les entitats de malaties neurol\u00f2giques i c\u00e0ncer"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "37",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Millora paissatg\u00edstica a l'estanyol de la Guinardera"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "206",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Naturalitzar els espais de la vora de Collserola"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "212",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Pantalla ac\u00fastica per a espectacles a l'aire lliure"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "210",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Circuits de salut amb aparells de manteniment f\u00edsic"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "211",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Creuaments accessibles amb sem\u00e0fors"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "38",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Crear nous horts urbans i socials "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "39",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Itinerari per a bicis i vianants Coll Fav\u00e0 - Can Sant Joan"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "40",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Dotar de serveis p\u00fablics els parcs"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "16",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Propostes petites (fins 50.000 \u20ac)"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "15",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Propostes grans (fins 270.000 \u20ac)"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Alcaldia - Comissionat de Participaci\u00f3 Ciutadana"
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 2
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 0
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 0
+                },
+                {
+                    "name": "projects_count",
+                    "value": 0
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 12
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ve\u00efns i ve\u00efnes de Sant Cugat"
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/217/Tr%C3%ADptic_final.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/30/REGLAMENT_DE_PRESSUPOSTOS_PARTICIPATIUS_16-17.docx",
+                    "type": "docx",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/31/Resultats_Questionari_Avaluacio_Pressuspost_Participatiu_16-17.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/32/Resultats_Avaluaci%C3%B3_compartida_Pressupost_Participatiu_2016-17.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/34/Propostes_Pressupost_Participatiu_2016-17___Total_rebudes_.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/35/Resultats_de_les_votacions__Infografia_.jpg",
+                    "type": "jpg",
+                    "thumbnail": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/35/thumbnail_Resultats_de_les_votacions__Infografia_.jpg"
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/36/Seguiment_execuci%C3%B3_Projectes__Pressupostos_Participatius_16_i_17.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/33/Resultats_votacions_i_projectes_guanyadors_2016-17___fitxes_.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "11",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Avaluaci\u00f3 "
+                            }
+                        ]
+                    },
+                    "weight": 5
+                },
+                {
+                    "id": "10",
+                    "__typename": "Accountability",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Resultats i estat d'execuci\u00f3 dels projectes"
+                            }
+                        ]
+                    },
+                    "weight": 500
+                },
+                {
+                    "id": "85",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "V\u00eddeo dels projectes"
+                            }
+                        ]
+                    },
+                    "weight": 600
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.22.0",
+            "applicationName": "Decidim Sant Cugat"
+        }
+    }
+}

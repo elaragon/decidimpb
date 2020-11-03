@@ -1,0 +1,385 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "145",
+            "slug": "Floresta",
+            "hashtag": "lafloresta",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2020-05-15T16:28:49+02:00",
+            "updatedAt": "2020-07-22T18:47:23+02:00",
+            "startDate": "2020-05-15",
+            "endDate": "2020-06-21",
+            "heroImage": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/participatory_process/hero_image/145/La_Floresta__2_.jpg",
+            "bannerImage": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/participatory_process/banner_image/145/La_Floresta__1_.jpg",
+            "reference": "SCG-PART-2020-05-145",
+            "promoted": false,
+            "showMetrics": false,
+            "scopesEnabled": false,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupost participatiu: La Floresta"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ara fem propostes!"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<h3><img data-original-height=\"480\" data-original-width=\"640\" src=\"https://1.bp.blogspot.com/-cUvIosMFcjI/XsOab2XiPdI/AAAAAAAADzI/6bOxE1MPYmwXLXYRd4zo7i6SxAwmgE1lwCLcBGAsYHQ/s1600/PD5.jpg\" border=\"0\"></h3><h3>Des de casa, millorem el nostre entorn</h3><p>Enmig de la crisi que estem vivint, ara podem dir la nostra i contribuir a millorar el nostre entorn, la nostra qualitat de vida i, al mateix temps, comen\u00e7ar a reactivar l'activitat econ\u00f2mica i col\u00b7lectiva del nostre barri i de la nostra ciutat.</p><h3><strong>Com hem participat fins ara?</strong></h3><ul><li>Hem pogut presentar propostes entre el 15 de maig i el 21 de juny a trav\u00e9s d'Internet, en l'apartat <a href=\"https://decidim.santcugat.cat/processes/Floresta/f/384/\" target=\"_blank\">propostes</a></li><li>Qui pot podia fer propostes? Tots els ve\u00efns, ve\u00efnes i entitats del barri majors de 14 anys.</li><li>Quants diners decidirem? 416.000 \u20ac corresponents als pressupostos municipals del 2020 i el 2021.</li></ul><h3><strong>Qu\u00e8 es podia proposar?</strong></h3><p><strong>Inversions amb visi\u00f3 de barri:</strong></p><ul><li>Projectes que perduren en el temps</li><li>Cost m\u00e0xim: 50.000 \u20ac</li><li>Poden ser: intervencions en edificis o espai p\u00fablic, mobiliari i art urb\u00e0, elements per la cura o l\u2019esport, millores en espais naturals...</li></ul><p><strong>Propostes de pressupost ordinari per al ve\u00efnat:</strong></p><ul><li>Actuacions no materials que es fan en un moment concret.</li><li>Cost m\u00e0xim: 5.000 \u20ac</li><li>Poden ser: esdeveniments i programes culturals, socials o educatius; accions de formaci\u00f3, sensibilitzaci\u00f3 o comunicaci\u00f3; estudis sobre la ciutat...</li></ul><p><strong>Recorda que per seguir endavant en el proc\u00e9s totes les propostes han de:</strong></p><ul><li>Ser propostes per al barri</li><li>S'han d\u2019identificar amb alguna de les l\u00ednies estrat\u00e8giques acordades pel barri</li><li>Han de poder ser viables a nivell t\u00e8cnic i econ\u00f2mic.</li><li>Han de ser propostes concretes i de compet\u00e8ncia municipal</li></ul><h3><strong>Quins projectes es faran?</strong></h3><p>Totes les propostes v\u00e0lides es presentaran en un taller de debat ciutad\u00e0, on es prioritzaran les que finalment vagin a votaci\u00f3.</p><p>A <strong>la Floresta</strong>, per acord del Consell de Barri, es reserven 3.000 euros per a propostes de l'Assemblea d'Infants de la Floresta.</p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>Els Pressupostos Participatius de Barri segueixen en marxa! Entre tots i totes hem fet una diagnosi del barri, hem prioritzat els temes que volem treballar els propers anys i <strong>hem presentat 93 propostes</strong>! Ara passaran a la fase de validaci\u00f3 t\u00e8cnica per seguir endavant amb el proc\u00e9s!</p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Una part del pressupost municipal en cada barri. A la Floresta es deicideix el dest\u00ed de 416.000 Euros"
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Votaci\u00f3 popular de les propostes presentades per la ciutadania"
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "437",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Millorar els equipaments del barri"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "438",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Fomentar la diversitat d\u2019activitats i apostar per ser un barri cultural"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "439",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Impulsar projectes per a la gent gran"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "440",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Incentivar projectes i activitats autogestionades al barri i suport al teixit associatiu"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "441",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Potenciar accions amb perspectiva de g\u00e8nere i interseccional"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "443",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Generar espais p\u00fablics accessibles, nets i segurs"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "445",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Impulsar mesures per facilitar l\u2019acc\u00e9s a l\u2019habitatge, habitatge p\u00fablic i altres models"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "444",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Refor\u00e7ar les accions preventives i els protocols d\u2019actuaci\u00f3 en situacions d\u2019emerg\u00e8ncia"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "446",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Potenciar accions per enfortir la conviv\u00e8ncia"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "448",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Apostar per la mobilitat accessible, sostenible i inclusiva"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "449",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Promoure energies renovables i mesures per a l\u2019efici\u00e8ncia energ\u00e8tica"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "450",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Millorar el model de gesti\u00f3 de residus i el sistema de clavegueram"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "451",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Fomentar la cura dels espais verds i la flora aut\u00f2ctona"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "436",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "1. Persones"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "442",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "2. Ciutat"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "447",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "3. Planeta"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ajuntament de Sant Cugat - Oficina de Participaci\u00f3 Ciutadana"
+                    }
+                ]
+            },
+            "stats": null,
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Totel ve\u00efnat de Sant Cugat"
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/757/LA_FLORESTA_-_PROPOSTES_V%C3%80LIDES_SESSI%C3%93_DELIBERACI%C3%93.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/524/5._Programa_La_Floresta_s%C3%ADntesi%2Bannex.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "383",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Diagnosi del Barri"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "384",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Tinc una proposta!"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "393",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propera sessi\u00f3"
+                            }
+                        ]
+                    },
+                    "weight": 100
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.22.0",
+            "applicationName": "Decidim Sant Cugat"
+        }
+    }
+}

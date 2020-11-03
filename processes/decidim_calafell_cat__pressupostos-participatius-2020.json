@@ -1,0 +1,647 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "21",
+            "slug": "pressupostos-participatius-2020",
+            "hashtag": "",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2019-07-29T11:30:13+00:00",
+            "updatedAt": "2020-07-29T09:22:49+00:00",
+            "startDate": "2019-07-29",
+            "endDate": "2020-06-30",
+            "heroImage": "https://decidim-calafell.s3.amazonaws.com/uploads/decidim/participatory_process/hero_image/21/Imatges_Decidim_2020_Mesa_de_trabajo_1.jpg",
+            "bannerImage": "https://decidim-calafell.s3.amazonaws.com/uploads/decidim/participatory_process/banner_image/21/Imatges_Decidim_2020_Mesa_de_trabajo_1_copia.jpg",
+            "reference": "CLF-PART-2019-07-21",
+            "promoted": false,
+            "showMetrics": true,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupostos participatius 2020"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Presupuestos participativos 2020"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "500.000 euros d'inversions per decidir"
+                    },
+                    {
+                        "locale": "es",
+                        "text": " 500.000 euros de inversiones para decidir"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>Tant la presentaci\u00f3 de propostes com la serva posterior votaci\u00f3 es fa per internet, a traves d'aquesta plataforma digital de participaci\u00f3: <a href=\"decidim.calafell.cat\" target=\"_blank\">decidim.calafell.cat</a></p><h2><strong>Qui pot participar?</strong></h2><ul><li> Per fer propostes, <strong>qualsevol persona</strong>, empadronada o no, <strong>major de 16 anys</strong>. Nom\u00e9s s\u2019admetr\u00e0 <strong>una proposta per persona</strong>.</li><li> Per poder<strong> votar, persones empadronades majors de 16 anys</strong>. Cada persona pot votar diferents propostes fins exhaurir el l\u00edmit de 500.000\u20ac.</li></ul><h2><strong>Quines propostes poden presentar-se?</strong></h2><p>Necess\u00e0riament han de ser inversions:</p><ul><li> Relacionades amb l\u2019espai p\u00fablic o la millora d\u2019equipaments municipals.</li><li> De compet\u00e8ncia municipal i sobre b\u00e9ns de propietat municipal.</li><li> Concretes i que donin resposta a una necessitat determinada.</li><li> Que compleixin la normativa vigent.</li><li> D\u2019inter\u00e8s general.</li><li> Viables t\u00e8cnicament.</li></ul><h2><strong>Quin \u00e9s el calendari?</strong></h2><ul><li>El Ple de l\u2019ajuntament aprova aquest reglament el 29 de juliol del 2019.</li><li>Es poden presentar les propostes entre el 2 i el 15 de setembre del 2019.</li><li>S\u2019estudiaran les propostes entre el 16 de setembre i el 27 de setembre del 2019.</li><li>Es podran votar les propostes entre el 7 i el 20 d\u2019octubre del 2019.</li><li>Al novembre, s\u2019incorporaran les propostes al pressupost proposat pel 2020.</li></ul><p><br></p><p><br></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p>Tanto la presetanci\u00f3n de propuestas como la posterior votaci\u00f3n se hace por internet, a trav\u00e9s de la plataforma digital de participaci\u00f3n: <a href=\"decidim.calafell.cat\" target=\"_blank\">decidim.calafell.cat</a></p><h2><strong>\u00bfQui\u00e9n puede participar?</strong></h2><ul><li> Para hacer propuestas, <strong>cualquier persona</strong>, empadronada o no, <strong>mayor de 16 a\u00f1os</strong>. Solo se admitir\u00e1 <strong>una propuesta por persona</strong>.</li><li> Para poder <strong>votar, personas empadronadas mayores de 16 a\u00f1os</strong>. Cada persona puede votar diferentes propuestas hasta agotar el l\u00edmite de 500.000 \u20ac.</li></ul><h2><strong>\u00bfQu\u00e9 propuestas pueden presentarse?</strong></h2><p>Necesariamente tienen que ser inversiones.</p><ul><li> Relacionadas con el espacio p\u00fablico o la mejora de equipaciones municipales.</li><li> De competencia municipal y sobre bienes de propiedad municipal.</li><li> Concretas y que den respuesta a una necesidad determinada.</li><li> Que cumplan la normativa vigente.</li><li> De inter\u00e9s general.</li><li> Viables t\u00e9cnicamente.</li></ul><h2><strong>\u00bfCu\u00e1l es el calendario?</strong></h2><ul><li>El Pleno del ayuntamiento aprueba este reglamento el 29 de julio del 2019.</li><li>Se pueden presentar las propuestas entre el 2 y el 15 de septiembre del 2019.</li><li>Se estudiar\u00e1n las propuestas entre el 16 de septiembre y el 27 de septiembre del 2019.</li><li>Se podr\u00e1n votar las propuestas entre el 7 y el 20 de octubre del 2019.</li><li>En noviembre, se incorporar\u00e1n las propuestas en el presupuesto propuesto por el 2020.</li></ul><p><br></p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>L'Ajuntament de Calafell convoca aquest any els seus tercers pressupostos participatius perqu\u00e8 la ciutadania vota una part de les inversions municipals de l'exercici 2020. Seran 500.000 \u20ac.</p><p><br></p><p><br></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p>El Ayuntamiento de Calafell convoca este a\u00f1o sus terceros presupuestos participativos porque la ciudadan\u00eda vote una parte de las inversiones municipales del ejercicio 2020. Ser\u00e1n 500.000 \u20ac.</p><p><br></p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Participaci\u00f3 Ciutadana "
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Participaci\u00f3n Ciudadana "
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><strong>Pressupostos Participatius 2020</strong></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p><strong>Presupuestos Participativos 2020</strong></p>"
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Inversions "
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Inversiones"
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupostos Participatius"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Presupuestos Participativos"
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "157",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Comunicacions per un Desenvolupament Sostenible"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Comunicaciones para un Desarrollo Sostenible"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "296",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Turisme Sostenible"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Turismo Sostenible"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "154",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Parcs i Jardins Sostenibles"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Parques y Jardines Sostenibles"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "295",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Fons Marins"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Fondo Marino"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "294",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Energia Renovable"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Energia Renovable"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "293",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Ajuts Socials"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Ayudas Sociales"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "292",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Desenvolupament Ambiental"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Desarrollo Ambiental"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "153",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Rehabilitaci\u00f3 ecol\u00f2gica"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Rehabilitaci\u00f3n ecol\u00f3gica"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "155",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Aparcaments"
+                            },
+                            {
+                                "locale": "es",
+                                "text": " Aparcamientos"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "156",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Pistes Esportives"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Pistas Deportivas"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "158",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Carrers i Vials"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Calles y Viales"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "159",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": " Patrimoni"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Patrimonio"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "160",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Espai per mascotes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Espacio para mascotas"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "161",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Platges"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Playas"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "162",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Gent Gran"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Gente mayor"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "163",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Joventut"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Juventud"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "164",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Habitatge Social"
+                            },
+                            {
+                                "locale": "es",
+                                "text": " Vivienda Social"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "165",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Espai P\u00fablic"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Espacio P\u00fablico"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "166",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": " Comer\u00e7"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Comercio"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "167",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Formaci\u00f3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Formaci\u00f3n"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Calafell"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Calafell"
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Alcaldia"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Alcaldia"
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 3
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 1
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 108
+                },
+                {
+                    "name": "projects_count",
+                    "value": 49
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 10
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": ""
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ciutadania"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Ciudadan\u00eda"
+                    }
+                ]
+            },
+            "attachments": [],
+            "components": [
+                {
+                    "id": "95",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes"
+                            },
+                            {
+                                "text": "Propuestas"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                },
+                {
+                    "id": "96",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Valoraci\u00f3"
+                            },
+                            {
+                                "text": "Valoraci\u00f3n"
+                            }
+                        ]
+                    },
+                    "weight": 3
+                },
+                {
+                    "id": "97",
+                    "__typename": "Budgets",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Votaci\u00f3"
+                            },
+                            {
+                                "text": "Votaci\u00f3n"
+                            }
+                        ]
+                    },
+                    "weight": 4
+                },
+                {
+                    "id": "98",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Resultat Votaci\u00f3"
+                            },
+                            {
+                                "text": "Resultado Votaci\u00f3n"
+                            }
+                        ]
+                    },
+                    "weight": 5
+                },
+                {
+                    "id": "100",
+                    "__typename": "Accountability",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Seguiment"
+                            },
+                            {
+                                "text": "Seguimiento"
+                            }
+                        ]
+                    },
+                    "weight": 6
+                },
+                {
+                    "id": "94",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Trobades"
+                            },
+                            {
+                                "text": "Encuentros"
+                            }
+                        ]
+                    },
+                    "weight": 7
+                },
+                {
+                    "id": "93",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Calendari"
+                            },
+                            {
+                                "text": "Calendario"
+                            }
+                        ]
+                    },
+                    "weight": 9
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.22.0",
+            "applicationName": "Decidim Calafell"
+        }
+    }
+}

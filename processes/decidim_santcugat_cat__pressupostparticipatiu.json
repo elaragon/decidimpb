@@ -1,0 +1,451 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "10",
+            "slug": "pressupostparticipatiu",
+            "hashtag": "PracticoCiutat",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2017-10-11T14:51:50+02:00",
+            "updatedAt": "2019-09-20T14:48:25+02:00",
+            "startDate": "2017-10-16",
+            "endDate": "2019-12-31",
+            "heroImage": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/participatory_process/hero_image/10/275x128.jpg",
+            "bannerImage": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/participatory_process/banner_image/10/888x124.jpg",
+            "reference": "SCG-PART-2017-10-10",
+            "promoted": false,
+            "showMetrics": true,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupost Participatiu 2018-2019"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ja tenim els 10 projectes m\u00e9s votats!!"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><img border=\"0\" data-original-height=\"452\" data-original-width=\"758\" src=\"https://2.bp.blogspot.com/-YjsXns9sHos/W4kyq1URaZI/AAAAAAAAA9E/MHR-t5ntpZ4wKHkp1j3KBQiVpiVucy0_QCLcBGAs/s1600/monografic_pressupostos_participatius.jpg\"></p><p><br></p><p><img border=\"0\" data-original-height=\"757\" data-original-width=\"1112\" height=\"434\" src=\"https://2.bp.blogspot.com/-59GaFIGFAU4/WthhaCIZE4I/AAAAAAAAAww/e62jdqh9KjIJohjxY7ofL7okbR7e-KVlACLcBGAs/s640/Resum%2Bdel%2Bproc%25C3%25A9s.jpg\" width=\"640\"></p><h4>Fases:</h4><ul><li>Fase 0: Elaboraci\u00f3 de les normes de funcionament (Consell de Ciutat)</li><li>Fase 1: Recollida de propostes i suports (del 23 d'octubre al 12 de novembre de 2017)</li><li>Fase 2: Validaci\u00f3 t\u00e8cnica de les propostes que han obtingut un m\u00ednim de 5 suports</li><li>Fase 3: Tallers de debat ciutad\u00e0: 5 tallers de ciutat i 5 de barri (gener-febrer 2018)</li><li><strong>Fase 4: Votaci\u00f3 de les 30 propostes finalistes (del 23 d'abril al 17 de juny de 2018)</strong></li><li>Fase 5: Execuci\u00f3 de les 10 propostes m\u00e9s votades (2018-19)</li></ul><p><br></p><p>La segona edici\u00f3 dels pressupostos participatius va comen\u00e7ar a l'octubre del 2017 amb la recollida de propostes. <strong>De les 300 propostes que es van recollir</strong>, les que comptaven amb 5 suports van passar a la fase de validaci\u00f3 t\u00e8cnica. Finalment, <strong>151 propostes viables es van portar als tallers de debat ciutad\u00e0</strong>, on <strong>es van prioritzar les 30 propostes que es van portar a votaci\u00f3</strong>.</p><p>Les votacions es van fer entre el 23 d\u2019abril i el 17 de juny, tant en paper com on line. Hi podien participar totes les persones empadronades a Sant Cugat a partir de 14 anys.</p><p>En aquesta segona edici\u00f3 dels Pressupostos Participatius, cada persona podia escollir fins a 5 propostes de ciutat (dotades amb un m\u00e0xim de 300.000 \u20ac) i fins a 5 propostes de barri (dotades amb un m\u00e0xim de 80.000 \u20ac).</p><p><strong>En total, es van escollir 10 projectes</strong>: els 5 m\u00e9s votats en la categoria de ciutat i el m\u00e9s votat de cada un dels 5 barris.</p><p>Per resoldre qualsevol dubte, pots enviar un correu a <a href=\"mailto:participacio@santcugat.cat\" target=\"_blank\">participacio@santcugat.cat</a> o trucar al tel\u00e8fon 935657000</p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>La segona edici\u00f3 dels Pressupostos Participatius de Sant Cugat ja t\u00e9 guanyadors! S\u00f3n 10 projectes (5 de ciutat i 5 de barri) que hem triat entre tots i totes. Ara comencem a treballar per fer-los realitat!</p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ajuntament de Sant Cugat"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "2 milions d'euros en inversions municipals per al per\u00edode 2018-19"
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "124",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Benestar i Ciutadania"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "125",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Educaci\u00f3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "126",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Innovaci\u00f3"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "127",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Cultura"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "128",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Altres"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "120",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Mobilitat"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "121",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Medi Ambient"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "122",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Esports"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "123",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Espai P\u00fablic"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "115",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Centre Est"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "116",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Centre Oest"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "117",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Mira-sol"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "118",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "La Floresta"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "119",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Les Planes"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "101",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Projecte de Barri (fins 80.000 Euros)"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "100",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Projecte de Ciutat (fins 300.000 Euros)"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Alcaldia - Comissionat de Participaci\u00f3 Ciutadana participacio@santcugat.cat"
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 2
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 0
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 0
+                },
+                {
+                    "name": "projects_count",
+                    "value": 30
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 10
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Tots els ve\u00efns i ve\u00efnes de Sant Cugat a partir de 14 anys"
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/132/Resultats_votacions_Pressupostos_Participatius_2018_web_v3.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/101/Butlletes_de_votaci%C3%B3.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/43/Normes_de_funcionament_del_Pressupost_Participatiu_2018-19.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/102/Informe_dels_tallers_de_debat_ciutad%C3%A0.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "44",
+                    "__typename": "Budgets",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Projectes de Ciutat"
+                            }
+                        ]
+                    },
+                    "weight": 20
+                },
+                {
+                    "id": "45",
+                    "__typename": "Budgets",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Projectes de Barri"
+                            }
+                        ]
+                    },
+                    "weight": 30
+                },
+                {
+                    "id": "93",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Projectes guanyadors"
+                            }
+                        ]
+                    },
+                    "weight": 40
+                },
+                {
+                    "id": "139",
+                    "__typename": "Accountability",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Estat d'execuci\u00f3 dels projectes"
+                            }
+                        ]
+                    },
+                    "weight": 50
+                },
+                {
+                    "id": "89",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "V\u00eddeo dels projectes 2016-17"
+                            }
+                        ]
+                    },
+                    "weight": 1000
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.22.0",
+            "applicationName": "Decidim Sant Cugat"
+        }
+    }
+}

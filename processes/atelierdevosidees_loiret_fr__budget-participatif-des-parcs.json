@@ -1,0 +1,292 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "7",
+            "slug": "budget-participatif-des-parcs",
+            "hashtag": "budgetparcs",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2018-05-22T15:08:48+00:00",
+            "updatedAt": "2019-07-31T14:55:07+00:00",
+            "startDate": "2018-06-01",
+            "endDate": "2019-12-31",
+            "heroImage": "/uploads/decidim/participatory_process/hero_image/7/image-page-budget-parcs.jpg",
+            "bannerImage": "/uploads/decidim/participatory_process/banner_image/7/image-entete3-budgetparcs.jpg",
+            "reference": "CD45-PART-2018-05-7",
+            "promoted": false,
+            "showMetrics": true,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Budget participatif des parcs"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Vos id\u00e9es et vos projets pour construire ensemble les parcs d\u00e9partementaux du Loiret"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "<h5><br></h5><h5><strong>C'est quoi le budget participatif ?</strong></h5><h6>Le budget participatif permet d\u2019impliquer concr\u00e8tement les citoyens dans la vie active de l\u2019Administration Publique. </h6><h6>Le D\u00e9partement du Loiret entend ainsi vous donner  le pouvoir de proposer, voter et donc d\u00e9cider de projets qu'il finance et r\u00e9alisera ensuite.</h6><h4><br></h4><h5><strong>1 &gt; VOUS PROPOSEZ</strong> : du 1er au 30 juin 2018</h5><h6>Vous avez des id\u00e9es pour am\u00e9liorer le ou les parcs d\u00e9partementaux, partagez-les sur cette plateforme. </h6><h6>Vous pouvez \u00e9galement commenter ou compl\u00e9ter l\u2019id\u00e9e d\u2019un ou d\u2019une autre.</h6><h6>Les id\u00e9es peuvent \u00eatre d\u00e9pos\u00e9es par des individuels, des collectifs, des associations ou des entreprises.</h6><h6><br></h6><h5><strong>2 &gt; NOUS ETUDIONS :</strong> du 1er juillet au 30 septembre 2018</h5><h6>Tous les projets propos\u00e9s seront analys\u00e9s par le D\u00e9partement afin d\u2019\u00e9valuer leur faisabilit\u00e9 technique, juridique, et financi\u00e8re.</h6><h6>La liste des projets sera pr\u00e9sent\u00e9e \u00e0 un comit\u00e9 de s\u00e9lection compos\u00e9 des \u00e9lus du D\u00e9partement, d\u2019associations, de citoyens et de m\u00e9dias partenaires.</h6><h6>Ce comit\u00e9 validera la liste. Les projets seront ensuite d\u00e9voil\u00e9s et propos\u00e9s au vote.</h6><h6><br></h6><h5><strong>3 &gt; VOUS VOTEZ :</strong> du 1er au 31 octobre 2018</h5><h6>Vous pouvez voter pour autant de projets que vous le souhaitez mais <strong>vous devez au moins atteindre 70% du budget total soit</strong> <strong>56 000\u20ac</strong>.</h6><h6>Sur la page d\u00e9di\u00e9e aux votes<strong>, une jauge</strong> <strong>vous permet de suivre le pourcentage</strong> du budget que vous d\u00e9pensez.<strong> </strong></h6><h6><br></h6><h5><strong>En savoir + : </strong></h5><h6>&gt;&gt; Vous pouvez conna\u00eetre le <strong>d\u00e9tail des \u00e9tapes</strong> en visitant <a href=\"https://atelierdevosidees.loiret.fr/processes/budget-participatif-des-parcs/steps\" target=\"_blank\"><strong>cette page</strong></a><strong> </strong></h6>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "<p>Avec ce premier budget participatif, le D\u00e9partement souhaite vous impliquer plus encore dans les d\u00e9cisions concernant votre territoire. Un<strong> budget de 80 000\u20ac</strong> est disponible pour r\u00e9aliser vos projets. Objectif :  rendre les 7 parcs naturels d\u00e9partementaux encore plus attractifs. <strong>32 projets ont \u00e9t\u00e9 retenus</strong> parmi les 92 propos\u00e9s et 9 ont finalement recueillis la majorit\u00e9 des suffrages lors du vote. Ces 9 projets sont <strong>actuellement </strong><a href=\"https://atelierdevosidees.loiret.fr/processes/budget-participatif-des-parcs/f/20/results?utf8=%E2%9C%93&amp;filter%5Bsearch_text%5D=\" target=\"_blank\"><strong>en cours de r\u00e9alisation</strong></a><strong>.</strong></p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Conseil d\u00e9partemental du Loiret"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "<p><strong>Merci de votre participation ! </strong>Vous pouvez suivre la r\u00e9alisation des 9 projets retenus sur cette plateforme.</p>"
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "R\u00e9alisation de nouveaux projets dans les parcs naturels d\u00e9partementaux afin de les rendre plus attractifs"
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Tou(te)s les Loir\u00e9tain(e)s peuvent d\u00e9poser des id\u00e9es ou projets et pourront voter pour leurs projets pr\u00e9f\u00e9r\u00e9s"
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "6",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Am\u00e9nagement des parcs"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "8",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Mise s\u00e9curit\u00e9 des parcs"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "7",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Biodiversit\u00e9 dans les parcs"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "9",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Activit\u00e9s pour faire vivre les parcs"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Loiret"
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Les parcs d\u00e9partementaux"
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 1
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 0
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 156
+                },
+                {
+                    "name": "projects_count",
+                    "value": 32
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 38
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Les Loir\u00e9tain(e)s et tous ceux ou celles qui se sentent concern\u00e9(e)s par le Loiret "
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "/uploads/decidim/attachment/file/22/resultats-vote-budget-parcs2018.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/5/Reglement_Budget_participatif_2018_V2.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/6/depliant-budget-particpatif-28052018.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "20",
+                    "__typename": "Accountability",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "9 projets en cours de r\u00e9alisation"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                },
+                {
+                    "id": "19",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "9 projets laur\u00e9ats"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                },
+                {
+                    "id": "18",
+                    "__typename": "Budgets",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Les 32 projets soumis"
+                            }
+                        ]
+                    },
+                    "weight": 3
+                },
+                {
+                    "id": "14",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "92 propositions"
+                            }
+                        ]
+                    },
+                    "weight": 4
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.22.0",
+            "applicationName": "D\u00e9partement du Loiret"
+        }
+    }
+}

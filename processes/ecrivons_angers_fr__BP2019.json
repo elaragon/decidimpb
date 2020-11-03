@@ -1,0 +1,393 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "37",
+            "slug": "BP2019",
+            "hashtag": "",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2019-01-18T11:25:52+01:00",
+            "updatedAt": "2020-09-23T18:47:15+02:00",
+            "startDate": "2019-01-29",
+            "endDate": "2019-12-31",
+            "heroImage": "https://ecrivons.angers.fr/uploads/decidim/participatory_process/hero_image/37/vignette-budget-participatif2019_800x800_v2.jpg",
+            "bannerImage": "https://ecrivons.angers.fr/uploads/decidim/participatory_process/banner_image/37/BANDEAU_PAGE_1380x535.jpg",
+            "reference": "Angers-PART-2019-01-37",
+            "promoted": false,
+            "showMetrics": false,
+            "scopesEnabled": false,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "BUDGET PARTICIPATIF 2019"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "VOS ID\u00c9ES POUR CONSTRUIRE ANGERS ENSEMBLE"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "<h4><strong>Qui peut participer ?</strong></h4><p>Les Angevins et Angevines, \u00e0 partir de 11 ans, peuvent d\u00e9poser jusqu'\u00e0 3 id\u00e9es, voter et commenter une id\u00e9e en s\u2019inscrivant sur la plateforme <a href=\"https://ecrivons.angers.fr/uploads/decidim/attachment/file/326/CCM_-_s_inscrire2.pdf\" target=\"_blank\"><strong><u>ecrivons.angers.fr.</u></strong></a></p><p>Les id\u00e9es peuvent \u00eatre d\u00e9pos\u00e9es par des individuels, des collectifs, des associations ou des entreprises jusqu'au 30 avril.</p><p>Vos id\u00e9es restent les v\u00f4tres \u00e0 toutes les \u00e9tapes du budget participatif. Elles auront besoin de vous pour \u00eatre affin\u00e9es, pr\u00e9cis\u00e9es, rendues faisables, soumises au vote et mises en oeuvre. Il faut donc pr\u00e9voir d'y consacrer un peu de temps.</p><h4><strong>Comment \u00e7a marche ?</strong></h4><p>Pour savoir quels types d'id\u00e9es peuvent \u00eatre recevables et conna\u00eetre les \u00e9tapes depuis le d\u00e9p\u00f4t de l'id\u00e9e jusqu'\u00e0 la mise en&nbsp;\u0153uvre du projet,<strong> </strong><a href=\"https://ecrivons.angers.fr/uploads/decidim/attachment/file/361/depliant-budget-participatif-A5-BD.pdf\" target=\"_blank\"><strong><u>consultez le mode d'emploi</u></strong></a></p><p>Vous pouvez \u00e9galement <a href=\"https://ecrivons.angers.fr/processes/BP2018/f/30/proposals?utf8=%E2%9C%93&amp;filter%5Bsearch_text%5D=&amp;filter%5Borigin%5D=&amp;filter%5Borigin%5D=all&amp;filter%5Bstate%5D=&amp;filter%5Bstate%5D=all&amp;filter%5Brelated_to%5D=&amp;filter%5Brelated_to%5D=&amp;filter%5Bcategory_id%5D=&amp;order=random\" target=\"_blank\"><strong><u>consulter les propositions retenues et non retenues</u></strong></a> lors de l'\u00e9dition 2018.</p><p>Cette ann\u00e9e, le budget participatif va laisser une place importante au \"v\u00e9g\u00e9tal\". Les projets qui portent sur la v\u00e9g\u00e9talisation de la Ville feront l'objet d'un vote sp\u00e9cifique : vous voterez pour vos 2 projets pr\u00e9f\u00e9r\u00e9s parmi vos 5 choix</p><h4><strong>Pour notre budget participatif, la th\u00e9matique du \u00ab&nbsp;v\u00e9g\u00e9tal&nbsp;\u00bb, c\u2019est quoi&nbsp;?</strong></h4><p>Le v\u00e9g\u00e9tal en ville ne se r\u00e9duit plus \u00e0 une simple fonction ornementale&nbsp;: il ne s\u2019agit pas seulement d\u2019embellir la ville, c\u2019est devenu un v\u00e9ritable enjeu strat\u00e9gique&nbsp;pour notre cit\u00e9 et ses habitants&nbsp;:</p><ul><li>Le v\u00e9g\u00e9tal, \u00e7a se partage&nbsp;: c\u2019est un enjeu de d\u00e9veloppement du lien social et de nouvelles pratiques qui nous rassemblent (exemples&nbsp;: jardins partag\u00e9s, initiatives collectives autour du v\u00e9g\u00e9tal...),</li><li>&nbsp;Le v\u00e9g\u00e9tal, \u00e7a se mange&nbsp;: c\u2019est un enjeu de d\u00e9veloppement territorial \u00e9quilibr\u00e9 puisqu\u2019en ville aussi le v\u00e9g\u00e9tal peut \u00eatre nourricier (exemples&nbsp;: vergers urbains en libre cueillette, agriculture urbaine...),</li><li>&nbsp;Le v\u00e9g\u00e9tal, \u00e7a se prot\u00e8ge&nbsp;: c\u2019est un enjeu de responsabilit\u00e9 citoyenne puisque le v\u00e9g\u00e9tal nous prot\u00e8ge tant que nous savons le prot\u00e9ger (exemples&nbsp;: protection des insectes pollinisateurs, alternatives aux produits phytosanitaires...).</li></ul><p>Pour r\u00e9pondre \u00e0 ces enjeux, j\u2019agis, je donne et je porte une id\u00e9e&nbsp;!</p><h4><strong>Une question ?</strong></h4><p><a href=\"https://ecrivons.angers.fr/pages/contacts\" target=\"_blank\"><strong><u>Contactez-nous</u></strong></a></p><h4>La r\u00e9alisation des 16 projets laur\u00e9ats 2018, est en cours ! <a href=\"https://ecrivons.angers.fr/processes/BP2018/f/137/results?utf8=%E2%9C%93&amp;filter%5Bsearch_text%5D=\" target=\"_blank\"><u>Suivez l'\u00e9tat d'avanc\u00e9e</u></a> de la mise en \u0153uvre.</h4>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "<p>Forte de la r\u00e9ussite du 1er budget participatif d'Angers en 2018, aussi bien en termes de participation que de qualit\u00e9 des projets propos\u00e9s, la Municipalit\u00e9 a d\u00e9cid\u00e9 de reconduire cette d\u00e9marche en 2019. </p><p>Vous pouvez donc d'ores et d\u00e9j\u00e0 et ce jusqu'au 30 avril <a href=\"https://ecrivons.angers.fr/processes/BP2019/f/138/\" target=\"_blank\"><u>d\u00e9poser sur cette plateforme</u></a> vos propositions d'investissement (c'est \u00e0 dire travaux d'am\u00e9nagement ou de construction, achat de gros mat\u00e9riel ou mobilier) jusqu'au 30 avril. Celles qui seront jug\u00e9es r\u00e9alisables par les services municipaux seront ensuite soumises au vote de tous les Angevins. Les projets qui auront recueilli le plus de voix, jusqu'\u00e0 hauteur d'1 millions d'euros, seront alors mis en oeuvre par la Ville dans les 2 ans.</p><iframe class=\"ql-video\" allowfullscreen=\"true\" src=\"https://player.vimeo.com/video/314026378/\" frameborder=\"0\"></iframe><p><br></p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": ""
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "<p>Du <strong>1er au 21 octobre</strong> vous avez \u00e9t\u00e9 <strong>9498</strong> \u00e0 d\u00e9cider des projets que la Ville va mettre en oeuvre avec l'enveloppe d'un million d'euros d\u00e9di\u00e9e en votant pour vos <strong>5 projets favoris</strong> propos\u00e9s par les Angevins dont <strong>2 minimum dans la cat\u00e9gorie v\u00e9g\u00e9tal.</strong></p><p>Les r\u00e9sultats du vote ont \u00e9t\u00e9 annonc\u00e9 le 13 novembre.Les <strong>projets laur\u00e9ats</strong> et les<strong> r\u00e9sultats d\u00e9taill\u00e9s </strong>sont disponibles <a href=\"https://ecrivons.angers.fr/processes/BP2019/f/140/\" target=\"_blank\"><strong><u>ICI</u></strong></a></p><p>Retrouvez le catalogue des 48 projets soumis au vote<a href=\"https://ecrivons.angers.fr/uploads/decidim/attachment/file/634/Catalogue_des_48_projets.pdf\" target=\"_blank\"><strong> <u>ICI</u></strong></a></p><p>Comment s'inscrire sur Ecrivons.angers.fr pour \u00eatre inform\u00e9 et contribuer aux d\u00e9marches participatives de la Ville d'Angers ?</p><p><u>Regardez la vid\u00e9o explicative</u></p><iframe class=\"ql-video\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/3GzC8SOZOik?showinfo=0\" frameborder=\"0\"></iframe><p><br></p>"
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "R\u00e9alisation de nouveaux projets propos\u00e9s par les Angevins et Angevines pour un montant d\u20191 million d\u2019euros."
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Les Angevins et Angevines de plus de 11 ans voteront pour leurs 5 projets pr\u00e9f\u00e9r\u00e9s dont 2 de la th\u00e9matique v\u00e9g\u00e9tale"
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "78",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "V\u00e9g\u00e9tal "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "100",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Eco-citoyennet\u00e9"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "101",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Confort et embellissement de la ville"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "102",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Loisirs, sport, \u00e9ducation"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "103",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Culture et rayonnement de la ville"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Toute la ville d'Angers"
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 1
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 0
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 314
+                },
+                {
+                    "name": "projects_count",
+                    "value": 48
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 12
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "A vous de voter !"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Consultez "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Consultez"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Les Angevins et Angevines de plus de 11 ans \u00e0 titre individuel ou collectif (collectifs d'habitants, des associations, des entreprises...)"
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/361/depliant-budget-participatif-A5-BD.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/574/kitcomBP-A4-word.docx",
+                    "type": "docx",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/575/kitcomBP-A4.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/576/kit-com-budget-participatif-A3.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/577/kit-com-budget-participatif-A3.jpg",
+                    "type": "jpg",
+                    "thumbnail": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/577/thumbnail_kit-com-budget-participatif-A3.jpg"
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/578/kitcomBP-A5-word.docx",
+                    "type": "docx",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/579/kitcomBP-A5.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/580/PPT-kit-com-budget-participatif.pptx",
+                    "type": "pptx",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/581/GUIDE-COM-A5-BD.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/582/A3-word.docx",
+                    "type": "docx",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/633/Planning_global_plateforme.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/634/Catalogue_des_48_projets.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/682/R%C3%A9sultats_du_vote.VDpdf-fusionn%C3%A9.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/693/r%C3%A8glement_2019_chart%C3%A9.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "138",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "\ud83d\udca1Les 314 id\u00e9es d\u00e9pos\u00e9es"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                },
+                {
+                    "id": "139",
+                    "__typename": "Budgets",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "\ud83d\uddf3\ufe0fLes 48 projets soumis au vote"
+                            }
+                        ]
+                    },
+                    "weight": 4
+                },
+                {
+                    "id": "140",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "\ud83c\udfc6Les 12 projets laur\u00e9ats"
+                            }
+                        ]
+                    },
+                    "weight": 6
+                },
+                {
+                    "id": "144",
+                    "__typename": "Accountability",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "\ud83d\udea7R\u00c9ALISATION DES PROJETS LAUR\u00c9ATS"
+                            }
+                        ]
+                    },
+                    "weight": 7
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.23.0.dev",
+            "applicationName": "Participation citoyenne Ville d'Angers"
+        }
+    }
+}

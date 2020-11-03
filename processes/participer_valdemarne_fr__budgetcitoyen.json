@@ -1,0 +1,585 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "4",
+            "slug": "budgetcitoyen",
+            "hashtag": "",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2019-07-10T13:01:28+00:00",
+            "updatedAt": "2020-10-01T12:47:26+00:00",
+            "startDate": "2019-10-23",
+            "endDate": "2020-12-31",
+            "heroImage": "https://participer.valdemarne.fr/uploads/decidim/participatory_process/hero_image/4/CD94_Vote_Plateforme_1000x666_V2_-_Carr%C3%A9.jpg",
+            "bannerImage": "https://participer.valdemarne.fr/uploads/decidim/participatory_process/banner_image/4/CD94_Vote_Plateforme_1800x1200_V2_-_Banniere.jpg",
+            "reference": "cd94-PART-2019-07-4",
+            "promoted": true,
+            "showMetrics": true,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Budget citoyen"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Imaginez les parcs d\u00e9partementaux de demain !"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "<h4><br></h4><h4><strong>Le budget citoyen, c\u2019est quoi ? </strong></h4><p>Il s\u2019agit d\u2019une d\u00e9marche d\u00e9mocratique o\u00f9 les citoyennes et citoyens sont plac\u00e9s au c\u0153ur du dispositif de participation. Les Val-de-Marnais et les Val-de-Marnaises ont ainsi la possibilit\u00e9 de proposer et de choisir des projets mis en place dans les parcs et les espaces naturels d\u00e9partementaux.</p><p>Cette \u00e9dition du budget citoyen porte sur l\u2019\u00e9cologie et le vivre-ensemble dans les parcs. Il intervient en compl\u00e9ment d'une concertation sur le programme d\u2019animation dans les parcs d\u00e9partementaux qui a eu lieu \u00e0 l\u2019\u00e9t\u00e9 2019 et que vous pouvez retrouver <a href=\"https://participer.valdemarne.fr/processes/parcs\" target=\"_blank\">sur cette page</a>. Les deux dispositifs se compl\u00e8tent afin de nous permettre de mieux r\u00e9pondre aux attentes de la population concernant les parcs d\u00e9partementaux.</p><iframe class=\"ql-video\" allowfullscreen=\"true\" src=\"https://player.vimeo.com/video/368747310/\" frameborder=\"0\"></iframe><p><br></p><h4><strong>Le budget citoyen en 3 \u00e9tapes</strong></h4><ul><li><strong>Vous </strong><a href=\"https://participer.valdemarne.fr/processes/budgetcitoyen/f/43/\" target=\"_blank\"><strong>proposez vos id\u00e9es</strong></a> jusqu\u2019au 31 d\u00e9cembre 2019</li><li><a href=\"https://participer.valdemarne.fr/processes/budgetcitoyen/f/78/\" target=\"_blank\"><strong>Vous votez</strong></a><strong> </strong>du 1er juillet au 20 ao\u00fbt</li><li><strong>Nous r\u00e9alisons</strong> vos projets</li></ul><p><br></p><h4><strong>Qui peut participer&nbsp;? </strong></h4><p>L\u2019ensemble des Val-de-Marnais et des Val-de-Marnaises, \u00e0 partir de 11 ans et sans condition de nationalit\u00e9, peuvent d\u00e9poser une ou plusieurs id\u00e9es. Le d\u00e9p\u00f4t d\u2019id\u00e9es est \u00e9galement ouvert \u00e0 celles et ceux qui travaillent et \u00e9tudient dans le D\u00e9partement. Le d\u00e9p\u00f4t d\u2019id\u00e9es n\u2019est pas accessible aux associations.</p><h4><br></h4><h4><strong>Comment d\u00e9poser son id\u00e9e ?</strong></h4><p><strong>3 possibilit\u00e9s&nbsp;: </strong></p><ul><li>En ligne <a href=\"https://participer.valdemarne.fr/processes/budgetcitoyen/f/43/\" target=\"_blank\">sur cette plateforme</a>,</li><li>Lors des <a href=\"https://participer.valdemarne.fr/processes/budgetcitoyen/f/41/\" target=\"_blank\">rencontres citoyennes</a>,</li><li>Dans les accueils de certains parcs et \u00e9quipements d\u00e9partementaux </li></ul><p>&nbsp;</p><h4><strong>Comment les id\u00e9es seront-elles s\u00e9lectionn\u00e9es ? </strong></h4><p><strong>Pour \u00eatre \u00e9ligibles les id\u00e9es devront&nbsp;:</strong></p><ul><li>Avoir une dimension \u00e9cologique et contribuer \u00e0 favoriser le vivre ensemble</li><li>Servir l\u2019int\u00e9r\u00eat g\u00e9n\u00e9ral et b\u00e9n\u00e9ficier au plus grand nombre</li><li>Permettre \u00e0 tous et toutes d\u2019en b\u00e9n\u00e9ficier gratuitement</li><li>Concerner une d\u00e9pense d\u2019investissement (construction, am\u00e9nagement) dans un ou plusieurs des <a href=\"https://participer.valdemarne.fr/processes/budgetcitoyen/f/49/\" target=\"_blank\">16 parcs d\u00e9partementaux</a></li><li>\u00catre r\u00e9alisable techniquement et juridiquement par le D\u00e9partement dans un d\u00e9lai de deux ans</li></ul><p>&nbsp;</p><h4>Comment ont \u00e9t\u00e9 \u00e9tudi\u00e9es les propositions ?</h4><p>Avant d\u2019\u00eatre soumises au vote, la faisabilit\u00e9 technique et r\u00e9glementaire des id\u00e9es sera \u00e9tudi\u00e9e. Accompagn\u00e9 par les services d\u00e9partementaux, un Labo citoyen, compos\u00e9 de jeunes du Val-de-Marne de 18 \u00e0 25 ans, travaillera \u00e9galement avec les porteurs et porteuses d\u2019id\u00e9es afin qu\u2019un maximum de proposition soient retenues. Retrouvez <a href=\"https://participer.valdemarne.fr/processes/budgetcitoyen/f/79/\" target=\"_blank\">sur cette page</a> le d\u00e9tail de ce travail et l'\u00e9volution des diff\u00e9rentes propositions.</p><h4><br></h4><h4>Comment voter ?</h4><p><em>Tous les Val-de-Marnais et Val-de-Marnaises, \u00e0 partir de 11 ans, peuvent voter&nbsp;! </em></p><p>Il est possible de <a href=\"https://participer.valdemarne.fr/processes/budgetcitoyen/f/78/\" target=\"_blank\">voter directement en ligne</a> sur la plateforme de participation num\u00e9rique du D\u00e9partement&nbsp;! Vous pouvez y retrouver toutes les informations sur la d\u00e9marche, les 122 projets soumis au vote, et voter pour vos 5 projets pr\u00e9f\u00e9r\u00e9s. (<em>Attention, il est n\u00e9cessaire de vous cr\u00e9er un compte&nbsp;: </em><a href=\"https://participer.valdemarne.fr/users/sign_up\" target=\"_blank\"><em>c\u2019est par ici&nbsp;!</em></a><em>&nbsp;\u00bb)</em></p><p>Vous pouvez \u00e9galement voter <a href=\"https://participer.valdemarne.fr/processes/budgetcitoyen/f/41/\" target=\"_blank\">lors de l\u2019une des animations pr\u00e9vues ou dans l\u2019un des bureaux de vote install\u00e9s sur le territoire</a>.</p><h4><br></h4><h4><strong>Que deviennent les projets laur\u00e9ats ?</strong></h4><p>A l'issue du vote, les projets laur\u00e9ats seront annonc\u00e9s sur cette plateforme et via les canaux habituels du D\u00e9partement. Il sera possible de suivre l'avancement des r\u00e9alisations sur une page d\u00e9di\u00e9e \u00e0 partir de septembre 2020.</p><p><br></p><p><strong>Vous avez des questions sur le budget citoyen et les modalit\u00e9s de participation ? </strong></p><p>Contactez-nous :</p><ul><li>par email \u00e0 l'adresse suivante :  participer[at]valdemarne.fr </li><li>par t\u00e9l\u00e9phone au 3994</li><li>via le <a href=\"https://www.valdemarne.fr/contact\" target=\"_blank\">formulaire de contact</a></li></ul>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "<p><strong>Vos id\u00e9es, vos choix, votre Val-de-Marne</strong></p><p><span class=\"ql-cursor\">\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff\ufeff</span>Le Conseil d\u00e9partemental du Val-de-Marne propose aux habitants et aux habitantes, d\u00e8s 11 ans, de soumettre leurs id\u00e9es pour imaginer les parcs d\u00e9partementaux de demain. Une enveloppe de 2,5 millions d\u2019euros est allou\u00e9e \u00e0 la r\u00e9alisation des projets retenus par les citoyennes et citoyens.</p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Conseil d\u00e9partemental du Val-de-Marne"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Proposez vos id\u00e9es, puis votez pour vos projets pr\u00e9f\u00e9r\u00e9s"
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "41",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Biodiversit\u00e9 pr\u00e9serv\u00e9e dans nos parcs"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "42",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Culture et d\u00e9tente en plein air"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "43",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Energies renouvelables"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "44",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Espaces de convivialit\u00e9 retrouv\u00e9s"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "45",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Jeux d'enfants et jeux de fra\u00eecheur"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "46",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Lieux \u00e9co-partag\u00e9s"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "47",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Place des animaux dans nos parcs"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "48",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Sensibilisation des publics \u00e0 l'\u00e9cologie et au vivre-ensemble"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "49",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Sport et activit\u00e9s physiques pour tous.tes"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": {
+                "id": "73",
+                "name": {
+                    "translations": [
+                        {
+                            "locale": "fr",
+                            "text": "Les parcs du budget citoyen"
+                        }
+                    ]
+                },
+                "children": [
+                    {
+                        "id": "86",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Parc du Rancy (Bonneuil-sur-Marne)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "89",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Coul\u00e9e verte Bi\u00e8vre-Lilas"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "82",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Parc des Lilas (Vitry-sur-Seine)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "90",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "\ud83c\udf3f Cette proposition porte sur plusieurs parcs"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "87",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Parc Petit-le-Roy (Chevilly-Larue)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "85",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Parc du Plateau (Champigny-sur-Marne)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "84",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Parc du Morbras (Sucy-en-Brie)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "83",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Parc du Coteau de Bi\u00e8vre (Arcueil et Gentilly)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "88",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Parc du Champ-Saint-Julien (Valenton)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "81",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Parc des Hautes-Bruy\u00e8res (Villejuif)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "80",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Parc des Cormailles (Ivry-sur-Seine)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "79",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Parc de la Saussaie-Pidoux (Villeneuve-Saint-Georges)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "76",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Parc de la Roseraie du Val-de-Marne (l'Ha\u00ff-les-Roses)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "78",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Parc de la Plage Bleue (Valenton)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "75",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Espace naturel de la Plaine des Bordes (Chennevi\u00e8res-sur-Marne)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "74",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Espace naturel de la Pierre-Fitte (Villeneuve-le-Roi)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "77",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "fr",
+                                    "text": "Domaine des Marmousets (La-Queue-en-Brie)"
+                                }
+                            ]
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Val-de-Marne"
+                    }
+                ]
+            },
+            "stats": null,
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "D\u00e9poser une id\u00e9e"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Votez"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "En savoir plus"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Toutes les personnes qui habitent, \u00e9tudient et travaillent dans le Val-de-Marne, ) partir de 11 ans"
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "https://participer.valdemarne.fr/uploads/decidim/attachment/file/17/CD94_Budget_citoyen_Depliant_Vweb2.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://participer.valdemarne.fr/uploads/decidim/attachment/file/15/CD94_Budget_citoyen_Reglement_V1b.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://participer.valdemarne.fr/uploads/decidim/attachment/file/25/CD94_190917_Budget_Participatif_carte_EXE.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://participer.valdemarne.fr/uploads/decidim/attachment/file/57/LABO_citoyen_Val_de_Marne_-_Flyer.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://participer.valdemarne.fr/uploads/decidim/attachment/file/59/CD94_200629_Budget_citoyen_Vote_Depliant_Vweb2.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://participer.valdemarne.fr/uploads/decidim/attachment/file/60/Avis_citoyen_VF.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://participer.valdemarne.fr/uploads/decidim/attachment/file/61/R%C3%A9sultats_des_votes_pour_public.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "88",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Les 51 Projets Laur\u00e9ats"
+                            }
+                        ]
+                    },
+                    "weight": 1
+                },
+                {
+                    "id": "86",
+                    "__typename": "Accountability",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "R\u00e9alisation des projets laur\u00e9ats"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                },
+                {
+                    "id": "78",
+                    "__typename": "Budgets",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Les 122 projets soumis au vote"
+                            }
+                        ]
+                    },
+                    "weight": 3
+                },
+                {
+                    "id": "43",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Les 487 propositions d\u00e9pos\u00e9es"
+                            }
+                        ]
+                    },
+                    "weight": 4
+                },
+                {
+                    "id": "79",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Le Labo citoyen et le travail sur les propositions"
+                            }
+                        ]
+                    },
+                    "weight": 5
+                },
+                {
+                    "id": "49",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Liste des parcs concern\u00e9s"
+                            }
+                        ]
+                    },
+                    "weight": 6
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.22.0",
+            "applicationName": "participer.valdemarne.fr"
+        }
+    }
+}

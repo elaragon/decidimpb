@@ -1,0 +1,254 @@
+{
+    "data": {
+        "participatoryProcess": {
+            "id": "15",
+            "slug": "consellbarrilafloresta",
+            "hashtag": "decidimlafloresta",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2018-02-15T11:35:46+01:00",
+            "updatedAt": "2019-09-20T14:42:32+02:00",
+            "startDate": "2018-02-05",
+            "endDate": "2018-04-29",
+            "heroImage": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/participatory_process/hero_image/15/Twitter.jpg",
+            "bannerImage": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/participatory_process/banner_image/15/Banner_decidim.jpg",
+            "reference": "SCG-PART-2018-02-15",
+            "promoted": false,
+            "showMetrics": true,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Decidim el pressupost del Consell de Barri de La Floresta 2018"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Vota del 26 de febrer al 4 mar\u00e7"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<h4>Qu\u00e8 \u00e9s el Consell de Barri?</h4><p>\u00c9s l'espai de participaci\u00f3 m\u00e9s proper als ciutadans i ciutadanes. L'objectiu \u00e9s implicar el ve\u00efnat, col\u00b7lectius, associacions i entitats en la millora del funcionament del barri i la seva gesti\u00f3.</p><h4>Qu\u00e8 \u00e9s la partida de lliure disposici\u00f3?</h4><p>El Consell de Barri disposa d'un pressupost de lliure disposici\u00f3 de 90.000 Euros per a l'any 2018. D'aquests, 82.000 \u20ac es dediquen a inversions (obres i adquisicions de b\u00e9ns amb una vida \u00fatil superior a 5 anys) i  8.000 \u20ac a despeses ordin\u00e0ries (adquisici\u00f3 de b\u00e9ns fungibles i serveis). Del pressupost d'inversions, es reserven 3.000\u20ac per un projecte decidit pels infants de La Floresta.</p><h4>Qu\u00e8 podem votar?</h4><p>Es porten a votaci\u00f3 les propostes presentades pel ve\u00efnat i entitats de La Floresta i que han estat validades t\u00e8cnicament. Es poden votar un m\u00e0xim de 3 <a href=\"https://decidim.santcugat.cat/processes/consellbarrilafloresta/f/67/\" target=\"_blank\">propostes d'inversi\u00f3</a> i 3 <a href=\"https://decidim.santcugat.cat/processes/consellbarrilafloresta/f/68/\" target=\"_blank\">propostes de despesa ordin\u00e0ria</a>.</p><h4>Qui pot votar?</h4><p>Poden votar totes les persones majors de 14 anys empadronades a La Floresta. </p><h4>Quin \u00e9s el calendari?</h4><h5>Fase de propostes</h5><ul><li>El 12 de desembre s'explica el proc\u00e9s per decidir els diners de lliure disposici\u00f3 en el Consell de Barri de La Floresta, i s'inicia la fase de recollida de propostes fins el 21 de gener.</li><li>El 24 de gener es realitza una sessi\u00f3 extraordin\u00e0ria del Consell de Barri en el que els ve\u00efns i ve\u00efnes exposen els projectes que han presentat.</li></ul><h5>Fase de votacions i aprovaci\u00f3 pel Consell de Barri</h5><ul><li>El 5 de febrer comen\u00e7a la fase de difussi\u00f3 dels projectes que es porten a votaci\u00f3</li><li>La setmana del 26 de febrer al 4 de mar\u00e7 es realitza la votaci\u00f3 final.</li></ul><p><br></p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>El Consell de Barri del la Floresta disposa d'un pressupost de lliure disposici\u00f3 de 90.000 Euros per l'any 2018. Aquests diners es destinen a projectes presentats pels ve\u00efns i ve\u00efnes de La Floresta. </p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Consell de Barri de La Floresta"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>Vota els projectes del 26 de febrer al 4 de mar\u00e7!</p>"
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupost de lliure disposici\u00f3 del Consell de Barri de La Floresta"
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [
+                {
+                    "id": "287",
+                    "name": "included_participatory_processes"
+                }
+            ],
+            "categories": [
+                {
+                    "id": "146",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Inversions (fins 20.000\u20ac)"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "147",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Despesa ordin\u00e0ria (fins 8.000\u20ac)"
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": {
+                "id": "8",
+                "name": {
+                    "translations": [
+                        {
+                            "locale": "ca",
+                            "text": "La Floresta"
+                        }
+                    ]
+                },
+                "children": []
+            },
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Oficina de Participaci\u00f3 Ciutadana de l'Ajuntament de Sant Cugat del Vall\u00e8s"
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 1
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 0
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 19
+                },
+                {
+                    "name": "projects_count",
+                    "value": 0
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                },
+                {
+                    "callToActionText": {
+                        "translations": []
+                    }
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Tots els ve\u00efns i ve\u00efnes de La Floresta majors de 14 anys"
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/100/Resultats_La_Floresta_2018.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "67",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Vota les inversions"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "68",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Vota la despesa ordin\u00e0ria"
+                            }
+                        ]
+                    },
+                    "weight": 10
+                },
+                {
+                    "id": "76",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Resultats finals"
+                            }
+                        ]
+                    },
+                    "weight": 100
+                }
+            ]
+        },
+        "decidim": {
+            "version": "0.22.0",
+            "applicationName": "Decidim Sant Cugat"
+        }
+    }
+}
