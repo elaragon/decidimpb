@@ -1,88 +1,257 @@
 {
-    "errors": [
-        {
-            "message": "Field 'participatoryProcess' is missing required arguments: id",
-            "locations": [
+    "data": {
+        "participatoryProcess": {
+            "id": "2",
+            "slug": "bpcitoyen",
+            "hashtag": "bp37",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2019-09-25T10:34:16+02:00",
+            "updatedAt": "2020-07-17T14:57:46+02:00",
+            "startDate": "2019-11-15",
+            "endDate": "2020-07-31",
+            "heroImage": "https://siesta.osp.cat/uploads/decidim/participatory_process/hero_image/2/big_BUDGETPARTICIPATIF_banniereaccueil_citoyenne_v2.jpg",
+            "bannerImage": "https://siesta.osp.cat/uploads/decidim/participatory_process/banner_image/2/big_BUDGETPARTICIPATIF_banniereaccueil_citoyenne_v2.jpg",
+            "reference": "CD37-PART-2019-09-2",
+            "promoted": false,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Le Budget Participatif"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "C'est parti pour le 1er budget participatif du d\u00e9partement !"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "<p>L\u2019Indre-et-Loire est l\u2019un des premiers d\u00e9partements en France, apr\u00e8s le Gers, \u00e0 mettre en place un dispositif de budget participatif. Le Conseil d\u00e9partemental est donc fier d\u2019innover dans ce domaine.</p><p>Vous, citoyens de ce d\u00e9partement, vous allez pouvoir imaginer collectivement (groupes constitu\u00e9s pour l\u2019occasion ou associations) ce qui peut am\u00e9liorer votre vie quotidienne et proposer des projets d\u2019investissement sur l\u2019espace public. C\u2019est vous qui connaissez le mieux les lieux o\u00f9 vous habitez, o\u00f9 vous travaillez, \u00e9tudiez, o\u00f9 vous vous divertissez, nous avons donc confiance dans votre capacit\u00e9 \u00e0 concevoir et \u00e0 choisir les projets qui seront de nature \u00e0 am\u00e9liorer la qualit\u00e9 de vie de ces lieux.</p><p>Les projets retenus, c\u2019est-\u00e0-dire ceux qui seront jug\u00e9s faisables par les services du D\u00e9partement, seront soumis aux suffrages de tous les habitants \u00e2g\u00e9s de 18 ans et plus de ce d\u00e9partement. Et ceux qui seront choisis au terme de ce vote, seront r\u00e9alis\u00e9s dans le cadre d\u2019une enveloppe annuelle d\u00e9di\u00e9e de 1,1 million d'euros.</p><p>Nous comptons sur votre mobilisation pour faire de ce budget participatif une r\u00e9ussite.</p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "<p><strong>BUDGET PARTICIPATIF&nbsp;: IMAGINEZ ET CR\u00c9EZ DES PROJETS POUR VOS TERRITOIRES </strong></p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Conseil d\u00e9partemental d'Indre-et-Loire"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "<p>Vous pouvez d\u00e9sormais consulter les r\u00e9sultats des votes en <a href=\"https://participation.touraine.fr/processes/bpcitoyen/f/20/\" target=\"_blank\">cliquant ici</a>.&nbsp;</p><p><strong>Pr\u00e9cision importante&nbsp;: En raison des conditions impos\u00e9es par le COVID-19,&nbsp;l\u2019instruction des projets n\u2019a pu \u00eatre men\u00e9e que dans des conditions d\u00e9grad\u00e9es. Pour cette raison, les projets qui seront choisis au terme de la phase de vote ne seront effectivement r\u00e9alis\u00e9s que s\u2019ils s\u2019av\u00e8rent bien conformes au r\u00e8glement du Budget Participatif.</strong></p><p><br></p>"
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": ""
+                    }
+                ]
+            },
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": ""
+                    }
+                ]
+            },
+            "stats": [
                 {
-                    "line": 1,
-                    "column": 3
+                    "name": "pages_count",
+                    "value": 2
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 5
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 0
+                },
+                {
+                    "name": "projects_count",
+                    "value": 0
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
                 }
             ],
-            "fields": [
-                "query",
-                "participatoryProcess"
+            "steps": [
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "\u00c9tape 1:  Je d\u00e9pose mon projet"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-11-15",
+                    "endDate": "2020-03-31"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "\u00c9tape 2:  Les services du D\u00e9partement \u00e9tudient mon projet"
+                            }
+                        ]
+                    },
+                    "startDate": "2020-03-31",
+                    "endDate": "2020-06-14"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "\u00c9tape 3: Le vote des projets"
+                            }
+                        ]
+                    },
+                    "startDate": "2020-06-15",
+                    "endDate": "2020-07-15"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "\u00c9tape 4: L'annonce des projets laureats"
+                            }
+                        ]
+                    },
+                    "startDate": "2020-07-16",
+                    "endDate": "2020-07-17"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "\u00c9tape 5: Le d\u00e9partement r\u00e9alise les projets laur\u00e9ats"
+                            }
+                        ]
+                    },
+                    "startDate": "2020-09-01",
+                    "endDate": "2021-12-31"
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Citoyens \u00e2g\u00e9s de 18 ans et plus"
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "https://siesta.osp.cat/uploads/decidim/attachment/file/281/Projets_elus_BP_-_Plus_de_18_ans_par_canton.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "20",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Les projets \u00e9lus "
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "17",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Les \u00e9tapes du Budget Participatif"
+                            }
+                        ]
+                    },
+                    "weight": 1
+                },
+                {
+                    "id": "5",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Rencontrez nous !"
+                            }
+                        ]
+                    },
+                    "weight": 3
+                }
             ]
         },
-        {
-            "message": "Field 'participatoryProcess' doesn't accept argument 'slug'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 24
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "slug"
-            ]
-        },
-        {
-            "message": "Field 'showMetrics' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 144
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "showMetrics"
-            ]
-        },
-        {
-            "message": "Field 'linkedParticipatorySpaces' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 548
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "linkedParticipatorySpaces"
-            ]
-        },
-        {
-            "message": "Field 'categories' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 586
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "categories"
-            ]
-        },
-        {
-            "message": "Field 'callToActionText' doesn't exist on type 'ParticipatoryProcessStep'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 972
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "steps",
-                "callToActionText"
-            ]
+        "decidim": {
+            "version": "0.18.0",
+            "applicationName": "OSP Agora"
         }
-    ]
+    }
 }

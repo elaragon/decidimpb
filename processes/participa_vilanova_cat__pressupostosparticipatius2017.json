@@ -1,88 +1,321 @@
 {
-    "errors": [
-        {
-            "message": "Field 'participatoryProcess' is missing required arguments: id",
-            "locations": [
+    "data": {
+        "participatoryProcess": {
+            "id": "7",
+            "slug": "pressupostosparticipatius2017",
+            "hashtag": "vngparticipa",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2017-04-12T06:28:12+00:00",
+            "updatedAt": "2019-07-31T08:23:48+00:00",
+            "startDate": "2017-04-12",
+            "endDate": "2017-12-31",
+            "heroImage": "http://participa.vilanova.cat/uploads/decidim/participatory_process/hero_image/7/Nen1.png",
+            "bannerImage": "http://participa.vilanova.cat/uploads/decidim/participatory_process/banner_image/7/Banner_llarg_744x150.png",
+            "reference": "VG-PART-2017-04-7",
+            "promoted": false,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupostos participatius 2017"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupostos participatius 2017"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><br></p><p><strong>Del 13 de mar\u00e7 al 18 d\u2019abril,</strong> la ciutadania ha pogut presentar propostes d\u2019inversions relacionades amb l\u2019espai p\u00fablic i/o en millores d\u2019equipaments municipals,&nbsp;de compet\u00e8ncia municipal i que no superin els 30.000 euros. </p><p>Les propostes s\u2019han pogut presentar mitjan\u00e7ant la web participa.vilanova.cat o presencialment en els equipaments municipals habilitats. </p><p><em>&nbsp;</em></p><h2><strong>VALORACI\u00d3 DE LES PROPOSTES \u2013 Del 19 d\u2019abril al 19 de maig </strong></h2><p>Una comissi\u00f3 formada per personal t\u00e8cnic municipal ser\u00e0 l\u2019encarregada de valorar que les propostes presentades compleixen amb els criteris establerts en el reglament.&nbsp;Aquelles que no els compleixin quedaran excloses de la fase de votacions. </p><p><br></p><p><strong><em>Les propostes es valoraran del 19 d\u2019abril al 19 de maig de 2017 </em></strong><em>i s\u2019anir\u00e0 publicant a la web si han estat acceptades o rebutjades. Davant de dues propostes similars, els serveis t\u00e8cnics municipals valoraran conjuntament amb els promotor/es si es poden unificar de cara a la votaci\u00f3. </em></p><p><br></p><p><strong><em>A partir del 22 de maig es podran consultar les propostes definitives </em></strong><em>que finalment es sotmetran a votaci\u00f3.</em></p><p>&nbsp;</p><h2><strong>VOTA LES MILLORS PROPOSTES \u2013 Del 29 de maig a l\u201911 de juny </strong></h2><p>Qui podr\u00e0 votar? Totes les persones majors de 16 anys empadronades a Vilanova i la Geltr\u00fa. </p><p>On podr\u00e9 votar? </p><ul><li>Mitjan\u00e7ant la p\u00e0gina web participa.vilanova.cat (Cal registrar-se)</li></ul><p><br></p><p>Es podran votar diverses propostes fins esgotar els 150.000 euros dels pressupostos participatius. Els projectes escollits s\u2019iniciaran durant l\u2019any 2017. </p><p><br></p><p>Les persones que no disposin de correu electr\u00f2nic i/o mitjans telem\u00e0tics podran votar al Departament de Participaci\u00f3 ciutadana (pla\u00e7a de la Vila 8, 1r pis), en horari d'atenci\u00f3 al p\u00fablic. (938140000 ext.2040 participacio@vilanova.cat)</p><p><br></p><h2><br></h2><h2><strong>CONSULTEU LES PROPOSTES GUANYADORES I L'ESTAT D'EXECUCI\u00d3 </strong></h2><h2><a href=\"https://www.vilanova.cat/doc/doc_10316355_1.pdf\" target=\"_blank\"><strong>EN AQUEST DOCUMENT </strong></a></h2><p><br></p><p><br></p><p>&nbsp;</p><p><br></p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>L\u2019Ajuntament de Vilanova i la Geltr\u00fa impulsa els primers pressupostos participatius per tal que els ciutadans i les ciutadanes puguin proposar i decidir com invertir 150.000 euros del pressupost municipal 2017.&nbsp;</p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "stats": [
                 {
-                    "line": 1,
-                    "column": 3
+                    "name": "pages_count",
+                    "value": 2
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 3
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 319
+                },
+                {
+                    "name": "projects_count",
+                    "value": 61
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
                 }
             ],
-            "fields": [
-                "query",
-                "participatoryProcess"
+            "steps": [
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Recollida de propostes"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-03-13",
+                    "endDate": "2017-04-18"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Valoraci\u00f3 de propostes"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-04-19",
+                    "endDate": "2017-05-19"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Informaci\u00f3 de les propostes"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-05-22",
+                    "endDate": "2017-05-28"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Votaci\u00f3 de les propostes "
+                            }
+                        ]
+                    },
+                    "startDate": "2017-05-29",
+                    "endDate": "2017-06-11"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Propostes guanyadores"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-06-12",
+                    "endDate": "2017-12-31"
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "http://participa.vilanova.cat/uploads/decidim/attachment/file/6/Resultats_votacio_2017.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "http://participa.vilanova.cat/uploads/decidim/attachment/file/7/Resultats_pressupostos_2017.png",
+                    "type": "png",
+                    "thumbnail": "http://participa.vilanova.cat/uploads/decidim/attachment/file/7/thumbnail_Resultats_pressupostos_2017.png"
+                },
+                {
+                    "url": "http://participa.vilanova.cat/uploads/decidim/attachment/file/23/IMG-20180925-WA0001.jpg",
+                    "type": "jpg",
+                    "thumbnail": "http://participa.vilanova.cat/uploads/decidim/attachment/file/23/thumbnail_IMG-20180925-WA0001.jpg"
+                },
+                {
+                    "url": "http://participa.vilanova.cat/uploads/decidim/attachment/file/24/App_Millora_VNG.jpg",
+                    "type": "jpg",
+                    "thumbnail": "http://participa.vilanova.cat/uploads/decidim/attachment/file/24/thumbnail_App_Millora_VNG.jpg"
+                },
+                {
+                    "url": "http://participa.vilanova.cat/uploads/decidim/attachment/file/25/img_68697328_1_-_c%C3%B2pia.jpg",
+                    "type": "jpg",
+                    "thumbnail": "http://participa.vilanova.cat/uploads/decidim/attachment/file/25/thumbnail_img_68697328_1_-_c%C3%B2pia.jpg"
+                },
+                {
+                    "url": "http://participa.vilanova.cat/uploads/decidim/attachment/file/27/Desfibril_ladors.png",
+                    "type": "png",
+                    "thumbnail": "http://participa.vilanova.cat/uploads/decidim/attachment/file/27/thumbnail_Desfibril_ladors.png"
+                },
+                {
+                    "url": "http://participa.vilanova.cat/uploads/decidim/attachment/file/28/passos_vianants.png",
+                    "type": "png",
+                    "thumbnail": "http://participa.vilanova.cat/uploads/decidim/attachment/file/28/thumbnail_passos_vianants.png"
+                },
+                {
+                    "url": "http://participa.vilanova.cat/uploads/decidim/attachment/file/29/Mosquits.png",
+                    "type": "png",
+                    "thumbnail": "http://participa.vilanova.cat/uploads/decidim/attachment/file/29/thumbnail_Mosquits.png"
+                },
+                {
+                    "url": "http://participa.vilanova.cat/uploads/decidim/attachment/file/30/img_26432316_1.jpg",
+                    "type": "jpg",
+                    "thumbnail": "http://participa.vilanova.cat/uploads/decidim/attachment/file/30/thumbnail_img_26432316_1.jpg"
+                }
+            ],
+            "components": [
+                {
+                    "id": "13",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Trobades"
+                            }
+                        ]
+                    },
+                    "weight": 1
+                },
+                {
+                    "id": "14",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                },
+                {
+                    "id": "15",
+                    "__typename": "Component",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Votaci\u00f3"
+                            }
+                        ]
+                    },
+                    "weight": 3
+                },
+                {
+                    "id": "19",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Resultats de les votacions"
+                            }
+                        ]
+                    },
+                    "weight": 4
+                },
+                {
+                    "id": "25",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "ESTAT DE L'EXECUCI\u00d3"
+                            }
+                        ]
+                    },
+                    "weight": 5
+                }
             ]
         },
-        {
-            "message": "Field 'participatoryProcess' doesn't accept argument 'slug'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 24
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "slug"
-            ]
-        },
-        {
-            "message": "Field 'showMetrics' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 164
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "showMetrics"
-            ]
-        },
-        {
-            "message": "Field 'linkedParticipatorySpaces' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 568
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "linkedParticipatorySpaces"
-            ]
-        },
-        {
-            "message": "Field 'categories' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 606
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "categories"
-            ]
-        },
-        {
-            "message": "Field 'callToActionText' doesn't exist on type 'ParticipatoryProcessStep'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 992
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "steps",
-                "callToActionText"
-            ]
+        "decidim": {
+            "version": "0.18.1",
+            "applicationName": "Participa Vilanova"
         }
-    ]
+    }
 }

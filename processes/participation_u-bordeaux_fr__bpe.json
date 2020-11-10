@@ -1,23 +1,9 @@
 {
-    "errors": [
-        {
-            "message": "Field 'showMetrics' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 139
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "showMetrics"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcess",
-                "fieldName": "showMetrics"
-            }
+    "data": {
+        "participatoryProcess": null,
+        "decidim": {
+            "version": "0.21.0.pre.dev",
+            "applicationName": "OSP Agora"
         }
-    ]
+    }
 }

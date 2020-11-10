@@ -1,88 +1,292 @@
 {
-    "errors": [
-        {
-            "message": "Field 'participatoryProcess' is missing required arguments: id",
-            "locations": [
+    "data": {
+        "participatoryProcess": {
+            "id": "2",
+            "slug": "bp2019-2020",
+            "hashtag": "",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2019-10-03T15:26:27+02:00",
+            "updatedAt": "2020-10-21T11:48:12+02:00",
+            "startDate": "2019-10-15",
+            "endDate": "2020-12-31",
+            "heroImage": "",
+            "bannerImage": "https://budgetparticipatif.saintjeandebraye.fr/uploads/decidim/participatory_process/banner_image/2/Bando-1200x215.jpg",
+            "reference": "master-PART-2019-10-2",
+            "promoted": true,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Budget participatif 2 / 2020"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Les projets laur\u00e9ats sont connus pour cette seconde \u00e9dition du budget participatif de Saint-Jean-de-Braye !  "
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "<p>Vous pouvez revoir <a href=\"https://budgetparticipatif.saintjeandebraye.fr/processes/bp2019-2020/f/11/proposals/new\" target=\"_blank\">toutes les id\u00e9es d\u00e9pos\u00e9es. </a>Vous pouvez \u00e9galement suivre l'avanc\u00e9e des 13 projets laur\u00e9ats <a href=\"https://budgetparticipatif.saintjeandebraye.fr/processes/bp/f/13/\" target=\"_blank\">dans l'espace d\u00e9di\u00e9.</a></p><p>Ci-dessous \u00e9galement des documents informatifs sur le budget et la ville en transition !</p><p><br></p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "<h2>La phase de votes pour la 2\u00e8me \u00e9dition du budget participatif de Saint-Jean-de-Braye s'est termin\u00e9e le 15 octobre \u00e0 12h. <a href=\"https://budgetparticipatif.saintjeandebraye.fr/processes/bp2019-2020/f/7/\" target=\"_blank\">D\u00e9couvrez les projets laur\u00e9ats !</a></h2>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Ville de Saint-Jean de Braye"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": ""
+                    }
+                ]
+            },
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "L'ensemble de la ville de Saint-Jean de Braye et ses usagers"
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": ""
+                    }
+                ]
+            },
+            "stats": [
                 {
-                    "line": 1,
-                    "column": 3
+                    "name": "pages_count",
+                    "value": 1
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 11
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 74
+                },
+                {
+                    "name": "projects_count",
+                    "value": 0
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
                 }
             ],
-            "fields": [
-                "query",
-                "participatoryProcess"
+            "steps": [
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "La 2\u00e8me \u00e9dition arrive !"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-10-10",
+                    "endDate": "2019-10-15"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "L'appel \u00e0 id\u00e9es"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-10-15",
+                    "endDate": "2020-01-31"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "La recevabilit\u00e9 des projets"
+                            }
+                        ]
+                    },
+                    "startDate": "2020-02-03",
+                    "endDate": "2020-09-01"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Votez pour 3 id\u00e9es"
+                            }
+                        ]
+                    },
+                    "startDate": "2020-09-05",
+                    "endDate": "2020-10-15"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Les projets laur\u00e9ats"
+                            }
+                        ]
+                    },
+                    "startDate": "2020-10-15",
+                    "endDate": "2020-11-01"
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "fr",
+                        "text": "Toute personne physique ou morale, m\u00eame mineure. Tous les habitants, travailleurs et autres usagers du territoire."
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "https://budgetparticipatif.saintjeandebraye.fr/uploads/decidim/attachment/file/73/R%C3%A8glement_budget_participatif_V9_fr_plateforme.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://budgetparticipatif.saintjeandebraye.fr/uploads/decidim/attachment/file/72/pr%C3%A9sentation_m%C3%A9tropole.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://budgetparticipatif.saintjeandebraye.fr/uploads/decidim/attachment/file/75/flyerbp_int.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://budgetparticipatif.saintjeandebraye.fr/uploads/decidim/attachment/file/74/Catalogue_Budget_Part_SJdB_2020.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://budgetparticipatif.saintjeandebraye.fr/uploads/decidim/attachment/file/71/pr%C3%A9sentation_ligue.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://budgetparticipatif.saintjeandebraye.fr/uploads/decidim/attachment/file/43/_ppt_plateforme.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://budgetparticipatif.saintjeandebraye.fr/uploads/decidim/attachment/file/44/Fiche_tech_Plantes_Mellif%C3%A9res.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://budgetparticipatif.saintjeandebraye.fr/uploads/decidim/attachment/file/45/Liste_des_plantes_m%C3%A9llif%C3%A9res_distribution_plantes_mellif%C3%A8res.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "7",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Les projets laur\u00e9ats"
+                            }
+                        ]
+                    },
+                    "weight": 1
+                },
+                {
+                    "id": "9",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Les \u00e9v\u00e8nements"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                },
+                {
+                    "id": "11",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Archive : Voir les id\u00e9es"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                }
             ]
         },
-        {
-            "message": "Field 'participatoryProcess' doesn't accept argument 'slug'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 24
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "slug"
-            ]
-        },
-        {
-            "message": "Field 'showMetrics' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 146
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "showMetrics"
-            ]
-        },
-        {
-            "message": "Field 'linkedParticipatorySpaces' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 550
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "linkedParticipatorySpaces"
-            ]
-        },
-        {
-            "message": "Field 'categories' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 588
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "categories"
-            ]
-        },
-        {
-            "message": "Field 'callToActionText' doesn't exist on type 'ParticipatoryProcessStep'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 974
-                }
-            ],
-            "fields": [
-                "query",
-                "participatoryProcess",
-                "steps",
-                "callToActionText"
-            ]
+        "decidim": {
+            "version": "0.18.0",
+            "applicationName": "Saint-Jean de Braye"
         }
-    ]
+    }
 }

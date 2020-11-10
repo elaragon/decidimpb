@@ -97,7 +97,7 @@
                     "name": "included_participatory_processes"
                 },
                 {
-                    "id": "489",
+                    "id": "493",
                     "name": "included_participatory_processes"
                 }
             ],
@@ -193,54 +193,82 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Diagnosi de Barri"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-02-03",
+                    "endDate": "2020-04-07"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Propostes"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-05-15",
+                    "endDate": "2020-06-21"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Validaci\u00f3 de propostes"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-06-30",
+                    "endDate": "2020-09-30"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Deliberaci\u00f3 i prioritzaci\u00f3 de propostes"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-10-01",
+                    "endDate": "2020-11-15"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 4,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Votaci\u00f3 ciutadana"
+                            }
+                        ]
+                    },
+                    "startDate": "2021-01-01",
+                    "endDate": "2021-01-31"
+                },
+                {
+                    "position": 5,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Execuci\u00f3 de les propostes"
+                            }
+                        ]
+                    },
+                    "startDate": "2021-03-01",
+                    "endDate": "2021-12-31"
                 }
             ],
             "target": {

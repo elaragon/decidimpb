@@ -1,120 +1,421 @@
 {
-    "errors": [
-        {
-            "message": "Field 'participatoryProcess' is missing required arguments: id",
-            "locations": [
+    "data": {
+        "participatoryProcess": {
+            "id": "7",
+            "slug": "construintsbd17",
+            "hashtag": "construintsbd17",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2017-06-22T11:12:53+00:00",
+            "updatedAt": "2018-10-05T11:17:09+00:00",
+            "startDate": "2017-06-22",
+            "endDate": "2017-12-31",
+            "heroImage": "/uploads/decidim/participatory_process/hero_image/7/Construint.jpg",
+            "bannerImage": "/uploads/decidim/participatory_process/banner_image/7/medium_DecidimSabadell.png",
+            "reference": "SBD-PART-2017-06-7",
+            "promoted": false,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Construint Ciutat - Pressupost 2017"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Construint Ciutat - Pressupost 2017"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupost participatiu 2017"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Pressupost participatiu 2018"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>A continuaci\u00f3, es detalla <strong><u>l'estat d'execuci\u00f3</u></strong> dels diversos projectes seleccionats a <strong><u>data octubre de 2018</u></strong>:</p><p><strong>Projectes </strong></p><ul><li><a target=\"_blank\" href=\"https://participacio.sabadell.cat/construint_ciutat/projecte/acompanyament-a-pares-de-nens-amb-malalties-greus-a-traves-de-l-artterapia\">Artter\u00e0pia</a>: 1.205 vots. Iniciat a mar\u00e7 de 2017 i finalitzat. <a target=\"_blank\" href=\"http://www.sabadell.cat/ca/?option=com_content&amp;view=article&amp;id=64463:es-posa-en-marxa-artterapia-el-primer-dels-projectes-sorgits-del-proces-participatiu-del-pressupost-2017&amp;catid=119:noticies-mun\">M\u00e9s informaci\u00f3</a></li><li><a target=\"_blank\" href=\"https://participacio.sabadell.cat/construint_ciutat/projecte/el-perque-d-un-museu-textil-a-sabadell\">El perqu\u00e8 d\u2019un museu t\u00e8xtil a Sabadell</a>: 684 vots. Inauguraci\u00f3 el 31 d'agost de 2017 i finalitzat. <a target=\"_blank\" href=\"http://museus.sabadell.cat/mhs/exposicions-temporals-museu-historia/actuals/1124-el-perque-d-un-museu-textil-a-sabadell\">M\u00e9s informaci\u00f3</a></li><li><a target=\"_blank\" href=\"https://participacio.sabadell.cat/construint_ciutat/projecte/colonies-i-campaments-per-a-tothom\">Col\u00f2nies i campaments per a tothom!</a> 580 vots. S'ha dut a terme una primera estada durant la setmana santa i una segona al mes de juliol. Finalitzat <a target=\"_blank\" href=\"http://www.sabadell.cat/ca/noticies-municipals/69776-campaments-gratuits-per-a-una-seixantena-d-infants-i-joves-de-l-esplai-la-baldufa-de-can-puiggener\">M\u00e9s informaci\u00f3</a></li><li><a target=\"_blank\" href=\"https://participacio.sabadell.cat/construint_ciutat/projecte/projecte-per-fomentar-l-us-de-la-bicicleta-a-la-ciutat-de-sabadell\">Projecte per fomentar l'\u00fas de la bicicleta a la ciutat de Sabadell</a>: 2.043 vots. Projecte incorporat a l'execuci\u00f3 del Pla Director de la Bicicleta. Actualment feta la fase de la diagnosi.</li><li><a target=\"_blank\" href=\"https://participacio.sabadell.cat/construint_ciutat/projecte/area-d-esbarjo-per-a-gossos-a-sabadell\">\u00c0rees d'esbarjo per a gossos a Sabadell</a>: 1.247 vots. En fase final de consens quant als empla\u00e7aments d'\u00e0rees de diferents superf\u00edcie i tipologia. Execuci\u00f3 durant el 2018.</li><li><a target=\"_blank\" href=\"https://participacio.sabadell.cat/construint_ciutat/projecte/jove-menja-tu-menjador-per-a-adolescents-en-risc\">Jove, menja tu!</a> 1.113 vots. Inici al setembre de 2017. Finalitzat.</li><li><a target=\"_blank\" href=\"https://participacio.sabadell.cat/construint_ciutat/projecte/redaccio-de-l-estudi-tecnic-per-la-rehabilitacio-de-la-masia-de-ca-n-oriac\">Redacci\u00f3 de l\u2019estudi t\u00e8cnic per la rehabilitaci\u00f3 de la Masia de Ca n\u2019Oriac</a>: 1.083 vots. El proc\u00e9s participatiu per definir els usos va finalitza al juliol. Les conclusions s'incorporaran a l'enc\u00e0rrec de redacci\u00f3 de projecte t\u00e8cnic. Actualment s'estan redactant les bases del concurs. <a target=\"_blank\" href=\"https://decidim.sabadell.cat/processes/1\">M\u00e9s informaci\u00f3</a></li><li><a target=\"_blank\" href=\"https://participacio.sabadell.cat/construint_ciutat/projecte/educadors-de-carrer\">Educadors de carrer</a>: 1.003 vots. Iniciat al setembre de 2017. Finalitzat</li><li><a target=\"_blank\" href=\"https://participacio.sabadell.cat/construint_ciutat/projecte/aixo-no-es-un-parquing-recuperem-l-espai-del-vapor-turull\">Aix\u00f2 no \u00e9s un p\u00e0rquing: recuperem l'espai del Vapor Turull</a>: 984 vots. En fase final de consens quant a la configuraci\u00f3 definitiva de l'espai.</li><li><a target=\"_blank\" href=\"https://participacio.sabadell.cat/construint_ciutat/projecte/nosaltres-tambe-som-sabadell\">Nosaltres tamb\u00e9 som Sabadell</a>: 308 vots. Iniciat al setembre de 2017.</li><li><a target=\"_blank\" href=\"https://participacio.sabadell.cat/construint_ciutat/projecte/el-barri-educa\">El Barri Educa</a>: 276 vots. Finalitzat</li></ul><p><br></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p>Contenido pendiente de elaboraci\u00f3n.</p><h5><br></h5>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><strong>Podeu consultar l'estat d'execuci\u00f3 dels projectes </strong><a href=\"http://web.sabadell.cat/construint-ciutat/edicio-2017\" target=\"_blank\"><strong>aqu\u00ed</strong></a></p><p>Es va posar a disposici\u00f3 de la ciutadania <strong>un mili\u00f3 d\u2019euros del pressupost municipal 2017</strong> perqu\u00e8 els ve\u00efns i les ve\u00efnes presentessin projectes per ser executats des de l\u2019Ajuntament. A trav\u00e9s del suport ciutad\u00e0, es va decidir a quins projectes destinar aquests recursos. D\u2019aquesta quantitat econ\u00f2mica, la meitat (500.000 \u20ac) es van destinar a projectes que tinguin com a objectiu una intervenci\u00f3 a l\u2019espai p\u00fablic o als equipaments municipals, i l\u2019altra meitat a projectes que tinguin com a objectiu el finan\u00e7ament d\u2019activitats o serveis dirigits a les persones i/o d\u2019intervenci\u00f3 comunit\u00e0ria.</p><p><br></p><p><br></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p>Contenido pendiente de elaboraci\u00f3n.</p><p><br></p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ajuntament de Sabadell"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Ayuntamiento de Sabadell"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "scope": {
+                "id": "3",
+                "name": {
+                    "translations": [
+                        {
+                            "locale": "ca",
+                            "text": "Ciutat"
+                        },
+                        {
+                            "locale": "es",
+                            "text": "Ciutat"
+                        }
+                    ]
+                },
+                "children": [
+                    {
+                        "id": "15",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Barri, projecte social"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Barrio, proyecto social"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "16",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Barri, projecte d'obres"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Barrio, proyecto de obras"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "17",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Ciutat, projecte social"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Ciudad, proyecto social"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "19",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Ciutat, projecte d'obres"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Ciudad, proyecto de obras"
+                                }
+                            ]
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Participaci\u00f3 i Atenci\u00f3 Ciutadana"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Participaci\u00f3n y Atenci\u00f3n Ciudadana"
+                    }
+                ]
+            },
+            "stats": [
                 {
-                    "line": 1,
-                    "column": 3
+                    "name": "pages_count",
+                    "value": 1
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 0
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 0
+                },
+                {
+                    "name": "projects_count",
+                    "value": 0
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
                 }
             ],
-            "path": [
-                "query",
-                "participatoryProcess"
+            "steps": [
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Informaci\u00f3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Informaci\u00f3n"
+                            }
+                        ]
+                    },
+                    "startDate": "2016-05-02",
+                    "endDate": "2016-05-31"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Presentaci\u00f3 de propostes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Presentaci\u00f3n de propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2016-06-01",
+                    "endDate": "2016-06-23"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Valoraci\u00f3 de les propostes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Valoraci\u00f3n de las propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2016-06-27",
+                    "endDate": "2016-07-22"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Suport a les propostes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Apoyo a las propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2016-09-06",
+                    "endDate": "2016-09-18"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Avaluaci\u00f3 del proc\u00e9s"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Evaluaci\u00f3n del proceso"
+                            }
+                        ]
+                    },
+                    "startDate": "2016-10-25",
+                    "endDate": "2016-11-18"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Fase de resultats"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Fase de resultados"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-01-02",
+                    "endDate": "2018-12-31"
+                }
             ],
-            "extensions": {
-                "code": "missingRequiredArguments",
-                "className": "Field",
-                "name": "participatoryProcess",
-                "arguments": "id"
-            }
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ciutadania i entitats"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Ciudadan\u00eda y entidades"
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "/uploads/decidim/attachment/file/29/BasesProcesParticipatiuPressupost2017.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/30/DipticVotacionsPressu2017.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/31/Resultats_ProjectesSeleccionats.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/32/Document_conclusions_Contruint_Ciutat_-_Pressupost_2017.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/59/estadistica_vot_cciutat17.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/350/Evoluci%C3%B3_execuci%C3%B3_2017__abril_2019.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "59",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Estat d'execuci\u00f3 dels projectes"
+                            },
+                            {
+                                "text": "P\u00e1gina"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                }
+            ]
         },
-        {
-            "message": "Field 'participatoryProcess' doesn't accept argument 'slug'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 24
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "slug"
-            ],
-            "extensions": {
-                "code": "argumentNotAccepted",
-                "name": "participatoryProcess",
-                "typeName": "Field",
-                "argumentName": "slug"
-            }
-        },
-        {
-            "message": "Field 'showMetrics' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 151
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "showMetrics"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcess",
-                "fieldName": "showMetrics"
-            }
-        },
-        {
-            "message": "Field 'linkedParticipatorySpaces' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 555
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "linkedParticipatorySpaces"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcess",
-                "fieldName": "linkedParticipatorySpaces"
-            }
-        },
-        {
-            "message": "Field 'categories' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 593
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "categories"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcess",
-                "fieldName": "categories"
-            }
-        },
-        {
-            "message": "Field 'callToActionText' doesn't exist on type 'ParticipatoryProcessStep'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 979
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "steps",
-                "callToActionText"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcessStep",
-                "fieldName": "callToActionText"
-            }
+        "decidim": {
+            "version": "0.20.0",
+            "applicationName": "Decidim Sabadell"
         }
-    ]
+    }
 }

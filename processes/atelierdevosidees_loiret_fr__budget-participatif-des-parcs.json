@@ -183,29 +183,56 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "D\u00e9p\u00f4t des projets"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2018-06-01",
+                    "endDate": "2018-06-30"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 1,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Etude de recevabilit\u00e9 des projets"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-07-01",
+                    "endDate": "2018-09-30"
+                },
+                {
+                    "position": 2,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Vote sur les projets"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-10-01",
+                    "endDate": "2018-10-31"
+                },
+                {
+                    "position": 3,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "R\u00e9alisation des projets"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-11-01",
+                    "endDate": "2019-12-31"
                 }
             ],
             "target": {

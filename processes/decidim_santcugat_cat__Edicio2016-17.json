@@ -293,29 +293,69 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 0,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Recollida de propostes"
+                            }
+                        ]
+                    },
+                    "startDate": "2016-05-22",
+                    "endDate": "2016-06-15"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 1,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Tallers d'elaboraci\u00f3 de propostes"
+                            }
+                        ]
+                    },
+                    "startDate": "2016-06-04",
+                    "endDate": "2016-06-18"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 2,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Taula de ciutat"
+                            }
+                        ]
+                    },
+                    "startDate": "2016-07-14",
+                    "endDate": "2016-07-15"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 3,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Votaci\u00f3 ciutadana"
+                            }
+                        ]
+                    },
+                    "startDate": "2016-10-17",
+                    "endDate": "2016-11-06"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 4,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Execuci\u00f3 dels projectes"
+                            }
+                        ]
+                    },
+                    "startDate": "2016-11-07",
+                    "endDate": "2018-12-31"
                 }
             ],
             "target": {

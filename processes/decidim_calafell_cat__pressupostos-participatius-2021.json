@@ -464,88 +464,106 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Aprovaci\u00f3 Reglament Pressupostos Participatius"
                             },
                             {
                                 "locale": "es",
-                                "text": ""
+                                "text": "Aprobaci\u00f3n Reglamento Presupuestos Participativos"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-05-14",
+                    "endDate": "2020-07-23"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Presentaci\u00f3 Propostes"
                             },
                             {
                                 "locale": "es",
-                                "text": ""
+                                "text": "Presentaci\u00f3n Propuestas"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-08-01",
+                    "endDate": "2020-08-30"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Valoraci\u00f3 Propostes"
                             },
                             {
                                 "locale": "es",
-                                "text": ""
+                                "text": "Valoraci\u00f3n Propuestas"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-09-01",
+                    "endDate": "2020-09-28"
                 },
                 {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Votaci\u00f3 Propostes"
                             },
                             {
                                 "locale": "es",
-                                "text": ""
+                                "text": "Votaci\u00f3n Propuestas"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-10-05",
+                    "endDate": "2020-10-26"
                 },
                 {
-                    "callToActionText": {
+                    "position": 4,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Resultat Votaci\u00f3 Propostes"
                             },
                             {
                                 "locale": "es",
-                                "text": ""
+                                "text": "Resultado Votaci\u00f3n Propuestas"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-11-01",
+                    "endDate": "2020-11-30"
                 },
                 {
-                    "callToActionText": {
+                    "position": 5,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Dotaci\u00f3 Econ\u00f2mica"
                             },
                             {
                                 "locale": "es",
-                                "text": ""
+                                "text": "Dotaci\u00f3n Econ\u00f2mica"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-12-01",
+                    "endDate": "2020-12-31"
                 }
             ],
             "target": {

@@ -214,44 +214,95 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Consultez"
+                                "text": "Je d\u00e9pose mon id\u00e9e"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2018-01-30",
+                    "endDate": "2018-05-02"
+                },
+                {
+                    "position": 1,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Evaluation de la recevabilit\u00e9"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-05-03",
+                    "endDate": "2018-06-30"
+                },
+                {
+                    "position": 2,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Analyse de faisabilit\u00e9"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-06-03",
+                    "endDate": "2018-09-28"
+                },
+                {
+                    "position": 3,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Pr\u00e9sentation des projets soumis au vote"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-09-27",
+                    "endDate": "2018-10-03"
+                },
+                {
+                    "position": 4,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Vote des projets "
+                            }
+                        ]
+                    },
+                    "startDate": "2018-10-04",
+                    "endDate": "2018-10-22"
+                },
+                {
+                    "position": 5,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "R\u00e9sultats"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-10-23",
+                    "endDate": "2018-12-31"
+                },
+                {
+                    "position": 6,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "R\u00e9alisation des projets laur\u00e9ats"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-01-01",
+                    "endDate": "2020-12-31"
                 }
             ],
             "target": {

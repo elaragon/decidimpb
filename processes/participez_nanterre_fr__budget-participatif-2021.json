@@ -227,64 +227,82 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "D\u00e9couvrez la saison 3 du budget participatif"
+                                "text": "JE D\u00c9COUVRE LE BUDGET PARTICIPATIF"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-08-01",
+                    "endDate": "2020-08-31"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "\u00c0 vos projets ! "
+                                "text": "JE PROPOSE MON PROJET !"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-09-01",
+                    "endDate": "2020-10-15"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Instruction des projets en cours"
+                                "text": "\u00c9TUDE DES PROJETS "
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-10-16",
+                    "endDate": "2021-02-05"
                 },
                 {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "D\u00e9couvrez les projets retenus !"
+                                "text": "PROMOTION DES PROJETS \u00c0 SOUMETTRE AU VOTE"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2021-02-22",
+                    "endDate": "2021-03-07"
                 },
                 {
-                    "callToActionText": {
+                    "position": 4,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Votez !"
+                                "text": "JE VOTE "
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2021-03-08",
+                    "endDate": "2021-03-21"
                 },
                 {
-                    "callToActionText": {
+                    "position": 5,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "R\u00c9ALISATIONS DES PROJETS"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2021-04-05",
+                    "endDate": null
                 }
             ],
             "target": {

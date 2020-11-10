@@ -1,120 +1,472 @@
 {
-    "errors": [
-        {
-            "message": "Field 'participatoryProcess' is missing required arguments: id",
-            "locations": [
+    "data": {
+        "participatoryProcess": {
+            "id": "6",
+            "slug": "construintsbd",
+            "hashtag": "construintsbd",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2017-06-19T15:36:24+00:00",
+            "updatedAt": "2019-04-29T10:15:01+00:00",
+            "startDate": "2017-06-19",
+            "endDate": "2019-12-31",
+            "heroImage": "/uploads/decidim/participatory_process/hero_image/6/Construint_Ciutat_18.JPG",
+            "bannerImage": "/uploads/decidim/participatory_process/banner_image/6/medium_DecidimSabadell.png",
+            "reference": "SBD-PART-2017-06-6",
+            "promoted": false,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Construint Ciutat - Pressupost 2018"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Construint Ciutat - Pressupost 2018"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupost participatiu 2018"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Pressupost participatiu 2018"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<h4><strong>Tem\u00e0tica, pressupost total i quantia m\u00e0xima de les propostes</strong></h4><h4><br></h4><h5><strong>1.&nbsp;&nbsp;&nbsp;Propostes per a la millora de l\u2019espai p\u00fablic o equipaments municipals de ciutat o barri </strong></h5><ul><li><strong>&nbsp;</strong>Nova urbanitzaci\u00f3 i/o rehabilitaci\u00f3 d\u2019espais p\u00fablics. </li><li> Inversi\u00f3 en obra nova per a la millora d\u2019equipaments de titularitat municipal adre\u00e7ats a \u00fas ciutad\u00e0. </li></ul><p><strong>500.000\u20ac en total amb un pressupost m\u00e0xim de 100.000\u20ac per proposta</strong></p><p>Els projectes finalment seleccionats els executar\u00e0 l\u2019Ajuntament de Sabadell amb despesa d\u2019inversi\u00f3 (aix\u00f2 exclou despeses associades al manteniment ordinari). </p><h4><br></h4><h5><strong>2.&nbsp;&nbsp;&nbsp;Propostes de caire social que millorin la cohesi\u00f3 a la ciutat o a un barri </strong></h5><ul><li> D\u2019\u00e0mbit social, cultural, educatiu, esportiu, etc. adre\u00e7ades a les persones en general i/o a col\u00b7lectius espec\u00edfics. </li><li> A l\u2019entorn de la intervenci\u00f3 comunit\u00e0ria, que tinguin per objecte el canvi estructural, la millora de la cohesi\u00f3 i de les condicions de vida de la ciutadania. </li></ul><p><strong>500.000\u20ac en total amb un pressupost m\u00e0xim de 100.000\u20ac per proposta</strong></p><p>Els projectes finalment seleccionats els assumiran les entitats que hagin presentat la proposta, mitjan\u00e7ant l\u2019atorgament de subvencions anuals per concessi\u00f3 directa (amb formalitzaci\u00f3 de convenis i l\u2019obligatorietat de justificar despeses). </p><h4>&nbsp;<strong>&nbsp;</strong></h4><h4><strong>Fases del proc\u00e9s</strong></h4><h5><br></h5><h5><strong>1.&nbsp;&nbsp;&nbsp;Presentaci\u00f3 de propostes: <em>5 de juliol a 30 de setembre de 2017</em></strong></h5><h5><br></h5><h5><strong>Qui en pot presentar?</strong></h5><h5><strong>Propostes per a la millora de l\u2019espai p\u00fablic o equipaments municipals de ciutat o barri</strong></h5><ul><li>Persones majors de 18 anys empadronades a Sabadell.</li><li>Entitats inscrites al Registre Municipal d\u2019Entitats Ciutadanes de l\u2019Ajuntament de Sabadell. </li></ul><h5><strong>Propostes de caire social que millorin la cohesi\u00f3 a la ciutat o a un barri</strong></h5><ul><li>Entitats inscrites al Registre Municipal d\u2019Entitats Ciutadanes de l\u2019Ajuntament de Sabadell. </li></ul><h5><strong>Com presentar-ne?</strong></h5><p>Les propostes (<strong>amb m\u00e0xim d\u2019una per \u00e0mbit tem\u00e0tic) </strong>es poden presentar, <strong><u>a partir del 5 de juliol, \u00fanicament de forma presencial</u></strong> a <a target=\"_blank\" href=\"http://www.sabadell.cat/ca/lajuntament/saccat\"><strong>qualsevol Oficina d\u2019Atenci\u00f3 Ciutadana de Sabadell (OAC)</strong></a> emplenant les fitxes de presentaci\u00f3 que trobareu als mateixos punts d\u2019atenci\u00f3. Podeu descarregar les corresponents fitxes a continuaci\u00f3:</p><ul><li><a target=\"_blank\" href=\"https://decidim.sabadell.cat/uploads/decidim/attachment/file/25/Fitxa_propostes_CCiutat2018_FORM_CIUTADANIA.pdf\">Fitxa de presentaci\u00f3 de propostes per a ciutadania</a> (persones individuals).</li><li><a target=\"_blank\" href=\"https://decidim.sabadell.cat/uploads/decidim/attachment/file/26/Fitxa_propostes_CCiutat2018_FORM_ENTITATS.pdf\">Fitxa de presentaci\u00f3 de propostes pe</a><span class=\"ql-cursor\">\ufeff\ufeff\ufeff\ufeff\ufeff</span><a target=\"_blank\" href=\"https://decidim.sabadell.cat/uploads/decidim/attachment/file/26/Fitxa_propostes_CCiutat2018_FORM_ENTITATS.pdf\">r entitats</a>.</li></ul><p>Les propostes presentades per persones majors de 18 anys empadronades a Sabadell (les entitats queden excloses d\u2019aquest requeriment) han d\u2019adjuntar un <strong>m\u00ednim de 30 signatures</strong> de suport (graella inclosa a la fitxa de presentaci\u00f3) per part de ve\u00efns o ve\u00efnes majors de 18 anys, tamb\u00e9 empadronats/des a la ciutat. Els serveis t\u00e8cnics municipals validaran l\u2019autenticitat de les signatures en base al Padr\u00f3 Municipal d\u2019Habitants. </p><p>Les propostes s\u2019han d\u2019ajustar a all\u00f2 establert en aquestes bases quant a tem\u00e0tica, pressupost i quantia. <strong>Les propostes vinculades a projectes seleccionats per passar a execuci\u00f3 en el marc del proc\u00e9s participatiu Construint Ciutat \u2013 Pressupost 2017 no es podran tornar a presentar a aquesta segona edici\u00f3. </strong></p><p><strong>El registre de la fitxa de presentaci\u00f3 implica la declaraci\u00f3 de con\u00e8ixer i acceptar les condicions que regulen el proc\u00e9s participatiu Construint Ciutat \u2013 Pressupost 2018.</strong></p><p><strong>&nbsp;</strong></p><h5><strong>2.&nbsp;&nbsp;&nbsp;Valoraci\u00f3 t\u00e8cnica i viabilitat de les propostes: <em>16 d\u2019octubre a 24 de novembre de 2017</em></strong></h5><p>Aquesta segona edici\u00f3 del proc\u00e9s incorpora una fase de treball conjunt entre persones o entitats que han presentat propostes i els serveis t\u00e8cnics de l\u2019Ajuntament, pr\u00e8viament a la fase final de suports. El proc\u00e9s de gesti\u00f3 per a cada proposta registrada ser\u00e0 el seg\u00fcent:</p><ul><li>Presentaci\u00f3 de la proposta per part de la ciutadania o entitat.</li><li>Recepci\u00f3 i valoraci\u00f3 t\u00e8cnica per part del servei corresponent en funci\u00f3 de l\u2019adequaci\u00f3 de la proposta a les presents bases (tem\u00e0tica, \u00e0mbit territorial, justificaci\u00f3, descripci\u00f3, destinataris/\u00e0ries, pressupost, documentaci\u00f3 adjunta). </li><li>En cas de detectar propostes similars o iguals, el Servei de Participaci\u00f3 podr\u00e0 recomanar a les persones o entitats que les hagin plantejades, que elaborin una nova proposta conjunta. </li><li>Comunicaci\u00f3 del resultat de la valoraci\u00f3 t\u00e8cnica (positiu o negatiu).</li><li>En cas de valoraci\u00f3 positiva, es convocar\u00e0 una reuni\u00f3 conjunta per determinar forma de gesti\u00f3, \u00e0mbit territorial, pressupost, continguts i descripci\u00f3 de la proposta que, en cas de consens, i previ acord signat, es publicar\u00e0 per passar a la fase de final de suports. </li><li>En cas de no produir-se consens en les trobades de validaci\u00f3 conjunta, es redactar\u00e0 i signar\u00e0 una acta entre les parts, en la qual s\u2019exposaran els motius que han portat a la no inclusi\u00f3 del projecte a la fase final de suports.&nbsp;</li><li>Si es considera necessari, l\u2019Ajuntament pot requerir a les entitats que acreditin la seva solv\u00e8ncia i traject\u00f2ria, aix\u00ed com els projectes realitzats amb anterioritat.</li></ul><h4><br></h4><h5><strong>3.&nbsp;&nbsp;&nbsp;Suport a les propostes: <em>1 a 17 de desembre de 2017</em></strong></h5><p>Podran donar suport a les propostes les <strong>persones majors de 14 anys empadronades a la ciutat</strong> a t\u00edtol individual, o persones representants de col\u00b7lectius i organitzacions, que s\u2019hagin registrat pr\u00e8viament en aquesta plataforma, apartat \u201c<a target=\"_blank\" href=\"https://decidim.sabadell.cat/users/sign_up\">Registra\u2019t</a>\u201d. Cal aportar un nom o \u00e0lies, adre\u00e7a de correu electr\u00f2nic i contrasenya. Es disposar\u00e0 de 4 suports per a repartir entre totes les propostes, que es podran consultar en la seva globalitat o filtrant en funci\u00f3 de si s\u00f3n d\u2019\u00e0mbit de ciutat o de barri. </p><p>&nbsp;</p><h5><strong>4.&nbsp;&nbsp;&nbsp;Resultats finals: <em>gener de 2018</em></strong></h5><p>Es publicaran els resultats en dues versions:</p><ul><li><strong>Versi\u00f3 inicial</strong> de resultats segons nombre de suports a cada proposta.</li><li><a target=\"_blank\" href=\"https://decidim.sabadell.cat/uploads/decidim/attachment/file/149/Construint_Ciutat2018_Resultats_Modalitat_compatibilitat.pdf\"><strong>Versi\u00f3 final de resultats</strong> </a>amb les propostes que passen a execuci\u00f3 per part de l\u2019Ajuntament i aquelles que rebran l\u2019atorgament de subvencions fins esgotar el 1.000.000\u20ac (500.000\u20ac per \u00e0mbit tem\u00e0tic). </li></ul><p>\t&nbsp;</p><h5><strong>M\u00e8tode d\u2019ordenaci\u00f3 de propostes segons pressupost</strong></h5><p>Les propostes s\u2019ordenaran segons nombre final de suports rebuts, <strong>admetent&nbsp;com a m\u00e0xim una proposta per barri i tres per districte</strong>. Les propostes amb abast de ciutat no tindran limitaci\u00f3 quant a nombre m\u00e0xim. </p><p>El pressupost assignat a cada proposta anir\u00e0 restant la quantitat total per \u00e0mbit. En el moment en qu\u00e8 una determinada proposta sobrepassi el total de 500.000\u20ac, el seg\u00fcent projecte que, tot i tenir menor nombre de suports, compti amb un pressupost que no sobrepassi els 500.000\u20ac, passar\u00e0 autom\u00e0ticament a la fase d\u2019execuci\u00f3.&nbsp;En cas de qu\u00e8, finalment, alguna de les persones o entitats comuniqui, motivadament i per escrit, la voluntat de qu\u00e8 la seva proposta no passi a la fase d\u2019execuci\u00f3, es passar\u00e0 a tenir en compte la proposta immediatament posterior segons nombre de suports i el m\u00e0xim de propostes per barri i districte.</p><p>&nbsp;</p><h5><strong>5.&nbsp;&nbsp;&nbsp;Execuci\u00f3 de les propostes </strong></h5><h6><strong>5.1. Gesti\u00f3 i execuci\u00f3 per part de l\u2019Ajuntament de Sabadell quant als&nbsp;&nbsp;projectes de millora de l\u2019espai p\u00fablic o equipaments municipals</strong></h6><p>Els projectes de millora de l\u2019espai p\u00fablic o equipaments municipals seran gestionats i executats directament per l\u2019Ajuntament de Sabadell, sempre segons el contingut i la versi\u00f3 del projecte consensuat amb els promotors/es en la fase de valoraci\u00f3 t\u00e8cnica, que al seu torn, ser\u00e0 la que haur\u00e0 rebut suports per part de la ciutadania. Qualsevol canvi sobrevingut per motius t\u00e8cnics o aliens a la voluntat de l\u2019Ajuntament ser\u00e0 comunicada als promotors/es de la proposta a t\u00edtol informatiu.</p><h6><strong>5.2. Atorgament de subvencions amb concessi\u00f3 directa per a la gesti\u00f3&nbsp;i execuci\u00f3 dels projectes de caire social per part de les entitats promotores</strong></h6><p>La gesti\u00f3 i execuci\u00f3 de les propostes de caire social es vehicular\u00e0 mitjan\u00e7ant l\u2019atorgament de subvencions per concessi\u00f3 directa a les diferents entitats promotores. L\u2019atorgament comportar\u00e0, en tots els casos, la formalitzaci\u00f3 de convenis de col\u00b7laboraci\u00f3 entre l\u2019Ajuntament de Sabadell i les entitats promotores al llarg de l\u2019exercici 2018.</p><h6><br></h6><h5><strong>Elements imprescindibles que ha d\u2019incloure cada proposta</strong></h5><ul><li>Ser coherents i no entrar en contradicci\u00f3 amb el model, els valors i les l\u00ednies d\u2019actuaci\u00f3 promogudes per l\u2019Ajuntament de Sabadell.</li><li>Donar resposta a una necessitat col\u00b7lectiva.</li><li>Les propostes de millora de l\u2019espai p\u00fablic o equipaments municipals han de poder ser executades en la seva totalitat o en gran mesura durant l\u2019any 2018. Les propostes de caire social han de poder ser executades entre 1 de gener i 31 de desembre de 2018. En ambd\u00f3s casos, aix\u00f2 implica que<strong> els costos no s\u2019assumiran o es subvencionaran, necess\u00e0riament, en pressupostos futurs.</strong></li><li>Ser avaluables econ\u00f2micament i no superar el l\u00edmit de 100.000\u20ac.</li><li>Tenir una visi\u00f3 de ciutat o estar emmarcades en un barri concret.</li><li>Fer refer\u00e8ncia a \u00e0mbits i temes de compet\u00e8ncia municipal, espais de titularitat p\u00fablica o b\u00e9 compet\u00e8ncies assumides per l\u2019Ajuntament. </li><li>Ser viables t\u00e8cnica i jur\u00eddicament (que no existeixin impediments t\u00e8cnics per realitzar els projectes en qu\u00e8 es concretin les propostes, i que aquests s\u2019ajustin a la normativa vigent).</li></ul><p><br></p><h5><strong>Forma de gesti\u00f3 dels projectes finalment seleccionats</strong></h5><p>La participaci\u00f3 en aquest proc\u00e9s implica l\u2019acceptaci\u00f3 de qu\u00e8 <strong>la gesti\u00f3 i execuci\u00f3 de projectes associats a propostes seleccionades en l\u2019\u00e0mbit de millora de l\u2019espai p\u00fablic o equipaments municipals, correspondr\u00e0 a l\u2019Ajuntament de Sabadell</strong>. Els serveis municipals establiran la forma concreta de gesti\u00f3 per a cada projecte a nivell administratiu, t\u00e8cnic i pressupostari.</p><p><strong>La gesti\u00f3 i execuci\u00f3 de projectes associats a propostes seleccionades en l`\u00e0mbit social, es vehicular\u00e0 mitjan\u00e7ant l\u2019atorgament de subvencions per concessi\u00f3 directa a les entitats que hagin registrat formalment la proposta.</strong> Aquest atorgament comportar\u00e0, en tots els casos, la formalitzaci\u00f3 de convenis de col\u00b7laboraci\u00f3 entre l\u2019Ajuntament de Sabadell i les entitats promotores al llarg de l\u2019exercici 2018. Aquests convenis contindran, necess\u00e0riament, els seg\u00fcents apartats: atorgants, objecte i finalitat, durada, obligacions i compromisos de les parts, en el seu cas, valoraci\u00f3 de la quantitat concedida, efectes de l\u2019incompliment, comissi\u00f3 de seguiment, si s\u2019escau, i conseq\u00fc\u00e8ncies de l\u2019extinci\u00f3 del conveni, forma i termini de justificaci\u00f3. </p><p>Les entitats que executin projectes mitjan\u00e7ant subvencions directes, hauran de complir amb les obligacions fiscals i els possibles costos que se\u2019n derivin.</p><p><br></p><h5><strong>S\u2019estableix una participaci\u00f3 m\u00ednima de 3.000 persones en la fase final de suports perqu\u00e8 el proc\u00e9s es consideri vinculant. En cas de superar aquest llindar de 3.000 participants, el Govern Municipal es compromet a incorporar les propostes finalment seleccionades al pressupost de 2018. </strong></h5>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<h4><strong>Tem\u00e1tica, presupuesto total e importe m\u00e1ximo de las propuestas</strong></h4><p><br></p><h5><strong>1.&nbsp;&nbsp;&nbsp;Propuestas para la mejora del espacio p\u00fablico o equipamientos municipales de ciudad o barrio </strong></h5><ul><li>Nueva urbanizaci\u00f3n y/o rehabilitaci\u00f3n de espacios p\u00fablicos. </li><li>Inversi\u00f3n en obra nueva para la mejora de equipamientos de titularidad municipal dirigidas a uso ciudadano. </li></ul><p><strong>500.000\u20ac en total con un presupuesto m\u00e1ximo de 100.000\u20ac por propuesta</strong></p><p>Los proyectos finalmente seleccionados los ejecutar\u00e1 el Ayuntamiento de Sabadell como gasto de inversi\u00f3n (esto excluye gastos asociados al mantenimiento ordinario). </p><h4><br></h4><h5><strong>2.&nbsp;&nbsp;&nbsp;Propuestas de \u00e1mbito social que mejoren la cohesi\u00f3n en la ciudad o en un barrio </strong></h5><ul><li>De \u00e1mbito social, cultural, educativo, deportivo, etc. dirigidas a las personas en general y/o a colectivos espec\u00edficos. </li><li>En el entorno de la intervenci\u00f3n comunitaria, que tengan por objeto el cambio estructural, la mejora de la cohesi\u00f3n y de las condiciones de vida de la ciudadan\u00eda.</li></ul><p><strong>500.000\u20ac en total con un presupuesto m\u00e1ximo de 100.000\u20ac por propuesta</strong></p><p>Los proyectos finalmente seleccionados los ejecutaran las entidades que hayan presentado la propuesta, mediante el otorgamiento de subvenciones anuales por concesi\u00f3n directa (con formalizaci\u00f3n de convenios y la obligaci\u00f3n de justificar los gastos). </p><h4>&nbsp;<strong>&nbsp;</strong></h4><h4><strong>Fases del proceso</strong></h4><h5><br></h5><h5><strong>1.&nbsp;&nbsp;&nbsp;Presentaci\u00f3n de propuestas: <em>5 de julio a 30 de septiembre de 2017</em></strong></h5><h5><br></h5><h5><strong>\u00bfQui\u00e9n las puede presentar?</strong></h5><h5><strong>Propuestas para la mejora del espacio p\u00fablico o equipamientos municipales de ciudad o barrio</strong></h5><ul><li>Personas mayores de 18 a\u00f1os empadronadas a Sabadell.</li><li>Entidades inscritas en el Registro Municipal de Entidades Ciudadanas del Ayuntamiento de Sabadell. </li></ul><h5><strong>Propuestas de \u00e1mbito social que mejoren la cohesi\u00f3n en la ciudad o en un barrio</strong></h5><ul><li>Entidades inscritas en el Registro Municipal de Entidades Ciudadanas del Ayuntamiento de Sabadell. </li></ul><h5><strong>\u00bfC\u00f3mo presentarlas?</strong></h5><p>Las propuestas <strong>(con un m\u00e1ximo de una por \u00e1mbito tem\u00e1tico) </strong>se pueden presentar, <strong>a partir del 5 de Julio, <u>\u00fanicamente de forma presencial</u></strong> en <a target=\"_blank\" href=\"http://www.sabadell.cat/ca/lajuntament/saccat\"><strong>cualquier Oficina de Atenci\u00f3n Ciudadana de Sabadell (OAC)</strong></a> rellenando las fichas de presentaci\u00f3n que encontrareis en los mismos puntos de atenci\u00f3n. Las correspondientes fichas se pueden descargar a continuaci\u00f3n</p><ul><li><a target=\"_blank\" href=\"https://decidim.sabadell.cat/uploads/decidim/attachment/file/25/Fitxa_propostes_CCiutat2018_FORM_CIUTADANIA.pdf\">Ficha de presentaci\u00f3n de propuestas para ciudadan\u00eda</a> (personas individuales). En catal\u00e1n.</li><li><a target=\"_blank\" href=\"https://decidim.sabadell.cat/uploads/decidim/attachment/file/26/Fitxa_propostes_CCiutat2018_FORM_ENTITATS.pdf\">Ficha de presentaci\u00f3n de propuestas para entidades</a>. En catal\u00e1n.</li></ul><p>Las propuestas presentadas por personas mayores de 18 a\u00f1os empadronadas en Sabadell (las entidades quedan excluidas de este requerimiento), tienen que adjuntar <strong>un m\u00ednimo de 30 firmas</strong> de apoyo (cuadro incluido en la ficha de presentaci\u00f3n) por parte de vecinos o vecinas mayores de 18 a\u00f1os, tambi\u00e9n empadronados/das en la ciudad. Los servicios t\u00e9cnicos municipales validar\u00e1n la autenticidad de la firmas en base al Padr\u00f3n Municipal de Habitantes. </p><p>Las propuestas se tienen que ajustar a aquello que establecen estas bases en referencia a la tem\u00e1tica, presupuesto y cuant\u00eda. <strong>Las propuestas vinculadas a proyectos seleccionados para pasar a ejecuci\u00f3n en el marco del proceso participativo Construint Ciutat \u2013 Pressupost 2017 no se podr\u00e1n volver a presentar a esta segunda edici\u00f3n. </strong></p><h5><br></h5><h5><strong>2.&nbsp;&nbsp;&nbsp;Valoraci\u00f3n t\u00e9cnica i viabilidad de les propuestas: <em>16 de octubre a 24 de noviembre de 2017</em></strong></h5><p>Esta segunda edici\u00f3n del proceso incorpora una fase de trabajo conjunto entre personas o entidades que han presentado propuestas y los servicios t\u00e9cnicos del Ayuntamiento, previamente a la fase final de apoyos. El proceso de gesti\u00f3n para cada propuesta registrada ser\u00e1 el siguiente:&nbsp;</p><ul><li>Presentaci\u00f3n de la propuesta por parte de la ciudadan\u00eda o entidad.</li><li>Recepci\u00f3n y valoraci\u00f3n t\u00e9cnica por parte del servicio correspondiente en funci\u00f3n de la adecuaci\u00f3n de la propuesta a las presentes bases (tem\u00e1tica, \u00e1mbito territorial, justificaci\u00f3n, descripci\u00f3n, destinatario, presupuesto, documentaci\u00f3n adjunta). </li><li>En caso de detectar propuestas similares o iguales, el Servicio de Participaci\u00f3n podr\u00e1 recomendar a las personas o entidades que las hayan planteado, que elaboren una nueva propuesta conjunta. </li><li>Comunicaci\u00f3n del resultado de la valoraci\u00f3n t\u00e9cnica (positivo o negativo).</li><li>En caso de valoraci\u00f3n positiva, se convocar\u00e1 una reuni\u00f3n conjunta para determinar la forma de gesti\u00f3n, \u00e1mbito territorial, presupuesto, contenidos y descripci\u00f3n de la propuesta que, en caso de consenso, y previo acuerdo firmado, se publicar\u00e1 para pasar a la fase final de apoyos. </li><li>En caso de no producirse consenso en los encuentros de validaci\u00f3n conjunta, se redactar\u00e1 y firmar\u00e1 un acta entre las partes, en la que se expondr\u00e1n los motivos que han llevado a la no inclusi\u00f3n del proyecto en la fase final de apoyos.</li><li>Si se considera necesario, el Ayuntamiento puede requerir a les entidades que acrediten su solvencia y trayectoria, as\u00ed como los proyectos realizados con anterioridad.</li></ul><h4><br></h4><h5><strong>3.&nbsp;&nbsp;&nbsp;Apoyo a las propuesta: <em>1 a 17 de desembre de 2017</em></strong></h5><p>Podr\u00e1n dar apoyo a las propuestas las <strong>personas mayores de 14 a\u00f1os empadronadas en la ciudad</strong> a t\u00edtulo individual, o personas representantes de colectivos y organizaciones, que se hayan registrado previamente en esta plataforma, apartado \u201c<a target=\"_blank\" href=\"https://decidim.sabadell.cat/users/sign_up?locale=es\">Reg\u00edstrate</a>\u201d. Es necesario aportar un nombre o alias, direcci\u00f3n de correo electr\u00f3nico y contrase\u00f1a. Se dispondr\u00e1 de 4 apoyos para repartir entre todas las propuestas, que se podr\u00e1n consultar en su globalidad o filtrando en funci\u00f3n de si son de \u00e1mbito de ciudad o de barrio. </p><p>&nbsp;</p><h5><strong>4.&nbsp;&nbsp;&nbsp;Resultados finales: <em>Enero de 2018</em></strong></h5><p>Se publicar\u00e1n los resultados en dos versiones:</p><ul><li><strong>Versi\u00f3n inicial</strong> de resultados seg\u00fan n\u00famero de apoyos a cada propuesta.</li><li><strong>Versi\u00f3n final </strong>de resultados con las propuestas que pasan a ejecuci\u00f3n por parte del Ayuntamiento y aquellas que recibir\u00e1n el otorgamiento de subvenciones hasta agotar el 1.000.000\u20ac (500.000\u20ac por \u00e1mbito tem\u00e1tico). </li></ul><p>&nbsp;</p><h5><strong>M\u00e9todo de ordenaci\u00f3n de propuestas seg\u00fan el presupuesto</strong></h5><p>Las propuestas se ordenaran seg\u00fan el n\u00famero final de apoyos recibidos, <strong>admitiendo como m\u00e1ximo una propuesta por barrio y tres por distrito</strong>. Las propuestas con alcance de ciudad no tendr\u00e1n limitaci\u00f3n en cuanto a n\u00famero m\u00e1ximo. </p><p>El presupuesto asignado a cada propuesta ir\u00e1 restando la cantidad total por \u00e1mbito. En el momento en que una determinada propuesta sobrepase el total de&nbsp;500.000\u20ac, el siguiente proyecto que, a\u00fan teniendo menor n\u00famero de apoyos, cuente con un presupuesto que no sobrepase los 500.000\u20ac, pasar\u00e1 autom\u00e1ticamente a la fase de ejecuci\u00f3n.&nbsp;En caso de que, finalmente, alguna de les personas o entidades comunique, motivadamente y por escrito, la voluntad de que su propuesta no pase a la fase de ejecuci\u00f3n, se pasar\u00e1 a tener en cuenta la propuesta inmediatamente posterior seg\u00fan n\u00famero de apoyos y el m\u00e1ximo de propuestas por barrio y distrito. </p><p>&nbsp;</p><h5><strong>5.&nbsp;&nbsp;&nbsp;Ejecuci\u00f3n de las propuestas</strong></h5><h6><strong>5.1. Gesti\u00f3n y ejecuci\u00f3n del Ayuntamiento de Sabadell en relaci\u00f3n a los proyectos de mejora del espacio p\u00fablico o de equipamientos municipales</strong></h6><p>Los proyectos de mejora del espacio p\u00fablico o equipamientos municipales ser\u00e1n gestionados y ejecutados directamente por el Ayuntamiento de Sabadell, teniendo en cuenta el contenido y la versi\u00f3n del proyecto consensuado con los promotores/as en la fase de valoraci\u00f3n t\u00e9cnica que, a su vez, ser\u00e1 la que habr\u00e1 recibido apoyo de la ciudadan\u00eda. Cualquier cambio que surja por motivos t\u00e9cnicos ajenos a la voluntad del Ayuntamiento ser\u00e1 comunicado a los promotores/as de la propuesta a modo informativo.</p><h6><strong>5.2. Otorgamiento de subvenciones con concesi\u00f3n directa para la gesti\u00f3n y ejecuci\u00f3n de proyectos de \u00e1mbito social por parte de entidades promotoras</strong></h6><p>La gesti\u00f3n y ejecuci\u00f3n de las propuestas de \u00e1mbito social se vehicular\u00e1n a trav\u00e9s del otorgamiento de subvenciones de concesi\u00f3n directa a las diferentes entidades promotoras. La concesi\u00f3n comportar\u00e1, en todos los casos,&nbsp;la formalizaci\u00f3n de convenios de colaboraci\u00f3n entre el Ayuntamiento de Sabadell y las entidades promotoras durante el ejercicio 2018.</p><h6><br></h6><h5>Elementos imprescindibles que ha de contener cada propuesta</h5><ul><li>Ser coherentes y no entrar en contradicci\u00f3n con el modelo, los valores y las l\u00edneas de actuaci\u00f3n promovidas por el Ayuntamiento de Sabadell .</li><li>Dar respuesta a una necesidad colectiva.</li><li>Las propuestas de mejora del espacio p\u00fablico o equipamientos municipales deben poder ser ejecutadas en su totalidad o en gran medida durante el a\u00f1o 2018. Las propuestas de \u00e1mbito social deben poder ser ejecutadas entre el 1 de enero y el 31 de diciembre del 2018. En ambos casos. \u00e9sto implica que <strong>el gasto no se asumir\u00e1 ni se subvencionar\u00e1, necesariamente, en presupuestos futuros.</strong></li><li>Ser evaluables econ\u00f3micamente y no superar el l\u00edmite de 100.000\u20ac.</li><li>Tener una visi\u00f3n de ciudad o estar enmarcadas en un barrio concreto.</li><li>Que tengan referencia a \u00e1mbitos y temas de competencia municipal, espacios de titularidad p\u00fablica o bien competencias asumidas por el Ayuntamiento.</li><li>Ser viables t\u00e9cnica y jur\u00eddicamente (que no existan impedimentos t\u00e9cnicos para realizar los proyectos i que estos se ajusten a la normativa vigente)</li></ul><p><br></p><h5><strong>Forma de gesti\u00f3n de los proyectos seleccionados</strong> </h5><p>La participaci\u00f3n en este proceso implica la aceptaci\u00f3n de que <strong>la gesti\u00f3n y ejecuci\u00f3n de proyectos asociados a propuestas seleccionadas en el \u00e1mbito de mejora del espacio p\u00fablico o equipamientos municipales corresponder\u00e1 al Ayuntamiento de Sabadell</strong>. Los servicios municipales establecer\u00e1n la forma concreta de gesti\u00f3n para cada proyecto a nivel administrativo, t\u00e9cnico y presupuestario.</p><p><strong>La gesti\u00f3n y ejecuci\u00f3n de proyectos asociados a propuestas seleccionadas en el \u00e1mbito social, se vehicular\u00e1 a trav\u00e9s del otorgamiento de subvenciones por concesi\u00f3n directa a las entidades que hayan registrado formalmente la propuesta</strong>. Dicho otorgamiento comportar\u00e1, en todos los casos, la formalizaci\u00f3n de convenios de colaboraci\u00f3n entre el Ayuntamiento de Sabadell y las entidades promotoras durante el ejercicio 2018. Estos convenios contendr\u00e1n, necesariamente, los siguientes apartados: Otorgantes, objeto y finalidad, duraci\u00f3n, obligaciones y compromisos de las partes, si es necesario, valoraci\u00f3n de la cantidad concedida, efectos por incumplimiento, comisi\u00f3n de seguimiento y consecuencias de la extinci\u00f3n del convenio, forma y plazo de justificaci\u00f3n.</p><p>Las entidades que ejecuten proyectos a trav\u00e9s de subvenciones directas, tendr\u00e1n que cumplir con las obligaciones fiscales y los posibles gastos que se deriven de dicho otorgamiento.</p><p><br></p><h5><strong>Se establece la necesidad de una participaci\u00f3n m\u00ednima de 3.000 personas en la fase final de apoyo para que el proceso se considere vinculante. En caso de superar este umbral de 3.000 participantes, el Gobierno Municipal se compromete a incorporar las propuestas seleccionadas en el presupuesto 2018.</strong></h5>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>L\u2019Ajuntament posa a disposici\u00f3 <strong>1.000.000\u20ac del pressupost municipal 2018 </strong>amb l\u2019objectiu que la ciutadania aporti propostes per millorar l\u2019espai p\u00fablic, els equipaments municipals i la cohesi\u00f3 social a la nostra ciutat. Aquesta \u00e9s la segona edici\u00f3 del proc\u00e9s, que l'any anterior va comptar amb un total de 78 projectes presentats i 6.154 persones donant suports. </p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p>El Ayuntamiento pone a disposici\u00f3n <strong>1.000.000 \u20ac del presupuesto municipal 2018</strong> con el objetivo de que la ciudadan\u00eda aporte propuestas para mejorar el espacio p\u00fablico, los equipamientos municipales y la cohesi\u00f3n social en nuestra ciudad. Esta es la segunda edici\u00f3n del proceso, que el a\u00f1o anterior registr\u00f3 un total de 78 proyectos presentados y 6.154 personas dando apoyos. </p><p><br></p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ajuntament de Sabadell"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Ayuntamiento de Sabadell"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "scope": {
+                "id": "3",
+                "name": {
+                    "translations": [
+                        {
+                            "locale": "ca",
+                            "text": "Ciutat"
+                        },
+                        {
+                            "locale": "es",
+                            "text": "Ciutat"
+                        }
+                    ]
+                },
+                "children": [
+                    {
+                        "id": "15",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Barri, projecte social"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Barrio, proyecto social"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "16",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Barri, projecte d'obres"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Barrio, proyecto de obras"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "17",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Ciutat, projecte social"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Ciudad, proyecto social"
+                                }
+                            ]
+                        },
+                        "children": []
+                    },
+                    {
+                        "id": "19",
+                        "name": {
+                            "translations": [
+                                {
+                                    "locale": "ca",
+                                    "text": "Ciutat, projecte d'obres"
+                                },
+                                {
+                                    "locale": "es",
+                                    "text": "Ciudad, proyecto de obras"
+                                }
+                            ]
+                        },
+                        "children": []
+                    }
+                ]
+            },
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Participaci\u00f3 i Atenci\u00f3 Ciutadana"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Participaci\u00f3n y Atenci\u00f3n Ciudadana"
+                    }
+                ]
+            },
+            "stats": [
                 {
-                    "line": 1,
-                    "column": 3
+                    "name": "pages_count",
+                    "value": 1
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 0
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 33
+                },
+                {
+                    "name": "projects_count",
+                    "value": 0
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 20
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
                 }
             ],
-            "path": [
-                "query",
-                "participatoryProcess"
+            "steps": [
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Informaci\u00f3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Informaci\u00f3n"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-06-21",
+                    "endDate": "2017-07-04"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Presentaci\u00f3 de propostes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Presentaci\u00f3n de propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-07-05",
+                    "endDate": "2017-09-30"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Valoraci\u00f3 t\u00e8cnica i treball conjunt amb els promotors/es"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Valoraci\u00f3n t\u00e9cnica y trabajo conjunto con los promotores/as"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-10-02",
+                    "endDate": "2017-11-24"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Suport a les propostes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Apoyo a las propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-12-01",
+                    "endDate": "2017-12-17"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Resultats del proc\u00e9s"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Evaluaci\u00f3n del proceso"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-02-01",
+                    "endDate": "2018-02-28"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Avaluaci\u00f3 del proc\u00e9s"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2018-03-02",
+                    "endDate": "2018-03-11"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Execuci\u00f3 del projectes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2018-04-01",
+                    "endDate": "2019-12-31"
+                }
             ],
-            "extensions": {
-                "code": "missingRequiredArguments",
-                "className": "Field",
-                "name": "participatoryProcess",
-                "arguments": "id"
-            }
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ciutadania i entitats"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Ciudadan\u00eda y entidades"
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "/uploads/decidim/attachment/file/445/Cam%C3%ADEscolarCE_Serra_planols.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/25/Fitxa_propostes_CCiutat2018_FORM_CIUTADANIA.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/26/Fitxa_propostes_CCiutat2018_FORM_ENTITATS.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/28/Power_ConstruintCiutat2017_DEF.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/27/BASES_ProcesParticipatiuPressupost2018_DEF.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/53/ConstruintCiutat_2018.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/149/Construint_Ciutat2018_Resultats_Modalitat_compatibilitat.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "43",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes"
+                            },
+                            {
+                                "text": "Propuestas"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "45",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Resultats del proc\u00e9s"
+                            },
+                            {
+                                "text": "Resultats del proc\u00e9s"
+                            }
+                        ]
+                    },
+                    "weight": 4
+                },
+                {
+                    "id": "83",
+                    "__typename": "Component",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Seguiment"
+                            },
+                            {
+                                "text": "Seguimiento"
+                            }
+                        ]
+                    },
+                    "weight": 5
+                }
+            ]
         },
-        {
-            "message": "Field 'participatoryProcess' doesn't accept argument 'slug'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 24
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "slug"
-            ],
-            "extensions": {
-                "code": "argumentNotAccepted",
-                "name": "participatoryProcess",
-                "typeName": "Field",
-                "argumentName": "slug"
-            }
-        },
-        {
-            "message": "Field 'showMetrics' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 149
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "showMetrics"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcess",
-                "fieldName": "showMetrics"
-            }
-        },
-        {
-            "message": "Field 'linkedParticipatorySpaces' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 553
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "linkedParticipatorySpaces"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcess",
-                "fieldName": "linkedParticipatorySpaces"
-            }
-        },
-        {
-            "message": "Field 'categories' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 591
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "categories"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcess",
-                "fieldName": "categories"
-            }
-        },
-        {
-            "message": "Field 'callToActionText' doesn't exist on type 'ParticipatoryProcessStep'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 977
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "steps",
-                "callToActionText"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcessStep",
-                "fieldName": "callToActionText"
-            }
+        "decidim": {
+            "version": "0.20.0",
+            "applicationName": "Decidim Sabadell"
         }
-    ]
+    }
 }

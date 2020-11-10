@@ -157,29 +157,56 @@
             "stats": null,
             "steps": [
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Consulter les r\u00e9sultats"
+                                "text": "D\u00e9p\u00f4t des propositions"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-01-14",
+                    "endDate": "2019-02-25"
+                },
+                {
+                    "position": 1,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Etudes de faisabilit\u00e9"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-02-26",
+                    "endDate": "2019-04-22"
+                },
+                {
+                    "position": 2,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "Vote des projets"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-04-23",
+                    "endDate": "2019-05-12"
+                },
+                {
+                    "position": 3,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "fr",
+                                "text": "R\u00e9alisation des projets laur\u00e9ats"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-05-13",
+                    "endDate": "2020-06-30"
                 }
             ],
             "target": {

@@ -168,44 +168,56 @@
             "stats": null,
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "D\u00e9posez vos projets"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-09-01",
+                    "endDate": "2019-12-23"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Nous \u00e9tudions vos projets"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-12-23",
+                    "endDate": "2020-02-28"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "\u00c0 vous de voter"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-03-01",
+                    "endDate": "2020-03-31"
                 },
                 {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Nous r\u00e9alisons les projets retenus"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-04-01",
+                    "endDate": "2020-12-31"
                 }
             ],
             "target": {

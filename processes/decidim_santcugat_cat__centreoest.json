@@ -239,7 +239,7 @@
                 },
                 {
                     "name": "surveys_count",
-                    "value": 0
+                    "value": 1
                 },
                 {
                     "name": "results_count",
@@ -260,59 +260,95 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Diagnosi de barri"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-02-01",
+                    "endDate": "2020-03-01"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Definici\u00f3 de l\u00ednies estrat\u00e8giques"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-03-05",
+                    "endDate": "2020-03-31"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Presentaci\u00f3 de propostes"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-05-15",
+                    "endDate": "2020-06-21"
                 },
                 {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Validaci\u00f3 t\u00e8cnica"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-06-01",
+                    "endDate": "2020-06-30"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 4,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Deliberaci\u00f3 i prioritzaci\u00f3"
+                            }
+                        ]
+                    },
+                    "startDate": "2020-07-01",
+                    "endDate": "2020-09-30"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 5,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Votaci\u00f3 ciutadana"
+                            }
+                        ]
+                    },
+                    "startDate": "2020-11-01",
+                    "endDate": "2020-11-15"
+                },
+                {
+                    "position": 6,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Execuci\u00f3 i seguiment dels projectes"
+                            }
+                        ]
+                    },
+                    "startDate": "2020-12-01",
+                    "endDate": "2021-12-31"
                 }
             ],
             "target": {
@@ -325,7 +361,7 @@
             },
             "attachments": [
                 {
-                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/754/CENTRE_OEST_-_PROPOSTES_V%C3%80LIDES_SESSI%C3%93_DELIBERACI%C3%93.pdf",
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/754/CENTRE_OEST_-_PROPOSTES_V%C3%80LIDES_SESSI%C3%93_DELIBERACI%C3%93__3_.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 },
@@ -359,6 +395,18 @@
                         ]
                     },
                     "weight": 20
+                },
+                {
+                    "id": "407",
+                    "__typename": "Surveys",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Prioritzaci\u00f3 Centre Oest"
+                            }
+                        ]
+                    },
+                    "weight": 50
                 },
                 {
                     "id": "396",

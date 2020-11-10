@@ -1037,76 +1037,88 @@
             "stats": null,
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "en",
-                                "text": ""
+                                "text": "Brainstorming"
                             },
                             {
                                 "locale": "fi",
-                                "text": ""
+                                "text": "Ideointi"
                             },
                             {
                                 "locale": "sv",
-                                "text": ""
+                                "text": "Id\u00e9er"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-10-05",
+                    "endDate": "2020-10-25"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "en",
-                                "text": ""
+                                "text": "Co-creation"
                             },
                             {
                                 "locale": "fi",
-                                "text": "Tammikuu-huhtikuu 2021"
+                                "text": "Yhteiskehitt\u00e4minen"
                             },
                             {
                                 "locale": "sv",
-                                "text": ""
+                                "text": "Samutveckling"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2021-01-11",
+                    "endDate": "2021-04-30"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "en",
-                                "text": "Autumn 2021"
+                                "text": "Voting"
                             },
                             {
                                 "locale": "fi",
-                                "text": "Syksyll\u00e4 2021"
+                                "text": "\u00c4\u00e4nestys"
                             },
                             {
                                 "locale": "sv",
-                                "text": "H\u00f6sten 2021"
+                                "text": "Omr\u00f6stning"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2021-10-01",
+                    "endDate": "2021-10-29"
                 },
                 {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "en",
-                                "text": "2022"
+                                "text": "Implementation"
                             },
                             {
                                 "locale": "fi",
-                                "text": "2022"
+                                "text": "Toteutus"
                             },
                             {
                                 "locale": "sv",
-                                "text": "2022"
+                                "text": "Genomf\u00f6rande"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2021-10-01",
+                    "endDate": "2022-12-31"
                 }
             ],
             "target": {

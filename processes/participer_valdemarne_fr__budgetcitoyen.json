@@ -417,44 +417,56 @@
             "stats": null,
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "D\u00e9poser une id\u00e9e"
+                                "text": "D\u00e9p\u00f4t des id\u00e9es"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-10-21",
+                    "endDate": "2019-12-31"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Phase d'instruction des projets retenus "
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-01-01",
+                    "endDate": "2020-06-30"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Votez"
+                                "text": "Campagne de vote "
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-07-01",
+                    "endDate": "2020-08-20"
                 },
                 {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "En savoir plus"
+                                "text": "R\u00e9alisation des projets"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-08-21",
+                    "endDate": "2021-12-31"
                 }
             ],
             "target": {

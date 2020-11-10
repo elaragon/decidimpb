@@ -1,120 +1,504 @@
 {
-    "errors": [
-        {
-            "message": "Field 'participatoryProcess' is missing required arguments: id",
-            "locations": [
+    "data": {
+        "participatoryProcess": {
+            "id": "3",
+            "slug": "pressupostos2018",
+            "hashtag": "",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2017-12-29T11:11:49+01:00",
+            "updatedAt": "2019-10-10T12:56:39+02:00",
+            "startDate": "2017-11-22",
+            "endDate": "2018-05-31",
+            "heroImage": "/uploads/decidim/participatory_process/hero_image/3/ED_1200x600_decideix.cat_img_principal_PP18.jpg",
+            "bannerImage": "/uploads/decidim/participatory_process/banner_image/3/ED_1200x600_decideix.cat_img_principal_PP18.jpg",
+            "reference": "decideix_esparreguera-PART-2017-12-3",
+            "promoted": false,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupostos participatius 2018"
+                    },
+                    {
+                        "locale": "en",
+                        "text": "Participatory budgets 2018"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Presupuestos participativos 2018"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "#EsparregueraDecideix"
+                    },
+                    {
+                        "locale": "en",
+                        "text": "#EsparregueraDecideix"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "#EsparregueraDecideix"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>En el marc d\u2019aquest proc\u00e9s la ciutadania podr\u00e0 proposar i decidir <strong>200.000 \u20ac</strong> de les inversions que s'executaran amb c\u00e0rrec al<strong> Pressupost de l\u2019any 2018</strong>.&nbsp;</p><p>La ciutadania podr\u00e0 presentar propostes d\u2019inversi\u00f3 que suposin una millora en l\u2019espai p\u00fablic o en els equipaments municipals per a la seva modernitzaci\u00f3, adaptaci\u00f3, reparaci\u00f3, conservaci\u00f3 o manteniment. Alguns exemples d'inversions podrien ser:</p><ul><li>Adquisici\u00f3 d'elements de mobiliari urb\u00e0.</li><li>Millores en l\u2019\u00e0mbit de les noves tecnologies.</li><li>Millores en equipaments municipals, voreres i vials, enllumenat, senyalitzaci\u00f3 vi\u00e0ria, parcs, jardins, clavegueram, etc.&nbsp;</li></ul><p>Es presentaran propostes principalment per via telem\u00e0tica, excepcionalment es podran presentar presencialment a l'Oficina d'Atenci\u00f3 Ciutadana. Les propostes podran ser presentades per qualsevol persona, entitat, comer\u00e7 o empresa vinculada a Esparreguera. Es podran presentar tantes propostes com es vulgui i cada proposta d'inversi\u00f3 presentada en cap cas podr\u00e0 superar el llindar dels 40.000 \u20ac (IVA no incl\u00f2s).</p>"
+                    },
+                    {
+                        "locale": "en",
+                        "text": "<p>Within the framework of this process citizens may propose and decide <strong>\u20ac 200,000</strong> on the investments that will be carried out under the <strong>Budget of the year 2018</strong>.</p><p>Citizens will be able to submit investment proposals that will improve the public space or the municipal facilities for their modernization, adaptation, repair, maintenance or maintenance. Some examples of investments could be:</p><ul><li>Acquisition of elements of urban furniture.</li><li>Improvements in the field of new technologies.</li><li>Improvements in municipal facilities, sidewalks and roads, lighting, road signs, parks, gardens, sewerage, etc.</li></ul><p>Proposals will be presented mainly through telematics, exceptionally they can be presented in person at the Citizen Service Office. The proposals may be submitted by any person, entity, commerce or company linked to Esparreguera. You can submit as many proposals as you like and each proposed investment presented in no case can exceed the threshold of \u20ac 40,000 (VAT not included).</p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p>En el marco de este proceso los ciudadanos podr\u00e1n proponer y decidir <strong>200.000 \u20ac</strong> de las inversiones que se ejecutar\u00e1n con cargo al <strong>Presupuesto del a\u00f1o 2018</strong>.</p><p>Los ciudadanos y ciudadanas podr\u00e1n presentar propuestas de inversi\u00f3n que supongan una mejora en el espacio p\u00fablico o en los equipamientos municipales para su modernizaci\u00f3n, adaptaci\u00f3n, reparaci\u00f3n, conservaci\u00f3n o mantenimiento. Algunos ejemplos de inversiones podr\u00edan ser:</p><ul><li>Adquisici\u00f3n de elementos de mobiliario urbano.</li><li>Mejoras en el \u00e1mbito de las nuevas tecnolog\u00edas.</li><li>Mejoras en equipamientos municipales, aceras y viales, alumbrado, se\u00f1alizaci\u00f3n viaria, parques, jardines, alcantarillado, etc.</li></ul><p>Se presentar\u00e1n propuestas principalmente por v\u00eda telem\u00e1tica, excepcionalmente se podr\u00e1n presentar presencialmente en la Oficina de Atenci\u00f3n Ciudadana. Las propuestas podr\u00e1n ser presentadas por cualquier persona, entidad, comercio o empresa vinculada a Esparreguera. Se podr\u00e1n presentar tantas propuestas como se quiera y cada propuesta de inversi\u00f3n presentada en ning\u00fan caso podr\u00e1 superar el umbral de los 40.000 \u20ac (IVA no incluido).</p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<h5><strong>PROC\u00c9S</strong></h5><h5><br></h5><p>L\u2019Ajuntament d\u2019Esparreguera posa en marxa una primera experi\u00e8ncia de pressupostos participatius.</p>"
+                    },
+                    {
+                        "locale": "en",
+                        "text": "<p>The City Council of Esparreguera launches an initial online experience of participatory budgets.</p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p>El Ayuntamiento de Esparreguera pone en marcha una primera experiencia, en l\u00ednea, de presupuestos participativos.</p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "en",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "en",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "en",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "en",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "en",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "en",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "stats": [
                 {
-                    "line": 1,
-                    "column": 3
+                    "name": "pages_count",
+                    "value": 2
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 3
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 107
+                },
+                {
+                    "name": "projects_count",
+                    "value": 30
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
                 }
             ],
-            "path": [
-                "query",
-                "participatoryProcess"
+            "steps": [
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Informaci\u00f3 i presentaci\u00f3"
+                            },
+                            {
+                                "locale": "en",
+                                "text": "Information and presentation"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Informaci\u00f3n y presentaci\u00f3n"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-01-08",
+                    "endDate": "2018-02-02"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Recollida de propostes"
+                            },
+                            {
+                                "locale": "en",
+                                "text": "Collection of proposals"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Recogida de propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-02-03",
+                    "endDate": "2018-03-05"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Valoraci\u00f3 de propostes"
+                            },
+                            {
+                                "locale": "en",
+                                "text": "Evaluation of proposals"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Valoraci\u00f3n de propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-03-06",
+                    "endDate": "2018-04-22"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Publicaci\u00f3 de les propostes acceptades"
+                            },
+                            {
+                                "locale": "en",
+                                "text": "Publication of accepted proposals"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Publicaci\u00f3n de las propuestas aceptadas"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-04-23",
+                    "endDate": "2018-05-09"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Votaci\u00f3 de propostes"
+                            },
+                            {
+                                "locale": "en",
+                                "text": "Voting of proposals"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Votaci\u00f3n de propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-05-10",
+                    "endDate": "2018-05-24"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Selecci\u00f3 de propostes"
+                            },
+                            {
+                                "locale": "en",
+                                "text": "Selection of proposals"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Selecci\u00f3n de propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-05-25",
+                    "endDate": "2018-05-31"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Execuci\u00f3 obres de les propostes guanyadores"
+                            },
+                            {
+                                "locale": "en",
+                                "text": "Execution of proposals"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Ejecuci\u00f3n de propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-06-01",
+                    "endDate": "2019-03-31"
+                }
             ],
-            "extensions": {
-                "code": "missingRequiredArguments",
-                "className": "Field",
-                "name": "participatoryProcess",
-                "arguments": "id"
-            }
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "en",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "/uploads/decidim/attachment/file/13/CriterisValoracio.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/11/ComposicioComissio.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/14/DefinicioPropostaInversio.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/10/Calendari.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/9/BasesReguladores.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/42/Informe_proc%C3%A9s_participatiu_juliol_2018.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "12",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Trobades"
+                            },
+                            {
+                                "text": "Meetings"
+                            },
+                            {
+                                "text": "Lista de encuentros"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                },
+                {
+                    "id": "11",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes"
+                            },
+                            {
+                                "text": "Proposals"
+                            },
+                            {
+                                "text": "Propuestas"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                },
+                {
+                    "id": "10",
+                    "__typename": "Component",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes admeses"
+                            },
+                            {
+                                "text": "Budgets"
+                            },
+                            {
+                                "text": "Presupuestos"
+                            }
+                        ]
+                    },
+                    "weight": 3
+                },
+                {
+                    "id": "18",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Resultats"
+                            },
+                            {
+                                "text": "Results"
+                            },
+                            {
+                                "text": "Resultados"
+                            }
+                        ]
+                    },
+                    "weight": 4
+                },
+                {
+                    "id": "30",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Execuci\u00f3 projectes propostes guanyadores"
+                            },
+                            {
+                                "text": "Page"
+                            },
+                            {
+                                "text": "P\u00e1gina"
+                            }
+                        ]
+                    },
+                    "weight": 5
+                }
+            ]
         },
-        {
-            "message": "Field 'participatoryProcess' doesn't accept argument 'slug'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 24
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "slug"
-            ],
-            "extensions": {
-                "code": "argumentNotAccepted",
-                "name": "participatoryProcess",
-                "typeName": "Field",
-                "argumentName": "slug"
-            }
-        },
-        {
-            "message": "Field 'showMetrics' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 152
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "showMetrics"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcess",
-                "fieldName": "showMetrics"
-            }
-        },
-        {
-            "message": "Field 'linkedParticipatorySpaces' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 556
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "linkedParticipatorySpaces"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcess",
-                "fieldName": "linkedParticipatorySpaces"
-            }
-        },
-        {
-            "message": "Field 'categories' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 594
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "categories"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcess",
-                "fieldName": "categories"
-            }
-        },
-        {
-            "message": "Field 'callToActionText' doesn't exist on type 'ParticipatoryProcessStep'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 980
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "steps",
-                "callToActionText"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcessStep",
-                "fieldName": "callToActionText"
-            }
+        "decidim": {
+            "version": "0.20.1",
+            "applicationName": "Decideix Esparreguera"
         }
-    ]
+    }
 }

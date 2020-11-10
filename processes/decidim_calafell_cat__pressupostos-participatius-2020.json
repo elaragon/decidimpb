@@ -479,43 +479,106 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Aprovaci\u00f3 Reglament Pressupostos Participatius"
                             },
                             {
                                 "locale": "es",
-                                "text": ""
+                                "text": "Aprobaci\u00f3n Reglamento Presupuestos Participativos"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-07-29",
+                    "endDate": "2019-07-30"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 1,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Presentaci\u00f3 Propostes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Presentaci\u00f3n Propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-09-02",
+                    "endDate": "2019-09-15"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 2,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Valoraci\u00f3 Propostes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Valoraci\u00f3n Propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-09-16",
+                    "endDate": "2019-09-27"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 3,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Votaci\u00f3 Propostes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Votaci\u00f3n Propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-10-07",
+                    "endDate": "2019-10-20"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 4,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Resultat Votaci\u00f3 Propostes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Resultado Votaci\u00f3n Propuestas"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-10-21",
+                    "endDate": "2019-10-31"
+                },
+                {
+                    "position": 5,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Dotaci\u00f3 Econ\u00f2mica"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Dotaci\u00f3n Econ\u00f2mica"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-11-01",
+                    "endDate": "2019-12-31"
                 }
             ],
             "target": {

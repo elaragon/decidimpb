@@ -1,120 +1,311 @@
 {
-    "errors": [
-        {
-            "message": "Field 'participatoryProcess' is missing required arguments: id",
-            "locations": [
+    "data": {
+        "participatoryProcess": {
+            "id": "5",
+            "slug": "pressupost2019",
+            "hashtag": "Pressupostpalamos19",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2018-07-20T09:53:00+02:00",
+            "updatedAt": "2020-01-16T10:36:32+01:00",
+            "startDate": "2018-09-01",
+            "endDate": "2019-03-30",
+            "heroImage": "/uploads/decidim/participatory_process/hero_image/5/p2019.jpg",
+            "bannerImage": "/uploads/decidim/participatory_process/banner_image/5/p2019.jpg",
+            "reference": "PALAM-PART-2018-07-5",
+            "promoted": false,
+            "scopesEnabled": false,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupost participatiu 2019"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "En qu\u00e8 invertiries 100.000 \u20ac a Palam\u00f3s?"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<h4>Des de l\u2019Ajuntament volem decidir amb tu una part de les inversions del pressupost municipal. \u00c9s per aix\u00f2 que iniciem un proc\u00e9s de participaci\u00f3 on&nbsp;els ciutadans del poble podreu determinar el dest\u00ed de 100.000\u20ac del pressupost&nbsp;de l\u2019any 2019. Us convidem a fer propostes i a votar-les.</h4><p><br></p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/TMRvrYE9s50?showinfo=0\"></iframe><p><br></p><h4>Quins s\u00f3n els objectius d\u2019aquest proc\u00e9s de participaci\u00f3?</h4><ul><li>Implicar a la ciutadania en la presa de decisions sobre el dest\u00ed d\u2019una part dels recursos p\u00fablics, a trav\u00e9s d\u2019un proc\u00e9s ordenat i obert a tots els ciutadans.</li><li>Generar corresponsabilitat en la presa de decisions i dur a terme una tasca d\u2019aprenentatge col\u00b7lectiu.</li><li>Generar intel\u00b7lig\u00e8ncia col\u00b7lectiva en benefici del poble a trav\u00e9s del debat ciutad\u00e0.</li><li>Identificar necessitats, demandes i desitjos de la poblaci\u00f3 i fer part\u00edcips als ciutadans de les solucions posant a la seva disposici\u00f3 eines de democr\u00e0cia deliberativa i&nbsp;de democr\u00e0cia directa.</li><li>Potenciar la visualitzaci\u00f3 del Consell de Participaci\u00f3 en les accions participatives fomentades des de l\u2019Ajuntament.</li></ul><p><br></p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>VIDEO-MEM\u00d2RIA DEL PROC\u00c9S</p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://player.vimeo.com/video/370008640/\"></iframe><p><br></p><p> VOTA LES PROPOSTES QUE TROBIS M\u00c9S NECESS\u00c0RIES! </p><p>Si est\u00e0s empadrona't a Palam\u00f3s i ets majors de 16 anys, vota les accions que caldria prioritzar entre aquestes 16 propostes, escollint-ne un m\u00e0xim de 8 per ciutad\u00e0.&nbsp;</p><iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://www.youtube.com/embed/Y8qhnpHYapA?showinfo=0\"></iframe><p><br></p><p><br></p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Participaci\u00f3 Ciutadana"
+                    }
+                ]
+            },
+            "stats": [
                 {
-                    "line": 1,
-                    "column": 3
+                    "name": "pages_count",
+                    "value": 1
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 4
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 182
+                },
+                {
+                    "name": "projects_count",
+                    "value": 16
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 1
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
                 }
             ],
-            "path": [
-                "query",
-                "participatoryProcess"
+            "steps": [
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Recollida de propostes ciutadanes"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-09-01",
+                    "endDate": "2018-09-30"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Validaci\u00f3 de les propostes i filtratge intern"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-10-01",
+                    "endDate": "2018-10-26"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Prioritzaci\u00f3 de les propostes"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-10-27",
+                    "endDate": "2018-10-28"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Votaci\u00f3 de les propostes seleccionades"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-11-30",
+                    "endDate": "2019-01-20"
+                },
+                {
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Retorn i avaluaci\u00f3"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-01-30",
+                    "endDate": "2019-03-30"
+                }
             ],
-            "extensions": {
-                "code": "missingRequiredArguments",
-                "className": "Field",
-                "name": "participatoryProcess",
-                "arguments": "id"
-            }
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "/uploads/decidim/attachment/file/116/projectes_guanyadors.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/23/INFORME_DE_RESULTATS_TALLER_PRIORITZACI%C3%93_PRESSU_PARTI_2019_PALAM%C3%93S.NE%C3%92POLIS.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/22/FITXES_TREBALL_GRUPAL_TALLER_PRIORITZACI%C3%93_PRESSU_PARTI_PALAM%C3%93S_19__NE%C3%92POLIS.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/21/totes_les_propostes_rebudes_pres_2019_JUSTIFICACI%C3%93.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/20/propostes_v%C3%A0lides_assemblea_27oct.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/4/DECIDIM._Gesti%C3%B3_propostes_2018.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/1/butlleta_propostes_def_19.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "27",
+                    "__typename": "Component",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Votaci\u00f3"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "5",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Trobades"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "64",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Resultats"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "13",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "66",
+                    "__typename": "Component",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Avaluaci\u00f3"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                }
+            ]
         },
-        {
-            "message": "Field 'participatoryProcess' doesn't accept argument 'slug'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 24
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "slug"
-            ],
-            "extensions": {
-                "code": "argumentNotAccepted",
-                "name": "participatoryProcess",
-                "typeName": "Field",
-                "argumentName": "slug"
-            }
-        },
-        {
-            "message": "Field 'showMetrics' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 150
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "showMetrics"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcess",
-                "fieldName": "showMetrics"
-            }
-        },
-        {
-            "message": "Field 'linkedParticipatorySpaces' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 554
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "linkedParticipatorySpaces"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcess",
-                "fieldName": "linkedParticipatorySpaces"
-            }
-        },
-        {
-            "message": "Field 'categories' doesn't exist on type 'ParticipatoryProcess'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 592
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "categories"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcess",
-                "fieldName": "categories"
-            }
-        },
-        {
-            "message": "Field 'callToActionText' doesn't exist on type 'ParticipatoryProcessStep'",
-            "locations": [
-                {
-                    "line": 1,
-                    "column": 978
-                }
-            ],
-            "path": [
-                "query",
-                "participatoryProcess",
-                "steps",
-                "callToActionText"
-            ],
-            "extensions": {
-                "code": "undefinedField",
-                "typeName": "ParticipatoryProcessStep",
-                "fieldName": "callToActionText"
-            }
+        "decidim": {
+            "version": "0.20.1",
+            "applicationName": "Decidim Diputaci\u00f3 Girona"
         }
-    ]
+    }
 }

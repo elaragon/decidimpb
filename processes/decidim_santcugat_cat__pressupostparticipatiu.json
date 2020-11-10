@@ -315,39 +315,95 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 0,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Fase informativa del Pressupost Participatiu"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-10-16",
+                    "endDate": "2017-10-22"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 1,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Presentaci\u00f3 i suport a propostes"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-10-23",
+                    "endDate": "2017-11-12"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 2,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "\u00daltima setmana per donar suport a propostes"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-11-13",
+                    "endDate": "2017-11-19"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 3,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Validaci\u00f3 t\u00e8cnica  de les propostes"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-11-20",
+                    "endDate": "2017-12-31"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 4,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Tallers de debat ciutad\u00e0"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-01-15",
+                    "endDate": "2018-02-28"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 5,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Votaci\u00f3 de les 30 propostes finalistes"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-04-23",
+                    "endDate": "2018-06-17"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 6,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Execuci\u00f3 de les 10 propostes m\u00e9s votades"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-07-01",
+                    "endDate": "2019-12-31"
                 }
             ],
             "target": {

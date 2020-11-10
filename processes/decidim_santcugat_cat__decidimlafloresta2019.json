@@ -154,34 +154,43 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Presentaci\u00f3 de propostes"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2018-12-12",
+                    "endDate": "2019-01-20"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Votaci\u00f3 de les propostes"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-03-11",
+                    "endDate": "2019-03-17"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Execuci\u00f3 de projectes"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-03-18",
+                    "endDate": "2019-12-31"
                 }
             ],
             "target": {

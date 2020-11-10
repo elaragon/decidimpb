@@ -216,64 +216,82 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Je d\u00e9pose mon id\u00e9e"
+                                "text": "Je propose mes id\u00e9es"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-01-28",
+                    "endDate": "2020-04-30"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Consultez"
+                                "text": "Analyse des propositions"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-04-30",
+                    "endDate": "2020-09-04"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Consultez"
+                                "text": "Pr\u00e9sentation des id\u00e9es retenues apr\u00e8s \u00e9tude"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-09-04",
+                    "endDate": "2020-09-25"
                 },
                 {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Votez"
+                                "text": "Vote des projets"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-09-25",
+                    "endDate": "2020-10-19"
                 },
                 {
-                    "callToActionText": {
+                    "position": 4,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "D\u00e9couvrez les projets laur\u00e9ats"
+                                "text": "R\u00e9sultats du vote"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-10-20",
+                    "endDate": "2020-12-31"
                 },
                 {
-                    "callToActionText": {
+                    "position": 5,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Consultez"
+                                "text": "R\u00e9alisation des projets laur\u00e9ats"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2021-01-01",
+                    "endDate": "2022-12-31"
                 }
             ],
             "target": {
@@ -364,6 +382,11 @@
                     "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/759/pour_s_y_retrouver.pdf",
                     "type": "pdf",
                     "thumbnail": null
+                },
+                {
+                    "url": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/986/0002.jpg",
+                    "type": "jpg",
+                    "thumbnail": "https://ecrivons.angers.fr/uploads/decidim/attachment/file/986/thumbnail_0002.jpg"
                 }
             ],
             "components": [

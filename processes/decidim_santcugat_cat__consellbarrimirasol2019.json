@@ -154,34 +154,43 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Fase informativa"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2018-10-29",
+                    "endDate": "2019-02-03"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Votaci\u00f3 de les propostes"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-02-04",
+                    "endDate": "2019-03-03"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Execuci\u00f3 de projectes"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-02-25",
+                    "endDate": "2019-12-31"
                 }
             ],
             "target": {

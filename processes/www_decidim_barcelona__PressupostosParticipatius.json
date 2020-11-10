@@ -1623,102 +1623,123 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": "Crea el teu projecte"
+                                "text": "Debat i recollida de projectes"
                             },
                             {
                                 "locale": "es",
-                                "text": "Crea tu proyecto"
+                                "text": "Debate y recogida de proyectos"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-02-03",
+                    "endDate": "2020-05-22"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Valoraci\u00f3 t\u00e8cnica dels projectes"
                             },
                             {
                                 "locale": "es",
-                                "text": ""
+                                "text": "Valoraci\u00f3n t\u00e9cnica de los proyectos"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-05-23",
+                    "endDate": "2020-08-31"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Prioritzaci\u00f3 mitjan\u00e7ant la recollida de suports"
                             },
                             {
                                 "locale": "es",
-                                "text": ""
+                                "text": "Priorizaci\u00f3n mediante la recogida de apoyos"
                             }
                         ]
-                    }
+                    },
+                    "startDate": null,
+                    "endDate": null
                 },
                 {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Concreci\u00f3 dels projectes"
                             },
                             {
                                 "locale": "es",
-                                "text": ""
+                                "text": "Concreci\u00f3n de los proyectos"
                             }
                         ]
-                    }
+                    },
+                    "startDate": null,
+                    "endDate": null
                 },
                 {
-                    "callToActionText": {
+                    "position": 4,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Votaci\u00f3 final"
                             },
                             {
                                 "locale": "es",
-                                "text": ""
+                                "text": "Votaci\u00f3n final"
                             }
                         ]
-                    }
+                    },
+                    "startDate": null,
+                    "endDate": null
                 },
                 {
-                    "callToActionText": {
+                    "position": 5,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Retorn"
                             },
                             {
                                 "locale": "es",
-                                "text": ""
+                                "text": "Retorno"
                             }
                         ]
-                    }
+                    },
+                    "startDate": null,
+                    "endDate": null
                 },
                 {
-                    "callToActionText": {
+                    "position": 6,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Seguiment"
                             },
                             {
                                 "locale": "es",
-                                "text": ""
+                                "text": "Seguiento"
                             }
                         ]
-                    }
+                    },
+                    "startDate": null,
+                    "endDate": null
                 }
             ],
             "target": {

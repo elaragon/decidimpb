@@ -157,54 +157,69 @@
             "stats": null,
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Consultation des habitants et des associations"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-03-05",
+                    "endDate": "2019-03-26"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "D\u00e9p\u00f4t des projets"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-03-27",
+                    "endDate": "2019-05-09"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Instruction des propositions"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-05-10",
+                    "endDate": "2019-06-13"
                 },
                 {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Vote"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-06-14",
+                    "endDate": "2019-06-30"
                 },
                 {
-                    "callToActionText": {
+                    "position": 4,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Consulter les r\u00e9sultats"
+                                "text": "R\u00e9sultat du vote"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-07-01",
+                    "endDate": "2019-07-14"
                 }
             ],
             "target": {

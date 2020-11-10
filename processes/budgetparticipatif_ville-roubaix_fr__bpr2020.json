@@ -168,84 +168,108 @@
             "stats": null,
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Je d\u00e9pose mes id\u00e9es"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-01-08",
+                    "endDate": "2020-03-02"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Organisation \u00e0 distance du budget participatif"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-03-16",
+                    "endDate": "2020-06-16"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "La Ville \u00e9tudie mes id\u00e9es"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-03-03",
+                    "endDate": "2020-07-01"
                 },
                 {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "La Ville pr\u00e9pare les projets"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-07-02",
+                    "endDate": "2020-07-14"
                 },
                 {
-                    "callToActionText": {
+                    "position": 4,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Je prends connaissance des projets soumis au vote"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-07-15",
+                    "endDate": "2020-09-11"
                 },
                 {
-                    "callToActionText": {
+                    "position": 5,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Voter"
+                                "text": "Je vote pour mes projets favoris"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-09-12",
+                    "endDate": "2020-10-15"
                 },
                 {
-                    "callToActionText": {
+                    "position": 6,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Nous d\u00e9pouillons les bulletins "
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-10-16",
+                    "endDate": "2020-10-20"
                 },
                 {
-                    "callToActionText": {
+                    "position": 7,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "La Ville r\u00e9alise nos projets"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2020-10-01",
+                    "endDate": "2021-10-01"
                 }
             ],
             "target": {

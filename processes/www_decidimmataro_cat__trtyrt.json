@@ -604,34 +604,106 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 0,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "PROPOSTA"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "PROPUESTA"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-05-22",
+                    "endDate": "2017-06-27"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 1,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "RECOLLIDA DE SUPORTS"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "RECOGIDA DE APOYOS"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-06-30",
+                    "endDate": "2017-07-14"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 2,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "VALIDACI\u00d3 T\u00c8CNICA"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "VALIDACI\u00d3N T\u00c9CNICA"
+                            }
+                        ]
+                    },
+                    "startDate": "2017-07-17",
+                    "endDate": "2017-10-31"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 3,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "PRIORITZACI\u00d3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "PRIORITZACI\u00d3N"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-01-08",
+                    "endDate": "2018-01-19"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 4,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "VOTACI\u00d3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "VOTACI\u00d3N"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-02-02",
+                    "endDate": "2018-02-22"
                 },
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
+                    "position": 5,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "RETORN"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "RETORNO"
+                            }
+                        ]
+                    },
+                    "startDate": "2018-02-26",
+                    "endDate": "2018-03-11"
                 }
             ],
             "target": {

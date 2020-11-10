@@ -5,8 +5,8 @@
             "slug": "Participaccio",
             "hashtag": "",
             "type": "Decidim::ParticipatoryProcess",
-            "createdAt": "2019-01-22T12:55:08+01:00",
-            "updatedAt": "2019-09-30T15:19:03+02:00",
+            "createdAt": "2019-01-22T11:55:08+00:00",
+            "updatedAt": "2019-09-30T13:19:03+00:00",
             "startDate": "2019-02-04",
             "endDate": "2019-07-31",
             "heroImage": "/uploads/decidim/participatory_process/hero_image/23/participaccio-banner2.jpg",
@@ -224,47 +224,89 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
-                        "translations": []
-                    }
-                },
-                {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Recollida de propostes"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Introducci\u00f3n"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-02-04",
+                    "endDate": "2019-02-24"
+                },
+                {
+                    "position": 1,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Filtratge"
                             },
                             {
                                 "locale": "es",
                                 "text": ""
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-02-11",
+                    "endDate": "2019-03-03"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "ca",
-                                "text": ""
+                                "text": "Prioritzaci\u00f3"
                             },
                             {
                                 "locale": "es",
                                 "text": ""
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-03-04",
+                    "endDate": "2019-03-24"
+                },
+                {
+                    "position": 3,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Resultats"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2019-03-25",
+                    "endDate": "2019-03-26"
+                },
+                {
+                    "position": 4,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Avaluaci\u00f3 i seguiment"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2019-03-26",
+                    "endDate": "2019-07-31"
                 }
             ],
             "target": {
@@ -344,7 +386,7 @@
             ]
         },
         "decidim": {
-            "version": "0.21.0",
+            "version": "0.22.0",
             "applicationName": "Decidim Gav\u00e0"
         }
     }

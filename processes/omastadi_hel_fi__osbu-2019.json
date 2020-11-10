@@ -559,76 +559,88 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "en",
-                                "text": ""
+                                "text": "Proposals"
                             },
                             {
                                 "locale": "fi",
-                                "text": ""
+                                "text": "Ehdottaminen"
                             },
                             {
                                 "locale": "sv",
-                                "text": ""
+                                "text": "Ge f\u00f6rslag"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2018-11-15",
+                    "endDate": "2018-12-09"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "en",
-                                "text": ""
+                                "text": "Planning"
                             },
                             {
                                 "locale": "fi",
-                                "text": ""
+                                "text": "Suunnittelu"
                             },
                             {
                                 "locale": "sv",
-                                "text": ""
+                                "text": "Planering"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-02-11",
+                    "endDate": "2019-04-06"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "en",
-                                "text": ""
+                                "text": "Voting"
                             },
                             {
                                 "locale": "fi",
-                                "text": ""
+                                "text": "\u00c4\u00e4nest\u00e4minen"
                             },
                             {
                                 "locale": "sv",
-                                "text": ""
+                                "text": "Omr\u00f6stning"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-10-01",
+                    "endDate": "2019-10-31"
                 },
                 {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "en",
-                                "text": ""
+                                "text": "Execution"
                             },
                             {
                                 "locale": "fi",
-                                "text": ""
+                                "text": "Toteutus"
                             },
                             {
                                 "locale": "sv",
-                                "text": ""
+                                "text": "Genomf\u00f6rande"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-11-01",
+                    "endDate": null
                 }
             ],
             "target": {

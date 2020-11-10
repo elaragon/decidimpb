@@ -194,64 +194,82 @@
             ],
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Je d\u00e9pose mon id\u00e9e"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-01-29",
+                    "endDate": "2019-04-30"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Analyse des propositions"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-04-30",
+                    "endDate": "2019-09-06"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Pr\u00e9sentation des projets retenus"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-09-07",
+                    "endDate": "2019-09-30"
                 },
                 {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "A vous de voter !"
+                                "text": "Vote des projets"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-10-01",
+                    "endDate": "2019-10-21"
                 },
                 {
-                    "callToActionText": {
+                    "position": 4,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Consultez "
+                                "text": "R\u00e9sultats du vote"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-11-13",
+                    "endDate": "2019-12-31"
                 },
                 {
-                    "callToActionText": {
+                    "position": 5,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "Consultez"
+                                "text": "R\u00e9alisation des projets laur\u00e9ats"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-01-01",
+                    "endDate": "2021-12-31"
                 }
             ],
             "target": {

@@ -124,44 +124,56 @@
             "stats": null,
             "steps": [
                 {
-                    "callToActionText": {
+                    "position": 0,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "D\u00e9posez vos projets"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-08-01",
+                    "endDate": "2019-08-31"
                 },
                 {
-                    "callToActionText": {
+                    "position": 1,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "Nous \u00e9tudions vos projets"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-09-01",
+                    "endDate": "2019-09-30"
                 },
                 {
-                    "callToActionText": {
+                    "position": 2,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": ""
+                                "text": "A vous de voter"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-10-07",
+                    "endDate": "2019-10-20"
                 },
                 {
-                    "callToActionText": {
+                    "position": 3,
+                    "title": {
                         "translations": [
                             {
                                 "locale": "fr",
-                                "text": "La r\u00e9alisation des 8 projets "
+                                "text": "Nous r\u00e9alisons les projets retenus"
                             }
                         ]
-                    }
+                    },
+                    "startDate": "2019-10-21",
+                    "endDate": "2020-12-31"
                 }
             ],
             "target": {
