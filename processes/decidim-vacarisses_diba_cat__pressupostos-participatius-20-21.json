@@ -1,0 +1,275 @@
+{
+  "data": {
+    "participatoryProcess": {
+      "id": "282",
+      "slug": "pressupostos-participatius-20-21",
+      "hashtag": "",
+      "type": "Decidim::ParticipatoryProcess",
+      "createdAt": "2020-07-16T10:09:49+02:00",
+      "updatedAt": "2020-11-20T12:55:50+01:00",
+      "startDate": "2020-09-01",
+      "endDate": "2021-12-31",
+      "heroImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/hero_image/282/LOGO_pp_20-21.png",
+      "bannerImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/banner_image/282/LOGO_pp_20-21.png",
+      "reference": "vacarisses-PART-2020-07-282",
+      "promoted": true,
+      "scopesEnabled": true,
+      "title": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "Pressupostos Participatius 2020-2021"
+          }
+        ]
+      },
+      "subtitle": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "Tu tries!!!"
+          }
+        ]
+      },
+      "description": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "<p>Per de poder valorar totes les propostes que es rebin cal que aquestes reuneixin els criteris que expliquem a continuació:</p><p><strong>CRITERIS:</strong></p><p>. Les propostes han de ser dins l’àmbit d’inversions: relacionades amb l’espai públic i/o millora dels equipaments municipals així com compra de material. </p><p>. De competència municipal.</p><p>. Concretes, valorables econòmicament i que donin una resposta a una necessitat determinada.</p><p>. Que compleixin la normativa vigent.</p><p>. Relacionades amb un interès general (no respondre a interessos particulars).</p><p>. Viables tècnicament.</p><p>. Que no superin els 60.000€</p><p>. Que no comprometin els pressupostos d’altres anys.</p><p>. S’hauran de presentar dins el termini establert que es marqui.</p><p>. No poden ser actuacions que ja s’estiguin portant a terme o que estiguin previstes al pressupost municipal.</p><p>. Respectuoses amb els criteris d’inclusió social, sostenibilitat, Drets Humans, equitat i llibertat religiosa.</p><p>. No poden comprometre qui les executarà.</p><p><br></p><p> <strong>QUI POT PRESENTAR PROPOSTES?</strong></p><p>. Veïns i veïnes a títol individual empadronades a Vacarisses.</p><p>. Entitats i/o associacions inscrites al registre municipal.</p><p>. Es podrà presentar un màxim de 3 propostes per persona i/o entitat.</p><p><br></p><p><strong>COM ES VALORARAN LES PROPOSTES?</strong></p><p>. Es portaran a terme diferents sessions deliberatives obertes a tothom per debatre i prioritzar les diferents propostes rebudes.</p><p>. Una Comissió tècnica formada per personal municipal serà la responsable de valorar les propostes i realitzar els informes corresponents.</p><p>. Davant de dues o més propostes similars, els serveis tècnics municipals conjuntament amb les persones que les hagin presentat valoraran si es poden unificar.</p><p><br></p><p><strong>COM ES FARAN LES VOTACIONS?</strong></p><p>. Una vegada valorades totes les propostes rebudes que compleixin els requisits es presentaran a les diferents sessions deliberatives que es portin a terme per tal que en prioritzin 10 que passaran, finalment, a la fase de votació.</p><p>. Podran votar totes les persones majors de 14 anys empadronades a Vacarisses.</p><p>. S’aniran seleccionant les propostes més votades fins esgotar el pressupost de 60.000€.</p><p><br></p><p><strong>COM I QUAN ES REALITZARÀ LA VOTACIÓ?</strong></p><p>Una vegada definides les 10 propostes finalistes, s’obrirà un període de votació que es podrà fer telemàticament, a través d’aquesta Plataforna i també de forma presencial.</p><p><br></p><p><strong>QUANTES PROPOSTES PODREM VOTAR?</strong></p><p>Cada persona podrà votar propostes per un valor màxim de 60.000 €. S’executarà la proposta guanyadora i, després, les propostes més votades fins que la suma del total arribi als 60.000 €.</p><p>Un cop fet el recompte, què passa amb les propostes no guanyadores? </p><p>Que no surtin no vol dir que mai es facin. Les propostes descartades poden incloure's en futurs pressupostos.</p><p>Com es donaran a conèixer els resultats i quan s’executaran les propostes?</p><p>Els resultats de la votació sortiran publicats a la Plataforma Decidim i als diferents mitjans de l’Ajuntament i, a partir de llavors, s’iniciaran els tràmits per executar les actuacions que hagin resultat guanyadores.</p>"
+          }
+        ]
+      },
+      "shortDescription": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "<p>Aquest procés de pressupostos participatius de Vacarisses està pensat per portar-lo a terme en dos anys (2020 i 2021) i l’import que s’hi destinarà és de 60.000 €.</p><p>Des de l’Ajuntament treballarem a partir de les diferents propostes que ens feu arribar des de les entitats i col·lectius així com dels veïns i veïnes a títol individual. </p><p>Una vegada rebudes les propostes aquestes es valoraran tècnica i econòmicament per determinar quines seran aquelles que es sotmetran a votació.</p><p><br></p>"
+          }
+        ]
+      },
+      "developerGroup": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": ""
+          }
+        ]
+      },
+      "announcement": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "<p><strong>El  calendari de les fases del procés pot veure's modificat arran de la incertesa provocada per la crisi sanitària.</strong></p>"
+          }
+        ]
+      },
+      "participatoryScope": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "Com destinem 60.000€ dels pressupostos municipals."
+          }
+        ]
+      },
+      "participatoryStructure": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "Donant suport a les propostes que tu triïs fins arribar als 60.000€"
+          }
+        ]
+      },
+      "scope": null,
+      "metaScope": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": ""
+          }
+        ]
+      },
+      "localArea": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "Regidoria de Participació Ciutadana i Transparència"
+          }
+        ]
+      },
+      "stats": [
+        {
+          "name": "pages_count",
+          "value": 0
+        },
+        {
+          "name": "meetings_count",
+          "value": 0
+        },
+        {
+          "name": "proposals_count",
+          "value": 34
+        },
+        {
+          "name": "projects_count",
+          "value": 0
+        },
+        {
+          "name": "surveys_count",
+          "value": 0
+        },
+        {
+          "name": "results_count",
+          "value": 0
+        },
+        {
+          "name": "debates_count",
+          "value": 0
+        },
+        {
+          "name": "sortitions_count",
+          "value": 0
+        },
+        {
+          "name": "posts_count",
+          "value": 0
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "DISSENY DEL PROCÉS"
+              }
+            ]
+          },
+          "startDate": "2020-05-15",
+          "endDate": "2020-09-30"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "RECOLLIDA DE PROPOSTES "
+              }
+            ]
+          },
+          "startDate": "2020-10-01",
+          "endDate": "2020-10-31"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "VALORACIÓ SEGONS CRITERIS"
+              }
+            ]
+          },
+          "startDate": "2020-11-01",
+          "endDate": "2020-11-15"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "DELIBERACIÓ"
+              }
+            ]
+          },
+          "startDate": "2020-11-15",
+          "endDate": "2020-11-30"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "RECOLLIDA DE SUPORTS"
+              }
+            ]
+          },
+          "startDate": "2020-12-01",
+          "endDate": "2020-12-15"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "VALORACIÓ TÈCNICA I ECONÒMICA DE LES PROPOSTES"
+              }
+            ]
+          },
+          "startDate": "2020-12-15",
+          "endDate": "2021-04-23"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "PRESENTACIÓ DE PROPOSTES"
+              }
+            ]
+          },
+          "startDate": "2021-05-01",
+          "endDate": "2021-05-15"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "VOTACIÓ"
+              }
+            ]
+          },
+          "startDate": "2021-05-15",
+          "endDate": "2021-06-15"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "PUBLICACIÓ RESULTATS, TANCAMENT I RETORN"
+              }
+            ]
+          },
+          "startDate": "2021-07-01",
+          "endDate": "2021-07-31"
+        }
+      ],
+      "target": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "Empadronats i empadronades a partir de 14 anys"
+          }
+        ]
+      },
+      "attachments": [],
+      "components": [
+        {
+          "id": "1257",
+          "__typename": "Proposals",
+          "name": {
+            "translations": [
+              {
+                "text": "Recollida de propostes"
+              }
+            ]
+          },
+          "weight": 0
+        }
+      ]
+    },
+    "decidim": {
+      "version": "0.19.1",
+      "applicationName": "Decidim DIBA"
+    }
+  }
+}

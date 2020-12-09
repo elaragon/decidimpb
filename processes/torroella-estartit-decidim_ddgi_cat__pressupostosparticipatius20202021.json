@@ -13,6 +13,7 @@
             "bannerImage": "/uploads/decidim/participatory_process/banner_image/30/BANNER_850X307.jpg",
             "reference": "TM - EST-PART-2020-02-30",
             "promoted": false,
+            "showMetrics": true,
             "scopesEnabled": false,
             "title": {
                 "translations": [
@@ -142,6 +143,8 @@
                     }
                 ]
             },
+            "linkedParticipatorySpaces": [],
+            "categories": [],
             "scope": null,
             "metaScope": {
                 "translations": [
@@ -189,7 +192,7 @@
                     "value": 1
                 },
                 {
-                    "name": "projects_count",
+                    "name": "budgets_count",
                     "value": 0
                 },
                 {
@@ -215,6 +218,7 @@
             ],
             "steps": [
                 {
+                    "position": 0,
                     "title": {
                         "translations": [
                             {
@@ -235,6 +239,7 @@
                     "endDate": "2020-03-31"
                 },
                 {
+                    "position": 1,
                     "title": {
                         "translations": [
                             {
@@ -255,6 +260,7 @@
                     "endDate": "2020-04-26"
                 },
                 {
+                    "position": 2,
                     "title": {
                         "translations": [
                             {
@@ -275,6 +281,7 @@
                     "endDate": "2020-05-27"
                 },
                 {
+                    "position": 3,
                     "title": {
                         "translations": [
                             {
@@ -295,6 +302,7 @@
                     "endDate": "2020-11-30"
                 },
                 {
+                    "position": 4,
                     "title": {
                         "translations": [
                             {
@@ -354,7 +362,7 @@
             ]
         },
         "decidim": {
-            "version": "0.20.1",
+            "version": "0.23.1",
             "applicationName": "Decidim Diputaci\u00f3 Girona"
         }
     }

@@ -368,11 +368,6 @@
             },
             "attachments": [
                 {
-                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/217/Tr%C3%ADptic_final.pdf",
-                    "type": "pdf",
-                    "thumbnail": null
-                },
-                {
                     "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/30/REGLAMENT_DE_PRESSUPOSTOS_PARTICIPATIUS_16-17.docx",
                     "type": "docx",
                     "thumbnail": null
@@ -404,6 +399,11 @@
                 },
                 {
                     "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/33/Resultats_votacions_i_projectes_guanyadors_2016-17___fitxes_.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/217/Tr%C3%ADptic_final.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 }

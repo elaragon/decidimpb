@@ -453,8 +453,8 @@
                     "value": 108
                 },
                 {
-                    "name": "projects_count",
-                    "value": 49
+                    "name": "budgets_count",
+                    "value": 1
                 },
                 {
                     "name": "surveys_count",
@@ -703,7 +703,7 @@
             ]
         },
         "decidim": {
-            "version": "0.22.0",
+            "version": "0.23.1",
             "applicationName": "Decidim Calafell"
         }
     }
