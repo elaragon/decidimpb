@@ -1,0 +1,166 @@
+{
+  "data": {
+    "participatoryProcess": {
+      "id": "63",
+      "slug": "pressu18",
+      "hashtag": "",
+      "type": "Decidim::ParticipatoryProcess",
+      "createdAt": "2018-10-31T11:54:48+01:00",
+      "updatedAt": "2019-11-01T12:07:06+01:00",
+      "startDate": "2018-10-31",
+      "endDate": "2018-12-31",
+      "heroImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/hero_image/63/participa_vacarisses.jpg",
+      "bannerImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/banner_image/63/700_x_280_prp.jpg",
+      "reference": "vacarisses-PART-2018-10-63",
+      "promoted": false,
+      "scopesEnabled": false,
+      "title": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "Pressupostos Participatius 2018"
+          }
+        ]
+      },
+      "subtitle": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "Pressupostos Participatius 2018 subtítol"
+          }
+        ]
+      },
+      "description": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "<iframe class=\"ql-video\" frameborder=\"0\" allowfullscreen=\"true\" src=\"https://infogram.com/pressupostos-participatius-2018-1h9j6qwzrqlv6gz?live\"></iframe><p><br></p><p>Descripció sota infogram</p>"
+          }
+        ]
+      },
+      "shortDescription": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "<p>Resultats i resum de dades de participació dels Pressupostos Participatius 2018</p>"
+          }
+        ]
+      },
+      "developerGroup": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": ""
+          }
+        ]
+      },
+      "announcement": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "<p>Anunci - Resultats i resum de dades de participació dels Pressupostos Participatius 2018</p>"
+          }
+        ]
+      },
+      "participatoryScope": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": ""
+          }
+        ]
+      },
+      "participatoryStructure": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": ""
+          }
+        ]
+      },
+      "scope": null,
+      "metaScope": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": ""
+          }
+        ]
+      },
+      "localArea": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": ""
+          }
+        ]
+      },
+      "stats": [
+        {
+          "name": "pages_count",
+          "value": 1
+        },
+        {
+          "name": "meetings_count",
+          "value": 0
+        },
+        {
+          "name": "proposals_count",
+          "value": 0
+        },
+        {
+          "name": "projects_count",
+          "value": 0
+        },
+        {
+          "name": "surveys_count",
+          "value": 0
+        },
+        {
+          "name": "results_count",
+          "value": 0
+        },
+        {
+          "name": "debates_count",
+          "value": 0
+        },
+        {
+          "name": "sortitions_count",
+          "value": 0
+        },
+        {
+          "name": "posts_count",
+          "value": 0
+        }
+      ],
+      "steps": [],
+      "target": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": ""
+          }
+        ]
+      },
+      "attachments": [],
+      "components": [
+        {
+          "id": "229",
+          "__typename": "Pages",
+          "name": {
+            "translations": [
+              {
+                "text": "Pressupostos Participatius 2018"
+              }
+            ]
+          },
+          "weight": 0
+        }
+      ]
+    },
+    "decidim": {
+      "version": "0.19.1",
+      "applicationName": "Decidim DIBA"
+    }
+  }
+}

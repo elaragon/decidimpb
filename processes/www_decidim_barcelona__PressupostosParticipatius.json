@@ -1583,44 +1583,7 @@
                     }
                 ]
             },
-            "stats": [
-                {
-                    "name": "pages_count",
-                    "value": 1
-                },
-                {
-                    "name": "meetings_count",
-                    "value": 301
-                },
-                {
-                    "name": "proposals_count",
-                    "value": 1982
-                },
-                {
-                    "name": "projects_count",
-                    "value": 0
-                },
-                {
-                    "name": "surveys_count",
-                    "value": 0
-                },
-                {
-                    "name": "results_count",
-                    "value": 0
-                },
-                {
-                    "name": "debates_count",
-                    "value": 0
-                },
-                {
-                    "name": "sortitions_count",
-                    "value": 0
-                },
-                {
-                    "name": "posts_count",
-                    "value": 0
-                }
-            ],
+            "stats": null,
             "steps": [
                 {
                     "position": 0,
@@ -1900,7 +1863,7 @@
             ]
         },
         "decidim": {
-            "version": "0.21.0",
+            "version": "0.22.0",
             "applicationName": "Decidim Barcelona"
         }
     }

@@ -1,0 +1,437 @@
+{
+  "data": {
+    "participatoryProcess": {
+      "id": "34",
+      "slug": "pressupostosparticipatius2019",
+      "hashtag": "",
+      "type": "Decidim::ParticipatoryProcess",
+      "createdAt": "2018-10-19T11:07:45+02:00",
+      "updatedAt": "2020-06-08T08:32:48+02:00",
+      "startDate": "2019-03-18",
+      "endDate": "2019-05-05",
+      "heroImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/hero_image/34/pressupostosparticipatius2018.jpg",
+      "bannerImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/banner_image/34/1200x300_baner.jpg",
+      "reference": "Viladecans-PART-2018-10-34",
+      "promoted": false,
+      "scopesEnabled": false,
+      "title": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "Pressupostos Participatius 2019"
+          },
+          {
+            "locale": "en",
+            "text": ""
+          },
+          {
+            "locale": "es",
+            "text": "Presupuestos Participativos 2019"
+          }
+        ]
+      },
+      "subtitle": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "Aquestes són les propostes amb més suports!"
+          },
+          {
+            "locale": "en",
+            "text": ""
+          },
+          {
+            "locale": "es",
+            "text": "¡Estas son las propuestas con más apoyos!"
+          }
+        ]
+      },
+      "description": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "<p>Amb 50.000€ per a cada districte, aquest és el resultat de les votacions.</p><p><strong><u>Districte 1 (en negreta les que s'executaran)</u></strong></p><ol><li><strong>Reforç del control de l'incivisme: 6.000 € (108 suports)</strong></li><li><strong>Pistes de bàsquet 3x3 al parc de la Pau: 35.000 € (59 suports)</strong></li><li><strong>Renovació d'enllumenat a les places Llibertat i Primer de Maig: fins a 9.000 €&nbsp;(51 suports)</strong></li><li>Renovació d'enllumenat al carrer Jaume Abril: 8.000 € (45 suports)</li><li>Protegir passos de vianants a la carretera de Barcelona: 3.000 € (44 suports)</li><li>Més servei de mini deixalleria: 3.800 € (29 suports)</li><li>Bancs amb pedals al carrer d'Antonio Machado: 2.000 € (25 suports)</li><li>Més activitats familiars en equipaments esportius: 7.500 € (25 suports)</li><li>Bancs mòbils al parc de Can Xic: 10.000 € (15 suports)</li><li>Tallers al carrer de foment de la lectura: 6.000 € (13 suports)</li></ol><p><br></p><p><strong><u>Districte 2 (en negreta les que s'executaran)</u></strong></p><ol><li><strong>Reforç del control de l’incivisme: 6.000 € (97 suports)</strong></li><li><strong>Renovació d’enllumenat a zones de Mas Ratés: 30.000 € (52 suports)</strong></li><li>Renovació de voreres als carrers del Roure i del Pi: 48.000 € <strong>[no pot executar-se perquè superaria el pressupost assignat]</strong> (48 suports)</li><li><strong>Jardineria ciutadana al carrer Mare de Déu de Montserrat: 6.000 € (29 suports)</strong></li><li><strong>Bancs amb pedals a la plaça Constitució: 2.000 € (23 suports)</strong></li><li><strong>Equipament tecnològic al casal de barri Montserratina: 6.000 € (19 suports)</strong></li><li>Bancs amb pedals a l'avinguda del Molí: 2.000 € (19 suports)</li><li>Més activitats familiars en equipaments esportius: 7.500 € (19 suports)</li><li>Bancs amb pedals a la plaça Salvador Allende: 7.500 € (13 suports)</li><li> Tallers de foment de lectura: 6.000 € (11 suports)</li></ol><p><br></p><p><strong><u>Districte 3 (en negreta les que s'executaran)</u></strong></p><ol><li><strong>Millores als bancs al Poblat Roca: 2.000 € (147 suports)</strong></li><li><strong>Cautxú a la zona de jocs del parc del Polígon Hospital: 12.000 € (145 suports)</strong></li><li><strong>Reforç del control de l'incivisme: 6.000 € (105 suports)</strong></li><li><strong>Renovació d’enllumenat en carrers de l’Alba-rosa: fins a 30.000&nbsp;€ (44 suports)</strong></li><li>Millorar passos de vianants al passatge. Victoria Kent: 39.000 € (36 suports)</li><li>Tallers per a persones amb capacitats especials: 6.000 € (31 suports)</li><li>Posar vegetació entorn a l’Ateneu de les Arts: 10.000 € (21 suports)</li><li>Més activitats familiars en equipaments esportius: 7.500 € (20 suports)</li><li>Tallers al carrer de foment de la lectura: 6.000 € (19 suports)</li><li>Processos participatius per seguir millorant Ponent: 12.000 € (17 suports)</li></ol>"
+          },
+          {
+            "locale": "en",
+            "text": ""
+          },
+          {
+            "locale": "es",
+            "text": "<p>Con 50.000 € para cada distrito, este ha sido el resultado de las votaciones.</p><p><strong><u>Distrito 1 (en negrita las que se ejecutarán)</u></strong></p><ol><li><strong>Refuerzo del control del incivismo: 6.000 € (108 apoyos)</strong></li><li><strong>Pistas de baloncesto 3x3 en el parque de la Pau: 35.000 € (59 apoyos)</strong></li><li><strong>Renovación de alumbrado en las plazas Libertad y Primero de Mayo: hasta 9.000 € (51 apoyos)</strong></li><li>Renovación alumbrado en la calle Jaume Abril: 8.000 € (45 apoyos)</li><li>Proteger los pasos de peatones en la carretera de Barcelona: 3.000 € (44 apoyos)</li><li>Más servicio de 'mini deixalleria': 3.800 € (29 apoyos)</li><li>Bancos con pedales en la calle de Antonio Machado: 2.000 € (25 apoyos)</li><li>Más actividades familiares en equipamientos deportivos: 7.500 € (25 apoyos)</li><li>Bancos móviles en el parque de Can Xic: 10.000 € (15 apoyos)</li><li>Talleres en la calle de fomento de la lectura: 6.000 € (13 apoyos)</li></ol><p><br></p><p><strong><u>Distrito 2 (en negrita las que se ejecutarán)</u></strong></p><ol><li><strong>Refuerzo del control del incivismo: 6.000 € (97 apoyos)</strong></li><li><strong>Renovación de alumbrado en zonas de Mas Ratés: 30.000 € (52 apoyos) </strong></li><li>Renovación de aceras en las calles del y del Pi: 48.000 € <strong>[no puede ejecutarse porque se superaria el presupuesto asignado]</strong> (48 apoyos)</li><li><strong>Jardinería ciudadana en la calle Virgen de Montserrat: 6.000 € (29 apoyos)</strong></li><li><strong>Bancos con pedales en la plaza Constitución: 2.000 € (23 apoyos)</strong></li><li><strong>Equipamiento tecnológico en el casal de barrio Montserratina: 6.000 € (19 apoyos)</strong></li><li>Bancos con pedales en la avenida del Molí: 2.000 € (19 apoyos)</li><li>Más actividades familiares en equipamientos deportivos: 7.500 € (19 apoyos)</li><li>Bancos con pedales en la plaza Salvador Allende: 7.500 € (13 apoyos)</li><li>Talleres de fomento de lectura: 6.000 € (11 apoyos)</li></ol><p><br></p><p><strong><u>Distrito 3 (en negrita las que se ejecutarán)</u></strong></p><ol><li><strong>Mejoras en los bancos al Poblado Roca: 2.000 € (147 apoyos)</strong></li><li><strong>Caucho en la zona de juegos del parque del Polígono Hospital: 12.000 € (145 apoyos)</strong></li><li><strong>Refuerzo del control del incivismo: 6.000 € (105 apoyos)</strong></li><li><strong>Renovación de alumbrado en calles de Alba-rosa: hasta 30.000 € (44 apoyos) </strong></li><li>Mejorar pasos de peatones en el pasaje Victoria Kent: 39.000 € (36 apoyos)</li><li>Talleres para personas con capacidades especiales: 6.000 € (31 apoyos)</li><li>Poner vegetación en el entorno del Ateneu de les Arts: 10.000 € (21 apoyos)</li><li>Más actividades familiares en equipamientos deportivos: 7.500 € (20 apoyos)</li><li>Talleres en la calle para fomentar la lectura: 6.000 € (19 apoyos)</li><li>Procesos participativos para seguir mejorando Ponent: 12.000 € (17 apoyos)</li></ol>"
+          }
+        ]
+      },
+      "shortDescription": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "<p>La ciutadania ja ha decidit quines propostes s'executaran amb els 150.000 € destinats al pressupost participatiu.</p>"
+          },
+          {
+            "locale": "en",
+            "text": ""
+          },
+          {
+            "locale": "es",
+            "text": "<p>La ciudadanía ya ha decidido qué propuestas se ejecutarán con los 150.000 € destinados al presupuesto participativo.</p><p><br></p>"
+          }
+        ]
+      },
+      "developerGroup": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "Ajuntament de Viladecans"
+          },
+          {
+            "locale": "en",
+            "text": ""
+          },
+          {
+            "locale": "es",
+            "text": "Ayuntamiento de Viladecans"
+          }
+        ]
+      },
+      "announcement": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": ""
+          },
+          {
+            "locale": "en",
+            "text": ""
+          },
+          {
+            "locale": "es",
+            "text": ""
+          }
+        ]
+      },
+      "participatoryScope": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": ""
+          },
+          {
+            "locale": "en",
+            "text": ""
+          },
+          {
+            "locale": "es",
+            "text": ""
+          }
+        ]
+      },
+      "participatoryStructure": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": ""
+          },
+          {
+            "locale": "en",
+            "text": ""
+          },
+          {
+            "locale": "es",
+            "text": ""
+          }
+        ]
+      },
+      "scope": null,
+      "metaScope": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "Participació Ciutadana"
+          },
+          {
+            "locale": "en",
+            "text": ""
+          },
+          {
+            "locale": "es",
+            "text": "Participación Ciudadana"
+          }
+        ]
+      },
+      "localArea": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "Alcaldia"
+          },
+          {
+            "locale": "en",
+            "text": ""
+          },
+          {
+            "locale": "es",
+            "text": "Alcaldía"
+          }
+        ]
+      },
+      "stats": [
+        {
+          "name": "pages_count",
+          "value": 0
+        },
+        {
+          "name": "meetings_count",
+          "value": 3
+        },
+        {
+          "name": "proposals_count",
+          "value": 118
+        },
+        {
+          "name": "projects_count",
+          "value": 0
+        },
+        {
+          "name": "surveys_count",
+          "value": 0
+        },
+        {
+          "name": "results_count",
+          "value": 0
+        },
+        {
+          "name": "debates_count",
+          "value": 0
+        },
+        {
+          "name": "sortitions_count",
+          "value": 0
+        },
+        {
+          "name": "posts_count",
+          "value": 0
+        }
+      ],
+      "steps": [
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "Definició i difusió del procés"
+              },
+              {
+                "locale": "en",
+                "text": "Introduction"
+              },
+              {
+                "locale": "es",
+                "text": "Definición y difusión del proceso"
+              }
+            ]
+          },
+          "startDate": "2018-10-29",
+          "endDate": "2018-12-15"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "Recollida de propostes"
+              },
+              {
+                "locale": "en",
+                "text": ""
+              },
+              {
+                "locale": "es",
+                "text": "Recogida de propuestas"
+              }
+            ]
+          },
+          "startDate": "2018-11-15",
+          "endDate": "2019-01-20"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "Valoració tècnica"
+              },
+              {
+                "locale": "en",
+                "text": ""
+              },
+              {
+                "locale": "es",
+                "text": "Valoración técnica"
+              }
+            ]
+          },
+          "startDate": "2019-01-01",
+          "endDate": "2019-01-31"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "Consells de Districte"
+              },
+              {
+                "locale": "en",
+                "text": ""
+              },
+              {
+                "locale": "es",
+                "text": "Consejos de Distrito"
+              }
+            ]
+          },
+          "startDate": "2019-02-01",
+          "endDate": "2019-02-28"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "Votació de les propostes (Consulta ciutadana)"
+              },
+              {
+                "locale": "en",
+                "text": ""
+              },
+              {
+                "locale": "es",
+                "text": "Votación de las propuestas (Consulta ciudadana)"
+              }
+            ]
+          },
+          "startDate": "2019-03-18",
+          "endDate": "2019-05-05"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "Retorn del procés"
+              },
+              {
+                "locale": "en",
+                "text": ""
+              },
+              {
+                "locale": "es",
+                "text": "Retorno del proceso"
+              }
+            ]
+          },
+          "startDate": "2019-05-06",
+          "endDate": "2019-05-30"
+        },
+        {
+          "title": {
+            "translations": [
+              {
+                "locale": "ca",
+                "text": "Seguiment del procés"
+              },
+              {
+                "locale": "en",
+                "text": ""
+              },
+              {
+                "locale": "es",
+                "text": "Seguimiento del proceso"
+              }
+            ]
+          },
+          "startDate": "2018-10-01",
+          "endDate": "2019-12-31"
+        }
+      ],
+      "target": {
+        "translations": [
+          {
+            "locale": "ca",
+            "text": "tots els ciutadans i ciutadanes de Viladecans majors de 16 anys"
+          },
+          {
+            "locale": "en",
+            "text": ""
+          },
+          {
+            "locale": "es",
+            "text": "todos los ciudadanos y ciudadanas de Viladecans mayores de 16 años"
+          }
+        ]
+      },
+      "attachments": [],
+      "components": [
+        {
+          "id": "141",
+          "__typename": "Proposals",
+          "name": {
+            "translations": [
+              {
+                "text": "Fes la teva proposta!"
+              },
+              {
+                "text": "Proposals"
+              },
+              {
+                "text": "Haz tu propuesta!"
+              }
+            ]
+          },
+          "weight": -2
+        },
+        {
+          "id": "140",
+          "__typename": "Meetings",
+          "name": {
+            "translations": [
+              {
+                "text": "Consells de Districte"
+              },
+              {
+                "text": "Meetings"
+              },
+              {
+                "text": "Consejos de Distrito"
+              }
+            ]
+          },
+          "weight": 0
+        },
+        {
+          "id": "432",
+          "__typename": "Proposals",
+          "name": {
+            "translations": [
+              {
+                "text": "Votacions"
+              },
+              {
+                "text": "Proposals"
+              },
+              {
+                "text": "Votaciones"
+              }
+            ]
+          },
+          "weight": 0
+        }
+      ]
+    },
+    "decidim": {
+      "version": "0.19.1",
+      "applicationName": "Decidim DIBA"
+    }
+  }
+}

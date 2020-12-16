@@ -433,7 +433,12 @@
             },
             "attachments": [
                 {
-                    "url": "/uploads/decidim/attachment/file/101/Publicacio_Resultat_Enquesta_PP.PP._20-21.pdf",
+                    "url": "/uploads/decidim/attachment/file/100/Conversa_oberta.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/110/Informe__Pressupostos_Participatius_20-21_revisat.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 },
@@ -448,7 +453,7 @@
                     "thumbnail": null
                 },
                 {
-                    "url": "/uploads/decidim/attachment/file/100/Conversa_oberta.pdf",
+                    "url": "/uploads/decidim/attachment/file/101/Publicacio_Resultat_Enquesta_PP.PP._20-21.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 },
@@ -540,7 +545,7 @@
                                 "text": "Page"
                             },
                             {
-                                "text": "P\u00e1gina"
+                                "text": "Ejecuci\u00f3n proyectos ganadores"
                             }
                         ]
                     },

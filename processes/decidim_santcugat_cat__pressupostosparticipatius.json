@@ -172,7 +172,7 @@
                 },
                 {
                     "name": "surveys_count",
-                    "value": 0
+                    "value": 1
                 },
                 {
                     "name": "results_count",
@@ -334,6 +334,18 @@
                         "translations": [
                             {
                                 "text": "Diagnosi i Programa de Barri"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "404",
+                    "__typename": "Surveys",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Prioritzaci\u00f3 Centre"
                             }
                         ]
                     },

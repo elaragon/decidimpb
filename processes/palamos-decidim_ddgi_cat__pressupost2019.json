@@ -13,6 +13,7 @@
             "bannerImage": "/uploads/decidim/participatory_process/banner_image/5/p2019.jpg",
             "reference": "PALAM-PART-2018-07-5",
             "promoted": false,
+            "showMetrics": true,
             "scopesEnabled": false,
             "title": {
                 "translations": [
@@ -78,6 +79,31 @@
                     }
                 ]
             },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "12",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Mobilitat i Via P\u00fablica"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "13",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Parcs, places, jardins i equipaments"
+                            }
+                        ]
+                    }
+                }
+            ],
             "scope": null,
             "metaScope": {
                 "translations": [
@@ -109,8 +135,8 @@
                     "value": 182
                 },
                 {
-                    "name": "projects_count",
-                    "value": 16
+                    "name": "budgets_count",
+                    "value": 1
                 },
                 {
                     "name": "surveys_count",
@@ -135,6 +161,7 @@
             ],
             "steps": [
                 {
+                    "position": 0,
                     "title": {
                         "translations": [
                             {
@@ -147,6 +174,7 @@
                     "endDate": "2018-09-30"
                 },
                 {
+                    "position": 1,
                     "title": {
                         "translations": [
                             {
@@ -159,6 +187,7 @@
                     "endDate": "2018-10-26"
                 },
                 {
+                    "position": 2,
                     "title": {
                         "translations": [
                             {
@@ -171,6 +200,7 @@
                     "endDate": "2018-10-28"
                 },
                 {
+                    "position": 3,
                     "title": {
                         "translations": [
                             {
@@ -183,6 +213,7 @@
                     "endDate": "2019-01-20"
                 },
                 {
+                    "position": 4,
                     "title": {
                         "translations": [
                             {
@@ -205,27 +236,7 @@
             },
             "attachments": [
                 {
-                    "url": "/uploads/decidim/attachment/file/116/projectes_guanyadors.pdf",
-                    "type": "pdf",
-                    "thumbnail": null
-                },
-                {
-                    "url": "/uploads/decidim/attachment/file/23/INFORME_DE_RESULTATS_TALLER_PRIORITZACI%C3%93_PRESSU_PARTI_2019_PALAM%C3%93S.NE%C3%92POLIS.pdf",
-                    "type": "pdf",
-                    "thumbnail": null
-                },
-                {
-                    "url": "/uploads/decidim/attachment/file/22/FITXES_TREBALL_GRUPAL_TALLER_PRIORITZACI%C3%93_PRESSU_PARTI_PALAM%C3%93S_19__NE%C3%92POLIS.pdf",
-                    "type": "pdf",
-                    "thumbnail": null
-                },
-                {
-                    "url": "/uploads/decidim/attachment/file/21/totes_les_propostes_rebudes_pres_2019_JUSTIFICACI%C3%93.pdf",
-                    "type": "pdf",
-                    "thumbnail": null
-                },
-                {
-                    "url": "/uploads/decidim/attachment/file/20/propostes_v%C3%A0lides_assemblea_27oct.pdf",
+                    "url": "/uploads/decidim/attachment/file/1/butlleta_propostes_def_19.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 },
@@ -235,7 +246,27 @@
                     "thumbnail": null
                 },
                 {
-                    "url": "/uploads/decidim/attachment/file/1/butlleta_propostes_def_19.pdf",
+                    "url": "/uploads/decidim/attachment/file/20/propostes_v%C3%A0lides_assemblea_27oct.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/21/totes_les_propostes_rebudes_pres_2019_JUSTIFICACI%C3%93.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/22/FITXES_TREBALL_GRUPAL_TALLER_PRIORITZACI%C3%93_PRESSU_PARTI_PALAM%C3%93S_19__NE%C3%92POLIS.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/23/INFORME_DE_RESULTATS_TALLER_PRIORITZACI%C3%93_PRESSU_PARTI_2019_PALAM%C3%93S.NE%C3%92POLIS.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/116/projectes_guanyadors.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 }
@@ -243,7 +274,7 @@
             "components": [
                 {
                     "id": "27",
-                    "__typename": "Component",
+                    "__typename": "Budgets",
                     "name": {
                         "translations": [
                             {
@@ -291,7 +322,7 @@
                 },
                 {
                     "id": "66",
-                    "__typename": "Component",
+                    "__typename": "Surveys",
                     "name": {
                         "translations": [
                             {
@@ -304,7 +335,7 @@
             ]
         },
         "decidim": {
-            "version": "0.20.1",
+            "version": "0.23.1",
             "applicationName": "Decidim Diputaci\u00f3 Girona"
         }
     }

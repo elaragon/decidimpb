@@ -6,13 +6,13 @@
             "hashtag": "CalafellSostenible PressupostosParticipatius2021Calafell",
             "type": "Decidim::ParticipatoryProcess",
             "createdAt": "2020-04-30T09:31:23+00:00",
-            "updatedAt": "2020-08-03T08:41:03+00:00",
+            "updatedAt": "2020-11-12T11:11:09+00:00",
             "startDate": "2020-08-01",
             "endDate": "2020-12-31",
             "heroImage": "https://decidim-calafell.s3.amazonaws.com/uploads/decidim/participatory_process/hero_image/23/Imatge_Decidim_20212.jpg",
             "bannerImage": "https://decidim-calafell.s3.amazonaws.com/uploads/decidim/participatory_process/banner_image/23/Imatge_Decidim_Fons_Llarg.jpg",
             "reference": "CLF-PART-2020-04-23",
-            "promoted": true,
+            "promoted": false,
             "showMetrics": true,
             "scopesEnabled": true,
             "title": {
@@ -438,8 +438,8 @@
                     "value": 52
                 },
                 {
-                    "name": "projects_count",
-                    "value": 36
+                    "name": "budgets_count",
+                    "value": 1
                 },
                 {
                     "name": "surveys_count",
@@ -704,7 +704,7 @@
             ]
         },
         "decidim": {
-            "version": "0.22.0",
+            "version": "0.23.1",
             "applicationName": "Decidim Calafell"
         }
     }
