@@ -661,36 +661,6 @@
             },
             "attachments": [
                 {
-                    "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/12/Osbu_kartalla_Pohjoinen.jpg",
-                    "type": "jpg",
-                    "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/12/thumbnail_Osbu_kartalla_Pohjoinen.jpg"
-                },
-                {
-                    "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/11/Osbu_kartalla_L%C3%A4ntinen.jpg",
-                    "type": "jpg",
-                    "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/11/thumbnail_Osbu_kartalla_L%C3%A4ntinen.jpg"
-                },
-                {
-                    "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/10/Osbu_kartalla_Koko_Helsinki.jpg",
-                    "type": "jpg",
-                    "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/10/thumbnail_Osbu_kartalla_Koko_Helsinki.jpg"
-                },
-                {
-                    "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/9/Osbu_kartalla_Koillinen.jpg",
-                    "type": "jpg",
-                    "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/9/thumbnail_Osbu_kartalla_Koillinen.jpg"
-                },
-                {
-                    "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/13/Osbu_kartalla_Keskinen.jpg",
-                    "type": "jpg",
-                    "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/13/thumbnail_Osbu_kartalla_Keskinen.jpg"
-                },
-                {
-                    "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/8/Osbu_kartalla_Kaakkoinen.jpg",
-                    "type": "jpg",
-                    "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/8/thumbnail_Osbu_kartalla_Kaakkoinen.jpg"
-                },
-                {
                     "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/6/Osbu_kartalla_It%C3%A4inen.jpg",
                     "type": "jpg",
                     "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/6/thumbnail_Osbu_kartalla_It%C3%A4inen.jpg"
@@ -699,6 +669,36 @@
                     "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/7/Osbu_kartalla_Etel%C3%A4inen.jpg",
                     "type": "jpg",
                     "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/7/thumbnail_Osbu_kartalla_Etel%C3%A4inen.jpg"
+                },
+                {
+                    "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/8/Osbu_kartalla_Kaakkoinen.jpg",
+                    "type": "jpg",
+                    "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/8/thumbnail_Osbu_kartalla_Kaakkoinen.jpg"
+                },
+                {
+                    "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/9/Osbu_kartalla_Koillinen.jpg",
+                    "type": "jpg",
+                    "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/9/thumbnail_Osbu_kartalla_Koillinen.jpg"
+                },
+                {
+                    "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/10/Osbu_kartalla_Koko_Helsinki.jpg",
+                    "type": "jpg",
+                    "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/10/thumbnail_Osbu_kartalla_Koko_Helsinki.jpg"
+                },
+                {
+                    "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/11/Osbu_kartalla_L%C3%A4ntinen.jpg",
+                    "type": "jpg",
+                    "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/11/thumbnail_Osbu_kartalla_L%C3%A4ntinen.jpg"
+                },
+                {
+                    "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/12/Osbu_kartalla_Pohjoinen.jpg",
+                    "type": "jpg",
+                    "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/12/thumbnail_Osbu_kartalla_Pohjoinen.jpg"
+                },
+                {
+                    "url": "https://omastadi.hel.fi/uploads/decidim/attachment/file/13/Osbu_kartalla_Keskinen.jpg",
+                    "type": "jpg",
+                    "thumbnail": "https://omastadi.hel.fi/uploads/decidim/attachment/file/13/thumbnail_Osbu_kartalla_Keskinen.jpg"
                 }
             ],
             "components": [
@@ -939,7 +939,7 @@
             ]
         },
         "decidim": {
-            "version": "0.23.0.dev",
+            "version": "0.23.1",
             "applicationName": "City of Helsinki participationary platform"
         }
     }

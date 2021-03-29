@@ -1,338 +1,571 @@
 {
-  "data": {
-    "participatoryProcess": {
-      "id": "216",
-      "slug": "pressupostosparticipatiuscalaf2020",
-      "hashtag": "",
-      "type": "Decidim::ParticipatoryProcess",
-      "createdAt": "2019-10-25T10:17:10+02:00",
-      "updatedAt": "2019-12-17T12:37:06+01:00",
-      "startDate": "2019-10-25",
-      "endDate": "2020-02-03",
-      "heroImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/hero_image/216/PRESSUS_2020.jpg",
-      "bannerImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/banner_image/216/PENYA.jpg",
-      "reference": "calaf-PART-2019-10-216",
-      "promoted": true,
-      "scopesEnabled": true,
-      "title": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Pressupostos participatius Calaf 2020"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "subtitle": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Proposa, vota i decideix! (Vota del 10 de gener al 3 de febrer)"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "description": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "<h2><strong>INFORMACIÓ GENERAL</strong></h2><p><strong>Objectius</strong></p><p>Promoure la participació ciutadana; aconseguir una major identificació dels veïns i veïnes amb la vila; conèixer les seves necessitats; promocionar valors com l’apoderament, la inclusió, la igualtat, l’horitzontalitat i la transparència; i planificar la despesa municipal el màxim d’ajustada a les prioritats ciutadanes.</p><h2><strong>PRESENTACIÓ DE PROPOSTES</strong></h2><p><strong>Qui pot presentar propostes?</strong></p><p>- Qualsevol persona empadronada a Calaf abans de l’1 de setembre del 2019 major de 16 anys o a punt de complir-los.</p><p>- Entitats sense ànim de lucre del municipi degudament registrades amb data anterior a l’aprovació d’aquestes bases.</p><p>- Serveis tècnics i àrees de l’Ajuntament de Calaf amb projectes d’interès general i que s’adaptin a les bases.</p><p><br></p><p><strong>Com i quan fer-ho?</strong></p><p>Des del 25 d'octubre al 30 de novembre de manera:</p><ul><li><strong>Presencial</strong>: mitjançant el formulari que trobareu en aquest tríptic, descarregant-lo a www.calaf.cat o recollint-lo a l'Ajuntament o a l'Oficina de Turisme. Seguidament, caldrà portar el formulari, juntament amb el pressupost desglossat a l'Ajuntament o a l'Oficina de Turisme.</li></ul><p><br></p><ul><li><strong>Via e-mail</strong>: caldrà descarregar el formulari editable a www.calaf.cat i enviar-lo per correu electrònic a participacio.calaf@gmail.com juntament amb el pressupost desglossat.</li></ul><p><br></p><ul><li><strong>En línia</strong>: a través del formulari en línia que trobareu a la web www.calaf.cat</li></ul><p><br></p><p><strong>Característiques de les propostes</strong></p><p>- Tenir una visió <strong>inclusiva, oberta i dirigida</strong> al conjunt de la població.</p><p>- Fer referència a àmbits i temes de competència municipal.</p><p>- Ser realitzables tècnicament i que <strong>respectin el marc jurídic i legal existent</strong>.</p><p>- Ser viables econòmicament sense que <strong>cap proposta superi els 12.000 euros</strong> de pressupost (iva inclòs).</p><p>- Ser executables durant <strong>l’any 2020</strong></p><p><br></p><h2><strong>VALORACIONS</strong></h2><p><strong>Del 9 al 31 de desembre</strong> s'avaluaran les propostes segons els criteris.</p><p><br></p><h2><strong>PRESENTACIÓ PÚBLICA DE LES PROPOSTES</strong></h2><p>El dia <strong>11 de gener</strong> hi ha la <strong>Presentació pública de les propostes </strong>i és <strong>OBLIGATORI</strong> que mínim un representant de cada projecte apte es presenti a la jornada i exposi el seu projecte. <strong>Serà a les 11h a l' IMFP</strong>. En cas que no es presenti ningú per explicar la seva proposta, el projecte quedarà <strong>ELIMINAT</strong> dels Pressupostos Participatius 2020.</p><p>La jornada serà molt senzilla, durant màxim 5 minuts, el/s representat/s de cada proposta explicaran a la resta de població i participants en què consisteix el seu projecte i perquè l'haurien de votar. </p><p>Per tal d'organitzar l'ordre de les presentacions i explicar prèviament com funcionarà la jornada, es convoca als representants de cada projecte el mateix dia a les <strong>10.30h a l'IMFP. </strong></p><p>Per a qualsevol dubte, contacteu-nos a <a href=\"mailto:participacio.calaf@gmail.com\" target=\"_blank\">participacio.calaf@gmail.com</a></p><p><br></p><h2><strong>VOTACIONS</strong></h2><p>Les votacions es podran fer online a través de la plataforma decidim-calaf.diba.cat. Seran <strong>del 10 de gener al 3 de febrer</strong>.</p><p><br></p>"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "shortDescription": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "<p><strong>Què són els pressupostos participatius?</strong></p><p>L’Ajuntament de Calaf promou els quarts pressupostos participatius per tal que els ciutadans, a nivell individual o a través d’una entitat o col·lectiu, pugui proposar i votar projectes d’inversió a fer al municipi. En total, es destinarà una partida de <strong>60.000 euros</strong>.</p><p><br></p>"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "developerGroup": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "announcement": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "participatoryScope": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "participatoryStructure": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "scope": null,
-      "metaScope": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "localArea": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "stats": [
-        {
-          "name": "pages_count",
-          "value": 0
+    "data": {
+        "participatoryProcess": {
+            "id": "216",
+            "slug": "pressupostosparticipatiuscalaf2020",
+            "hashtag": "",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2019-10-25T12:17:10+02:00",
+            "updatedAt": "2019-12-17T13:37:06+01:00",
+            "startDate": "2019-10-25",
+            "endDate": "2020-02-03",
+            "heroImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/hero_image/216/PRESSUS_2020.jpg",
+            "bannerImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/banner_image/216/PENYA.jpg",
+            "reference": "calaf-PART-2019-10-216",
+            "promoted": true,
+            "showMetrics": true,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupostos participatius Calaf 2020"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Proposa, vota i decideix! (Vota del 10 de gener al 3 de febrer)"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<h2><strong>INFORMACI\u00d3 GENERAL</strong></h2><p><strong>Objectius</strong></p><p>Promoure la participaci\u00f3 ciutadana; aconseguir una major identificaci\u00f3 dels ve\u00efns i ve\u00efnes amb la vila; con\u00e8ixer les seves necessitats; promocionar valors com l\u2019apoderament, la inclusi\u00f3, la igualtat, l\u2019horitzontalitat i la transpar\u00e8ncia; i planificar la despesa municipal el m\u00e0xim d\u2019ajustada a les prioritats ciutadanes.</p><h2><strong>PRESENTACI\u00d3 DE PROPOSTES</strong></h2><p><strong>Qui pot presentar propostes?</strong></p><p>- Qualsevol persona empadronada a Calaf abans de l\u20191 de setembre del 2019 major de 16 anys o a punt de complir-los.</p><p>- Entitats sense \u00e0nim de lucre del municipi degudament registrades amb data anterior a l\u2019aprovaci\u00f3 d\u2019aquestes bases.</p><p>- Serveis t\u00e8cnics i \u00e0rees de l\u2019Ajuntament de Calaf amb projectes d\u2019inter\u00e8s general i que s\u2019adaptin a les bases.</p><p><br></p><p><strong>Com i quan fer-ho?</strong></p><p>Des del 25 d'octubre al 30 de novembre de manera:</p><ul><li><strong>Presencial</strong>: mitjan\u00e7ant el formulari que trobareu en aquest tr\u00edptic, descarregant-lo a www.calaf.cat o recollint-lo a l'Ajuntament o a l'Oficina de Turisme. Seguidament, caldr\u00e0 portar el formulari, juntament amb el pressupost desglossat a l'Ajuntament o a l'Oficina de Turisme.</li></ul><p><br></p><ul><li><strong>Via e-mail</strong>: caldr\u00e0 descarregar el formulari editable a www.calaf.cat i enviar-lo per correu electr\u00f2nic a participacio.calaf@gmail.com juntament amb el pressupost desglossat.</li></ul><p><br></p><ul><li><strong>En l\u00ednia</strong>: a trav\u00e9s del formulari en l\u00ednia que trobareu a la web www.calaf.cat</li></ul><p><br></p><p><strong>Caracter\u00edstiques de les propostes</strong></p><p>- Tenir una visi\u00f3 <strong>inclusiva, oberta i dirigida</strong> al conjunt de la poblaci\u00f3.</p><p>- Fer refer\u00e8ncia a \u00e0mbits i temes de compet\u00e8ncia municipal.</p><p>- Ser realitzables t\u00e8cnicament i que <strong>respectin el marc jur\u00eddic i legal existent</strong>.</p><p>- Ser viables econ\u00f2micament sense que <strong>cap proposta superi els 12.000 euros</strong> de pressupost (iva incl\u00f2s).</p><p>- Ser executables durant <strong>l\u2019any 2020</strong></p><p><br></p><h2><strong>VALORACIONS</strong></h2><p><strong>Del 9 al 31 de desembre</strong> s'avaluaran les propostes segons els criteris.</p><p><br></p><h2><strong>PRESENTACI\u00d3 P\u00daBLICA DE LES PROPOSTES</strong></h2><p>El dia <strong>11 de gener</strong> hi ha la <strong>Presentaci\u00f3 p\u00fablica de les propostes </strong>i \u00e9s <strong>OBLIGATORI</strong> que m\u00ednim un representant de cada projecte apte es presenti a la jornada i exposi el seu projecte. <strong>Ser\u00e0 a les 11h a l' IMFP</strong>. En cas que no es presenti ning\u00fa per explicar la seva proposta, el projecte quedar\u00e0 <strong>ELIMINAT</strong> dels Pressupostos Participatius 2020.</p><p>La jornada ser\u00e0 molt senzilla, durant m\u00e0xim 5 minuts, el/s representat/s de cada proposta explicaran a la resta de poblaci\u00f3 i participants en qu\u00e8 consisteix el seu projecte i perqu\u00e8 l'haurien de votar. </p><p>Per tal d'organitzar l'ordre de les presentacions i explicar pr\u00e8viament com funcionar\u00e0 la jornada, es convoca als representants de cada projecte el mateix dia a les <strong>10.30h a l'IMFP. </strong></p><p>Per a qualsevol dubte, contacteu-nos a <a href=\"mailto:participacio.calaf@gmail.com\" target=\"_blank\">participacio.calaf@gmail.com</a></p><p><br></p><h2><strong>VOTACIONS</strong></h2><p>Les votacions es podran fer online a trav\u00e9s de la plataforma decidim-calaf.diba.cat. Seran <strong>del 10 de gener al 3 de febrer</strong>.</p><p><br></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><strong>Qu\u00e8 s\u00f3n els pressupostos participatius?</strong></p><p>L\u2019Ajuntament de Calaf promou els quarts pressupostos participatius per tal que els ciutadans, a nivell individual o a trav\u00e9s d\u2019una entitat o col\u00b7lectiu, pugui proposar i votar projectes d\u2019inversi\u00f3 a fer al municipi. En total, es destinar\u00e0 una partida de <strong>60.000 euros</strong>.</p><p><br></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "357",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Via p\u00fablica, serveis i patrimoni "
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "358",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Medi ambient"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "359",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Urbanisme"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "360",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Sanitat "
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "361",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Serveis a les persones "
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "362",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Ensenyament"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "363",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Turisme i comer\u00e7 "
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "364",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Promoci\u00f3 econ\u00f2mica i ocupaci\u00f3 "
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "365",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Economia i hisenda"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "366",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Participaci\u00f3 Ciutadana "
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "367",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Joventut "
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "368",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Cultura"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "369",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Esports "
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "370",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Comunicaci\u00f3 i noves tecnologies"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "371",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Institucional"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 0
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 9
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 12
+                },
+                {
+                    "name": "budgets_count",
+                    "value": 1
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 1
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "position": 0,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "PROPOSTES"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2019-10-25",
+                    "endDate": "2019-11-30"
+                },
+                {
+                    "position": 1,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "VALIDACI\u00d3 T\u00c8CNICA"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2019-12-09",
+                    "endDate": "2019-12-31"
+                },
+                {
+                    "position": 2,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "VOTACI\u00d3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2020-01-10",
+                    "endDate": "2020-02-03"
+                },
+                {
+                    "position": 3,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "RETORN"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2020-02-04",
+                    "endDate": "2020-02-11"
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "attachments": [],
+            "components": [
+                {
+                    "id": "889",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes"
+                            },
+                            {
+                                "text": "Propuestas"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "887",
+                    "__typename": "Budgets",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Votacions"
+                            },
+                            {
+                                "text": "Votaciones"
+                            }
+                        ]
+                    },
+                    "weight": 1
+                },
+                {
+                    "id": "888",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Trobada"
+                            },
+                            {
+                                "text": "Encuentros"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                },
+                {
+                    "id": "1063",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Punts de votaci\u00f3"
+                            },
+                            {
+                                "text": "Puntos de votaci\u00f3n"
+                            }
+                        ]
+                    },
+                    "weight": 3
+                },
+                {
+                    "id": "1109",
+                    "__typename": "Surveys",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Enquesta d'avaluaci\u00f3"
+                            },
+                            {
+                                "text": "Encuesta"
+                            }
+                        ]
+                    },
+                    "weight": 5
+                }
+            ]
         },
-        {
-          "name": "meetings_count",
-          "value": 9
-        },
-        {
-          "name": "proposals_count",
-          "value": 12
-        },
-        {
-          "name": "projects_count",
-          "value": 12
-        },
-        {
-          "name": "surveys_count",
-          "value": 1
-        },
-        {
-          "name": "results_count",
-          "value": 0
-        },
-        {
-          "name": "debates_count",
-          "value": 0
-        },
-        {
-          "name": "sortitions_count",
-          "value": 0
-        },
-        {
-          "name": "posts_count",
-          "value": 0
+        "decidim": {
+            "version": "0.23.4",
+            "applicationName": "Decidim DIBA"
         }
-      ],
-      "steps": [
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "PROPOSTES"
-              },
-              {
-                "locale": "es",
-                "text": ""
-              }
-            ]
-          },
-          "startDate": "2019-10-25",
-          "endDate": "2019-11-30"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "VALIDACIÓ TÈCNICA"
-              },
-              {
-                "locale": "es",
-                "text": ""
-              }
-            ]
-          },
-          "startDate": "2019-12-09",
-          "endDate": "2019-12-31"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "VOTACIÓ"
-              },
-              {
-                "locale": "es",
-                "text": ""
-              }
-            ]
-          },
-          "startDate": "2020-01-10",
-          "endDate": "2020-02-03"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "RETORN"
-              },
-              {
-                "locale": "es",
-                "text": ""
-              }
-            ]
-          },
-          "startDate": "2020-02-04",
-          "endDate": "2020-02-11"
-        }
-      ],
-      "target": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "attachments": [],
-      "components": [
-        {
-          "id": "889",
-          "__typename": "Proposals",
-          "name": {
-            "translations": [
-              {
-                "text": "Propostes"
-              },
-              {
-                "text": "Propuestas"
-              }
-            ]
-          },
-          "weight": 0
-        },
-        {
-          "id": "887",
-          "__typename": "Component",
-          "name": {
-            "translations": [
-              {
-                "text": "Votacions"
-              },
-              {
-                "text": "Votaciones"
-              }
-            ]
-          },
-          "weight": 1
-        },
-        {
-          "id": "888",
-          "__typename": "Meetings",
-          "name": {
-            "translations": [
-              {
-                "text": "Trobada"
-              },
-              {
-                "text": "Encuentros"
-              }
-            ]
-          },
-          "weight": 2
-        },
-        {
-          "id": "1063",
-          "__typename": "Meetings",
-          "name": {
-            "translations": [
-              {
-                "text": "Punts de votació"
-              },
-              {
-                "text": "Puntos de votación"
-              }
-            ]
-          },
-          "weight": 3
-        },
-        {
-          "id": "1109",
-          "__typename": "Component",
-          "name": {
-            "translations": [
-              {
-                "text": "Enquesta d'avaluació"
-              },
-              {
-                "text": "Encuesta"
-              }
-            ]
-          },
-          "weight": 5
-        }
-      ]
-    },
-    "decidim": {
-      "version": "0.19.1",
-      "applicationName": "Decidim DIBA"
     }
-  }
 }

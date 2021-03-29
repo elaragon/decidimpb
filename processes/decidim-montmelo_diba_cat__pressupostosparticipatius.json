@@ -1,345 +1,353 @@
 {
-  "data": {
-    "participatoryProcess": {
-      "id": "126",
-      "slug": "pressupostosparticipatius",
-      "hashtag": "pressupostparticipatiumontmelo2019",
-      "type": "Decidim::ParticipatoryProcess",
-      "createdAt": "2019-04-01T11:10:17+02:00",
-      "updatedAt": "2020-02-05T15:08:08+01:00",
-      "startDate": "2019-04-29",
-      "endDate": "2019-11-01",
-      "heroImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/hero_image/126/logo_montmelo_decideix2.png",
-      "bannerImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/banner_image/126/mans.jpg",
-      "reference": "montmelo-PART-2019-04-126",
-      "promoted": false,
-      "scopesEnabled": false,
-      "title": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "PRESSUPOSTOS PARTICIPATIUS 2019"
-          },
-          {
-            "locale": "es",
-            "text": "PRESUPUESTOS PARTICIPATIVOS 2019"
-          }
-        ]
-      },
-      "subtitle": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Pressupost participatiu per decidir el destí de 150.000 euros de la partida d’inversions del Pressupost municipal de 2019"
-          },
-          {
-            "locale": "es",
-            "text": "Presupuesto participativo para decidir el destino de 150.000 euros de la partida de inversiones del Presupuesto municipal de 2019"
-          }
-        ]
-      },
-      "description": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "<iframe class=\"ql-video\" allowfullscreen=\"true\" src=\"https://player.vimeo.com/video/333330542/\" frameborder=\"0\"></iframe><h3><br></h3><h3>Què són els pressupostos participatius?</h3><p>Amb els Pressupostos Participatius els ciutadans i les ciutadanes podem decidir en què invertit fins a 150.000€ de la partida d’inversions del pressupost municipal 2019. </p><h3>Qui pot presentar propostes?</h3><p>Totes les persones majors de 16 anys, empadronades o no a Montmeló. </p><h3>Qui pot donar suport i votar les propostes?</h3><p>Totes les persones majors de 16 anys, empadronades a Montmeló abans del 20 de maig. </p><h3>Com puc participar en el procés?</h3><ul><li>Registrant-te per via telemàtica a : <a href=\"http://decidim-montmelo.diba.cat/\" target=\"_blank\">decidim-montmelo.diba.cat</a></li><li>Oficina d’Atenció ciutadana: De dilluns a divendres de 8 h a 14 h. </li><li>A la Torreta: De dilluns a divendres de 15.30h a 21h. </li><li>Al casal de la gent gran: De dilluns a divendres de 10h a 13h i de 16h a 19.30h</li></ul><h2><br></h2><h2>El procés dels pressupostos participatius</h2><h4>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presentació de propostes: Del 29 d’abril al 8 de juny</h4><p>Es podran presentar un màxim de dues propostes per persona. </p><h5><strong>Què cal tenir el compte?</strong></h5><p>Les propostes que es facin han de ser una inversió que no superi els 150.000€. Es considera una inversió aquella despesa destinada a la creació o l’adquisició de béns o de naturalesa material o immaterial de capital, i les destinades a l’adquisició de béns de naturalesa inventariable necessaris per al funcionament dels serveis: la renovació, creació o adquisició d’un equipament, la millora de l’espai públic, l’adquisició de mobiliari o vehicles, etc.</p><h5><strong>A què ens referim amb una inversió?</strong></h5><p><strong>SI és una inversió</strong>: reurbanitzar un carrer, fer o renovar un equipament, adquirir un nou vehicle de transport...</p><p><strong>NO és una inversió</strong>: arreglar un forat a una vorera, manteniment dels equipaments, fer més línies de Bus...</p><h4>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suport a les propostes: Del 8 de juny al 8 de juliol</h4><p>Es podrà donar suport a les propostes presentades per la ciutadania, un màxim de 3 suports per persona. Les propostes que recullin més suports passaran a ser valorades tècnicament. </p><h4>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Valoració de les propostes:</h4><p><strong>Totes les propostes es valoraran tècnicament en base als següents criteris: </strong></p><ul><li>Ser un projecte d’abast de poble. </li><li>Ser de competència municipal </li><li>No contradir els plans aprovats per l’Ajuntament</li><li>Ser realitzables tècnicament</li><li>Ser viables econòmicament, d’acord amb el pressupost d’inversions assignat i la limitació econòmica per proposta (màxim 150.000 €)</li><li>Respectar el marc jurídic i legal existent</li><li>Ser considerada una inversió (Capítol VI)</li><li>El cost del projecte sigui assumible en els futurs pressupostos </li></ul><h4>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Votació popular: Del 8 d’octubre al 8 de novembre. </h4><p>Les propostes finalistes es sotmetran a votació popular i s’executaran per ordre de vots fins arribar als 150.000€ del pressupost 2019.</p><h4>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Execució de propostes: gener del 2020</h4><p>A partir de gener, s’executaran les propostes guanyadores. </p>"
-          },
-          {
-            "locale": "es",
-            "text": "<h3>Qué son los presupuestos participativos?</h3><p>Con los Presupuestos Participativos los ciudadanos y las ciudadanas podemos decidir en qué invertido hasta 150.000€ de la partida de inversiones del presupuesto municipal 2019. </p><h3>Quién puede presentar propuestas?</h3><p>Todas las personas mayores de 16 años, empadronadas o no en Montmeló. </p><h3>Quién puede apoyar y votar las propuestas?</h3><p>Todas las personas mayores de 16 años, empadronadas en Montmeló antes del 20 de mayo. </p><h3>Cómo puedo participar en el proceso?</h3><ul><li> Por vía telemática a : <a href=\"www.decidim-montmelo.diba.cat\" target=\"_blank\">www.decidim-montmelo.diba.cat</a></li><li> Oficina de Atención ciudadana: De lunes a viernes de 8 h a 14 h. </li><li> A la Torreta: De lunes a viernes de 15.30h a 21h. </li><li> Al casal de la gente mayor: De lunes a viernes de 10h a 13h y de 16h a 19.30h</li></ul><p><br></p><h2>El proceso de los presupuestos participativos</h2><h4>1. Presentación de propuestas: Del 20 de abril al 20 de mayo</h4><p>Se podrán presentar un máximo de dos propuestas por persona. </p><h5><strong>Qué hay que tener la cuenta?</strong></h5><p>Las propuestas que se hagan tienen que ser una inversión que no supere los 150.000€. Se considera una inversión aquel gasto destinado a la creación o la adquisición de bienes o de naturaleza material o inmaterial de capital, y las destinadas a la adquisición de bienes de naturaleza inventariable necesarios para el funcionamiento de los servicios: la renovación, creación o adquisición de una equipación, la mejora del espacio público, la adquisición de mobiliario o vehículos, etc.</p><h5><strong>A que nos referimos con una inversión?</strong></h5><p><strong>SI es una inversión</strong>: reurbanizar una calle, hacer o renovar una equipación, adquirir un nuevo vehículo de transporte...</p><p><strong>NO es una inversión</strong>: arreglar un agujero a una acera, mantenimiento de las equipaciones, hacer más líneas de Buzo...</p><h4>2. Apoyo a las propuestas: Del 8 de junio al 8 de julio</h4><p>Se podrá apoyar a las propuestas presentadas por la ciudadanía, un máximo de 3 apoyos por persona. Las propuestas que recojan más apoyos pasarán a ser valoradas técnicamente. </p><h4>3. Valoración de las propuestas:</h4><p><strong>Todas las propuestas se valorarán técnicamente en base a los siguientes criterios: </strong></p><ul><li> Ser un proyecto de alcance de pueblo. </li><li> Ser de competencia municipal </li><li> No contradecir los planes aprobados por el Ayuntamiento</li><li> Ser realizables técnicamente</li><li> Ser viables económicamente, de acuerdo con el presupuesto de inversiones asignado y la limitación económica por propuesta (máximo 150.000 €)</li><li> Respetar el marco jurídico y legal existente</li><li> Ser considerada una inversión (Capítulo VI)</li><li> El coste del proyecto sea asumible en los futuros presupuestos </li></ul><h4>4. Votación popular: Del 1 de octubre al 1 de noviembre. </h4><p>Las propuestas finalistas se someterán a votación popular y se ejecutarán por orden de votos hasta llegar a los 150.000€ del presupuesto 2019.</p><h4>5. Ejecución de propuestas: enero del 2020</h4><p>A partir de enero, se ejecutarán las propuestas ganadoras.</p>"
-          }
-        ]
-      },
-      "shortDescription": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "<p>El Pressupost Participatiu és una eina de democràcia directa que permet a la ciutadania decidir sobre els pressupostos públics. Enguany, per segona vegada, els veïns i veïnes de Montmeló podran proposar, donar suport i decidir el destí de 150.000 euros de la partida d’inversions del Pressupost municipal de 2019.</p><p>A partir de les propostes realitzades per la ciutadania, s’escolliran les que recullin més suports i mitjançant el vot directe, decidirà quines s’incorporen com a accions a realitzar en el proper pressupost municipal.</p><p>Les fases en què la ciutadania podrà participar de forma activa són la de proposta, la de suports i la de votació.&nbsp;</p>"
-          },
-          {
-            "locale": "es",
-            "text": "<p>El Presupuesto Participativo es una herramienta de democracia directa que permite a la ciudadanía decidir sobre los presupuestos públicos. Este año, por segunda vez, los vecinos y vecinas de Montmeló podrán proponer, apoyar y decidir el destino de 150.000 euros de la partida de inversiones del Presupuesto municipal de 2019.</p><p>A partir de las propuestas realizadas por la ciudadanía, se escogerán las que recojan más apoyos y mediante el voto directo, decidirá cuáles se incorporan como acciones a realizar en el próximo presupuesto municipal.</p><p>Las fases en que la ciudadanía podrá participar de forma activa son la de propuesta, la de apoyos y la de votación.</p><p><br></p>"
-          }
-        ]
-      },
-      "developerGroup": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Ajuntament de Montmeló "
-          },
-          {
-            "locale": "es",
-            "text": "Ayuntamiento de Montmeló"
-          }
-        ]
-      },
-      "announcement": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "participatoryScope": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "participatoryStructure": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "scope": null,
-      "metaScope": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "pressupostosparticipatius, montmelo, participa "
-          },
-          {
-            "locale": "es",
-            "text": "presupuestosparticipativos, montmelo, participa"
-          }
-        ]
-      },
-      "localArea": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Participació ciutadana"
-          },
-          {
-            "locale": "es",
-            "text": "Participación ciudadana"
-          }
-        ]
-      },
-      "stats": [
-        {
-          "name": "pages_count",
-          "value": 0
+    "data": {
+        "participatoryProcess": {
+            "id": "126",
+            "slug": "pressupostosparticipatius",
+            "hashtag": "pressupostparticipatiumontmelo2019",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2019-04-01T13:10:17+02:00",
+            "updatedAt": "2020-02-05T16:08:08+01:00",
+            "startDate": "2019-04-29",
+            "endDate": "2019-11-01",
+            "heroImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/hero_image/126/logo_montmelo_decideix2.png",
+            "bannerImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/banner_image/126/mans.jpg",
+            "reference": "montmelo-PART-2019-04-126",
+            "promoted": false,
+            "showMetrics": true,
+            "scopesEnabled": false,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "PRESSUPOSTOS PARTICIPATIUS 2019"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "PRESUPUESTOS PARTICIPATIVOS 2019"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupost participatiu per decidir el dest\u00ed de 150.000 euros de la partida d\u2019inversions del Pressupost municipal de 2019"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Presupuesto participativo para decidir el destino de 150.000 euros de la partida de inversiones del Presupuesto municipal de 2019"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<iframe class=\"ql-video\" allowfullscreen=\"true\" src=\"https://player.vimeo.com/video/333330542/\" frameborder=\"0\"></iframe><h3><br></h3><h3>Qu\u00e8 s\u00f3n els pressupostos participatius?</h3><p>Amb els Pressupostos Participatius els ciutadans i les ciutadanes podem decidir en qu\u00e8 invertit fins a 150.000\u20ac de la partida d\u2019inversions del pressupost municipal 2019. </p><h3>Qui pot presentar propostes?</h3><p>Totes les persones majors de 16 anys, empadronades o no a Montmel\u00f3. </p><h3>Qui pot donar suport i votar les propostes?</h3><p>Totes les persones majors de 16 anys, empadronades a Montmel\u00f3 abans del 20 de maig. </p><h3>Com puc participar en el proc\u00e9s?</h3><ul><li>Registrant-te per via telem\u00e0tica a : <a href=\"http://decidim-montmelo.diba.cat/\" target=\"_blank\">decidim-montmelo.diba.cat</a></li><li>Oficina d\u2019Atenci\u00f3 ciutadana: De dilluns a divendres de 8 h a 14 h. </li><li>A la Torreta: De dilluns a divendres de 15.30h a 21h. </li><li>Al casal de la gent gran: De dilluns a divendres de 10h a 13h i de 16h a 19.30h</li></ul><h2><br></h2><h2>El proc\u00e9s dels pressupostos participatius</h2><h4>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Presentaci\u00f3 de propostes: Del 29 d\u2019abril al 8 de juny</h4><p>Es podran presentar un m\u00e0xim de dues propostes per persona. </p><h5><strong>Qu\u00e8 cal tenir el compte?</strong></h5><p>Les propostes que es facin han de ser una inversi\u00f3 que no superi els 150.000\u20ac. Es considera una inversi\u00f3 aquella despesa destinada a la creaci\u00f3 o l\u2019adquisici\u00f3 de b\u00e9ns o de naturalesa material o immaterial de capital, i les destinades a l\u2019adquisici\u00f3 de b\u00e9ns de naturalesa inventariable necessaris per al funcionament dels serveis: la renovaci\u00f3, creaci\u00f3 o adquisici\u00f3 d\u2019un equipament, la millora de l\u2019espai p\u00fablic, l\u2019adquisici\u00f3 de mobiliari o vehicles, etc.</p><h5><strong>A qu\u00e8 ens referim amb una inversi\u00f3?</strong></h5><p><strong>SI \u00e9s una inversi\u00f3</strong>: reurbanitzar un carrer, fer o renovar un equipament, adquirir un nou vehicle de transport...</p><p><strong>NO \u00e9s una inversi\u00f3</strong>: arreglar un forat a una vorera, manteniment dels equipaments, fer m\u00e9s l\u00ednies de Bus...</p><h4>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suport a les propostes: Del 8 de juny al 8 de juliol</h4><p>Es podr\u00e0 donar suport a les propostes presentades per la ciutadania, un m\u00e0xim de 3 suports per persona. Les propostes que recullin m\u00e9s suports passaran a ser valorades t\u00e8cnicament. </p><h4>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Valoraci\u00f3 de les propostes:</h4><p><strong>Totes les propostes es valoraran t\u00e8cnicament en base als seg\u00fcents criteris: </strong></p><ul><li>Ser un projecte d\u2019abast de poble. </li><li>Ser de compet\u00e8ncia municipal </li><li>No contradir els plans aprovats per l\u2019Ajuntament</li><li>Ser realitzables t\u00e8cnicament</li><li>Ser viables econ\u00f2micament, d\u2019acord amb el pressupost d\u2019inversions assignat i la limitaci\u00f3 econ\u00f2mica per proposta (m\u00e0xim 150.000 \u20ac)</li><li>Respectar el marc jur\u00eddic i legal existent</li><li>Ser considerada una inversi\u00f3 (Cap\u00edtol VI)</li><li>El cost del projecte sigui assumible en els futurs pressupostos </li></ul><h4>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Votaci\u00f3 popular: Del 8 d\u2019octubre al 8 de novembre. </h4><p>Les propostes finalistes es sotmetran a votaci\u00f3 popular i s\u2019executaran per ordre de vots fins arribar als 150.000\u20ac del pressupost 2019.</p><h4>5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Execuci\u00f3 de propostes: gener del 2020</h4><p>A partir de gener, s\u2019executaran les propostes guanyadores. </p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<h3>Qu\u00e9 son los presupuestos participativos?</h3><p>Con los Presupuestos Participativos los ciudadanos y las ciudadanas podemos decidir en qu\u00e9 invertido hasta 150.000\u20ac de la partida de inversiones del presupuesto municipal 2019. </p><h3>Qui\u00e9n puede presentar propuestas?</h3><p>Todas las personas mayores de 16 a\u00f1os, empadronadas o no en Montmel\u00f3. </p><h3>Qui\u00e9n puede apoyar y votar las propuestas?</h3><p>Todas las personas mayores de 16 a\u00f1os, empadronadas en Montmel\u00f3 antes del 20 de mayo. </p><h3>C\u00f3mo puedo participar en el proceso?</h3><ul><li> Por v\u00eda telem\u00e1tica a : <a href=\"www.decidim-montmelo.diba.cat\" target=\"_blank\">www.decidim-montmelo.diba.cat</a></li><li> Oficina de Atenci\u00f3n ciudadana: De lunes a viernes de 8 h a 14 h. </li><li> A la Torreta: De lunes a viernes de 15.30h a 21h. </li><li> Al casal de la gente mayor: De lunes a viernes de 10h a 13h y de 16h a 19.30h</li></ul><p><br></p><h2>El proceso de los presupuestos participativos</h2><h4>1. Presentaci\u00f3n de propuestas: Del 20 de abril al 20 de mayo</h4><p>Se podr\u00e1n presentar un m\u00e1ximo de dos propuestas por persona. </p><h5><strong>Qu\u00e9 hay que tener la cuenta?</strong></h5><p>Las propuestas que se hagan tienen que ser una inversi\u00f3n que no supere los 150.000\u20ac. Se considera una inversi\u00f3n aquel gasto destinado a la creaci\u00f3n o la adquisici\u00f3n de bienes o de naturaleza material o inmaterial de capital, y las destinadas a la adquisici\u00f3n de bienes de naturaleza inventariable necesarios para el funcionamiento de los servicios: la renovaci\u00f3n, creaci\u00f3n o adquisici\u00f3n de una equipaci\u00f3n, la mejora del espacio p\u00fablico, la adquisici\u00f3n de mobiliario o veh\u00edculos, etc.</p><h5><strong>A que nos referimos con una inversi\u00f3n?</strong></h5><p><strong>SI es una inversi\u00f3n</strong>: reurbanizar una calle, hacer o renovar una equipaci\u00f3n, adquirir un nuevo veh\u00edculo de transporte...</p><p><strong>NO es una inversi\u00f3n</strong>: arreglar un agujero a una acera, mantenimiento de las equipaciones, hacer m\u00e1s l\u00edneas de Buzo...</p><h4>2. Apoyo a las propuestas: Del 8 de junio al 8 de julio</h4><p>Se podr\u00e1 apoyar a las propuestas presentadas por la ciudadan\u00eda, un m\u00e1ximo de 3 apoyos por persona. Las propuestas que recojan m\u00e1s apoyos pasar\u00e1n a ser valoradas t\u00e9cnicamente. </p><h4>3. Valoraci\u00f3n de las propuestas:</h4><p><strong>Todas las propuestas se valorar\u00e1n t\u00e9cnicamente en base a los siguientes criterios: </strong></p><ul><li> Ser un proyecto de alcance de pueblo. </li><li> Ser de competencia municipal </li><li> No contradecir los planes aprobados por el Ayuntamiento</li><li> Ser realizables t\u00e9cnicamente</li><li> Ser viables econ\u00f3micamente, de acuerdo con el presupuesto de inversiones asignado y la limitaci\u00f3n econ\u00f3mica por propuesta (m\u00e1ximo 150.000 \u20ac)</li><li> Respetar el marco jur\u00eddico y legal existente</li><li> Ser considerada una inversi\u00f3n (Cap\u00edtulo VI)</li><li> El coste del proyecto sea asumible en los futuros presupuestos </li></ul><h4>4. Votaci\u00f3n popular: Del 1 de octubre al 1 de noviembre. </h4><p>Las propuestas finalistas se someter\u00e1n a votaci\u00f3n popular y se ejecutar\u00e1n por orden de votos hasta llegar a los 150.000\u20ac del presupuesto 2019.</p><h4>5. Ejecuci\u00f3n de propuestas: enero del 2020</h4><p>A partir de enero, se ejecutar\u00e1n las propuestas ganadoras.</p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>El Pressupost Participatiu \u00e9s una eina de democr\u00e0cia directa que permet a la ciutadania decidir sobre els pressupostos p\u00fablics. Enguany, per segona vegada, els ve\u00efns i ve\u00efnes de Montmel\u00f3 podran proposar, donar suport i decidir el dest\u00ed de 150.000 euros de la partida d\u2019inversions del Pressupost municipal de 2019.</p><p>A partir de les propostes realitzades per la ciutadania, s\u2019escolliran les que recullin m\u00e9s suports i mitjan\u00e7ant el vot directe, decidir\u00e0 quines s\u2019incorporen com a accions a realitzar en el proper pressupost municipal.</p><p>Les fases en qu\u00e8 la ciutadania podr\u00e0 participar de forma activa s\u00f3n la de proposta, la de suports i la de votaci\u00f3.&nbsp;</p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "<p>El Presupuesto Participativo es una herramienta de democracia directa que permite a la ciudadan\u00eda decidir sobre los presupuestos p\u00fablicos. Este a\u00f1o, por segunda vez, los vecinos y vecinas de Montmel\u00f3 podr\u00e1n proponer, apoyar y decidir el destino de 150.000 euros de la partida de inversiones del Presupuesto municipal de 2019.</p><p>A partir de las propuestas realizadas por la ciudadan\u00eda, se escoger\u00e1n las que recojan m\u00e1s apoyos y mediante el voto directo, decidir\u00e1 cu\u00e1les se incorporan como acciones a realizar en el pr\u00f3ximo presupuesto municipal.</p><p>Las fases en que la ciudadan\u00eda podr\u00e1 participar de forma activa son la de propuesta, la de apoyos y la de votaci\u00f3n.</p><p><br></p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ajuntament de Montmel\u00f3 "
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Ayuntamiento de Montmel\u00f3"
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "pressupostosparticipatius, montmelo, participa "
+                    },
+                    {
+                        "locale": "es",
+                        "text": "presupuestosparticipativos, montmelo, participa"
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Participaci\u00f3 ciutadana"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Participaci\u00f3n ciudadana"
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 0
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 2
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 102
+                },
+                {
+                    "name": "budgets_count",
+                    "value": 1
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "position": 0,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "CAMPANYA INFORMATIVA I RECOLLIDA DE PROPOSTES"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "CAMPA\u00d1A INFORMATIVA Y RECOGIDA DE PROPUESTAS"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-04-29",
+                    "endDate": "2019-06-08"
+                },
+                {
+                    "position": 1,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "RECOLLIDA DE SUPORTS"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "RECOGIDA DE SOPORTES"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-06-08",
+                    "endDate": "2019-07-08"
+                },
+                {
+                    "position": 2,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "VALORACI\u00d3 T\u00c8CNICA DE LES PROPOSTES"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "VALORACI\u00d3N T\u00c9CNICA DE LAS PROPUESTAS"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-07-10",
+                    "endDate": "2019-09-27"
+                },
+                {
+                    "position": 3,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "VOTACI\u00d3 DE LES PROPOSTES"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "VOTACI\u00d3N DE LAS PROPUESTAS"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-10-08",
+                    "endDate": "2019-11-08"
+                },
+                {
+                    "position": 4,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "RETORN I EXECUCI\u00d3 DE LES PROPOSTES"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "RETORNO Y EJECUCI\u00d3N DE LAS PROPUESTAS"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-11-01",
+                    "endDate": "2020-03-01"
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ciutadania"
+                    },
+                    {
+                        "locale": "es",
+                        "text": "Ciudadan\u00eda"
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/418/FUNCIONAMENT_DE_PRESSUPOSTOS_PARTICIPATIUS_MONTMEL%C3%93.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/475/Propostes_definitives.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/508/Propostes_d_inversi%C3%B3_definitives_PP_2019.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/545/informe-resultats-2019.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "476",
+                    "__typename": "Budgets",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Pressupostos Participatius 2019"
+                            },
+                            {
+                                "text": "Presupuestos"
+                            }
+                        ]
+                    },
+                    "weight": 1
+                },
+                {
+                    "id": "477",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes"
+                            },
+                            {
+                                "text": "Propuestas"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                },
+                {
+                    "id": "543",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Trobades"
+                            },
+                            {
+                                "text": "Encuentros"
+                            }
+                        ]
+                    },
+                    "weight": 3
+                }
+            ]
         },
-        {
-          "name": "meetings_count",
-          "value": 2
-        },
-        {
-          "name": "proposals_count",
-          "value": 102
-        },
-        {
-          "name": "projects_count",
-          "value": 10
-        },
-        {
-          "name": "surveys_count",
-          "value": 0
-        },
-        {
-          "name": "results_count",
-          "value": 0
-        },
-        {
-          "name": "debates_count",
-          "value": 0
-        },
-        {
-          "name": "sortitions_count",
-          "value": 0
-        },
-        {
-          "name": "posts_count",
-          "value": 0
+        "decidim": {
+            "version": "0.23.4",
+            "applicationName": "Decidim DIBA"
         }
-      ],
-      "steps": [
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "CAMPANYA INFORMATIVA I RECOLLIDA DE PROPOSTES"
-              },
-              {
-                "locale": "es",
-                "text": "CAMPAÑA INFORMATIVA Y RECOGIDA DE PROPUESTAS"
-              }
-            ]
-          },
-          "startDate": "2019-04-29",
-          "endDate": "2019-06-08"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "RECOLLIDA DE SUPORTS"
-              },
-              {
-                "locale": "es",
-                "text": "RECOGIDA DE SOPORTES"
-              }
-            ]
-          },
-          "startDate": "2019-06-08",
-          "endDate": "2019-07-08"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "VALORACIÓ TÈCNICA DE LES PROPOSTES"
-              },
-              {
-                "locale": "es",
-                "text": "VALORACIÓN TÉCNICA DE LAS PROPUESTAS"
-              }
-            ]
-          },
-          "startDate": "2019-07-10",
-          "endDate": "2019-09-27"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "VOTACIÓ DE LES PROPOSTES"
-              },
-              {
-                "locale": "es",
-                "text": "VOTACIÓN DE LAS PROPUESTAS"
-              }
-            ]
-          },
-          "startDate": "2019-10-08",
-          "endDate": "2019-11-08"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "RETORN I EXECUCIÓ DE LES PROPOSTES"
-              },
-              {
-                "locale": "es",
-                "text": "RETORNO Y EJECUCIÓN DE LAS PROPUESTAS"
-              }
-            ]
-          },
-          "startDate": "2019-11-01",
-          "endDate": "2020-03-01"
-        }
-      ],
-      "target": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Ciutadania"
-          },
-          {
-            "locale": "es",
-            "text": "Ciudadanía"
-          }
-        ]
-      },
-      "attachments": [
-        {
-          "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/545/informe-resultats-2019.pdf",
-          "type": "pdf",
-          "thumbnail": null
-        },
-        {
-          "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/508/Propostes_d_inversi%C3%B3_definitives_PP_2019.pdf",
-          "type": "pdf",
-          "thumbnail": null
-        },
-        {
-          "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/475/Propostes_definitives.pdf",
-          "type": "pdf",
-          "thumbnail": null
-        },
-        {
-          "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/418/FUNCIONAMENT_DE_PRESSUPOSTOS_PARTICIPATIUS_MONTMEL%C3%93.pdf",
-          "type": "pdf",
-          "thumbnail": null
-        }
-      ],
-      "components": [
-        {
-          "id": "476",
-          "__typename": "Component",
-          "name": {
-            "translations": [
-              {
-                "text": "Pressupostos Participatius 2019"
-              },
-              {
-                "text": "Presupuestos"
-              }
-            ]
-          },
-          "weight": 1
-        },
-        {
-          "id": "477",
-          "__typename": "Proposals",
-          "name": {
-            "translations": [
-              {
-                "text": "Propostes"
-              },
-              {
-                "text": "Propuestas"
-              }
-            ]
-          },
-          "weight": 2
-        },
-        {
-          "id": "543",
-          "__typename": "Meetings",
-          "name": {
-            "translations": [
-              {
-                "text": "Trobades"
-              },
-              {
-                "text": "Encuentros"
-              }
-            ]
-          },
-          "weight": 3
-        }
-      ]
-    },
-    "decidim": {
-      "version": "0.19.1",
-      "applicationName": "Decidim DIBA"
     }
-  }
 }

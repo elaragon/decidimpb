@@ -6,13 +6,14 @@
             "hashtag": "vngparticipa",
             "type": "Decidim::ParticipatoryProcess",
             "createdAt": "2018-12-20T06:59:13+00:00",
-            "updatedAt": "2020-10-02T10:19:58+00:00",
+            "updatedAt": "2021-01-19T11:11:41+00:00",
             "startDate": "2019-01-21",
-            "endDate": "2020-12-31",
+            "endDate": "2021-12-31",
             "heroImage": "http://participa.vilanova.cat/uploads/decidim/participatory_process/hero_image/13/Banner_1000x488.png",
             "bannerImage": "http://participa.vilanova.cat/uploads/decidim/participatory_process/banner_image/13/Banner_2_2019_744x150.png",
             "reference": "VG-PART-2018-12-13",
             "promoted": false,
+            "showMetrics": true,
             "scopesEnabled": false,
             "title": {
                 "translations": [
@@ -78,6 +79,108 @@
                     }
                 ]
             },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "24",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Accessibilitat i mobilitat "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "25",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Ambiental"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "26",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Carrers i espai p\u00fablic"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "27",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Carril bici"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "28",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Equipaments municipals "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "29",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Espai gossos"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "30",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Instal\u00b7lacions esportives"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "31",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Parcs infantils "
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "32",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Altres"
+                            }
+                        ]
+                    }
+                }
+            ],
             "scope": null,
             "metaScope": {
                 "translations": [
@@ -109,8 +212,8 @@
                     "value": 250
                 },
                 {
-                    "name": "projects_count",
-                    "value": 54
+                    "name": "budgets_count",
+                    "value": 1
                 },
                 {
                     "name": "surveys_count",
@@ -135,6 +238,7 @@
             ],
             "steps": [
                 {
+                    "position": 0,
                     "title": {
                         "translations": [
                             {
@@ -147,6 +251,7 @@
                     "endDate": "2019-02-11"
                 },
                 {
+                    "position": 1,
                     "title": {
                         "translations": [
                             {
@@ -159,6 +264,7 @@
                     "endDate": "2019-03-26"
                 },
                 {
+                    "position": 2,
                     "title": {
                         "translations": [
                             {
@@ -171,6 +277,7 @@
                     "endDate": "2019-04-15"
                 },
                 {
+                    "position": 3,
                     "title": {
                         "translations": [
                             {
@@ -183,6 +290,7 @@
                     "endDate": "2019-04-15"
                 },
                 {
+                    "position": 4,
                     "title": {
                         "translations": [
                             {
@@ -195,6 +303,7 @@
                     "endDate": "2019-12-31"
                 },
                 {
+                    "position": 5,
                     "title": {
                         "translations": [
                             {
@@ -252,7 +361,7 @@
                 },
                 {
                     "id": "33",
-                    "__typename": "Component",
+                    "__typename": "Budgets",
                     "name": {
                         "translations": [
                             {
@@ -277,7 +386,7 @@
             ]
         },
         "decidim": {
-            "version": "0.18.1",
+            "version": "0.23.4",
             "applicationName": "Participa Vilanova"
         }
     }

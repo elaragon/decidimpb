@@ -289,8 +289,8 @@
                     "value": 0
                 },
                 {
-                    "name": "projects_count",
-                    "value": 30
+                    "name": "budgets_count",
+                    "value": 2
                 },
                 {
                     "name": "surveys_count",
@@ -500,7 +500,7 @@
             ]
         },
         "decidim": {
-            "version": "0.22.0",
+            "version": "0.23.1",
             "applicationName": "Decidim Sant Cugat"
         }
     }

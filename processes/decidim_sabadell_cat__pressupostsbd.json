@@ -13,6 +13,7 @@
             "bannerImage": "/uploads/decidim/participatory_process/banner_image/18/medium_DecidimSabadell.png",
             "reference": "SBD-PART-2018-06-18",
             "promoted": false,
+            "showMetrics": true,
             "scopesEnabled": true,
             "title": {
                 "translations": [
@@ -110,6 +111,294 @@
                     }
                 ]
             },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "23",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Camins escolars segurs a les escoles i instituts de Sabadell"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "24",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Recuperaci\u00f3 dels jardins rom\u00e0ntics del Castell de Can Feu"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "25",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Posem a punt l'Escola Catalunya"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "26",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Cam\u00ed de Nostra Llar de Sant Oleguer: porta de Sabadell al riu Ripoll"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "27",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "\"Aprenem jugant\". Projecte de millora del pati de l'Escola La Rom\u00e0nica"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "28",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "L'Escola Joaquim Blume vol un pati per a tots@s, obert al nostre barri"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "29",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Vivim, respirem, rePLANTegem Sabadell"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "30",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Esborrem barreres: drets de les persones amb discapacitat"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "31",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Fes salut, fes Sabadell"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "32",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Supermercat solidari cooperatiu"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "33",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Constru\u00efm ciutat, fem barri. Promovem l'\u00fas social del catal\u00e0 entre els joves!"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "34",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Sortim a fer una volta!"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "35",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Sabadell conviu: per una conviv\u00e8ncia respectuosa amb els gats urbans i el medi ambient"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "36",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Tallers de prevenci\u00f3 de conductes addictives a joves de Sabadell"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "37",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Millora de les habilitats socials, cohesi\u00f3 i sensibilitzaci\u00f3 dels joves de la ciutat de Sabadell en les malalties neurol\u00f2giques"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "38",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Empoderament educatiu del professorat de Sabadell. Jocs i emocions en l'aprenentatge"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "39",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Agenda cervesera de la ciutat de Sabadell"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "40",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "#sbdcoeduca"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "41",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Empoder'Art. Art als barris de Sabadell"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                }
+            ],
             "scope": {
                 "id": "3",
                 "name": {
@@ -255,6 +544,7 @@
             ],
             "steps": [
                 {
+                    "position": 0,
                     "title": {
                         "translations": [
                             {
@@ -271,6 +561,7 @@
                     "endDate": "2018-09-16"
                 },
                 {
+                    "position": 1,
                     "title": {
                         "translations": [
                             {
@@ -287,6 +578,7 @@
                     "endDate": "2018-10-29"
                 },
                 {
+                    "position": 2,
                     "title": {
                         "translations": [
                             {
@@ -303,6 +595,7 @@
                     "endDate": "2018-12-22"
                 },
                 {
+                    "position": 3,
                     "title": {
                         "translations": [
                             {
@@ -319,6 +612,7 @@
                     "endDate": "2019-01-21"
                 },
                 {
+                    "position": 4,
                     "title": {
                         "translations": [
                             {
@@ -397,7 +691,7 @@
                 },
                 {
                     "id": "82",
-                    "__typename": "Component",
+                    "__typename": "Accountability",
                     "name": {
                         "translations": [
                             {
@@ -413,7 +707,7 @@
             ]
         },
         "decidim": {
-            "version": "0.20.0",
+            "version": "0.22.0",
             "applicationName": "Decidim Sabadell"
         }
     }

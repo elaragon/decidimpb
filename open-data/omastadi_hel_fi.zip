@@ -4,7 +4,7 @@
   <head>
     <title>OmaStadi</title>
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="kjJKfkbKBjVgnmSOLMTl+1yEJ4kIV6/UEkgt5HPgEAD/9OA1MILEYvd2Z0pHcnTEih8/94nblyi65wBOiWAjiw==" />
+<meta name="csrf-token" content="USkn31LNzvrKSGmmF9EXMuNunPkOWRTabKcmgnFK8M5YNc20bAvsnL046D3xYA5DcXft39SfIi5Ixi9lf4vZug==" />
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="alternate" href="/?locale=fi" hreflang="fi">
@@ -24,7 +24,7 @@
 <meta property="og:image" content="https://omastadi.hel.fi/assets/helsinki-social/omastadi-wide-4affa5cf60c1f9d06da2c0c0818a72f6d9cfc987b69b696ac08ccb75087c6dbc.jpg">
 
 
-<link rel="stylesheet" media="all" href="https://omastadi.hel.fi/assets/application-13895fbdc39d150589555d5f16bcce2b4e54a6a08d665ede309bd8901da182ff.css" />
+<link rel="stylesheet" media="all" href="https://omastadi.hel.fi/assets/application-a3d6c0d25404ca2081fbf564cf012fa578f898e70ea7954f2f17cceddc6ddd95.css" />
 
 <style media="all">
 :root{
@@ -32,7 +32,7 @@
 }</style>
 
 <script src="https://omastadi.hel.fi/assets/decidim/confirm-cbbfe7bcec12274b569d5cd7760712fddec96774b87852e60f16fd88527be55b.js"></script>
-<script src="https://omastadi.hel.fi/assets/application-64db2ba992822b939c6957958813b8be52d1d7c64b81e0cb6f52858fe328af8b.js"></script>
+<script src="https://omastadi.hel.fi/assets/application-cc966a9265e345269a1f2024102945767e1258d2bec10d417502b12bb241949e.js"></script>
 <script src="https://omastadi.hel.fi/assets/datepicker-locales/foundation-datepicker.fi-cb44fcf96400ad4a87d478b738a1e57244684e54dc5fc45333f9b0deb130c1eb.js"></script>
 
 
@@ -119,7 +119,7 @@
         <!--separates the footer from the rest of the page,
              creates a sticky footer-->
         <!-- Topbar -->
-        <div class="header">
+        <div class="header" aria-role="banner">
           <div class="top-bar">
             <a class="skip" href="/#content">Siirry sisältöön</a>
             <div class="row column">
@@ -205,7 +205,7 @@
   
     <div class="hero__container hero__empty"></div>
   
-  <div class="koro koro-pulse"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40"><defs><pattern id="koro_pulse-x9yo8y3h" x="0" y="0" width="106" height="44" patternUnits="userSpaceOnUse"><path d="M0,40h106v-40c-27.03 0-27.03 34.217-53 34.217s-27.03-34.217-53-34.217z" /></pattern></defs><rect fill="url(#koro_pulse-x9yo8y3h)" width="100%" height="40" /></svg></div>
+  <div class="koro koro-pulse"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40"><defs><pattern id="koro_pulse-xvaxe0y5" x="0" y="0" width="106" height="44" patternUnits="userSpaceOnUse"><path d="M0,40h106v-40c-27.03 0-27.03 34.217-53 34.217s-27.03-34.217-53-34.217z" /></pattern></defs><rect fill="url(#koro_pulse-xvaxe0y5)" width="100%" height="40" /></svg></div>
 </div>
 
   
@@ -215,70 +215,72 @@
         <button class="sub-navigation-opener hide-for-mediumlarge" data-toggle="phases_navigation">
           Navigoi vaiheita
         </button>
-        <ol id="phases_navigation" class="sub-navigation-content phases-list" data-toggler=".active">
-          
-          
+        <nav id="phases_navigation" class="sub-navigation-nav" data-toggler=".active">
+          <ol class="sub-navigation-content phases-list">
             
-            <li class="phases-list-item phases-list-item-past">
-              <div class="phases-list-item-phase">
-                <span class="phases-list-item-number">1</span>
-              </div>
-              <div class="phases-list-item-info">
-                <a href="/processes/osbu-2020/f/183/">
-                  <p class="phases-list-item-title">
-                    Ideointi
-                  </p>
-                </a>
-                <div class="phases-list-item-date">5.10.2020 - 25.10.2020</div>
-              </div>
-            </li>
-          
             
-            <li class="phases-list-item phases-list-item-current">
-              <div class="phases-list-item-phase">
-                <span class="phases-list-item-number">2</span>
-              </div>
-              <div class="phases-list-item-info">
-                <a href="/processes/osbu-2020/f/180">
-                  <p class="phases-list-item-title">
-                    Yhteiskehittäminen
-                  </p>
-                </a>
-                <div class="phases-list-item-date">Tammikuu-huhtikuu 2021</div>
-              </div>
-            </li>
-          
+              
+              <li class="phases-list-item phases-list-item-past">
+                <div class="phases-list-item-phase">
+                  <span class="phases-list-item-number">1</span>
+                </div>
+                <div class="phases-list-item-info">
+                  <a href="/processes/osbu-2020/f/183/">
+                    <p class="phases-list-item-title">
+                      Ideointi
+                    </p>
+                  </a>
+                  <div class="phases-list-item-date">5.10.2020 - 25.10.2020</div>
+                </div>
+              </li>
             
-            <li class="phases-list-item">
-              <div class="phases-list-item-phase">
-                <span class="phases-list-item-number">3</span>
-              </div>
-              <div class="phases-list-item-info">
-                <a href="/processes/osbu-2020/f/181">
-                  <p class="phases-list-item-title">
-                    Äänestys
-                  </p>
-                </a>
-                <div class="phases-list-item-date">Syksyllä 2021</div>
-              </div>
-            </li>
-          
+              
+              <li class="phases-list-item phases-list-item-current">
+                <div class="phases-list-item-phase">
+                  <span class="phases-list-item-number">2</span>
+                </div>
+                <div class="phases-list-item-info">
+                  <a href="/processes/osbu-2020/f/184">
+                    <p class="phases-list-item-title">
+                      Yhteiskehittäminen
+                    </p>
+                  </a>
+                  <div class="phases-list-item-date">Tammikuu-huhtikuu 2021</div>
+                </div>
+              </li>
             
-            <li class="phases-list-item">
-              <div class="phases-list-item-phase">
-                <span class="phases-list-item-number">4</span>
-              </div>
-              <div class="phases-list-item-info">
-                <a href="/processes/osbu-2020/f/182">
-                  <p class="phases-list-item-title">
-                    Toteutus
-                  </p>
-                </a>
-                <div class="phases-list-item-date">2022</div>
-              </div>
-            </li>
-          
-        </ol>
+              
+              <li class="phases-list-item">
+                <div class="phases-list-item-phase">
+                  <span class="phases-list-item-number">3</span>
+                </div>
+                <div class="phases-list-item-info">
+                  <a href="/processes/osbu-2020/f/181">
+                    <p class="phases-list-item-title">
+                      Äänestys
+                    </p>
+                  </a>
+                  <div class="phases-list-item-date">Syksyllä 2021</div>
+                </div>
+              </li>
+            
+              
+              <li class="phases-list-item">
+                <div class="phases-list-item-phase">
+                  <span class="phases-list-item-number">4</span>
+                </div>
+                <div class="phases-list-item-info">
+                  <a href="/processes/osbu-2020/f/182">
+                    <p class="phases-list-item-title">
+                      Toteutus
+                    </p>
+                  </a>
+                  <div class="phases-list-item-date">2022</div>
+                </div>
+              </li>
+            
+          </ol>
+        </nav>
       </div>
     </div>
   </div>
@@ -307,20 +309,19 @@
   <div class="hero__container">
     <div class="row">
       <div class="columns small-centered large-10">
-        <h2 class="heading2 hero-heading">Ideointivaihe on nyt päättynyt</h2>
+        <h2 class="heading2 hero-heading">Yhteiskehittämisvaihe on nyt käynnissä!</h2>
         <div class="lead">
-          <p>Tutustu ideoihin ja seuraaviin vaiheisiin.</p>
+          <p>Voit osallistua ehdotusten yhteiskehittämiseen tutustumalla ja kommentoimalla niitä.</p>
         </div>
       </div>
     </div>
     <div class="row columns">
-      <a class="button large secondary" href="/processes/osbu-2020/f/183/ideas">Tutustu ideoihin</a>
+      <a class="button large secondary" href="/processes/osbu-2020/f/184">Tutustu ehdotuksiin</a>
 
-      <a class="button large secondary hollow" href="pages/mika-on-omastadi">Tutustu ohjeisiin</a>
-
+      
     </div>
   </div>
-  <div class="koro koro-pulse"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40"><defs><pattern id="koro_pulse-jrc9qu1s" x="0" y="0" width="106" height="44" patternUnits="userSpaceOnUse"><path d="M0,40h106v-40c-27.03 0-27.03 34.217-53 34.217s-27.03-34.217-53-34.217z" /></pattern></defs><rect fill="url(#koro_pulse-jrc9qu1s)" width="100%" height="40" /></svg></div>
+  <div class="koro koro-pulse"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="40"><defs><pattern id="koro_pulse-frg1rebw" x="0" y="0" width="106" height="44" patternUnits="userSpaceOnUse"><path d="M0,40h106v-40c-27.03 0-27.03 34.217-53 34.217s-27.03-34.217-53-34.217z" /></pattern></defs><rect fill="url(#koro_pulse-frg1rebw)" width="100%" height="40" /></svg></div>
 </div>
 
   <div class="extended hero">
@@ -329,18 +330,18 @@
       <div class="columns small-centered large-10">
         
           <div class="hero-section-image">
-            <img alt="Ideoista kehitetään ehdotuksia keväällä 2021" src="https://omastadi.hel.fi/uploads/decidim/image_section_homepage_content_block/image/27/big_omastadi-banneri-1.jpg" />
+            <img alt="Ehdotuksia viimeistellään teemaraksa-verkkotyöpajoissa" src="https://omastadi.hel.fi/uploads/decidim/image_section_homepage_content_block/image/27/big_omastadi-banneri-1.jpg" />
           </div>
         
         <h2 class="heading2 hero-heading">
-          Ideoista kehitetään ehdotuksia keväällä 2021
+          Ehdotuksia viimeistellään teemaraksa-verkkotyöpajoissa
         </h2>
 
         <div class="row">
           <div class="columns small-centered large-10">
             <div class="lead">
-              <p>Kaupunki esitarkastaa ideat OmaStadi-kriteerien mukaan. Tarkastuksen jälkeen tulee yhteiskehittämisvaihe, jossa hyväksytyistä ideoista tehdään ehdotuksia. Ehdotukset tehdään työpajoissa kaupungin eri alueilla ja omastadi.hel.fi-sivustolla.</p>
-              <p><a href="pages/yhteiskehittaminen">Lue lisää yhteiskehittämisestä &raquo;</a></p>
+              <p>Maalis-huhtikuussa ehdotuksia kehitetään OmaStadi-sivustolla sekä teemallisissa verkkotyöpajoissa yhdessä kaupunkilaisten ja kaupungin asiantuntijoiden kanssa. Teemaraksa-verkkotyöpajat järjestetään 12.4.-23.4.2021. Kaikkia ehdotuksia ei käsitellä teemaraksa-työpajoissa, mikäli ne on saatu valmiiksi OmaStadi-sivustolla.</p>
+              <p><a class="button large primary" href="https://omastadi.hel.fi/pages/yhteiskehittaminen-tyopajoissa">Ilmoittaudu</a></p>
 
             </div>
           </div>
@@ -353,31 +354,34 @@
   <div class="extended home-section bg-secondary">
   <div class="hero__container">
     <div class="row columns">
-      <h2 class="heading2 hero-heading">Poimintoja ideoista</h2>
+      <h2 class="heading2 hero-heading">Poimintoja ehdotuksista</h2>
 
-      <div class="card-slider center">
+      <div class="card-slider center"
+        data-prev-label="Edellinen"
+        data-next-label="Seuraava">
         
           <div class="card-slide-content">
             
-  <div class="card card--idea ">
+  <div class="card card--plan muted">
   
-  <a href="/processes/osbu-2020/f/183/ideas/564">
   
-    <img class="card__image" alt="Pyörien huoltopukit kaikille metroasemille" src="https://omastadi.hel.fi/uploads/decidim/ideas/attachment/file/2386/thumbnail_Netti_Puotilan_huoltopukki.jpg" />
   
-</a>
+  <a href="/processes/osbu-2020/f/184/plans/691?utm_campaign=plans_carousel&utm_content=plan_691&utm_medium=carousel&utm_source=omastadi.hel.fi">
+    <img class="card__image" alt="Monipuolisia kuntoilulaitteita Henrik Borgströmin puistoon Laajasalon Tullisaareen" src="https://omastadi.hel.fi/uploads/decidim/attachment/file/3490/thumbnail_20210124_094203.jpg" />
+  </a>
 
-  <div class="card__category card__category--207" style="background-color:#80ebd3;">
-  <span class="card__category__icon" aria-hidden="true"><img alt="Rakennettu ympäristö - Liikenne" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/177/icon-rakennettu-ymparisto.svg" /></span>
-  <span class="card__category__name">Liikenne</span>
+
+  <div class="card__category card__category--198" style="background-color:#cccccc;">
+  <span class="card__category__icon" aria-hidden="true"><img alt="Liikunta ja ulkoilu - Liikuntapaikat" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/174/icon-liikunta-ulkoilu.svg" /></span>
+  <span class="card__category__name">Liikuntapaikat</span>
 </div>
 
   <div class="card__content">
     <div class="card__header">
   
-    <a class="card__link" href="/processes/osbu-2020/f/183/ideas/564">
+    <a class="card__link" href="/processes/osbu-2020/f/184/plans/691?utm_campaign=plans_carousel&utm_content=plan_691&utm_medium=carousel&utm_source=omastadi.hel.fi">
       <div class="card__title">
-        Pyörien huoltopukit kaikille metroasemille
+        Monipuolisia kuntoilulaitteita Henrik Borgströmin puistoon Laajasalon Tullisaareen
       </div>
     </a>
   
@@ -389,20 +393,18 @@
     <div class="card__text">
       <div class="card__text--paragraph">
         
-        HKL on asentanut kantametron asemien yhteyteen pyörien huoltopukkeja ainakin Sörnäisten,...
+Liitä ehdotukseesi liittyvät ideat 
+
+Ehdotuksen kuvaus Laajasalon Tullisaaren liikuntapaikan keh...
       </div>
     </div>
   </div>
 
   <div class="card__info">
   
-    <div class="card__info__item">
-      Helsingin yhteinen
-    </div>
-  
 
   <div class="card__info__item text-right">
-    #564
+    #691
   </div>
 </div>
 
@@ -410,11 +412,486 @@
   <ul class="card-data">
     
       <li class="card-data__item creation_date_status">
-        19.10.2020
+        27.01.2021
       </li>
     
       <li class="card-data__item favoriting_count_status">
-        <div id="favoriting_count_idea_564" class="favorites-icon-wrapper">
+        <div id="favoriting_count_plan_691" class="favorites-icon-wrapper">
+  <span title="3 ihmistä on lisännyt tämän suosikkeihinsa" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
+    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
+    <span aria-hidden="true">3</span>
+    <span class="show-for-sr">3 ihmistä on lisännyt tämän suosikkeihinsa</span>
+  </span>
+</div>
+
+      </li>
+    
+      <li class="card-data__item comments_count_status">
+        <a aria-label="Kommenttien määrä: 7" title="Kommenttien määrä" href="/processes/osbu-2020/f/184/plans/691?utm_campaign=plans_carousel&utm_content=plan_691&utm_medium=carousel&utm_source=omastadi.hel.fi"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
+ 
+7
+</span></a>
+      </li>
+    
+  </ul>
+</div>
+
+  
+  <div class="card__footer">
+    <div class="card__support">
+      <div class="card__support__data">
+        
+      </div>
+      
+        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/184/plans/691?utm_campaign=plans_carousel&utm_content=plan_691&utm_medium=carousel&utm_source=omastadi.hel.fi">Näytä ehdotus</a>
+      
+    </div>
+  </div>
+
+
+</div>
+
+
+
+          </div>
+        
+          <div class="card-slide-content">
+            
+  <div class="card card--plan muted">
+  
+  
+  
+  <a href="/processes/osbu-2020/f/184/plans/947?utm_campaign=plans_carousel&utm_content=plan_947&utm_medium=carousel&utm_source=omastadi.hel.fi">
+    <img class="card__image" alt="BOOK IGLOOS" src="https://omastadi.hel.fi/uploads/decidim/attachment/file/3661/thumbnail_Book_Igloo.jpg" />
+  </a>
+
+
+  <div class="card__category card__category--181" style="background-color:#f5a3c7;">
+  <span class="card__category__icon" aria-hidden="true"><img alt="Kulttuuri - Kirjastot" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/170/icon-kulttuuri.svg" /></span>
+  <span class="card__category__name">Kirjastot</span>
+</div>
+
+  <div class="card__content">
+    <div class="card__header">
+  
+    <a class="card__link" href="/processes/osbu-2020/f/184/plans/947?utm_campaign=plans_carousel&utm_content=plan_947&utm_medium=carousel&utm_source=omastadi.hel.fi">
+      <div class="card__title">
+        BOOK IGLOOS
+      </div>
+    </a>
+  
+
+  
+</div>
+
+
+    <div class="card__text">
+      <div class="card__text--paragraph">
+        
+Liitä ehdotukseesi liittyvät ideat 
+
+Ehdotuksen kuvaus Our idea stems from the combination of tw...
+      </div>
+    </div>
+  </div>
+
+  <div class="card__info">
+  
+
+  <div class="card__info__item text-right">
+    #947
+  </div>
+</div>
+
+  <div class="card__status">
+  <ul class="card-data">
+    
+      <li class="card-data__item creation_date_status">
+        25.02.2021
+      </li>
+    
+      <li class="card-data__item favoriting_count_status">
+        <div id="favoriting_count_plan_947" class="favorites-icon-wrapper">
+  <span title="Kukaan ei ole vielä lisännyt tätä suosikkeihinsa" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
+    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
+    <span aria-hidden="true">0</span>
+    <span class="show-for-sr">Kukaan ei ole vielä lisännyt tätä suosikkeihinsa</span>
+  </span>
+</div>
+
+      </li>
+    
+      <li class="card-data__item comments_count_status">
+        <a aria-label="Kommenttien määrä: 1" title="Kommenttien määrä" href="/processes/osbu-2020/f/184/plans/947?utm_campaign=plans_carousel&utm_content=plan_947&utm_medium=carousel&utm_source=omastadi.hel.fi"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
+ 
+1
+</span></a>
+      </li>
+    
+  </ul>
+</div>
+
+  
+  <div class="card__footer">
+    <div class="card__support">
+      <div class="card__support__data">
+        
+      </div>
+      
+        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/184/plans/947?utm_campaign=plans_carousel&utm_content=plan_947&utm_medium=carousel&utm_source=omastadi.hel.fi">Näytä ehdotus</a>
+      
+    </div>
+  </div>
+
+
+</div>
+
+
+
+          </div>
+        
+          <div class="card-slide-content">
+            
+  <div class="card card--plan muted">
+  
+  
+  
+  <a href="/processes/osbu-2020/f/184/plans/617?utm_campaign=plans_carousel&utm_content=plan_617&utm_medium=carousel&utm_source=omastadi.hel.fi">
+    <img class="card__image" alt="Kuntoportaat Pirunkalliolle" src="https://omastadi.hel.fi/uploads/decidim/category/category_image/174/card_www_teemat_omastadi_liikunta_ulkoilu.jpg" />
+  </a>
+
+
+  <div class="card__category card__category--196" style="background-color:#cccccc;">
+  <span class="card__category__icon" aria-hidden="true"><img alt="Liikunta ja ulkoilu - Ulkoilureitit ja niiden varustelu" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/174/icon-liikunta-ulkoilu.svg" /></span>
+  <span class="card__category__name">Ulkoilureitit ja niiden varustelu</span>
+</div>
+
+  <div class="card__content">
+    <div class="card__header">
+  
+    <a class="card__link" href="/processes/osbu-2020/f/184/plans/617?utm_campaign=plans_carousel&utm_content=plan_617&utm_medium=carousel&utm_source=omastadi.hel.fi">
+      <div class="card__title">
+        Kuntoportaat Pirunkalliolle
+      </div>
+    </a>
+  
+
+  
+</div>
+
+
+    <div class="card__text">
+      <div class="card__text--paragraph">
+        
+Liitä ehdotukseesi liittyvät ideat 
+
+Ehdotuksen kuvaus Valaistut kuntoportaat Pirunkalliolle voi...
+      </div>
+    </div>
+  </div>
+
+  <div class="card__info">
+  
+
+  <div class="card__info__item text-right">
+    #617
+  </div>
+</div>
+
+  <div class="card__status">
+  <ul class="card-data">
+    
+      <li class="card-data__item creation_date_status">
+        21.01.2021
+      </li>
+    
+      <li class="card-data__item favoriting_count_status">
+        <div id="favoriting_count_plan_617" class="favorites-icon-wrapper">
+  <span title="Yksi ihminen on lisännyt tämän suosikikseen" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
+    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
+    <span aria-hidden="true">1</span>
+    <span class="show-for-sr">Yksi ihminen on lisännyt tämän suosikikseen</span>
+  </span>
+</div>
+
+      </li>
+    
+      <li class="card-data__item comments_count_status">
+        <a aria-label="Kommenttien määrä: 9" title="Kommenttien määrä" href="/processes/osbu-2020/f/184/plans/617?utm_campaign=plans_carousel&utm_content=plan_617&utm_medium=carousel&utm_source=omastadi.hel.fi"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
+ 
+9
+</span></a>
+      </li>
+    
+  </ul>
+</div>
+
+  
+  <div class="card__footer">
+    <div class="card__support">
+      <div class="card__support__data">
+        
+      </div>
+      
+        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/184/plans/617?utm_campaign=plans_carousel&utm_content=plan_617&utm_medium=carousel&utm_source=omastadi.hel.fi">Näytä ehdotus</a>
+      
+    </div>
+  </div>
+
+
+</div>
+
+
+
+          </div>
+        
+          <div class="card-slide-content">
+            
+  <div class="card card--plan muted">
+  
+  
+  
+  <a href="/processes/osbu-2020/f/184/plans/987?utm_campaign=plans_carousel&utm_content=plan_987&utm_medium=carousel&utm_source=omastadi.hel.fi">
+    <img class="card__image" alt="Alamäkipyöräilyrata, pulkkamäki ja grillauspaikka Pihlajamäen nuorisopuistoon" src="https://omastadi.hel.fi/uploads/decidim/attachment/file/3699/thumbnail_puisto.jpg" />
+  </a>
+
+
+  <div class="card__category card__category--198" style="background-color:#cccccc;">
+  <span class="card__category__icon" aria-hidden="true"><img alt="Liikunta ja ulkoilu - Liikuntapaikat" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/174/icon-liikunta-ulkoilu.svg" /></span>
+  <span class="card__category__name">Liikuntapaikat</span>
+</div>
+
+  <div class="card__content">
+    <div class="card__header">
+  
+    <a class="card__link" href="/processes/osbu-2020/f/184/plans/987?utm_campaign=plans_carousel&utm_content=plan_987&utm_medium=carousel&utm_source=omastadi.hel.fi">
+      <div class="card__title">
+        Alamäkipyöräilyrata, pulkkamäki ja grillauspaikka Pihlajamäen nuorisopuistoon
+      </div>
+    </a>
+  
+
+  
+</div>
+
+
+    <div class="card__text">
+      <div class="card__text--paragraph">
+        
+Liitä ehdotukseesi liittyvät ideat 
+
+Ehdotuksen kuvaus Pihlajamäen nuorisopuisto on vuonna 2008 ...
+      </div>
+    </div>
+  </div>
+
+  <div class="card__info">
+  
+
+  <div class="card__info__item text-right">
+    #987
+  </div>
+</div>
+
+  <div class="card__status">
+  <ul class="card-data">
+    
+      <li class="card-data__item creation_date_status">
+        26.02.2021
+      </li>
+    
+      <li class="card-data__item favoriting_count_status">
+        <div id="favoriting_count_plan_987" class="favorites-icon-wrapper">
+  <span title="3 ihmistä on lisännyt tämän suosikkeihinsa" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
+    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
+    <span aria-hidden="true">3</span>
+    <span class="show-for-sr">3 ihmistä on lisännyt tämän suosikkeihinsa</span>
+  </span>
+</div>
+
+      </li>
+    
+      <li class="card-data__item comments_count_status">
+        <a aria-label="Kommenttien määrä: 3" title="Kommenttien määrä" href="/processes/osbu-2020/f/184/plans/987?utm_campaign=plans_carousel&utm_content=plan_987&utm_medium=carousel&utm_source=omastadi.hel.fi"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
+ 
+3
+</span></a>
+      </li>
+    
+  </ul>
+</div>
+
+  
+  <div class="card__footer">
+    <div class="card__support">
+      <div class="card__support__data">
+        
+      </div>
+      
+        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/184/plans/987?utm_campaign=plans_carousel&utm_content=plan_987&utm_medium=carousel&utm_source=omastadi.hel.fi">Näytä ehdotus</a>
+      
+    </div>
+  </div>
+
+
+</div>
+
+
+
+          </div>
+        
+          <div class="card-slide-content">
+            
+  <div class="card card--plan muted">
+  
+  
+  
+  <a href="/processes/osbu-2020/f/184/plans/566?utm_campaign=plans_carousel&utm_content=plan_566&utm_medium=carousel&utm_source=omastadi.hel.fi">
+    <img class="card__image" alt="Valaistuksien lisääminen Kartanonhaan ja Mätäojan puistoalueen kävelyteille" src="https://omastadi.hel.fi/uploads/decidim/attachment/file/3400/thumbnail_valot1.jpg" />
+  </a>
+
+
+  <div class="card__category card__category--196" style="background-color:#cccccc;">
+  <span class="card__category__icon" aria-hidden="true"><img alt="Liikunta ja ulkoilu - Ulkoilureitit ja niiden varustelu" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/174/icon-liikunta-ulkoilu.svg" /></span>
+  <span class="card__category__name">Ulkoilureitit ja niiden varustelu</span>
+</div>
+
+  <div class="card__content">
+    <div class="card__header">
+  
+    <a class="card__link" href="/processes/osbu-2020/f/184/plans/566?utm_campaign=plans_carousel&utm_content=plan_566&utm_medium=carousel&utm_source=omastadi.hel.fi">
+      <div class="card__title">
+        Valaistuksien lisääminen Kartanonhaan ja Mätäojan puistoalueen kävelyteille
+      </div>
+    </a>
+  
+
+  
+</div>
+
+
+    <div class="card__text">
+      <div class="card__text--paragraph">
+        
+Liitä ehdotukseesi liittyvät ideat 
+
+Ehdotuksen kuvaus Kartanonhaan ja Mätäojan puistoalueen käv...
+      </div>
+    </div>
+  </div>
+
+  <div class="card__info">
+  
+
+  <div class="card__info__item text-right">
+    #566
+  </div>
+</div>
+
+  <div class="card__status">
+  <ul class="card-data">
+    
+      <li class="card-data__item creation_date_status">
+        13.01.2021
+      </li>
+    
+      <li class="card-data__item favoriting_count_status">
+        <div id="favoriting_count_plan_566" class="favorites-icon-wrapper">
+  <span title="Yksi ihminen on lisännyt tämän suosikikseen" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
+    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
+    <span aria-hidden="true">1</span>
+    <span class="show-for-sr">Yksi ihminen on lisännyt tämän suosikikseen</span>
+  </span>
+</div>
+
+      </li>
+    
+      <li class="card-data__item comments_count_status">
+        <a aria-label="Kommenttien määrä: 4" title="Kommenttien määrä" href="/processes/osbu-2020/f/184/plans/566?utm_campaign=plans_carousel&utm_content=plan_566&utm_medium=carousel&utm_source=omastadi.hel.fi"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
+ 
+4
+</span></a>
+      </li>
+    
+  </ul>
+</div>
+
+  
+  <div class="card__footer">
+    <div class="card__support">
+      <div class="card__support__data">
+        
+      </div>
+      
+        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/184/plans/566?utm_campaign=plans_carousel&utm_content=plan_566&utm_medium=carousel&utm_source=omastadi.hel.fi">Näytä ehdotus</a>
+      
+    </div>
+  </div>
+
+
+</div>
+
+
+
+          </div>
+        
+          <div class="card-slide-content">
+            
+  <div class="card card--plan muted">
+  
+  
+  
+  <a href="/processes/osbu-2020/f/184/plans/613?utm_campaign=plans_carousel&utm_content=plan_613&utm_medium=carousel&utm_source=omastadi.hel.fi">
+    <img class="card__image" alt="Puutyöluokat asukkaiden käyttöön - toimintamallin jatkaminen" src="https://omastadi.hel.fi/uploads/decidim/attachment/file/3356/thumbnail_main_veistoluokka21.jpg" />
+  </a>
+
+
+  <div class="card__category card__category--192" style="background-color:#9fc9eb;">
+  <span class="card__category__icon" aria-hidden="true"><img alt="Oppiminen ja osaaminen - Laitteet ja välineet" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/172/icon-oppiminen-osaaminen.svg" /></span>
+  <span class="card__category__name">Laitteet ja välineet</span>
+</div>
+
+  <div class="card__content">
+    <div class="card__header">
+  
+    <a class="card__link" href="/processes/osbu-2020/f/184/plans/613?utm_campaign=plans_carousel&utm_content=plan_613&utm_medium=carousel&utm_source=omastadi.hel.fi">
+      <div class="card__title">
+        Puutyöluokat asukkaiden käyttöön - toimintamallin jatkaminen
+      </div>
+    </a>
+  
+
+  
+</div>
+
+
+    <div class="card__text">
+      <div class="card__text--paragraph">
+        
+Liitä ehdotukseesi liittyvät ideat 
+
+Ehdotuksen kuvaus Jatketaan edellisellä kierroksella jatkoo...
+      </div>
+    </div>
+  </div>
+
+  <div class="card__info">
+  
+
+  <div class="card__info__item text-right">
+    #613
+  </div>
+</div>
+
+  <div class="card__status">
+  <ul class="card-data">
+    
+      <li class="card-data__item creation_date_status">
+        20.01.2021
+      </li>
+    
+      <li class="card-data__item favoriting_count_status">
+        <div id="favoriting_count_plan_613" class="favorites-icon-wrapper">
   <span title="2 ihmistä on lisännyt tämän suosikkeihinsa" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
     <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
     <span aria-hidden="true">2</span>
@@ -425,9 +902,9 @@
       </li>
     
       <li class="card-data__item comments_count_status">
-        <a aria-label="Kommenttien määrä: 0" title="Kommenttien määrä" href="/processes/osbu-2020/f/183/ideas/564"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
+        <a aria-label="Kommenttien määrä: 4" title="Kommenttien määrä" href="/processes/osbu-2020/f/184/plans/613?utm_campaign=plans_carousel&utm_content=plan_613&utm_medium=carousel&utm_source=omastadi.hel.fi"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
  
-0
+4
 </span></a>
       </li>
     
@@ -441,487 +918,7 @@
         
       </div>
       
-        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/183/ideas/564">Näytä idea</a>
-      
-    </div>
-  </div>
-
-
-</div>
-
-
-
-          </div>
-        
-          <div class="card-slide-content">
-            
-  <div class="card card--idea ">
-  
-  <a href="/processes/osbu-2020/f/183/ideas/1766">
-  
-    <img class="card__image" alt="Uimahyppypaikkoja Helsingin rannoille " src="https://omastadi.hel.fi/uploads/decidim/category/category_image/177/card_www_teemat_omastadi_rakennettu_ymparisto.jpg" />
-  
-</a>
-
-  <div class="card__category card__category--206" style="background-color:#80ebd3;">
-  <span class="card__category__icon" aria-hidden="true"><img alt="Rakennettu ympäristö - Ylläpito ja kunnostus" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/177/icon-rakennettu-ymparisto.svg" /></span>
-  <span class="card__category__name">Ylläpito ja kunnostus</span>
-</div>
-
-  <div class="card__content">
-    <div class="card__header">
-  
-    <a class="card__link" href="/processes/osbu-2020/f/183/ideas/1766">
-      <div class="card__title">
-        Uimahyppypaikkoja Helsingin rannoille 
-      </div>
-    </a>
-  
-
-  
-</div>
-
-
-    <div class="card__text">
-      <div class="card__text--paragraph">
-        
-        Helsingin rannat kehittyvät voimakkaasti uusien kaupunginosien myötä. Hienosti suunnitellut ja...
-      </div>
-    </div>
-  </div>
-
-  <div class="card__info">
-  
-    <div class="card__info__item">
-      Helsingin yhteinen
-    </div>
-  
-
-  <div class="card__info__item text-right">
-    #1766
-  </div>
-</div>
-
-  <div class="card__status">
-  <ul class="card-data">
-    
-      <li class="card-data__item creation_date_status">
-        25.10.2020
-      </li>
-    
-      <li class="card-data__item favoriting_count_status">
-        <div id="favoriting_count_idea_1766" class="favorites-icon-wrapper">
-  <span title="Yksi ihminen on lisännyt tämän suosikikseen" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
-    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
-    <span aria-hidden="true">1</span>
-    <span class="show-for-sr">Yksi ihminen on lisännyt tämän suosikikseen</span>
-  </span>
-</div>
-
-      </li>
-    
-      <li class="card-data__item comments_count_status">
-        <a aria-label="Kommenttien määrä: 1" title="Kommenttien määrä" href="/processes/osbu-2020/f/183/ideas/1766"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
- 
-1
-</span></a>
-      </li>
-    
-  </ul>
-</div>
-
-  
-  <div class="card__footer">
-    <div class="card__support">
-      <div class="card__support__data">
-        
-      </div>
-      
-        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/183/ideas/1766">Näytä idea</a>
-      
-    </div>
-  </div>
-
-
-</div>
-
-
-
-          </div>
-        
-          <div class="card-slide-content">
-            
-  <div class="card card--idea ">
-  
-  <a href="/processes/osbu-2020/f/183/ideas/979">
-  
-    <img class="card__image" alt="Tehtäväkirjoja myös isommille oppilaille" src="https://omastadi.hel.fi/uploads/decidim/category/category_image/172/card_www_teemat_omastadi_oppiminen_osaaminen.jpg" />
-  
-</a>
-
-  <div class="card__category card__category--192" style="background-color:#9fc9eb;">
-  <span class="card__category__icon" aria-hidden="true"><img alt="Oppiminen ja osaaminen - Laitteet ja välineet" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/172/icon-oppiminen-osaaminen.svg" /></span>
-  <span class="card__category__name">Laitteet ja välineet</span>
-</div>
-
-  <div class="card__content">
-    <div class="card__header">
-  
-    <a class="card__link" href="/processes/osbu-2020/f/183/ideas/979">
-      <div class="card__title">
-        Tehtäväkirjoja myös isommille oppilaille
-      </div>
-    </a>
-  
-
-  
-</div>
-
-
-    <div class="card__text">
-      <div class="card__text--paragraph">
-        
-        Taivallahden peruskoulun oppilaskunnan hallitus ehdottaa, että helsinkiläisiin peruskouluihin...
-      </div>
-    </div>
-  </div>
-
-  <div class="card__info">
-  
-    <div class="card__info__item">
-      Helsingin yhteinen
-    </div>
-  
-
-  <div class="card__info__item text-right">
-    #979
-  </div>
-</div>
-
-  <div class="card__status">
-  <ul class="card-data">
-    
-      <li class="card-data__item creation_date_status">
-        22.10.2020
-      </li>
-    
-      <li class="card-data__item favoriting_count_status">
-        <div id="favoriting_count_idea_979" class="favorites-icon-wrapper">
-  <span title="Yksi ihminen on lisännyt tämän suosikikseen" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
-    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
-    <span aria-hidden="true">1</span>
-    <span class="show-for-sr">Yksi ihminen on lisännyt tämän suosikikseen</span>
-  </span>
-</div>
-
-      </li>
-    
-      <li class="card-data__item comments_count_status">
-        <a aria-label="Kommenttien määrä: 0" title="Kommenttien määrä" href="/processes/osbu-2020/f/183/ideas/979"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
- 
-0
-</span></a>
-      </li>
-    
-  </ul>
-</div>
-
-  
-  <div class="card__footer">
-    <div class="card__support">
-      <div class="card__support__data">
-        
-      </div>
-      
-        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/183/ideas/979">Näytä idea</a>
-      
-    </div>
-  </div>
-
-
-</div>
-
-
-
-          </div>
-        
-          <div class="card-slide-content">
-            
-  <div class="card card--idea ">
-  
-  <a href="/processes/osbu-2020/f/183/ideas/96">
-  
-    <img class="card__image" alt="Kullervonkadun liikenneturvallisuuden parantaminen" src="https://omastadi.hel.fi/uploads/decidim/ideas/attachment/file/2161/thumbnail_Kullervonkatu.JPG" />
-  
-</a>
-
-  <div class="card__category card__category--207" style="background-color:#80ebd3;">
-  <span class="card__category__icon" aria-hidden="true"><img alt="Rakennettu ympäristö - Liikenne" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/177/icon-rakennettu-ymparisto.svg" /></span>
-  <span class="card__category__name">Liikenne</span>
-</div>
-
-  <div class="card__content">
-    <div class="card__header">
-  
-    <a class="card__link" href="/processes/osbu-2020/f/183/ideas/96">
-      <div class="card__title">
-        Kullervonkadun liikenneturvallisuuden parantaminen
-      </div>
-    </a>
-  
-
-  
-</div>
-
-
-    <div class="card__text">
-      <div class="card__text--paragraph">
-        
-        Käpylän liikenneturvallisuudesta on tehty aikaisemmin suunnitelmia, mutta paljon on jäänyt...
-      </div>
-    </div>
-  </div>
-
-  <div class="card__info">
-  
-    <div class="card__info__item">
-      Keskinen
-    </div>
-  
-
-  <div class="card__info__item text-right">
-    #96
-  </div>
-</div>
-
-  <div class="card__status">
-  <ul class="card-data">
-    
-      <li class="card-data__item creation_date_status">
-        07.10.2020
-      </li>
-    
-      <li class="card-data__item favoriting_count_status">
-        <div id="favoriting_count_idea_96" class="favorites-icon-wrapper">
-  <span title="4 ihmistä on lisännyt tämän suosikkeihinsa" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
-    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
-    <span aria-hidden="true">4</span>
-    <span class="show-for-sr">4 ihmistä on lisännyt tämän suosikkeihinsa</span>
-  </span>
-</div>
-
-      </li>
-    
-      <li class="card-data__item comments_count_status">
-        <a aria-label="Kommenttien määrä: 1" title="Kommenttien määrä" href="/processes/osbu-2020/f/183/ideas/96"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
- 
-1
-</span></a>
-      </li>
-    
-  </ul>
-</div>
-
-  
-  <div class="card__footer">
-    <div class="card__support">
-      <div class="card__support__data">
-        
-      </div>
-      
-        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/183/ideas/96">Näytä idea</a>
-      
-    </div>
-  </div>
-
-
-</div>
-
-
-
-          </div>
-        
-          <div class="card-slide-content">
-            
-  <div class="card card--idea ">
-  
-  <a href="/processes/osbu-2020/f/183/ideas/415">
-  
-    <img class="card__image" alt="LGBTQ+ Koulujen oppitunteille" src="https://omastadi.hel.fi/uploads/decidim/category/category_image/172/card_www_teemat_omastadi_oppiminen_osaaminen.jpg" />
-  
-</a>
-
-  <div class="card__category card__category--190" style="background-color:#9fc9eb;">
-  <span class="card__category__icon" aria-hidden="true"><img alt="Oppiminen ja osaaminen - Koulutus ja kurssit" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/172/icon-oppiminen-osaaminen.svg" /></span>
-  <span class="card__category__name">Koulutus ja kurssit</span>
-</div>
-
-  <div class="card__content">
-    <div class="card__header">
-  
-    <a class="card__link" href="/processes/osbu-2020/f/183/ideas/415">
-      <div class="card__title">
-        LGBTQ+ Koulujen oppitunteille
-      </div>
-    </a>
-  
-
-  
-</div>
-
-
-    <div class="card__text">
-      <div class="card__text--paragraph">
-        
-        LGBTQ+ (lesbian, gay, bisexual, transgender and queer or questioning) asioista pitäisi puhua ja...
-      </div>
-    </div>
-  </div>
-
-  <div class="card__info">
-  
-    <div class="card__info__item">
-      Helsingin yhteinen
-    </div>
-  
-
-  <div class="card__info__item text-right">
-    #415
-  </div>
-</div>
-
-  <div class="card__status">
-  <ul class="card-data">
-    
-      <li class="card-data__item creation_date_status">
-        25.10.2020
-      </li>
-    
-      <li class="card-data__item favoriting_count_status">
-        <div id="favoriting_count_idea_415" class="favorites-icon-wrapper">
-  <span title="Yksi ihminen on lisännyt tämän suosikikseen" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
-    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
-    <span aria-hidden="true">1</span>
-    <span class="show-for-sr">Yksi ihminen on lisännyt tämän suosikikseen</span>
-  </span>
-</div>
-
-      </li>
-    
-      <li class="card-data__item comments_count_status">
-        <a aria-label="Kommenttien määrä: 0" title="Kommenttien määrä" href="/processes/osbu-2020/f/183/ideas/415"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
- 
-0
-</span></a>
-      </li>
-    
-  </ul>
-</div>
-
-  
-  <div class="card__footer">
-    <div class="card__support">
-      <div class="card__support__data">
-        
-      </div>
-      
-        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/183/ideas/415">Näytä idea</a>
-      
-    </div>
-  </div>
-
-
-</div>
-
-
-
-          </div>
-        
-          <div class="card-slide-content">
-            
-  <div class="card card--idea ">
-  
-  <a href="/processes/osbu-2020/f/183/ideas/674">
-  
-    <img class="card__image" alt="Pullo/tölkkitelineitä roskiksiin, myös Kontulaan" src="https://omastadi.hel.fi/uploads/decidim/category/category_image/176/card_www_teemat_omastadi_puistot_luonto.jpg" />
-  
-</a>
-
-  <div class="card__category card__category--211" style="background-color:#c2a251;">
-  <span class="card__category__icon" aria-hidden="true"><img alt="Puistot ja luonto - Varustelu" src="https://omastadi.hel.fi/uploads/decidim/category/category_icon/176/icon-puistot-luonto.svg" /></span>
-  <span class="card__category__name">Varustelu</span>
-</div>
-
-  <div class="card__content">
-    <div class="card__header">
-  
-    <a class="card__link" href="/processes/osbu-2020/f/183/ideas/674">
-      <div class="card__title">
-        Pullo/tölkkitelineitä roskiksiin, myös Kontulaan
-      </div>
-    </a>
-  
-
-  
-</div>
-
-
-    <div class="card__text">
-      <div class="card__text--paragraph">
-        
-        Edellisellä Osby kierroksella toteutettu ajatus pullo/tölkkitelineistä roskiksien yhteydessä...
-      </div>
-    </div>
-  </div>
-
-  <div class="card__info">
-  
-    <div class="card__info__item">
-      Itäinen
-    </div>
-  
-
-  <div class="card__info__item text-right">
-    #674
-  </div>
-</div>
-
-  <div class="card__status">
-  <ul class="card-data">
-    
-      <li class="card-data__item creation_date_status">
-        20.10.2020
-      </li>
-    
-      <li class="card-data__item favoriting_count_status">
-        <div id="favoriting_count_idea_674" class="favorites-icon-wrapper">
-  <span title="4 ihmistä on lisännyt tämän suosikkeihinsa" data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false">
-    <svg aria-hidden="true" class="icon--heart icon icon--before"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-heart"></use></svg>
-    <span aria-hidden="true">4</span>
-    <span class="show-for-sr">4 ihmistä on lisännyt tämän suosikkeihinsa</span>
-  </span>
-</div>
-
-      </li>
-    
-      <li class="card-data__item comments_count_status">
-        <a aria-label="Kommenttien määrä: 0" title="Kommenttien määrä" href="/processes/osbu-2020/f/183/ideas/674"><span data-tooltip="true" data-disable-hover="false" data-keep-on-hover="true" data-click-open="false" title="{:title=>{:one=>&quot;%{count} kommentti&quot;, :other=>&quot;%{count} kommenttia&quot;}}"><svg aria-label="Kommenttien määrä:" role="img" class="icon--comment-square icon icon--small"><use xlink:href="https://omastadi.hel.fi/assets/decidim/icons-2ba788b32e181c1a7197f7a54a0f03101c146dd434b9e56191690c7c2d7bdae3.svg#icon-comment-square"></use></svg>
- 
-0
-</span></a>
-      </li>
-    
-  </ul>
-</div>
-
-  
-  <div class="card__footer">
-    <div class="card__support">
-      <div class="card__support__data">
-        
-      </div>
-      
-        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/183/ideas/674">Näytä idea</a>
+        <a class="card__button button hollow large primary" href="/processes/osbu-2020/f/184/plans/613?utm_campaign=plans_carousel&utm_content=plan_613&utm_medium=carousel&utm_source=omastadi.hel.fi">Näytä ehdotus</a>
       
     </div>
   </div>
@@ -935,7 +932,7 @@
         
       </div>
 
-      <p><a class="button large primary" href="/processes/osbu-2020/f/183/ideas">Näytä kaikki ideat</a></p>
+      <p><a class="button large primary" href="/processes/osbu-2020/f/184/plans?utm_campaign=plans_carousel&utm_content=all_button&utm_medium=carousel&utm_source=omastadi.hel.fi">Näytä kaikki ehdotukset</a></p>
 
     </div>
   </div>
@@ -967,8 +964,8 @@
       </div><!-- /.footer-separator -->
 
       
-<div class="footer-wrapper">
-    <div class="koro koro-basic"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="20"><defs><pattern id="koro_basic-3wo2jum" x="0" y="0" width="106" height="24" patternUnits="userSpaceOnUse"><path d="M0,20h106v-20c-25.97 0-26.5 13.78-52.47 13.78s-27.03-13.78-53.53-13.78z" /></pattern></defs><rect fill="url(#koro_basic-3wo2jum)" width="100%" height="20" /></svg></div>
+<div class="footer-wrapper" aria-role="contentinfo">
+    <div class="koro koro-basic"><svg xmlns="http://www.w3.org/2000/svg" width="100%" height="20"><defs><pattern id="koro_basic-te33veuh" x="0" y="0" width="106" height="24" patternUnits="userSpaceOnUse"><path d="M0,20h106v-20c-25.97 0-26.5 13.78-52.47 13.78s-27.03-13.78-53.53-13.78z" /></pattern></defs><rect fill="url(#koro_basic-te33veuh)" width="100%" height="20" /></svg></div>
   <div class="main-footer">
     <div class="row">
       <div class="medium-4 large-2 column">
@@ -1064,7 +1061,7 @@
     </div>
 
     <div class="register-form-wrapper" id="session_modal" data-toggler=".is-hidden">
-      <form class="register-form new_user" id="new_user" novalidate="novalidate" data-abide="true" data-live-validate="true" data-validate-on-blur="true" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1/y0mZ91kyDAS23/D1sl4Y0GaCydKUjEeWUuXsDQSzdAt3IEuVteGoCdZZwO3gqwDOP7ou6s6y0fXab0xFl9DQ==" />
+      <form class="register-form new_user" id="new_user" novalidate="novalidate" data-abide="true" data-live-validate="true" data-validate-on-blur="true" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="14oDzi89g0TNFskXVaEeEtz5HICa5Qa/uAZOkH/kLGpDmieE8Nc1gaNjnp3SQjLvXXPI1FuSW69PUjVGDR1Ogg==" />
         <div>
           <div class="field">
             <label for="user_email">Sähköposti<input autofocus="autofocus" type="email" value="" name="user[email]" id="user_email" /></label>

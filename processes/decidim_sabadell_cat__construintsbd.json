@@ -13,6 +13,7 @@
             "bannerImage": "/uploads/decidim/participatory_process/banner_image/6/medium_DecidimSabadell.png",
             "reference": "SBD-PART-2017-06-6",
             "promoted": false,
+            "showMetrics": true,
             "scopesEnabled": true,
             "title": {
                 "translations": [
@@ -110,6 +111,309 @@
                     }
                 ]
             },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "3",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Pacificaci\u00f3 del tr\u00e0nsit i millora del cam\u00ed escolar davant del C.E. Serra"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "4",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Millora de l'equipament cultural i de lleure al barri de la Conc\u00f2rdia"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "5",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Renovaci\u00f3 i millora del pati i la pista coberta de l'escola Joanot Alisanda"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "6",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "La pla\u00e7a del Treball. Un espai de lleure per a tothom"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "7",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Persianes amunt per donar llum i ajudar a nens i nenes amb autisme"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "8",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Millora del cam\u00ed escolar a la zona alta del barri de la Conc\u00f2rdia d'acc\u00e9s a l'escola Pau Casals i cap a Can Rull"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "9",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Entre el dins i el fora. El pati, un espai educatiu m\u00e9s a l'escola Alcalde Marcet (Can Puiggener)"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "10",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Enfeinat! Projecte per a la millora de l'ocupaci\u00f3 dels joves"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "11",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Educaci\u00f3 en l'empatia"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "12",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "La hist\u00f2ria del moviment ve\u00efnal de Sabadell explicada als joves (i no tan joves)"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "13",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Els meus amics"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "14",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Fem pinya amb els joves, donem pit als barris"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "15",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Energies compartides"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "16",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Lleure art\u00edtstic per a tothom!"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "17",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Ca l'Enredus"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "18",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "PIGALL: junts cap a l'\u00e8xit escolar"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "19",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Musicoter\u00e0pia comunit\u00e0ria"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "20",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Promoci\u00f3 del voluntariat a \u00cathos i a la ciutat"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "21",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Flamencirc"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "22",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Cantagrans Sabadell"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                }
+            ],
             "scope": {
                 "id": "3",
                 "name": {
@@ -255,6 +559,7 @@
             ],
             "steps": [
                 {
+                    "position": 0,
                     "title": {
                         "translations": [
                             {
@@ -271,6 +576,7 @@
                     "endDate": "2017-07-04"
                 },
                 {
+                    "position": 1,
                     "title": {
                         "translations": [
                             {
@@ -287,6 +593,7 @@
                     "endDate": "2017-09-30"
                 },
                 {
+                    "position": 2,
                     "title": {
                         "translations": [
                             {
@@ -303,6 +610,7 @@
                     "endDate": "2017-11-24"
                 },
                 {
+                    "position": 3,
                     "title": {
                         "translations": [
                             {
@@ -319,6 +627,7 @@
                     "endDate": "2017-12-17"
                 },
                 {
+                    "position": 4,
                     "title": {
                         "translations": [
                             {
@@ -335,6 +644,7 @@
                     "endDate": "2018-02-28"
                 },
                 {
+                    "position": 5,
                     "title": {
                         "translations": [
                             {
@@ -351,6 +661,7 @@
                     "endDate": "2018-03-11"
                 },
                 {
+                    "position": 6,
                     "title": {
                         "translations": [
                             {
@@ -449,7 +760,7 @@
                 },
                 {
                     "id": "83",
-                    "__typename": "Component",
+                    "__typename": "Accountability",
                     "name": {
                         "translations": [
                             {
@@ -465,7 +776,7 @@
             ]
         },
         "decidim": {
-            "version": "0.20.0",
+            "version": "0.22.0",
             "applicationName": "Decidim Sabadell"
         }
     }

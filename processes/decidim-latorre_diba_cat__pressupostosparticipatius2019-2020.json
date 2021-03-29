@@ -1,336 +1,421 @@
 {
-  "data": {
-    "participatoryProcess": {
-      "id": "222",
-      "slug": "pressupostosparticipatius2019-2020",
-      "hashtag": "",
-      "type": "Decidim::ParticipatoryProcess",
-      "createdAt": "2019-11-06T12:31:11+01:00",
-      "updatedAt": "2020-10-15T09:11:41+02:00",
-      "startDate": "2019-12-23",
-      "endDate": "2020-11-03",
-      "heroImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/hero_image/222/PPDecidimLatorre2019.png",
-      "bannerImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/banner_image/222/PPDecidimLatorre2019.png",
-      "reference": "torreclaramunt-PART-2019-11-222",
-      "promoted": true,
-      "scopesEnabled": true,
-      "title": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "PRESSUPOSTOS PARTICIPATIUS 2019-2020"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "subtitle": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Què faries a la Torre de Claramunt amb 35.000 €?"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "description": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "<h2>FES LES TEVES PROPOSTES - Del 23 de desembre de 2019 al 26 de gener de 2020.</h2><p>Tots els ciutadans de la Torre de Claramunt poden fer propostes de projectes per a inversions per a qualsevol actuació de competència municipal ja sigui una inversió, una restauració, una compra de mobiliari,.... PENSA!</p><p>Qualsevol persona empadronada al municipi i persones amb segona residència poden participar. Només cal omplir la fitxa de Proposta a través d'aquesta plataforma. </p><p>Recorda que pots sol·licitar suport tècnic de l'Ajuntament per tal que la teva proposta sigui ben ajustada a la realitat, demanant dia i hora de visita al correu colaual@diba.cat.</p><h2>VALORACIÓ DE LES PROPOSTES – Del 30 de gener al 30 de març</h2><p>Una comissió formada per personal tècnic municipal serà l’encarregada de valorar que les propostes presentades compleixen amb els criteris establerts en el reglament.&nbsp;Aquelles que no els compleixin quedaran excloses de la fase de votacions.</p><p>Davant de dues propostes similars, els serveis tècnics municipals valoraran si es poden unificar de cara a la votació.</p><p>La comissió de seguiment ciutadana creada per aquests pressupostos participatius vetllarà pel bon funcionament i transparència del procés de valoració de les propostes presentades.</p><p><strong><em><u>EN MOTIU DEL COVID-19, LA FASE DE VOTACIÓ S'HAURÀ DE PRORROGAR FINS A NOU AVÍS I PER TANT NO ES PODRÀ COMPLIR AMB EL PROGRAMA I CALENDARI ESTABLERT. INFORMAREM DE LA CONTINUÏTAT DEL PROCÉS UN COP LA SITUACIÓ DE CRISI S'HAGI POGUT SUPERAR.</u></em></strong></p><h2>VOTA LES MILLORS PROPOSTES – OCTUBRE 2020</h2><ul><li><strong>Qui podrà votar? </strong></li></ul><p>Totes les persones majors de 16 anys empadronades a la Torre de Claramunt.</p><ul><li><strong>On puc votar? </strong></li></ul><p>*Mitjançant la pàgina web <strong>decicim-latorre.diba.cat </strong></p><p>*Presencialment en els espais i horaris habilitats</p><p>&nbsp;Es podran votar dues propostes de projectes dels pressupostos participatius. Els projectes escollits s’iniciaran durant l’any 2019-2020.&nbsp;</p><p><br></p>"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "shortDescription": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "<p>L'Ajuntament de la Torre de Claramunt impulsa els pressupostos participatius per tal que els ciutadans i les ciutadanes puguin proposar i decidir com invertir 35.000€ del pressupost municipal 2020. </p>"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "developerGroup": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Ajuntament de la Torre de Claramunt"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "announcement": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "<p><em><u><span class=\"ql-cursor\">﻿﻿﻿</span>EN MOTIU DEL COVID-19, LA FASE DE VOTACIÓ S'HA RETARDAT I S'EFECTUARÀ DEL 19 D'OCTUBRE AL 2 DE NOVEMBRE DE 2020</u></em></p>"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "participatoryScope": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "participatoryStructure": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "scope": {
-        "id": "108",
-        "name": {
-          "translations": [
-            {
-              "locale": "ca",
-              "text": "La Torre de Claramunt"
+    "data": {
+        "participatoryProcess": {
+            "id": "222",
+            "slug": "pressupostosparticipatius2019-2020",
+            "hashtag": "",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2019-11-06T13:31:11+01:00",
+            "updatedAt": "2020-10-15T11:11:41+02:00",
+            "startDate": "2019-12-23",
+            "endDate": "2020-11-03",
+            "heroImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/hero_image/222/PPDecidimLatorre2019.png",
+            "bannerImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/banner_image/222/PPDecidimLatorre2019.png",
+            "reference": "torreclaramunt-PART-2019-11-222",
+            "promoted": true,
+            "showMetrics": true,
+            "scopesEnabled": true,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "PRESSUPOSTOS PARTICIPATIUS 2019-2020"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
             },
-            {
-              "locale": "es",
-              "text": ""
-            }
-          ]
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Qu\u00e8 faries a la Torre de Claramunt amb 35.000 \u20ac?"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<h2>FES LES TEVES PROPOSTES - Del 23 de desembre de 2019 al 26 de gener de 2020.</h2><p>Tots els ciutadans de la Torre de Claramunt poden fer propostes de projectes per a inversions per a qualsevol actuaci\u00f3 de compet\u00e8ncia municipal ja sigui una inversi\u00f3, una restauraci\u00f3, una compra de mobiliari,.... PENSA!</p><p>Qualsevol persona empadronada al municipi i persones amb segona resid\u00e8ncia poden participar. Nom\u00e9s cal omplir la fitxa de Proposta a trav\u00e9s d'aquesta plataforma. </p><p>Recorda que pots sol\u00b7licitar suport t\u00e8cnic de l'Ajuntament per tal que la teva proposta sigui ben ajustada a la realitat, demanant dia i hora de visita al correu colaual@diba.cat.</p><h2>VALORACI\u00d3 DE LES PROPOSTES \u2013 Del 30 de gener al 30 de mar\u00e7</h2><p>Una comissi\u00f3 formada per personal t\u00e8cnic municipal ser\u00e0 l\u2019encarregada de valorar que les propostes presentades compleixen amb els criteris establerts en el reglament.&nbsp;Aquelles que no els compleixin quedaran excloses de la fase de votacions.</p><p>Davant de dues propostes similars, els serveis t\u00e8cnics municipals valoraran si es poden unificar de cara a la votaci\u00f3.</p><p>La comissi\u00f3 de seguiment ciutadana creada per aquests pressupostos participatius vetllar\u00e0 pel bon funcionament i transpar\u00e8ncia del proc\u00e9s de valoraci\u00f3 de les propostes presentades.</p><p><strong><em><u>EN MOTIU DEL COVID-19, LA FASE DE VOTACI\u00d3 S'HAUR\u00c0 DE PRORROGAR FINS A NOU AV\u00cdS I PER TANT NO ES PODR\u00c0 COMPLIR AMB EL PROGRAMA I CALENDARI ESTABLERT. INFORMAREM DE LA CONTINU\u00cfTAT DEL PROC\u00c9S UN COP LA SITUACI\u00d3 DE CRISI S'HAGI POGUT SUPERAR.</u></em></strong></p><h2>VOTA LES MILLORS PROPOSTES \u2013 OCTUBRE 2020</h2><ul><li><strong>Qui podr\u00e0 votar? </strong></li></ul><p>Totes les persones majors de 16 anys empadronades a la Torre de Claramunt.</p><ul><li><strong>On puc votar? </strong></li></ul><p>*Mitjan\u00e7ant la p\u00e0gina web <strong>decicim-latorre.diba.cat </strong></p><p>*Presencialment en els espais i horaris habilitats</p><p>&nbsp;Es podran votar dues propostes de projectes dels pressupostos participatius. Els projectes escollits s\u2019iniciaran durant l\u2019any 2019-2020.&nbsp;</p><p><br></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p>L'Ajuntament de la Torre de Claramunt impulsa els pressupostos participatius per tal que els ciutadans i les ciutadanes puguin proposar i decidir com invertir 35.000\u20ac del pressupost municipal 2020. </p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ajuntament de la Torre de Claramunt"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><em><u><span class=\"ql-cursor\">\ufeff\ufeff\ufeff</span>EN MOTIU DEL COVID-19, LA FASE DE VOTACI\u00d3 S'HA RETARDAT I S'EFECTUAR\u00c0 DEL 19 D'OCTUBRE AL 2 DE NOVEMBRE DE 2020</u></em></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "421",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Compra de material municipal"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "418",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Nova inversi\u00f3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "419",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Reforma o restauraci\u00f3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "420",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Altres inversions"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "411",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Mobiliari  p\u00fablic"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "404",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Propostes d'inversions"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    }
+                }
+            ],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 0
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 0
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 12
+                },
+                {
+                    "name": "budgets_count",
+                    "value": 0
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "position": 0,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "INFORMACI\u00d3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Introducci\u00f3n"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-12-16",
+                    "endDate": "2019-12-22"
+                },
+                {
+                    "position": 1,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "RECOLLIDA DE PROPOSTES"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2019-12-23",
+                    "endDate": "2020-01-26"
+                },
+                {
+                    "position": 2,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "VALORACI\u00d3 DE PROPOSTES"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2020-01-30",
+                    "endDate": "2020-03-30"
+                },
+                {
+                    "position": 3,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "INFORMACI\u00d3 DE LES PROPOSTES"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2020-04-15",
+                    "endDate": "2020-04-30"
+                },
+                {
+                    "position": 4,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "VOTACI\u00d3 DE LES PROPOSTES"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2020-10-19",
+                    "endDate": "2020-11-02"
+                },
+                {
+                    "position": 5,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "PROPOSTES GUANYADORES"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2020-11-03",
+                    "endDate": "2020-12-31"
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/743/Fitxa_formulari_DECIDIM2020.docx",
+                    "type": "docx",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/1162/Informaci%C3%B3_de_Projectes.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "1045",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "VOTACIONS"
+                            },
+                            {
+                                "text": "Propuestas"
+                            }
+                        ]
+                    },
+                    "weight": 1
+                }
+            ]
         },
-        "children": []
-      },
-      "metaScope": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "localArea": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "stats": [
-        {
-          "name": "pages_count",
-          "value": 0
-        },
-        {
-          "name": "meetings_count",
-          "value": 0
-        },
-        {
-          "name": "proposals_count",
-          "value": 12
-        },
-        {
-          "name": "projects_count",
-          "value": 0
-        },
-        {
-          "name": "surveys_count",
-          "value": 0
-        },
-        {
-          "name": "results_count",
-          "value": 0
-        },
-        {
-          "name": "debates_count",
-          "value": 0
-        },
-        {
-          "name": "sortitions_count",
-          "value": 0
-        },
-        {
-          "name": "posts_count",
-          "value": 0
+        "decidim": {
+            "version": "0.23.4",
+            "applicationName": "Decidim DIBA"
         }
-      ],
-      "steps": [
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "INFORMACIÓ"
-              },
-              {
-                "locale": "es",
-                "text": "Introducción"
-              }
-            ]
-          },
-          "startDate": "2019-12-16",
-          "endDate": "2019-12-22"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "RECOLLIDA DE PROPOSTES"
-              },
-              {
-                "locale": "es",
-                "text": ""
-              }
-            ]
-          },
-          "startDate": "2019-12-23",
-          "endDate": "2020-01-26"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "VALORACIÓ DE PROPOSTES"
-              },
-              {
-                "locale": "es",
-                "text": ""
-              }
-            ]
-          },
-          "startDate": "2020-01-30",
-          "endDate": "2020-03-30"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "INFORMACIÓ DE LES PROPOSTES"
-              },
-              {
-                "locale": "es",
-                "text": ""
-              }
-            ]
-          },
-          "startDate": "2020-04-15",
-          "endDate": "2020-04-30"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "VOTACIÓ DE LES PROPOSTES"
-              },
-              {
-                "locale": "es",
-                "text": ""
-              }
-            ]
-          },
-          "startDate": "2020-10-19",
-          "endDate": "2020-11-02"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "PROPOSTES GUANYADORES"
-              },
-              {
-                "locale": "es",
-                "text": ""
-              }
-            ]
-          },
-          "startDate": "2020-11-03",
-          "endDate": "2020-12-31"
-        }
-      ],
-      "target": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "attachments": [
-        {
-          "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/743/Fitxa_formulari_DECIDIM2020.docx",
-          "type": "docx",
-          "thumbnail": null
-        },
-        {
-          "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/1162/Informaci%C3%B3_de_Projectes.pdf",
-          "type": "pdf",
-          "thumbnail": null
-        }
-      ],
-      "components": [
-        {
-          "id": "1045",
-          "__typename": "Proposals",
-          "name": {
-            "translations": [
-              {
-                "text": "VOTACIONS"
-              },
-              {
-                "text": "Propuestas"
-              }
-            ]
-          },
-          "weight": 1
-        }
-      ]
-    },
-    "decidim": {
-      "version": "0.19.1",
-      "applicationName": "Decidim DIBA"
     }
-  }
 }
