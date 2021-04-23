@@ -692,6 +692,11 @@
             },
             "attachments": [
                 {
+                    "url": "/uploads/decidim/attachment/file/445/Cam%C3%ADEscolarCE_Serra_planols.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
                     "url": "/uploads/decidim/attachment/file/25/Fitxa_propostes_CCiutat2018_FORM_CIUTADANIA.pdf",
                     "type": "pdf",
                     "thumbnail": null
@@ -718,11 +723,6 @@
                 },
                 {
                     "url": "/uploads/decidim/attachment/file/149/Construint_Ciutat2018_Resultats_Modalitat_compatibilitat.pdf",
-                    "type": "pdf",
-                    "thumbnail": null
-                },
-                {
-                    "url": "/uploads/decidim/attachment/file/445/Cam%C3%ADEscolarCE_Serra_planols.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 }

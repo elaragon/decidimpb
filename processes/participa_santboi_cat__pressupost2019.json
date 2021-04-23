@@ -250,7 +250,7 @@
                 },
                 {
                     "name": "proposals_count",
-                    "value": 219
+                    "value": 157
                 },
                 {
                     "name": "budgets_count",
@@ -442,21 +442,6 @@
                         ]
                     },
                     "weight": 2
-                },
-                {
-                    "id": "19",
-                    "__typename": "Proposals",
-                    "name": {
-                        "translations": [
-                            {
-                                "text": "Propostes socials"
-                            },
-                            {
-                                "text": "Propuestas sociales"
-                            }
-                        ]
-                    },
-                    "weight": 3
                 },
                 {
                     "id": "16",

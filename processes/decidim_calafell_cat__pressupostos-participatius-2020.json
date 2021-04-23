@@ -596,6 +596,36 @@
             "attachments": [],
             "components": [
                 {
+                    "id": "93",
+                    "__typename": "Pages",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Calendari"
+                            },
+                            {
+                                "text": "Calendario"
+                            }
+                        ]
+                    },
+                    "weight": 9
+                },
+                {
+                    "id": "94",
+                    "__typename": "Meetings",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Trobades"
+                            },
+                            {
+                                "text": "Encuentros"
+                            }
+                        ]
+                    },
+                    "weight": 7
+                },
+                {
                     "id": "95",
                     "__typename": "Proposals",
                     "name": {
@@ -669,41 +699,11 @@
                         ]
                     },
                     "weight": 6
-                },
-                {
-                    "id": "94",
-                    "__typename": "Meetings",
-                    "name": {
-                        "translations": [
-                            {
-                                "text": "Trobades"
-                            },
-                            {
-                                "text": "Encuentros"
-                            }
-                        ]
-                    },
-                    "weight": 7
-                },
-                {
-                    "id": "93",
-                    "__typename": "Pages",
-                    "name": {
-                        "translations": [
-                            {
-                                "text": "Calendari"
-                            },
-                            {
-                                "text": "Calendario"
-                            }
-                        ]
-                    },
-                    "weight": 9
                 }
             ]
         },
         "decidim": {
-            "version": "0.23.4",
+            "version": "0.24.1",
             "applicationName": "Decidim Calafell"
         }
     }

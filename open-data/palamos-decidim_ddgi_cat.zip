@@ -4,7 +4,7 @@
   <head>
     <title>Decidim de l&#39;Ajuntament de Palamós</title>
     <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="kXFaSKLGnOwQNI7GMPQj24R22vaNrR51FbL70wRAynQNwp7TGa6QbpzcGjwV6hrVxAwB4JNbzSwYz9LT3/IwIw==" />
+<meta name="csrf-token" content="AAt2rARNbYDcFam+J2gT0QKejJ8oX/IO5rBdAQngKOwbLGnbR3nbGFEfGcZ4K7s4ujmQs6v8kXFJxWj4wYDIVw==" />
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="alternate" href="/500?locale=ca" hreflang="ca">
@@ -273,7 +273,7 @@ span.card--list__data__number.budget-list__number, div#project span.definition-d
   </div>
     <div class="row">
       <div class="columns medium-8 medium-centered">
-          <form class="register-form new_user" id="new_user" novalidate="novalidate" data-abide="true" data-live-validate="true" data-validate-on-blur="true" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="vlZQLG1OhTsnbI2HTjf98KqyzG0zBsmvV6r31Ktby2uftHl70SQLKFWSAT/uJOXxLize78Q2lfuwRX7EL0pRcA==" />
+          <form class="register-form new_user" id="new_user" novalidate="novalidate" data-abide="true" data-live-validate="true" data-validate-on-blur="true" action="/users/sign_in" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="jklXyTsuLdzhqGepjXJE6NSfX6lw0+StM8vEiAB7N3CELxcfwSUBkvqHCC9Rg5Ungg58EY6y/jY0y5IrfAKfkg==" />
             <div>
               <div class="field">
                 <label for="user_email">Correu electrònic<input autofocus="autofocus" type="email" value="" name="user[email]" id="user_email" /></label>
