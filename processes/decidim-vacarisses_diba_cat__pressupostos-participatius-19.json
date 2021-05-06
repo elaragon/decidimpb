@@ -1,227 +1,234 @@
 {
-  "data": {
-    "participatoryProcess": {
-      "id": "197",
-      "slug": "pressupostos-participatius-19",
-      "hashtag": "",
-      "type": "Decidim::ParticipatoryProcess",
-      "createdAt": "2019-09-10T10:05:19+02:00",
-      "updatedAt": "2020-09-22T13:31:19+02:00",
-      "startDate": "2019-09-30",
-      "endDate": "2019-10-31",
-      "heroImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/hero_image/197/logo_prpa.png",
-      "bannerImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/banner_image/197/logo_prpa.png",
-      "reference": "vacarisses-PART-2019-09-197",
-      "promoted": false,
-      "scopesEnabled": false,
-      "title": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Pressupostos Participatius 2019"
-          }
-        ]
-      },
-      "subtitle": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Tu tries!!!"
-          }
-        ]
-      },
-      "description": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "<p><em>Com i quan es realitzarà la votació?</em></p><p>El període de votació restarà obert <strong>tot el mes d’octubre (de l’1 al 31)</strong> i es podrà fer telemàticament, a través del web de l’Ajuntament (www.vacarisses.cat), i també de forma presencial, a l’urna habilitada a la recepció de l’Ajuntament dins els horaris d’atenció al públic habituals.</p><p> </p><p>Altres punts de votació presencials:</p><p><strong>DIMARTS 1 D’OCTUBRE:</strong></p><p>LA FÀBRICA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De les 16 a les 18 h&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p><strong>DIMARTS 8 D’OCTUBRE:</strong></p><p>BIBLIOTECA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De les 16 a les 18 h</p><p><strong>DIMARTS 15 D’OCTUBRE:</strong></p><p>PAVELLÓ ESPORTIU&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; De les 18 a les 20 h</p><p><strong>DIMARTS 22 D’OCTUBRE:</strong></p><p>CASAL DE LA GENT GRAN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De les 16.30 a les 18 h</p><p><strong>DIMARTS 29 D’OCTUBRE:</strong> </p><p>PUNT DE VOL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De les 16 a les 18 h</p><p> </p><p><em>Qui podrà votar?</em></p><p>Podran participar en la votació <strong>els</strong> <strong>veïns i les veïnes a partir de 14 anys</strong> que constin al padró de Vacarisses. Només caldrà identificar-vos amb el document d’identitat i facilitar la vostra data de naixement.</p><p><em>Quantes propostes podem votar?</em></p><p>Cada persona podrà votar propostes per un valor màxim de 30.000 €. S’executarà la proposta guanyadora i, després, les propostes més votades fins que la suma del total arribi als 30.000 €.</p><p><em>Un cop fet el recompte, què passa amb les propostes no guanyadores?</em> </p><p>Que no surtin no vol dir que mai es facin. Les propostes descartades poden incloure's en futurs pressupostos.</p><p><em>Com es donaran a conèixer els resultats i quan s’executaran les propostes?</em></p><p>Els resultats de la votació sortiran publicats el dia 8 de novembre al web de l’Ajuntament i, a partir d’aquesta data, s’iniciaran els tràmits per executar les actuacions que hagin rebut més suports.</p><p> </p>"
-          }
-        ]
-      },
-      "shortDescription": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "<p><em>Què decidim?</em></p><p>Com destinem <strong>30.000 €</strong> del pressupost municipal de 2019.</p><p><em>D’on surten i quines són les propostes que se sotmeten a votació?</em></p><p>Diferents col·lectius, entitats, veïns i veïnes de Vacarisses ens han fet arribar diverses propostes que l’Ajuntament ha treballat i valorat tècnicament i econòmicament. Algunes de les propostes rebudes han estat descartades per no complir els criteris publicats inicialment o bé perquè no són viables. Ara arriba el moment de sotmetre-les a votació per part de la ciutadania i, així, poder decidir quines tirarem endavant. Podeu conèixer aquestes propostes al díptic que teniu entre mans, de manera breu, o al web de l’Ajuntament, de forma més detallada. També podeu visitar les dues exposicions fixes que trobareu als vestíbuls de La Fàbrica i del Pavelló, de l’1 al 30 d’octubre.</p><p> </p><p> </p>"
-          }
-        ]
-      },
-      "developerGroup": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          }
-        ]
-      },
-      "announcement": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          }
-        ]
-      },
-      "participatoryScope": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Com destinem 30.000€ del pressupost municipal de 2019"
-          }
-        ]
-      },
-      "participatoryStructure": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Donant suport a les propostes que tu triïs fins arribar als 30.000€"
-          }
-        ]
-      },
-      "scope": null,
-      "metaScope": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          }
-        ]
-      },
-      "localArea": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Regidoria de Participació Ciutadana i Transparència"
-          }
-        ]
-      },
-      "stats": [
-        {
-          "name": "pages_count",
-          "value": 0
+    "data": {
+        "participatoryProcess": {
+            "id": "197",
+            "slug": "pressupostos-participatius-19",
+            "hashtag": "",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2019-09-10T12:05:19+02:00",
+            "updatedAt": "2020-09-22T15:31:19+02:00",
+            "startDate": "2019-09-30",
+            "endDate": "2019-10-31",
+            "heroImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/hero_image/197/logo_prpa.png",
+            "bannerImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/banner_image/197/logo_prpa.png",
+            "reference": "vacarisses-PART-2019-09-197",
+            "promoted": false,
+            "showMetrics": true,
+            "scopesEnabled": false,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Pressupostos Participatius 2019"
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Tu tries!!!"
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><em>Com i quan es realitzar\u00e0 la votaci\u00f3?</em></p><p>El per\u00edode de votaci\u00f3 restar\u00e0 obert <strong>tot el mes d\u2019octubre (de l\u20191 al 31)</strong> i es podr\u00e0 fer telem\u00e0ticament, a trav\u00e9s del web de l\u2019Ajuntament (www.vacarisses.cat), i tamb\u00e9 de forma presencial, a l\u2019urna habilitada a la recepci\u00f3 de l\u2019Ajuntament dins els horaris d\u2019atenci\u00f3 al p\u00fablic habituals.</p><p> </p><p>Altres punts de votaci\u00f3 presencials:</p><p><strong>DIMARTS 1 D\u2019OCTUBRE:</strong></p><p>LA F\u00c0BRICA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De les 16 a les 18 h&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p><p><strong>DIMARTS 8 D\u2019OCTUBRE:</strong></p><p>BIBLIOTECA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De les 16 a les 18 h</p><p><strong>DIMARTS 15 D\u2019OCTUBRE:</strong></p><p>PAVELL\u00d3 ESPORTIU&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; De les 18 a les 20 h</p><p><strong>DIMARTS 22 D\u2019OCTUBRE:</strong></p><p>CASAL DE LA GENT GRAN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De les 16.30 a les 18 h</p><p><strong>DIMARTS 29 D\u2019OCTUBRE:</strong> </p><p>PUNT DE VOL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De les 16 a les 18 h</p><p> </p><p><em>Qui podr\u00e0 votar?</em></p><p>Podran participar en la votaci\u00f3 <strong>els</strong> <strong>ve\u00efns i les ve\u00efnes a partir de 14 anys</strong> que constin al padr\u00f3 de Vacarisses. Nom\u00e9s caldr\u00e0 identificar-vos amb el document d\u2019identitat i facilitar la vostra data de naixement.</p><p><em>Quantes propostes podem votar?</em></p><p>Cada persona podr\u00e0 votar propostes per un valor m\u00e0xim de 30.000 \u20ac. S\u2019executar\u00e0 la proposta guanyadora i, despr\u00e9s, les propostes m\u00e9s votades fins que la suma del total arribi als 30.000 \u20ac.</p><p><em>Un cop fet el recompte, qu\u00e8 passa amb les propostes no guanyadores?</em> </p><p>Que no surtin no vol dir que mai es facin. Les propostes descartades poden incloure's en futurs pressupostos.</p><p><em>Com es donaran a con\u00e8ixer els resultats i quan s\u2019executaran les propostes?</em></p><p>Els resultats de la votaci\u00f3 sortiran publicats el dia 8 de novembre al web de l\u2019Ajuntament i, a partir d\u2019aquesta data, s\u2019iniciaran els tr\u00e0mits per executar les actuacions que hagin rebut m\u00e9s suports.</p><p> </p>"
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><em>Qu\u00e8 decidim?</em></p><p>Com destinem <strong>30.000 \u20ac</strong> del pressupost municipal de 2019.</p><p><em>D\u2019on surten i quines s\u00f3n les propostes que se sotmeten a votaci\u00f3?</em></p><p>Diferents col\u00b7lectius, entitats, ve\u00efns i ve\u00efnes de Vacarisses ens han fet arribar diverses propostes que l\u2019Ajuntament ha treballat i valorat t\u00e8cnicament i econ\u00f2micament. Algunes de les propostes rebudes han estat descartades per no complir els criteris publicats inicialment o b\u00e9 perqu\u00e8 no s\u00f3n viables. Ara arriba el moment de sotmetre-les a votaci\u00f3 per part de la ciutadania i, aix\u00ed, poder decidir quines tirarem endavant. Podeu con\u00e8ixer aquestes propostes al d\u00edptic que teniu entre mans, de manera breu, o al web de l\u2019Ajuntament, de forma m\u00e9s detallada. Tamb\u00e9 podeu visitar les dues exposicions fixes que trobareu als vest\u00edbuls de La F\u00e0brica i del Pavell\u00f3, de l\u20191 al 30 d\u2019octubre.</p><p> </p><p> </p>"
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Com destinem 30.000\u20ac del pressupost municipal de 2019"
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Donant suport a les propostes que tu tri\u00efs fins arribar als 30.000\u20ac"
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Regidoria de Participaci\u00f3 Ciutadana i Transpar\u00e8ncia"
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 0
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 0
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 10
+                },
+                {
+                    "name": "budgets_count",
+                    "value": 1
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "position": 0,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Introducci\u00f3"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-01-01",
+                    "endDate": "2019-01-31"
+                },
+                {
+                    "position": 1,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "EXPOSICI\u00d3 DE PROPOSTES"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-09-30",
+                    "endDate": "2019-10-31"
+                },
+                {
+                    "position": 2,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "VOTACI\u00d3"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-10-01",
+                    "endDate": "2019-10-31"
+                },
+                {
+                    "position": 3,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "PUBLICACI\u00d3 RESULTATS, TANCAMENT I RETORN"
+                            }
+                        ]
+                    },
+                    "startDate": "2019-11-08",
+                    "endDate": "2019-12-31"
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Empadronats i empadronades a partir de 14 anys"
+                    }
+                ]
+            },
+            "attachments": [],
+            "components": [
+                {
+                    "id": "832",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes"
+                            }
+                        ]
+                    },
+                    "weight": 1
+                },
+                {
+                    "id": "859",
+                    "__typename": "Budgets",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Votaci\u00f3"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                }
+            ]
         },
-        {
-          "name": "meetings_count",
-          "value": 0
-        },
-        {
-          "name": "proposals_count",
-          "value": 10
-        },
-        {
-          "name": "projects_count",
-          "value": 10
-        },
-        {
-          "name": "surveys_count",
-          "value": 0
-        },
-        {
-          "name": "results_count",
-          "value": 0
-        },
-        {
-          "name": "debates_count",
-          "value": 0
-        },
-        {
-          "name": "sortitions_count",
-          "value": 0
-        },
-        {
-          "name": "posts_count",
-          "value": 0
+        "decidim": {
+            "version": "0.23.4",
+            "applicationName": "Decidim DIBA"
         }
-      ],
-      "steps": [
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "Introducció"
-              }
-            ]
-          },
-          "startDate": "2019-01-01",
-          "endDate": "2019-01-31"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "EXPOSICIÓ DE PROPOSTES"
-              }
-            ]
-          },
-          "startDate": "2019-09-30",
-          "endDate": "2019-10-31"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "VOTACIÓ"
-              }
-            ]
-          },
-          "startDate": "2019-10-01",
-          "endDate": "2019-10-31"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "PUBLICACIÓ RESULTATS, TANCAMENT I RETORN"
-              }
-            ]
-          },
-          "startDate": "2019-11-08",
-          "endDate": "2019-12-31"
-        }
-      ],
-      "target": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Empadronats i empadronades a partir de 14 anys"
-          }
-        ]
-      },
-      "attachments": [],
-      "components": [
-        {
-          "id": "832",
-          "__typename": "Proposals",
-          "name": {
-            "translations": [
-              {
-                "text": "Propostes"
-              }
-            ]
-          },
-          "weight": 1
-        },
-        {
-          "id": "859",
-          "__typename": "Component",
-          "name": {
-            "translations": [
-              {
-                "text": "Votació"
-              }
-            ]
-          },
-          "weight": 2
-        }
-      ]
-    },
-    "decidim": {
-      "version": "0.19.1",
-      "applicationName": "Decidim DIBA"
     }
-  }
 }

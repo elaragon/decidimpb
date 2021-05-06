@@ -13,6 +13,7 @@
             "bannerImage": "/uploads/decidim/participatory_process/banner_image/7/medium_DecidimSabadell.png",
             "reference": "SBD-PART-2017-06-7",
             "promoted": false,
+            "showMetrics": true,
             "scopesEnabled": true,
             "title": {
                 "translations": [
@@ -110,6 +111,8 @@
                     }
                 ]
             },
+            "linkedParticipatorySpaces": [],
+            "categories": [],
             "scope": {
                 "id": "3",
                 "name": {
@@ -255,6 +258,7 @@
             ],
             "steps": [
                 {
+                    "position": 0,
                     "title": {
                         "translations": [
                             {
@@ -271,6 +275,7 @@
                     "endDate": "2016-05-31"
                 },
                 {
+                    "position": 1,
                     "title": {
                         "translations": [
                             {
@@ -287,6 +292,7 @@
                     "endDate": "2016-06-23"
                 },
                 {
+                    "position": 2,
                     "title": {
                         "translations": [
                             {
@@ -303,6 +309,7 @@
                     "endDate": "2016-07-22"
                 },
                 {
+                    "position": 3,
                     "title": {
                         "translations": [
                             {
@@ -319,6 +326,7 @@
                     "endDate": "2016-09-18"
                 },
                 {
+                    "position": 4,
                     "title": {
                         "translations": [
                             {
@@ -335,6 +343,7 @@
                     "endDate": "2016-11-18"
                 },
                 {
+                    "position": 5,
                     "title": {
                         "translations": [
                             {
@@ -414,7 +423,7 @@
             ]
         },
         "decidim": {
-            "version": "0.20.0",
+            "version": "0.22.0",
             "applicationName": "Decidim Sabadell"
         }
     }

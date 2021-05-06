@@ -1,330 +1,338 @@
 {
-  "data": {
-    "participatoryProcess": {
-      "id": "253",
-      "slug": "merma2020",
-      "hashtag": "merma2020",
-      "type": "Decidim::ParticipatoryProcess",
-      "createdAt": "2020-01-28T14:48:46+01:00",
-      "updatedAt": "2020-10-08T14:00:09+02:00",
-      "startDate": "2020-01-31",
-      "endDate": "2020-10-04",
-      "heroImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/hero_image/253/Imatge-web-decidim-VOTACIONS-2020_OK_a__1_.jpg",
-      "bannerImage": "",
-      "reference": "vic-PART-2020-01-253",
-      "promoted": true,
-      "scopesEnabled": false,
-      "title": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "PRESSUPOSTOS PARTICIPATIUS"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "subtitle": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "ZONA VERDA DEL MERMA 2020"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "description": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "<p><strong>Els altres projectes que es portaran a terme seran la promoció comercial de l’Eixample Morató i carrer Nou, i la millora de la plaça dels Màrtirs amb sortidors d’aigua</strong></p><p>La instal·lació de plaques fotovoltaiques d’autoconsum a l’escola Guillem de Mont-rodon i a la llar d’infants dels Caputxins ha estat el projecte guanyador de la cinquena edició dels pressupostos participatius de l’Ajuntament de Vic. Amb 490 vots (el 12,62%), aquesta proposta per promoure l’energia solar fotovoltaica, reduir la dependència de la connexió a la xarxa i lluitar contra el canvi climàtic és la que ha rebut més suport per part dels veïns i veïnes de la zona Verda del Merma. La instal·lació d’energia solar fotovoltaica per a l’autoconsum és un exemple per a la ciutadania que genera un efecte multiplicador i dóna a conèixer la importància de l’estalvi i l’eficiència energètica a més de 600 alumnes i a les seves famílies.</p><p>Tant a l’escola Guillem de Mont-rodon com a la llar d’infants dels Caputxins es posaran pantalles informatives perquè es puguin visualitzar els consums i la producció d’energia instantània, amb l’objectiu de deixar instal·lat un element visual que faci pedagogia de l’estalvi energètic. El pressupost total d’aquest projecte és de 75.000 euros.</p><p>El segon projecte més valorat, amb 484 vots (el 12,46%) i només sis de diferència respecte el projecte guanyador, ha sigut el que fa referència a la promoció del comerç i la reactivació de locals comercials tancats del carrer Nou i de l’Eixample Morató. Buscant una revitalització similar al projecte d’èxit del carrer de la Riera, es proposa treballar a partir de quatre eixos principals per posicions i diferenciar aquest barri de la ciutat: crear la identitat ‘Un barri amic dels nens i nenes’, fomentar l’emprenedoria i la promoció econòmica, millorar l’entorn fent una valoració de tot allò que urbanísticament ha de tenir el barri perquè es pugui considerar la zona de l’Eixample Morató un lloc per a infants i les seves famílies, i crear una campanya publicitària per donar a conèixer el barri i la nova marca, així com també desenvolupar accions de dinamització lligades a campanyes comercials concretes i pensades per a nens i nenes. El pressupost total és de 28.970 euros i la durada de la intervenció, un any .</p><p>En tercer lloc ha quedat la innovadora proposta de millora de la plaça dels Màrtirs, que consisteix en desmuntar un tram del paviment de la plaça i munta-hi jocs d’aigua integrats (tipus sortidors) amb la doble funció de joc i de mitigació d’altes temperatures durant l’estiu, de manera que la plaça pugui esdevenir un refugi climàtic. A un cantó de la plaça es col·locarà una font accessible, ja que l’actual forma part del conjunt arquitectònic però no és accessible a tothom. El pressupost total d’aquesta iniciativa, que ha tingut 382 vots (el 9,84%), és de 200.000 euros. Tot i que per raons de limitació pressupostària no es podrà realitzar del tot aquest projecte, “el que puguem fer ens servirà per veure si té èxit i si a la gent li agrada”, ha comentat&nbsp;<strong>Josep-Ramon Soldevila</strong>, regidor de Participació.</p><p>En la presentació dels resultats dels pressupostos participatius d’aquest any,&nbsp;<strong>Soldevila</strong>&nbsp;ha recordat que aquesta ha sigut la cinquena edició i la quarta en què la votació s’organitzava per zones que coincideixen amb les de la Festa Major.&nbsp;<strong>Soldevila</strong>&nbsp;també ha apuntat que aquest any s’ha ampliat l’aportació en 50.000 euros respecte edicions anteriors i que “els 200.000 euros van íntegrament destinats als projectes guanyadors”.</p><p>Malgrat la situació de pandèmia d’aquest any, que ha demorat i fet més complicat el procés habitual ja que “no s’han pogut fer les reunions presencials”, segons el regidor, al final s’han pogut tirar endavant igualment. La participació a la zona Verda del
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "shortDescription": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "<p><strong>La instal·lació de plaques fotovoltaiques a l'escola Guillem de Mont-rodon i la llar d'infants dels Caputxins guanya els pressupostos participatius</strong></p>"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "developerGroup": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "announcement": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "<p><strong>Nou vídeo promocional: </strong><a href=\"https://www.youtube.com/watch?v=5Fbwt8mG_JM\" target=\"_blank\">https://www.youtube.com/watch?v=5Fbwt8mG_JM  </a></p>"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "participatoryScope": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "DECIDIM CONJUNTAMENT EL DESTÍ DE 200.000€"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "participatoryStructure": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Fase de propostes i fase de suport a aquestes propostes"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "scope": null,
-      "metaScope": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": ""
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "localArea": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Participació ciutadana"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "stats": [
-        {
-          "name": "pages_count",
-          "value": 0
+    "data": {
+        "participatoryProcess": {
+            "id": "253",
+            "slug": "merma2020",
+            "hashtag": "merma2020",
+            "type": "Decidim::ParticipatoryProcess",
+            "createdAt": "2020-01-28T15:48:46+01:00",
+            "updatedAt": "2021-01-25T13:34:03+01:00",
+            "startDate": "2020-01-31",
+            "endDate": "2020-10-04",
+            "heroImage": "https://decidim.diba.cat/uploads/decidim/participatory_process/hero_image/253/Imatge-web-decidim-VOTACIONS-2020_OK_a__1_.jpg",
+            "bannerImage": "",
+            "reference": "vic-PART-2020-01-253",
+            "promoted": false,
+            "showMetrics": true,
+            "scopesEnabled": false,
+            "title": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "PRESSUPOSTOS PARTICIPATIUS"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "subtitle": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "ZONA VERDA DEL MERMA 2020"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "description": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><strong>Els altres projectes que es portaran a terme seran la promoci\u00f3 comercial de l\u2019Eixample Morat\u00f3 i carrer Nou, i la millora de la pla\u00e7a dels M\u00e0rtirs amb sortidors d\u2019aigua</strong></p><p>La instal\u00b7laci\u00f3 de plaques fotovoltaiques d\u2019autoconsum a l\u2019escola Guillem de Mont-rodon i a la llar d\u2019infants dels Caputxins ha estat el projecte guanyador de la cinquena edici\u00f3 dels pressupostos participatius de l\u2019Ajuntament de Vic. Amb 490 vots (el 12,62%), aquesta proposta per promoure l\u2019energia solar fotovoltaica, reduir la depend\u00e8ncia de la connexi\u00f3 a la xarxa i lluitar contra el canvi clim\u00e0tic \u00e9s la que ha rebut m\u00e9s suport per part dels ve\u00efns i ve\u00efnes de la zona Verda del Merma. La instal\u00b7laci\u00f3 d\u2019energia solar fotovoltaica per a l\u2019autoconsum \u00e9s un exemple per a la ciutadania que genera un efecte multiplicador i d\u00f3na a con\u00e8ixer la import\u00e0ncia de l\u2019estalvi i l\u2019efici\u00e8ncia energ\u00e8tica a m\u00e9s de 600 alumnes i a les seves fam\u00edlies.</p><p>Tant a l\u2019escola Guillem de Mont-rodon com a la llar d\u2019infants dels Caputxins es posaran pantalles informatives perqu\u00e8 es puguin visualitzar els consums i la producci\u00f3 d\u2019energia instant\u00e0nia, amb l\u2019objectiu de deixar instal\u00b7lat un element visual que faci pedagogia de l\u2019estalvi energ\u00e8tic. El pressupost total d\u2019aquest projecte \u00e9s de 75.000 euros.</p><p>El segon projecte m\u00e9s valorat, amb 484 vots (el 12,46%) i nom\u00e9s sis de difer\u00e8ncia respecte el projecte guanyador, ha sigut el que fa refer\u00e8ncia a la promoci\u00f3 del comer\u00e7 i la reactivaci\u00f3 de locals comercials tancats del carrer Nou i de l\u2019Eixample Morat\u00f3. Buscant una revitalitzaci\u00f3 similar al projecte d\u2019\u00e8xit del carrer de la Riera, es proposa treballar a partir de quatre eixos principals per posicions i diferenciar aquest barri de la ciutat: crear la identitat \u2018Un barri amic dels nens i nenes\u2019, fomentar l\u2019emprenedoria i la promoci\u00f3 econ\u00f2mica, millorar l\u2019entorn fent una valoraci\u00f3 de tot all\u00f2 que urban\u00edsticament ha de tenir el barri perqu\u00e8 es pugui considerar la zona de l\u2019Eixample Morat\u00f3 un lloc per a infants i les seves fam\u00edlies, i crear una campanya publicit\u00e0ria per donar a con\u00e8ixer el barri i la nova marca, aix\u00ed com tamb\u00e9 desenvolupar accions de dinamitzaci\u00f3 lligades a campanyes comercials concretes i pensades per a nens i nenes. El pressupost total \u00e9s de 28.970 euros i la durada de la intervenci\u00f3, un any .</p><p>En tercer lloc ha quedat la innovadora proposta de millora de la pla\u00e7a dels M\u00e0rtirs, que consisteix en desmuntar un tram del paviment de la pla\u00e7a i munta-hi jocs d\u2019aigua integrats (tipus sortidors) amb la doble funci\u00f3 de joc i de mitigaci\u00f3 d\u2019altes temperatures durant l\u2019estiu, de manera que la pla\u00e7a pugui esdevenir un refugi clim\u00e0tic. A un cant\u00f3 de la pla\u00e7a es col\u00b7locar\u00e0 una font accessible, ja que l\u2019actual forma part del conjunt arquitect\u00f2nic per\u00f2 no \u00e9s accessible a tothom. El pressupost total d\u2019aquesta iniciativa, que ha tingut 382 vots (el 9,84%), \u00e9s de 200.000 euros. Tot i que per raons de limitaci\u00f3 pressupost\u00e0ria no es podr\u00e0 realitzar del tot aquest projecte, \u201cel que puguem fer ens servir\u00e0 per veure si t\u00e9 \u00e8xit i si a la gent li agrada\u201d, ha comentat&nbsp;<strong>Josep-Ramon Soldevila</strong>, regidor de Participaci\u00f3.</p><p>En la presentaci\u00f3 dels resultats dels pressupostos participatius d\u2019aquest any,&nbsp;<strong>Soldevila</strong>&nbsp;ha recordat que aquesta ha sigut la cinquena edici\u00f3 i la quarta en qu\u00e8 la votaci\u00f3 s\u2019organitzava per zones que coincideixen amb les de la Festa Major.&nbsp;<strong>Soldevila</strong>&nbsp;tamb\u00e9 ha apuntat que aquest any s\u2019ha ampliat l\u2019aportaci\u00f3 en 50.000 euros respecte edicions anteriors i que \u201cels 200.000 euros van \u00edntegrament destinats als projectes guanyadors\u201d.</p><p>Malgrat la situaci\u00f3 de pand\u00e8mia d\u2019aquest any, que ha demorat i fet m\u00e9s complicat el proc\u00e9s habitual ja que \u201cno s\u2019han pogut fer les reunions presencials\u201d, segons el regidor, al final s\u2019han pogut tirar endavant igualment. La participaci\u00f3 a la zona Verda del Merma ha sigut del 4,36%, quan el 2016, \u00faltima vegada que va votar aquesta \u00e0rea ve\u00efnal, va ser del 4,13%. Cal tenir en compte que \u201c\u00e9s la zona m\u00e9s poblada de la ciutat\u201d i que de 15.542 persones empadronades a la zona i majors de 16 anys amb dret a vot, finalment han votat 677 persones.&nbsp;<strong>Soldevila</strong>&nbsp;s\u2019ha mostrat satisfet del nombre de vots emesos, si es t\u00e9 en compte que \u201ca les ciutats grans la participaci\u00f3 en aquest tipus de processos sol ser d\u2019entre el 2% i el 4%.</p><p>Des del 14 de setembre fins al 4 d\u2019octubre, els ve\u00efns i ve\u00efnes majors de 16 anys i empadronats a la zona Verda del Merma de Vic -barri dels Caputxins, del Nord, de Sant Ll\u00e0tzer, de les Quatre estacions i la part nord i est del centre hist\u00f2ric- han pogut votar els 17 projectes finalistes als pressupostos participatius d\u2019aquest any. Els projectes finalistes s\u2019han emmarcat en el foment de la mobilitat sostenible, les intervencions per millorar el canvi clim\u00e0tic i mitigar les altes temperatures de l\u2019estiu amb refugis clim\u00e0tics, l\u2019accessibilitat de voreres, la promoci\u00f3 del comer\u00e7 i el foment de la cultura i l\u2019educaci\u00f3.</p><p><br></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "shortDescription": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><strong>La instal\u00b7laci\u00f3 de plaques fotovoltaiques a l'escola Guillem de Mont-rodon i la llar d'infants dels Caputxins guanya els pressupostos participatius</strong></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "developerGroup": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "announcement": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "<p><strong>Nou v\u00eddeo promocional: </strong><a href=\"https://www.youtube.com/watch?v=5Fbwt8mG_JM\" target=\"_blank\">https://www.youtube.com/watch?v=5Fbwt8mG_JM  </a></p>"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "DECIDIM CONJUNTAMENT EL DEST\u00cd DE 200.000\u20ac"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "participatoryStructure": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Fase de propostes i fase de suport a aquestes propostes"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "linkedParticipatorySpaces": [],
+            "categories": [],
+            "scope": null,
+            "metaScope": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": ""
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "localArea": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Participaci\u00f3 ciutadana"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "stats": [
+                {
+                    "name": "pages_count",
+                    "value": 0
+                },
+                {
+                    "name": "meetings_count",
+                    "value": 0
+                },
+                {
+                    "name": "proposals_count",
+                    "value": 68
+                },
+                {
+                    "name": "budgets_count",
+                    "value": 0
+                },
+                {
+                    "name": "surveys_count",
+                    "value": 0
+                },
+                {
+                    "name": "results_count",
+                    "value": 0
+                },
+                {
+                    "name": "debates_count",
+                    "value": 0
+                },
+                {
+                    "name": "sortitions_count",
+                    "value": 0
+                },
+                {
+                    "name": "posts_count",
+                    "value": 0
+                }
+            ],
+            "steps": [
+                {
+                    "position": 0,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Espai informatiu"
+                            },
+                            {
+                                "locale": "es",
+                                "text": "Introducci\u00f3n"
+                            }
+                        ]
+                    },
+                    "startDate": "2020-01-31",
+                    "endDate": "2020-06-30"
+                },
+                {
+                    "position": 1,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "FASE DE PROPOSTES"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2020-02-17",
+                    "endDate": "2020-03-25"
+                },
+                {
+                    "position": 2,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "PROC\u00c9S DE VALIDACI\u00d3"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2020-03-25",
+                    "endDate": "2020-04-10"
+                },
+                {
+                    "position": 3,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "FASE DE VOTACIONS"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2020-09-14",
+                    "endDate": "2020-10-04"
+                },
+                {
+                    "position": 4,
+                    "title": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "FASE DE RETORN"
+                            },
+                            {
+                                "locale": "es",
+                                "text": ""
+                            }
+                        ]
+                    },
+                    "startDate": "2020-10-08",
+                    "endDate": "2020-10-31"
+                }
+            ],
+            "target": {
+                "translations": [
+                    {
+                        "locale": "ca",
+                        "text": "Ve\u00efnes i ve\u00efns de la zona verda del Merma"
+                    },
+                    {
+                        "locale": "es",
+                        "text": ""
+                    }
+                ]
+            },
+            "attachments": [
+                {
+                    "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/793/Dossier_informatiu_pressupostos_participatius_2020.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/843/TR%C3%8DPTIC_PRESSUPOSTOS_PARTICIPATIUS_2020.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/1120/Dossier_votacions_v2.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/1157/Dossier_resultats_votacions.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                }
+            ],
+            "components": [
+                {
+                    "id": "1082",
+                    "__typename": "Proposals",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "Propostes"
+                            },
+                            {
+                                "text": "Propuestas"
+                            }
+                        ]
+                    },
+                    "weight": 0
+                },
+                {
+                    "id": "1147",
+                    "__typename": "Accountability",
+                    "name": {
+                        "translations": [
+                            {
+                                "text": "PROC\u00c9S DE VALIDACI\u00d3"
+                            },
+                            {
+                                "text": "Seguimiento"
+                            }
+                        ]
+                    },
+                    "weight": 2
+                }
+            ]
         },
-        {
-          "name": "meetings_count",
-          "value": 0
-        },
-        {
-          "name": "proposals_count",
-          "value": 68
-        },
-        {
-          "name": "projects_count",
-          "value": 0
-        },
-        {
-          "name": "surveys_count",
-          "value": 0
-        },
-        {
-          "name": "results_count",
-          "value": 0
-        },
-        {
-          "name": "debates_count",
-          "value": 0
-        },
-        {
-          "name": "sortitions_count",
-          "value": 0
-        },
-        {
-          "name": "posts_count",
-          "value": 0
+        "decidim": {
+            "version": "0.23.4",
+            "applicationName": "Decidim DIBA"
         }
-      ],
-      "steps": [
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "Espai informatiu"
-              },
-              {
-                "locale": "es",
-                "text": "Introducción"
-              }
-            ]
-          },
-          "startDate": "2020-01-31",
-          "endDate": "2020-06-30"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "FASE DE PROPOSTES"
-              },
-              {
-                "locale": "es",
-                "text": ""
-              }
-            ]
-          },
-          "startDate": "2020-02-17",
-          "endDate": "2020-03-25"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "PROCÉS DE VALIDACIÓ"
-              },
-              {
-                "locale": "es",
-                "text": ""
-              }
-            ]
-          },
-          "startDate": "2020-03-25",
-          "endDate": "2020-04-10"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "FASE DE VOTACIONS"
-              },
-              {
-                "locale": "es",
-                "text": ""
-              }
-            ]
-          },
-          "startDate": "2020-09-14",
-          "endDate": "2020-10-04"
-        },
-        {
-          "title": {
-            "translations": [
-              {
-                "locale": "ca",
-                "text": "FASE DE RETORN"
-              },
-              {
-                "locale": "es",
-                "text": ""
-              }
-            ]
-          },
-          "startDate": "2020-10-08",
-          "endDate": "2020-10-31"
-        }
-      ],
-      "target": {
-        "translations": [
-          {
-            "locale": "ca",
-            "text": "Veïnes i veïns de la zona verda del Merma"
-          },
-          {
-            "locale": "es",
-            "text": ""
-          }
-        ]
-      },
-      "attachments": [
-        {
-          "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/1157/Dossier_resultats_votacions.pdf",
-          "type": "pdf",
-          "thumbnail": null
-        },
-        {
-          "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/1120/Dossier_votacions_v2.pdf",
-          "type": "pdf",
-          "thumbnail": null
-        },
-        {
-          "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/843/TR%C3%8DPTIC_PRESSUPOSTOS_PARTICIPATIUS_2020.pdf",
-          "type": "pdf",
-          "thumbnail": null
-        },
-        {
-          "url": "https://decidim.diba.cat/uploads/decidim/attachment/file/793/Dossier_informatiu_pressupostos_participatius_2020.pdf",
-          "type": "pdf",
-          "thumbnail": null
-        }
-      ],
-      "components": [
-        {
-          "id": "1082",
-          "__typename": "Proposals",
-          "name": {
-            "translations": [
-              {
-                "text": "Propostes"
-              },
-              {
-                "text": "Propuestas"
-              }
-            ]
-          },
-          "weight": 0
-        },
-        {
-          "id": "1147",
-          "__typename": "Component",
-          "name": {
-            "translations": [
-              {
-                "text": "PROCÉS DE VALIDACIÓ"
-              },
-              {
-                "text": "Seguimiento"
-              }
-            ]
-          },
-          "weight": 2
-        }
-      ]
-    },
-    "decidim": {
-      "version": "0.19.1",
-      "applicationName": "Decidim DIBA"
     }
-  }
 }

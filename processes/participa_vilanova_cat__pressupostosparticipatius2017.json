@@ -13,6 +13,7 @@
             "bannerImage": "http://participa.vilanova.cat/uploads/decidim/participatory_process/banner_image/7/Banner_llarg_744x150.png",
             "reference": "VG-PART-2017-04-7",
             "promoted": false,
+            "showMetrics": true,
             "scopesEnabled": true,
             "title": {
                 "translations": [
@@ -78,6 +79,119 @@
                     }
                 ]
             },
+            "linkedParticipatorySpaces": [],
+            "categories": [
+                {
+                    "id": "4",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Parcs infantils"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "5",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Equipaments municipals"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "7",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Ambiental"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "8",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Carrers i espai p\u00fablic"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "9",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Carril bici"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "11",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Instal\u00b7lacions esportives"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "12",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Noves tecnologies"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "13",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Jardineria i mobiliari urb\u00e0"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "14",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Espai per a gossos"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": "15",
+                    "name": {
+                        "translations": [
+                            {
+                                "locale": "ca",
+                                "text": "Accessibilitat i mobilitat"
+                            }
+                        ]
+                    }
+                }
+            ],
             "scope": null,
             "metaScope": {
                 "translations": [
@@ -109,8 +223,8 @@
                     "value": 319
                 },
                 {
-                    "name": "projects_count",
-                    "value": 61
+                    "name": "budgets_count",
+                    "value": 1
                 },
                 {
                     "name": "surveys_count",
@@ -135,6 +249,7 @@
             ],
             "steps": [
                 {
+                    "position": 0,
                     "title": {
                         "translations": [
                             {
@@ -147,6 +262,7 @@
                     "endDate": "2017-04-18"
                 },
                 {
+                    "position": 1,
                     "title": {
                         "translations": [
                             {
@@ -159,6 +275,7 @@
                     "endDate": "2017-05-19"
                 },
                 {
+                    "position": 2,
                     "title": {
                         "translations": [
                             {
@@ -171,6 +288,7 @@
                     "endDate": "2017-05-28"
                 },
                 {
+                    "position": 3,
                     "title": {
                         "translations": [
                             {
@@ -183,6 +301,7 @@
                     "endDate": "2017-06-11"
                 },
                 {
+                    "position": 4,
                     "title": {
                         "translations": [
                             {
@@ -277,7 +396,7 @@
                 },
                 {
                     "id": "15",
-                    "__typename": "Component",
+                    "__typename": "Budgets",
                     "name": {
                         "translations": [
                             {
@@ -314,7 +433,7 @@
             ]
         },
         "decidim": {
-            "version": "0.18.1",
+            "version": "0.24.1",
             "applicationName": "Participa Vilanova"
         }
     }

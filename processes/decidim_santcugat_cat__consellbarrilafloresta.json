@@ -81,7 +81,7 @@
             },
             "linkedParticipatorySpaces": [
                 {
-                    "id": "287",
+                    "id": "562",
                     "name": "included_participatory_processes"
                 }
             ],
@@ -151,7 +151,7 @@
                     "value": 19
                 },
                 {
-                    "name": "projects_count",
+                    "name": "budgets_count",
                     "value": 0
                 },
                 {
@@ -271,7 +271,7 @@
             ]
         },
         "decidim": {
-            "version": "0.22.0",
+            "version": "0.23.1",
             "applicationName": "Decidim Sant Cugat"
         }
     }

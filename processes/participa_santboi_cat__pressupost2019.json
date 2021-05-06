@@ -250,11 +250,11 @@
                 },
                 {
                     "name": "proposals_count",
-                    "value": 219
+                    "value": 157
                 },
                 {
-                    "name": "projects_count",
-                    "value": 59
+                    "name": "budgets_count",
+                    "value": 2
                 },
                 {
                     "name": "surveys_count",
@@ -357,12 +357,7 @@
             },
             "attachments": [
                 {
-                    "url": "/uploads/decidim/attachment/file/210/Fitxa_projectes_socials.pdf",
-                    "type": "pdf",
-                    "thumbnail": null
-                },
-                {
-                    "url": "/uploads/decidim/attachment/file/209/Criteris_execucio_projectes_socials.pdf",
+                    "url": "/uploads/decidim/attachment/file/176/Resultats_pressupost_participatiu_2019_-_projectes_inversions__2_.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 },
@@ -372,7 +367,12 @@
                     "thumbnail": null
                 },
                 {
-                    "url": "/uploads/decidim/attachment/file/176/Resultats_pressupost_participatiu_2019_-_projectes_inversions__2_.pdf",
+                    "url": "/uploads/decidim/attachment/file/209/Criteris_execucio_projectes_socials.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
+                    "url": "/uploads/decidim/attachment/file/210/Fitxa_projectes_socials.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 },
@@ -444,21 +444,6 @@
                     "weight": 2
                 },
                 {
-                    "id": "19",
-                    "__typename": "Proposals",
-                    "name": {
-                        "translations": [
-                            {
-                                "text": "Propostes socials"
-                            },
-                            {
-                                "text": "Propuestas sociales"
-                            }
-                        ]
-                    },
-                    "weight": 3
-                },
-                {
                     "id": "16",
                     "__typename": "Proposals",
                     "name": {
@@ -476,7 +461,7 @@
             ]
         },
         "decidim": {
-            "version": "0.21.0",
+            "version": "0.23.1",
             "applicationName": "Multitenant Decideix"
         }
     }

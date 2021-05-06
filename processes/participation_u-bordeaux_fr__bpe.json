@@ -1,9 +1,0 @@
-{
-    "data": {
-        "participatoryProcess": null,
-        "decidim": {
-            "version": "0.21.0.pre.dev",
-            "applicationName": "OSP Agora"
-        }
-    }
-}

@@ -267,7 +267,7 @@
                     "value": 0
                 },
                 {
-                    "name": "projects_count",
+                    "name": "budgets_count",
                     "value": 0
                 },
                 {
@@ -383,6 +383,11 @@
                     "thumbnail": null
                 },
                 {
+                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/33/Resultats_votacions_i_projectes_guanyadors_2016-17___fitxes_.pdf",
+                    "type": "pdf",
+                    "thumbnail": null
+                },
+                {
                     "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/34/Propostes_Pressupost_Participatiu_2016-17___Total_rebudes_.pdf",
                     "type": "pdf",
                     "thumbnail": null
@@ -394,11 +399,6 @@
                 },
                 {
                     "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/36/Seguiment_execuci%C3%B3_Projectes__Pressupostos_Participatius_16_i_17.pdf",
-                    "type": "pdf",
-                    "thumbnail": null
-                },
-                {
-                    "url": "https://codit-decidim-santcugat.s3.amazonaws.com/decidim-sant-cugat/uploads/decidim/attachment/file/33/Resultats_votacions_i_projectes_guanyadors_2016-17___fitxes_.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 },
@@ -448,7 +448,7 @@
             ]
         },
         "decidim": {
-            "version": "0.22.0",
+            "version": "0.23.1",
             "applicationName": "Decidim Sant Cugat"
         }
     }

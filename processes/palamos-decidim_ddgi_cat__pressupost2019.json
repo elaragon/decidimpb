@@ -9,8 +9,8 @@
             "updatedAt": "2020-01-16T10:36:32+01:00",
             "startDate": "2018-09-01",
             "endDate": "2019-03-30",
-            "heroImage": "/uploads/decidim/participatory_process/hero_image/5/p2019.jpg",
-            "bannerImage": "/uploads/decidim/participatory_process/banner_image/5/p2019.jpg",
+            "heroImage": "https://palamos-decidim.ddgi.cat/uploads/decidim/participatory_process/hero_image/5/p2019.jpg",
+            "bannerImage": "https://palamos-decidim.ddgi.cat/uploads/decidim/participatory_process/banner_image/5/p2019.jpg",
             "reference": "PALAM-PART-2018-07-5",
             "promoted": false,
             "showMetrics": true,
@@ -236,37 +236,37 @@
             },
             "attachments": [
                 {
-                    "url": "/uploads/decidim/attachment/file/1/butlleta_propostes_def_19.pdf",
+                    "url": "https://palamos-decidim.ddgi.cat/uploads/decidim/attachment/file/1/butlleta_propostes_def_19.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 },
                 {
-                    "url": "/uploads/decidim/attachment/file/4/DECIDIM._Gesti%C3%B3_propostes_2018.pdf",
+                    "url": "https://palamos-decidim.ddgi.cat/uploads/decidim/attachment/file/4/DECIDIM._Gesti%C3%B3_propostes_2018.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 },
                 {
-                    "url": "/uploads/decidim/attachment/file/20/propostes_v%C3%A0lides_assemblea_27oct.pdf",
+                    "url": "https://palamos-decidim.ddgi.cat/uploads/decidim/attachment/file/20/propostes_v%C3%A0lides_assemblea_27oct.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 },
                 {
-                    "url": "/uploads/decidim/attachment/file/21/totes_les_propostes_rebudes_pres_2019_JUSTIFICACI%C3%93.pdf",
+                    "url": "https://palamos-decidim.ddgi.cat/uploads/decidim/attachment/file/21/totes_les_propostes_rebudes_pres_2019_JUSTIFICACI%C3%93.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 },
                 {
-                    "url": "/uploads/decidim/attachment/file/22/FITXES_TREBALL_GRUPAL_TALLER_PRIORITZACI%C3%93_PRESSU_PARTI_PALAM%C3%93S_19__NE%C3%92POLIS.pdf",
+                    "url": "https://palamos-decidim.ddgi.cat/uploads/decidim/attachment/file/22/FITXES_TREBALL_GRUPAL_TALLER_PRIORITZACI%C3%93_PRESSU_PARTI_PALAM%C3%93S_19__NE%C3%92POLIS.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 },
                 {
-                    "url": "/uploads/decidim/attachment/file/23/INFORME_DE_RESULTATS_TALLER_PRIORITZACI%C3%93_PRESSU_PARTI_2019_PALAM%C3%93S.NE%C3%92POLIS.pdf",
+                    "url": "https://palamos-decidim.ddgi.cat/uploads/decidim/attachment/file/23/INFORME_DE_RESULTATS_TALLER_PRIORITZACI%C3%93_PRESSU_PARTI_2019_PALAM%C3%93S.NE%C3%92POLIS.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 },
                 {
-                    "url": "/uploads/decidim/attachment/file/116/projectes_guanyadors.pdf",
+                    "url": "https://palamos-decidim.ddgi.cat/uploads/decidim/attachment/file/116/projectes_guanyadors.pdf",
                     "type": "pdf",
                     "thumbnail": null
                 }
